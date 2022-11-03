@@ -1,0 +1,4 @@
+Tag,Region,OS,ImageId,CreationDate
+sky:cpu-debian-10,,debian-10,projects/deeplearning-platform-release/global/images/common-cpu-v20220806,20220806
+sky:k80-debian-10,,debian-10,projects/deeplearning-platform-release/global/images/common-cu113-v20220701,20220701
+sky:gpu-debian-10,,debian-10,projects/deeplearning-platform-release/global/images/common-cu113-v20220806,20220806
