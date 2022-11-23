@@ -1,7 +1,7 @@
 name: "update-aws-catalog"
-on:
-  schedule:
-    - cron:  '* */24 * * *'    # At every 24th hour
+on: push
+  # schedule:
+  #   - cron:  '* */24 * * *'    # At every 24th hour
 
 jobs:
   update_aws_catalog:
