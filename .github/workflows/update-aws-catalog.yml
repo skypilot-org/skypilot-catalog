@@ -15,7 +15,7 @@ jobs:
       - name: Clone Catalog repo
         uses: actions/checkout@v3
         with:
-          path: catalog
+          path: catalogs
       - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
@@ -29,8 +29,8 @@ jobs:
       - name: Run fetch_aws
         run: |
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
-          mkdir -p catalog/$version
-          cd catalog/$version
+          mkdir -p catalogs/catalogs/$version
+          cd catalogs/catalogs/$version
           python -m sky.clouds.service_catalog.data_fetchers.fetch_aws
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -38,7 +38,7 @@ jobs:
 
       - name: Commit catalog
         run: |
-          cd catalog
+          cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
