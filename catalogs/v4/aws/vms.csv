@@ -78,7 +78,7 @@ a1.xlarge,,,4.0,8.0,,0.102,0.033400,us-west-2,us-west-2b
 a1.xlarge,,,4.0,8.0,,0.102,0.033400,us-west-2,us-west-2c
 a1.xlarge,,,4.0,8.0,,0.102,,us-west-2,us-west-2d
 c1.medium,,,2.0,1.69921875,,0.13,0.013000,us-east-1,us-east-1a
-c1.medium,,,2.0,1.69921875,,0.13,0.014200,us-east-1,us-east-1b
+c1.medium,,,2.0,1.69921875,,0.13,0.013900,us-east-1,us-east-1b
 c1.medium,,,2.0,1.69921875,,0.13,0.018300,us-east-1,us-east-1c
 c1.medium,,,2.0,1.69921875,,0.13,0.020200,us-east-1,us-east-1d
 c1.medium,,,2.0,1.69921875,,0.13,,us-east-1,us-east-1e
@@ -387,7 +387,7 @@ c5a.12xlarge,,,48.0,96.0,,1.848,0.877500,us-west-2,us-west-2b
 c5a.12xlarge,,,48.0,96.0,,1.848,0.772700,us-west-2,us-west-2c
 c5a.12xlarge,,,48.0,96.0,,1.848,0.875100,us-west-2,us-west-2d
 c5a.16xlarge,,,64.0,128.0,,2.464,1.036400,us-east-1,us-east-1a
-c5a.16xlarge,,,64.0,128.0,,2.464,1.077000,us-east-1,us-east-1b
+c5a.16xlarge,,,64.0,128.0,,2.464,1.110200,us-east-1,us-east-1b
 c5a.16xlarge,,,64.0,128.0,,2.464,1.066600,us-east-1,us-east-1c
 c5a.16xlarge,,,64.0,128.0,,2.464,1.166100,us-east-1,us-east-1d
 c5a.16xlarge,,,64.0,128.0,,2.464,,us-east-1,us-east-1e
@@ -408,7 +408,7 @@ c5a.24xlarge,,,96.0,192.0,,3.696,1.580000,us-east-1,us-east-1d
 c5a.24xlarge,,,96.0,192.0,,3.696,,us-east-1,us-east-1e
 c5a.24xlarge,,,96.0,192.0,,3.696,1.554600,us-east-1,us-east-1f
 c5a.24xlarge,,,96.0,192.0,,3.696,0.921600,us-east-2,us-east-2a
-c5a.24xlarge,,,96.0,192.0,,3.696,0.979900,us-east-2,us-east-2b
+c5a.24xlarge,,,96.0,192.0,,3.696,0.979300,us-east-2,us-east-2b
 c5a.24xlarge,,,96.0,192.0,,3.696,0.915100,us-east-2,us-east-2c
 c5a.24xlarge,,,96.0,192.0,,4.56,1.497200,us-west-1,us-west-1a
 c5a.24xlarge,,,96.0,192.0,,4.56,1.477100,us-west-1,us-west-1c
@@ -425,7 +425,7 @@ c5a.2xlarge,,,8.0,16.0,,0.308,0.177300,us-east-1,us-east-1f
 c5a.2xlarge,,,8.0,16.0,,0.308,0.095300,us-east-2,us-east-2a
 c5a.2xlarge,,,8.0,16.0,,0.308,0.094400,us-east-2,us-east-2b
 c5a.2xlarge,,,8.0,16.0,,0.308,0.092300,us-east-2,us-east-2c
-c5a.2xlarge,,,8.0,16.0,,0.38,0.135200,us-west-1,us-west-1a
+c5a.2xlarge,,,8.0,16.0,,0.38,0.135600,us-west-1,us-west-1a
 c5a.2xlarge,,,8.0,16.0,,0.38,0.127700,us-west-1,us-west-1c
 c5a.2xlarge,,,8.0,16.0,,0.308,0.160500,us-west-2,us-west-2a
 c5a.2xlarge,,,8.0,16.0,,0.308,0.152600,us-west-2,us-west-2b
@@ -520,7 +520,7 @@ c5ad.16xlarge,,,64.0,128.0,,2.752,1.469200,us-west-2,us-west-2d
 c5ad.24xlarge,,,96.0,192.0,,4.128,1.592700,us-east-1,us-east-1a
 c5ad.24xlarge,,,96.0,192.0,,4.128,1.554600,us-east-1,us-east-1b
 c5ad.24xlarge,,,96.0,192.0,,4.128,1.554600,us-east-1,us-east-1c
-c5ad.24xlarge,,,96.0,192.0,,4.128,1.622100,us-east-1,us-east-1d
+c5ad.24xlarge,,,96.0,192.0,,4.128,1.619300,us-east-1,us-east-1d
 c5ad.24xlarge,,,96.0,192.0,,4.128,,us-east-1,us-east-1e
 c5ad.24xlarge,,,96.0,192.0,,4.128,1.583000,us-east-1,us-east-1f
 c5ad.24xlarge,,,96.0,192.0,,4.128,1.140200,us-east-2,us-east-2a
@@ -556,10 +556,10 @@ c5ad.4xlarge,,,16.0,32.0,,0.688,0.390700,us-west-2,us-west-2a
 c5ad.4xlarge,,,16.0,32.0,,0.688,0.349800,us-west-2,us-west-2b
 c5ad.4xlarge,,,16.0,32.0,,0.688,,us-west-2,us-west-2c
 c5ad.4xlarge,,,16.0,32.0,,0.688,0.270700,us-west-2,us-west-2d
-c5ad.8xlarge,,,32.0,64.0,,1.376,0.761300,us-east-1,us-east-1a
+c5ad.8xlarge,,,32.0,64.0,,1.376,0.757100,us-east-1,us-east-1a
 c5ad.8xlarge,,,32.0,64.0,,1.376,0.767200,us-east-1,us-east-1b
 c5ad.8xlarge,,,32.0,64.0,,1.376,0.905600,us-east-1,us-east-1c
-c5ad.8xlarge,,,32.0,64.0,,1.376,0.784200,us-east-1,us-east-1d
+c5ad.8xlarge,,,32.0,64.0,,1.376,0.783200,us-east-1,us-east-1d
 c5ad.8xlarge,,,32.0,64.0,,1.376,,us-east-1,us-east-1e
 c5ad.8xlarge,,,32.0,64.0,,1.376,0.831300,us-east-1,us-east-1f
 c5ad.8xlarge,,,32.0,64.0,,1.376,0.384900,us-east-2,us-east-2a
@@ -595,7 +595,7 @@ c5ad.xlarge,,,4.0,8.0,,0.172,0.065900,us-west-2,us-west-2a
 c5ad.xlarge,,,4.0,8.0,,0.172,0.064600,us-west-2,us-west-2b
 c5ad.xlarge,,,4.0,8.0,,0.172,,us-west-2,us-west-2c
 c5ad.xlarge,,,4.0,8.0,,0.172,0.064400,us-west-2,us-west-2d
-c5d.12xlarge,,,48.0,96.0,,2.304,1.204900,us-east-1,us-east-1a
+c5d.12xlarge,,,48.0,96.0,,2.304,1.225800,us-east-1,us-east-1a
 c5d.12xlarge,,,48.0,96.0,,2.304,1.225400,us-east-1,us-east-1b
 c5d.12xlarge,,,48.0,96.0,,2.304,1.039900,us-east-1,us-east-1c
 c5d.12xlarge,,,48.0,96.0,,2.304,,us-east-1,us-east-1d
@@ -618,7 +618,7 @@ c5d.18xlarge,,,72.0,144.0,,3.456,,us-east-1,us-east-1e
 c5d.18xlarge,,,72.0,144.0,,3.456,1.210600,us-east-1,us-east-1f
 c5d.18xlarge,,,72.0,144.0,,3.456,0.736800,us-east-2,us-east-2a
 c5d.18xlarge,,,72.0,144.0,,3.456,0.810200,us-east-2,us-east-2b
-c5d.18xlarge,,,72.0,144.0,,3.456,0.813400,us-east-2,us-east-2c
+c5d.18xlarge,,,72.0,144.0,,3.456,0.821500,us-east-2,us-east-2c
 c5d.18xlarge,,,72.0,144.0,,4.32,1.158400,us-west-1,us-west-1a
 c5d.18xlarge,,,72.0,144.0,,4.32,1.107800,us-west-1,us-west-1c
 c5d.18xlarge,,,72.0,144.0,,3.456,1.545400,us-west-2,us-west-2a
@@ -715,7 +715,7 @@ c5d.metal,,,96.0,192.0,,4.608,1.651700,us-west-2,us-west-2a
 c5d.metal,,,96.0,192.0,,4.608,1.597400,us-west-2,us-west-2b
 c5d.metal,,,96.0,192.0,,4.608,1.858200,us-west-2,us-west-2c
 c5d.metal,,,96.0,192.0,,4.608,1.545400,us-west-2,us-west-2d
-c5d.xlarge,,,4.0,8.0,,0.192,0.116300,us-east-1,us-east-1a
+c5d.xlarge,,,4.0,8.0,,0.192,0.116100,us-east-1,us-east-1a
 c5d.xlarge,,,4.0,8.0,,0.192,0.098900,us-east-1,us-east-1b
 c5d.xlarge,,,4.0,8.0,,0.192,0.090400,us-east-1,us-east-1c
 c5d.xlarge,,,4.0,8.0,,0.192,0.085900,us-east-1,us-east-1d
@@ -776,7 +776,7 @@ c5n.4xlarge,,,16.0,42.0,,0.864,0.341800,us-west-2,us-west-2b
 c5n.4xlarge,,,16.0,42.0,,0.864,0.351300,us-west-2,us-west-2c
 c5n.4xlarge,,,16.0,42.0,,0.864,0.257600,us-west-2,us-west-2d
 c5n.9xlarge,,,36.0,96.0,,1.944,0.810100,us-east-1,us-east-1a
-c5n.9xlarge,,,36.0,96.0,,1.944,0.909700,us-east-1,us-east-1b
+c5n.9xlarge,,,36.0,96.0,,1.944,0.918600,us-east-1,us-east-1b
 c5n.9xlarge,,,36.0,96.0,,1.944,0.795800,us-east-1,us-east-1c
 c5n.9xlarge,,,36.0,96.0,,1.944,0.882100,us-east-1,us-east-1d
 c5n.9xlarge,,,36.0,96.0,,1.944,,us-east-1,us-east-1e
@@ -851,7 +851,7 @@ c6a.12xlarge,,,48.0,96.0,,1.836,0.811300,us-west-2,us-west-2d
 c6a.16xlarge,,,64.0,128.0,,2.448,1.103000,us-east-1,us-east-1a
 c6a.16xlarge,,,64.0,128.0,,2.448,1.384900,us-east-1,us-east-1b
 c6a.16xlarge,,,64.0,128.0,,2.448,1.326200,us-east-1,us-east-1c
-c6a.16xlarge,,,64.0,128.0,,2.448,1.088200,us-east-1,us-east-1d
+c6a.16xlarge,,,64.0,128.0,,2.448,1.103700,us-east-1,us-east-1d
 c6a.16xlarge,,,64.0,128.0,,2.448,,us-east-1,us-east-1e
 c6a.16xlarge,,,64.0,128.0,,2.448,1.373700,us-east-1,us-east-1f
 c6a.16xlarge,,,64.0,128.0,,2.448,0.668100,us-east-2,us-east-2a
@@ -1129,7 +1129,7 @@ c6gd.12xlarge,,,48.0,96.0,,1.8432,0.814100,us-west-2,us-west-2b
 c6gd.12xlarge,,,48.0,96.0,,1.8432,0.811300,us-west-2,us-west-2c
 c6gd.12xlarge,,,48.0,96.0,,1.8432,0.811300,us-west-2,us-west-2d
 c6gd.16xlarge,,,64.0,128.0,,2.4576,1.089900,us-east-1,us-east-1a
-c6gd.16xlarge,,,64.0,128.0,,2.4576,1.334500,us-east-1,us-east-1b
+c6gd.16xlarge,,,64.0,128.0,,2.4576,1.334700,us-east-1,us-east-1b
 c6gd.16xlarge,,,64.0,128.0,,2.4576,1.088200,us-east-1,us-east-1c
 c6gd.16xlarge,,,64.0,128.0,,2.4576,1.088200,us-east-1,us-east-1d
 c6gd.16xlarge,,,64.0,128.0,,2.4576,,us-east-1,us-east-1e
@@ -1190,7 +1190,7 @@ c6gd.8xlarge,,,32.0,64.0,,1.2288,0.540900,us-west-2,us-west-2c
 c6gd.8xlarge,,,32.0,64.0,,1.2288,0.540900,us-west-2,us-west-2d
 c6gd.large,,,2.0,4.0,,0.0768,0.034000,us-east-1,us-east-1a
 c6gd.large,,,2.0,4.0,,0.0768,0.035100,us-east-1,us-east-1b
-c6gd.large,,,2.0,4.0,,0.0768,0.036300,us-east-1,us-east-1c
+c6gd.large,,,2.0,4.0,,0.0768,0.036400,us-east-1,us-east-1c
 c6gd.large,,,2.0,4.0,,0.0768,0.034000,us-east-1,us-east-1d
 c6gd.large,,,2.0,4.0,,0.0768,,us-east-1,us-east-1e
 c6gd.large,,,2.0,4.0,,0.0768,0.034000,us-east-1,us-east-1f
@@ -1496,7 +1496,7 @@ c6i.metal,,,128.0,256.0,,5.44,,us-east-1,us-east-1e
 c6i.metal,,,128.0,256.0,,5.44,2.185700,us-east-1,us-east-1f
 c6i.metal,,,128.0,256.0,,5.44,1.296500,us-east-2,us-east-2a
 c6i.metal,,,128.0,256.0,,5.44,1.333500,us-east-2,us-east-2b
-c6i.metal,,,128.0,256.0,,5.44,1.713800,us-east-2,us-east-2c
+c6i.metal,,,128.0,256.0,,5.44,1.721200,us-east-2,us-east-2c
 c6i.metal,,,128.0,256.0,,6.784,2.067900,us-west-1,us-west-1a
 c6i.metal,,,128.0,256.0,,6.784,2.067900,us-west-1,us-west-1c
 c6i.metal,,,128.0,256.0,,5.44,2.163500,us-west-2,us-west-2a
@@ -1504,7 +1504,7 @@ c6i.metal,,,128.0,256.0,,5.44,2.163500,us-west-2,us-west-2b
 c6i.metal,,,128.0,256.0,,5.44,2.186400,us-west-2,us-west-2c
 c6i.metal,,,128.0,256.0,,5.44,2.163500,us-west-2,us-west-2d
 c6i.xlarge,,,4.0,8.0,,0.17,0.090300,us-east-1,us-east-1a
-c6i.xlarge,,,4.0,8.0,,0.17,0.088800,us-east-1,us-east-1b
+c6i.xlarge,,,4.0,8.0,,0.17,0.089000,us-east-1,us-east-1b
 c6i.xlarge,,,4.0,8.0,,0.17,0.085000,us-east-1,us-east-1c
 c6i.xlarge,,,4.0,8.0,,0.17,0.075400,us-east-1,us-east-1d
 c6i.xlarge,,,4.0,8.0,,0.17,,us-east-1,us-east-1e
@@ -1984,7 +1984,7 @@ f1.4xlarge,Virtex UltraScale (VU9P),2.0,16.0,244.0,,3.3,0.990000,us-west-2,us-we
 f1.4xlarge,Virtex UltraScale (VU9P),2.0,16.0,244.0,,3.3,0.990000,us-west-2,us-west-2b
 f1.4xlarge,Virtex UltraScale (VU9P),2.0,16.0,244.0,,3.3,0.990000,us-west-2,us-west-2c
 f1.4xlarge,Virtex UltraScale (VU9P),2.0,16.0,244.0,,3.3,,us-west-2,us-west-2d
-g2.2xlarge,K520,1.0,8.0,15.0,"{'Gpus': [{'Name': 'K520', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 4096}}], 'TotalGpuMemoryInMiB': 4096}",0.65,0.229000,us-east-1,us-east-1a
+g2.2xlarge,K520,1.0,8.0,15.0,"{'Gpus': [{'Name': 'K520', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 4096}}], 'TotalGpuMemoryInMiB': 4096}",0.65,0.229300,us-east-1,us-east-1a
 g2.2xlarge,K520,1.0,8.0,15.0,"{'Gpus': [{'Name': 'K520', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 4096}}], 'TotalGpuMemoryInMiB': 4096}",0.65,0.650000,us-east-1,us-east-1b
 g2.2xlarge,K520,1.0,8.0,15.0,"{'Gpus': [{'Name': 'K520', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 4096}}], 'TotalGpuMemoryInMiB': 4096}",0.65,0.251800,us-east-1,us-east-1c
 g2.2xlarge,K520,1.0,8.0,15.0,"{'Gpus': [{'Name': 'K520', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 4096}}], 'TotalGpuMemoryInMiB': 4096}",0.65,,us-east-1,us-east-1d
@@ -2212,7 +2212,7 @@ g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA',
 g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",7.824,3.169600,us-east-1,us-east-1d
 g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",7.824,,us-east-1,us-east-1e
 g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",7.824,2.347200,us-east-1,us-east-1f
-g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",7.824,2.547300,us-east-2,us-east-2a
+g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",7.824,2.544600,us-east-2,us-east-2a
 g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",7.824,2.500900,us-east-2,us-east-2b
 g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",7.824,3.217400,us-east-2,us-east-2c
 g4dn.metal,T4,8.0,96.0,384.0,"{'Gpus': [{'Name': 'T4', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",9.389,2.816700,us-west-1,us-west-1a
@@ -2955,7 +2955,7 @@ inf1.2xlarge,Inferentia,1.0,8.0,16.0,,0.362,0.108600,us-west-2,us-west-2b
 inf1.2xlarge,Inferentia,1.0,8.0,16.0,,0.362,0.122100,us-west-2,us-west-2c
 inf1.2xlarge,Inferentia,1.0,8.0,16.0,,0.362,0.108600,us-west-2,us-west-2d
 inf1.6xlarge,Inferentia,4.0,24.0,48.0,,1.18,0.356900,us-east-1,us-east-1a
-inf1.6xlarge,Inferentia,4.0,24.0,48.0,,1.18,0.371600,us-east-1,us-east-1b
+inf1.6xlarge,Inferentia,4.0,24.0,48.0,,1.18,0.377100,us-east-1,us-east-1b
 inf1.6xlarge,Inferentia,4.0,24.0,48.0,,1.18,0.410800,us-east-1,us-east-1c
 inf1.6xlarge,Inferentia,4.0,24.0,48.0,,1.18,0.354000,us-east-1,us-east-1d
 inf1.6xlarge,Inferentia,4.0,24.0,48.0,,1.18,,us-east-1,us-east-1e
@@ -3136,7 +3136,7 @@ m2.4xlarge,,,8.0,68.3994140625,,0.98,0.980000,us-west-2,us-west-2c
 m2.4xlarge,,,8.0,68.3994140625,,0.98,,us-west-2,us-west-2d
 m2.xlarge,,,2.0,17.099609375,,0.245,0.089800,us-east-1,us-east-1a
 m2.xlarge,,,2.0,17.099609375,,0.245,0.110900,us-east-1,us-east-1b
-m2.xlarge,,,2.0,17.099609375,,0.245,0.073600,us-east-1,us-east-1c
+m2.xlarge,,,2.0,17.099609375,,0.245,0.072300,us-east-1,us-east-1c
 m2.xlarge,,,2.0,17.099609375,,0.245,0.245000,us-east-1,us-east-1d
 m2.xlarge,,,2.0,17.099609375,,0.245,,us-east-1,us-east-1e
 m2.xlarge,,,2.0,17.099609375,,0.245,,us-east-1,us-east-1f
@@ -3212,7 +3212,7 @@ m4.10xlarge,,,40.0,160.0,,2.0,,us-west-2,us-west-2d
 m4.16xlarge,,,64.0,256.0,,3.2,1.342200,us-east-1,us-east-1a
 m4.16xlarge,,,64.0,256.0,,3.2,1.361100,us-east-1,us-east-1b
 m4.16xlarge,,,64.0,256.0,,3.2,1.267600,us-east-1,us-east-1c
-m4.16xlarge,,,64.0,256.0,,3.2,1.232700,us-east-1,us-east-1d
+m4.16xlarge,,,64.0,256.0,,3.2,1.229500,us-east-1,us-east-1d
 m4.16xlarge,,,64.0,256.0,,3.2,1.232300,us-east-1,us-east-1e
 m4.16xlarge,,,64.0,256.0,,3.2,1.041500,us-east-1,us-east-1f
 m4.16xlarge,,,64.0,256.0,,3.2,0.623100,us-east-2,us-east-2a
@@ -3226,8 +3226,8 @@ m4.16xlarge,,,64.0,256.0,,3.2,1.319700,us-west-2,us-west-2c
 m4.16xlarge,,,64.0,256.0,,3.2,,us-west-2,us-west-2d
 m4.2xlarge,,,8.0,32.0,,0.4,0.208500,us-east-1,us-east-1a
 m4.2xlarge,,,8.0,32.0,,0.4,0.219800,us-east-1,us-east-1b
-m4.2xlarge,,,8.0,32.0,,0.4,0.230300,us-east-1,us-east-1c
-m4.2xlarge,,,8.0,32.0,,0.4,0.206800,us-east-1,us-east-1d
+m4.2xlarge,,,8.0,32.0,,0.4,0.228600,us-east-1,us-east-1c
+m4.2xlarge,,,8.0,32.0,,0.4,0.205000,us-east-1,us-east-1d
 m4.2xlarge,,,8.0,32.0,,0.4,0.204100,us-east-1,us-east-1e
 m4.2xlarge,,,8.0,32.0,,0.4,0.203300,us-east-1,us-east-1f
 m4.2xlarge,,,8.0,32.0,,0.4,0.084600,us-east-2,us-east-2a
@@ -3390,7 +3390,7 @@ m5.large,,,2.0,8.0,,0.096,0.036900,us-west-2,us-west-2b
 m5.large,,,2.0,8.0,,0.096,0.034600,us-west-2,us-west-2c
 m5.large,,,2.0,8.0,,0.096,0.035000,us-west-2,us-west-2d
 m5.metal,,,96.0,384.0,,4.608,1.667400,us-east-1,us-east-1a
-m5.metal,,,96.0,384.0,,4.608,1.673000,us-east-1,us-east-1b
+m5.metal,,,96.0,384.0,,4.608,1.669000,us-east-1,us-east-1b
 m5.metal,,,96.0,384.0,,4.608,1.699400,us-east-1,us-east-1c
 m5.metal,,,96.0,384.0,,4.608,1.835800,us-east-1,us-east-1d
 m5.metal,,,96.0,384.0,,4.608,,us-east-1,us-east-1e
@@ -3440,7 +3440,7 @@ m5a.16xlarge,,,64.0,256.0,,2.752,1.280800,us-east-1,us-east-1c
 m5a.16xlarge,,,64.0,256.0,,2.752,1.425500,us-east-1,us-east-1d
 m5a.16xlarge,,,64.0,256.0,,2.752,,us-east-1,us-east-1e
 m5a.16xlarge,,,64.0,256.0,,2.752,1.412100,us-east-1,us-east-1f
-m5a.16xlarge,,,64.0,256.0,,2.752,0.727400,us-east-2,us-east-2a
+m5a.16xlarge,,,64.0,256.0,,2.752,0.726300,us-east-2,us-east-2a
 m5a.16xlarge,,,64.0,256.0,,2.752,1.226500,us-east-2,us-east-2b
 m5a.16xlarge,,,64.0,256.0,,2.752,0.957000,us-east-2,us-east-2c
 m5a.16xlarge,,,64.0,256.0,,3.232,1.114200,us-west-1,us-west-1a
@@ -3485,7 +3485,7 @@ m5a.4xlarge,,,16.0,64.0,,0.688,0.464400,us-east-1,us-east-1c
 m5a.4xlarge,,,16.0,64.0,,0.688,0.371600,us-east-1,us-east-1d
 m5a.4xlarge,,,16.0,64.0,,0.688,,us-east-1,us-east-1e
 m5a.4xlarge,,,16.0,64.0,,0.688,0.393300,us-east-1,us-east-1f
-m5a.4xlarge,,,16.0,64.0,,0.688,0.319800,us-east-2,us-east-2a
+m5a.4xlarge,,,16.0,64.0,,0.688,0.323500,us-east-2,us-east-2a
 m5a.4xlarge,,,16.0,64.0,,0.688,0.365600,us-east-2,us-east-2b
 m5a.4xlarge,,,16.0,64.0,,0.688,0.329100,us-east-2,us-east-2c
 m5a.4xlarge,,,16.0,64.0,,0.808,0.335600,us-west-1,us-west-1a
@@ -3503,7 +3503,7 @@ m5a.8xlarge,,,32.0,128.0,,1.376,0.674600,us-east-1,us-east-1f
 m5a.8xlarge,,,32.0,128.0,,1.376,0.348300,us-east-2,us-east-2a
 m5a.8xlarge,,,32.0,128.0,,1.376,0.755400,us-east-2,us-east-2b
 m5a.8xlarge,,,32.0,128.0,,1.376,0.360600,us-east-2,us-east-2c
-m5a.8xlarge,,,32.0,128.0,,1.616,0.623600,us-west-1,us-west-1a
+m5a.8xlarge,,,32.0,128.0,,1.616,0.622800,us-west-1,us-west-1a
 m5a.8xlarge,,,32.0,128.0,,1.616,0.696800,us-west-1,us-west-1c
 m5a.8xlarge,,,32.0,128.0,,1.376,0.654700,us-west-2,us-west-2a
 m5a.8xlarge,,,32.0,128.0,,1.376,0.743800,us-west-2,us-west-2b
@@ -3619,11 +3619,11 @@ m5ad.8xlarge,,,32.0,128.0,,1.648,0.728100,us-east-1,us-east-1b
 m5ad.8xlarge,,,32.0,128.0,,1.648,0.796800,us-east-1,us-east-1c
 m5ad.8xlarge,,,32.0,128.0,,1.648,0.816900,us-east-1,us-east-1d
 m5ad.8xlarge,,,32.0,128.0,,1.648,,us-east-1,us-east-1e
-m5ad.8xlarge,,,32.0,128.0,,1.648,0.728000,us-east-1,us-east-1f
+m5ad.8xlarge,,,32.0,128.0,,1.648,0.730400,us-east-1,us-east-1f
 m5ad.8xlarge,,,32.0,128.0,,1.648,0.358300,us-east-2,us-east-2a
 m5ad.8xlarge,,,32.0,128.0,,1.648,0.412400,us-east-2,us-east-2b
-m5ad.8xlarge,,,32.0,128.0,,1.648,0.319700,us-east-2,us-east-2c
-m5ad.8xlarge,,,32.0,128.0,,1.952,1.592000,us-west-1,us-west-1a
+m5ad.8xlarge,,,32.0,128.0,,1.648,0.319400,us-east-2,us-east-2c
+m5ad.8xlarge,,,32.0,128.0,,1.952,1.597100,us-west-1,us-west-1a
 m5ad.8xlarge,,,32.0,128.0,,1.952,0.966600,us-west-1,us-west-1c
 m5ad.8xlarge,,,32.0,128.0,,1.648,0.620700,us-west-2,us-west-2a
 m5ad.8xlarge,,,32.0,128.0,,1.648,1.340000,us-west-2,us-west-2b
@@ -3739,7 +3739,7 @@ m5d.8xlarge,,,32.0,128.0,,1.808,0.758800,us-east-1,us-east-1b
 m5d.8xlarge,,,32.0,128.0,,1.808,0.838100,us-east-1,us-east-1c
 m5d.8xlarge,,,32.0,128.0,,1.808,0.642300,us-east-1,us-east-1d
 m5d.8xlarge,,,32.0,128.0,,1.808,,us-east-1,us-east-1e
-m5d.8xlarge,,,32.0,128.0,,1.808,0.673300,us-east-1,us-east-1f
+m5d.8xlarge,,,32.0,128.0,,1.808,0.671900,us-east-1,us-east-1f
 m5d.8xlarge,,,32.0,128.0,,1.808,0.362300,us-east-2,us-east-2a
 m5d.8xlarge,,,32.0,128.0,,1.808,0.436400,us-east-2,us-east-2b
 m5d.8xlarge,,,32.0,128.0,,1.808,0.426200,us-east-2,us-east-2c
@@ -3812,7 +3812,7 @@ m5dn.16xlarge,,,64.0,256.0,,4.352,1.088200,us-east-1,us-east-1b
 m5dn.16xlarge,,,64.0,256.0,,4.352,1.088200,us-east-1,us-east-1c
 m5dn.16xlarge,,,64.0,256.0,,4.352,1.088200,us-east-1,us-east-1d
 m5dn.16xlarge,,,64.0,256.0,,4.352,,us-east-1,us-east-1e
-m5dn.16xlarge,,,64.0,256.0,,4.352,1.262400,us-east-1,us-east-1f
+m5dn.16xlarge,,,64.0,256.0,,4.352,1.254700,us-east-1,us-east-1f
 m5dn.16xlarge,,,64.0,256.0,,4.352,0.638500,us-east-2,us-east-2a
 m5dn.16xlarge,,,64.0,256.0,,4.352,0.638500,us-east-2,us-east-2b
 m5dn.16xlarge,,,64.0,256.0,,4.352,0.638500,us-east-2,us-east-2c
@@ -3931,7 +3931,7 @@ m5n.16xlarge,,,64.0,256.0,,3.808,1.223900,us-east-1,us-east-1d
 m5n.16xlarge,,,64.0,256.0,,3.808,,us-east-1,us-east-1e
 m5n.16xlarge,,,64.0,256.0,,3.808,2.936200,us-east-1,us-east-1f
 m5n.16xlarge,,,64.0,256.0,,3.808,0.789700,us-east-2,us-east-2a
-m5n.16xlarge,,,64.0,256.0,,3.808,0.874900,us-east-2,us-east-2b
+m5n.16xlarge,,,64.0,256.0,,3.808,0.878600,us-east-2,us-east-2b
 m5n.16xlarge,,,64.0,256.0,,3.808,0.662700,us-east-2,us-east-2c
 m5n.16xlarge,,,64.0,256.0,,3.808,1.469300,us-west-2,us-west-2a
 m5n.16xlarge,,,64.0,256.0,,3.808,1.382400,us-west-2,us-west-2b
@@ -4058,15 +4058,15 @@ m5zn.2xlarge,,,8.0,32.0,,0.6607,0.182400,us-west-2,us-west-2a
 m5zn.2xlarge,,,8.0,32.0,,0.6607,0.159300,us-west-2,us-west-2b
 m5zn.2xlarge,,,8.0,32.0,,0.6607,0.163600,us-west-2,us-west-2c
 m5zn.2xlarge,,,8.0,32.0,,0.6607,,us-west-2,us-west-2d
-m5zn.3xlarge,,,12.0,48.0,,0.991,0.470500,us-east-1,us-east-1a
+m5zn.3xlarge,,,12.0,48.0,,0.991,0.479900,us-east-1,us-east-1a
 m5zn.3xlarge,,,12.0,48.0,,0.991,0.386100,us-east-1,us-east-1b
 m5zn.3xlarge,,,12.0,48.0,,0.991,0.276500,us-east-1,us-east-1c
 m5zn.3xlarge,,,12.0,48.0,,0.991,0.430600,us-east-1,us-east-1d
 m5zn.3xlarge,,,12.0,48.0,,0.991,,us-east-1,us-east-1e
 m5zn.3xlarge,,,12.0,48.0,,0.991,0.303100,us-east-1,us-east-1f
 m5zn.3xlarge,,,12.0,48.0,,0.991,0.139200,us-east-2,us-east-2a
-m5zn.3xlarge,,,12.0,48.0,,0.991,0.122300,us-east-2,us-east-2b
-m5zn.3xlarge,,,12.0,48.0,,0.991,0.129400,us-east-2,us-east-2c
+m5zn.3xlarge,,,12.0,48.0,,0.991,0.122400,us-east-2,us-east-2b
+m5zn.3xlarge,,,12.0,48.0,,0.991,0.129500,us-east-2,us-east-2c
 m5zn.3xlarge,,,12.0,48.0,,1.1562,0.246900,us-west-1,us-west-1a
 m5zn.3xlarge,,,12.0,48.0,,1.1562,0.193900,us-west-1,us-west-1c
 m5zn.3xlarge,,,12.0,48.0,,0.991,0.240900,us-west-2,us-west-2a
@@ -4172,7 +4172,7 @@ m6a.24xlarge,,,96.0,384.0,,4.1472,2.218500,us-west-2,us-west-2a
 m6a.24xlarge,,,96.0,384.0,,4.1472,1.898900,us-west-2,us-west-2b
 m6a.24xlarge,,,96.0,384.0,,4.1472,1.916200,us-west-2,us-west-2c
 m6a.24xlarge,,,96.0,384.0,,4.1472,,us-west-2,us-west-2d
-m6a.2xlarge,,,8.0,32.0,,0.3456,0.180700,us-east-1,us-east-1a
+m6a.2xlarge,,,8.0,32.0,,0.3456,0.180500,us-east-1,us-east-1a
 m6a.2xlarge,,,8.0,32.0,,0.3456,0.189800,us-east-1,us-east-1b
 m6a.2xlarge,,,8.0,32.0,,0.3456,0.232600,us-east-1,us-east-1c
 m6a.2xlarge,,,8.0,32.0,,0.3456,0.215700,us-east-1,us-east-1d
@@ -4211,7 +4211,7 @@ m6a.48xlarge,,,192.0,768.0,,8.2944,3.933200,us-west-2,us-west-2a
 m6a.48xlarge,,,192.0,768.0,,8.2944,4.183600,us-west-2,us-west-2b
 m6a.48xlarge,,,192.0,768.0,,8.2944,3.770400,us-west-2,us-west-2c
 m6a.48xlarge,,,192.0,768.0,,8.2944,,us-west-2,us-west-2d
-m6a.4xlarge,,,16.0,64.0,,0.6912,0.478600,us-east-1,us-east-1a
+m6a.4xlarge,,,16.0,64.0,,0.6912,0.477300,us-east-1,us-east-1a
 m6a.4xlarge,,,16.0,64.0,,0.6912,0.447500,us-east-1,us-east-1b
 m6a.4xlarge,,,16.0,64.0,,0.6912,0.467700,us-east-1,us-east-1c
 m6a.4xlarge,,,16.0,64.0,,0.6912,0.483300,us-east-1,us-east-1d
@@ -4331,7 +4331,7 @@ m6g.4xlarge,,,16.0,64.0,,0.616,0.211500,us-east-2,us-east-2a
 m6g.4xlarge,,,16.0,64.0,,0.616,0.417100,us-east-2,us-east-2b
 m6g.4xlarge,,,16.0,64.0,,0.616,0.181600,us-east-2,us-east-2c
 m6g.4xlarge,,,16.0,64.0,,0.7168,0.271400,us-west-1,us-west-1a
-m6g.4xlarge,,,16.0,64.0,,0.7168,0.277400,us-west-1,us-west-1c
+m6g.4xlarge,,,16.0,64.0,,0.7168,0.277500,us-west-1,us-west-1c
 m6g.4xlarge,,,16.0,64.0,,0.616,0.284000,us-west-2,us-west-2a
 m6g.4xlarge,,,16.0,64.0,,0.616,0.285700,us-west-2,us-west-2b
 m6g.4xlarge,,,16.0,64.0,,0.616,0.290400,us-west-2,us-west-2c
@@ -4371,7 +4371,7 @@ m6g.medium,,,1.0,4.0,,0.0385,0.018900,us-east-1,us-east-1b
 m6g.medium,,,1.0,4.0,,0.0385,0.019600,us-east-1,us-east-1c
 m6g.medium,,,1.0,4.0,,0.0385,0.018600,us-east-1,us-east-1d
 m6g.medium,,,1.0,4.0,,0.0385,,us-east-1,us-east-1e
-m6g.medium,,,1.0,4.0,,0.0385,0.018300,us-east-1,us-east-1f
+m6g.medium,,,1.0,4.0,,0.0385,0.018500,us-east-1,us-east-1f
 m6g.medium,,,1.0,4.0,,0.0385,0.010800,us-east-2,us-east-2a
 m6g.medium,,,1.0,4.0,,0.0385,0.010500,us-east-2,us-east-2b
 m6g.medium,,,1.0,4.0,,0.0385,0.010500,us-east-2,us-east-2c
@@ -4481,7 +4481,7 @@ m6gd.8xlarge,,,32.0,128.0,,1.4464,0.335200,us-east-2,us-east-2a
 m6gd.8xlarge,,,32.0,128.0,,1.4464,0.335200,us-east-2,us-east-2b
 m6gd.8xlarge,,,32.0,128.0,,1.4464,0.335200,us-east-2,us-east-2c
 m6gd.8xlarge,,,32.0,128.0,,1.696,0.552200,us-west-1,us-west-1a
-m6gd.8xlarge,,,32.0,128.0,,1.696,0.655100,us-west-1,us-west-1c
+m6gd.8xlarge,,,32.0,128.0,,1.696,0.657100,us-west-1,us-west-1c
 m6gd.8xlarge,,,32.0,128.0,,1.4464,0.567900,us-west-2,us-west-2a
 m6gd.8xlarge,,,32.0,128.0,,1.4464,0.567900,us-west-2,us-west-2b
 m6gd.8xlarge,,,32.0,128.0,,1.4464,0.575200,us-west-2,us-west-2c
@@ -4622,7 +4622,7 @@ m6i.32xlarge,,,128.0,512.0,,6.144,2.693400,us-west-2,us-west-2b
 m6i.32xlarge,,,128.0,512.0,,6.144,2.345400,us-west-2,us-west-2c
 m6i.32xlarge,,,128.0,512.0,,6.144,2.271700,us-west-2,us-west-2d
 m6i.4xlarge,,,16.0,64.0,,0.768,0.409000,us-east-1,us-east-1a
-m6i.4xlarge,,,16.0,64.0,,0.768,0.406500,us-east-1,us-east-1b
+m6i.4xlarge,,,16.0,64.0,,0.768,0.406300,us-east-1,us-east-1b
 m6i.4xlarge,,,16.0,64.0,,0.768,0.397200,us-east-1,us-east-1c
 m6i.4xlarge,,,16.0,64.0,,0.768,0.383900,us-east-1,us-east-1d
 m6i.4xlarge,,,16.0,64.0,,0.768,,us-east-1,us-east-1e
@@ -4644,9 +4644,9 @@ m6i.8xlarge,,,32.0,128.0,,1.536,,us-east-1,us-east-1e
 m6i.8xlarge,,,32.0,128.0,,1.536,0.760800,us-east-1,us-east-1f
 m6i.8xlarge,,,32.0,128.0,,1.536,0.468100,us-east-2,us-east-2a
 m6i.8xlarge,,,32.0,128.0,,1.536,0.525600,us-east-2,us-east-2b
-m6i.8xlarge,,,32.0,128.0,,1.536,0.452300,us-east-2,us-east-2c
+m6i.8xlarge,,,32.0,128.0,,1.536,0.455900,us-east-2,us-east-2c
 m6i.8xlarge,,,32.0,128.0,,1.792,0.733100,us-west-1,us-west-1a
-m6i.8xlarge,,,32.0,128.0,,1.792,0.674100,us-west-1,us-west-1c
+m6i.8xlarge,,,32.0,128.0,,1.792,0.670800,us-west-1,us-west-1c
 m6i.8xlarge,,,32.0,128.0,,1.536,0.636200,us-west-2,us-west-2a
 m6i.8xlarge,,,32.0,128.0,,1.536,0.599200,us-west-2,us-west-2b
 m6i.8xlarge,,,32.0,128.0,,1.536,0.581200,us-west-2,us-west-2c
@@ -4920,7 +4920,7 @@ p3.2xlarge,V100,1.0,8.0,61.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA
 p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,4.128800,us-east-1,us-east-1a
 p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,,us-east-1,us-east-1b
 p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,3.710500,us-east-1,us-east-1c
-p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,4.106400,us-east-1,us-east-1d
+p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,4.086500,us-east-1,us-east-1d
 p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,,us-east-1,us-east-1e
 p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,3.672000,us-east-1,us-east-1f
 p3.8xlarge,V100,4.0,32.0,244.0,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",12.24,3.672000,us-east-2,us-east-2a
@@ -5205,14 +5205,14 @@ r5.4xlarge,,,16.0,128.0,,1.008,0.349700,us-west-2,us-west-2c
 r5.4xlarge,,,16.0,128.0,,1.008,0.328300,us-west-2,us-west-2d
 r5.8xlarge,,,32.0,256.0,,2.016,0.628100,us-east-1,us-east-1a
 r5.8xlarge,,,32.0,256.0,,2.016,0.677400,us-east-1,us-east-1b
-r5.8xlarge,,,32.0,256.0,,2.016,0.765700,us-east-1,us-east-1c
+r5.8xlarge,,,32.0,256.0,,2.016,0.762000,us-east-1,us-east-1c
 r5.8xlarge,,,32.0,256.0,,2.016,0.786400,us-east-1,us-east-1d
 r5.8xlarge,,,32.0,256.0,,2.016,,us-east-1,us-east-1e
 r5.8xlarge,,,32.0,256.0,,2.016,0.582000,us-east-1,us-east-1f
 r5.8xlarge,,,32.0,256.0,,2.016,0.419900,us-east-2,us-east-2a
 r5.8xlarge,,,32.0,256.0,,2.016,0.400800,us-east-2,us-east-2b
 r5.8xlarge,,,32.0,256.0,,2.016,0.452300,us-east-2,us-east-2c
-r5.8xlarge,,,32.0,256.0,,2.24,0.599600,us-west-1,us-west-1a
+r5.8xlarge,,,32.0,256.0,,2.24,0.597600,us-west-1,us-west-1a
 r5.8xlarge,,,32.0,256.0,,2.24,0.541600,us-west-1,us-west-1c
 r5.8xlarge,,,32.0,256.0,,2.016,0.620800,us-west-2,us-west-2a
 r5.8xlarge,,,32.0,256.0,,2.016,0.579200,us-west-2,us-west-2b
@@ -5264,7 +5264,7 @@ r5.xlarge,,,4.0,32.0,,0.252,0.071000,us-west-2,us-west-2b
 r5.xlarge,,,4.0,32.0,,0.252,0.071400,us-west-2,us-west-2c
 r5.xlarge,,,4.0,32.0,,0.252,0.070800,us-west-2,us-west-2d
 r5a.12xlarge,,,48.0,384.0,,2.712,0.999400,us-east-1,us-east-1a
-r5a.12xlarge,,,48.0,384.0,,2.712,0.981900,us-east-1,us-east-1b
+r5a.12xlarge,,,48.0,384.0,,2.712,0.981100,us-east-1,us-east-1b
 r5a.12xlarge,,,48.0,384.0,,2.712,1.086100,us-east-1,us-east-1c
 r5a.12xlarge,,,48.0,384.0,,2.712,0.856400,us-east-1,us-east-1d
 r5a.12xlarge,,,48.0,384.0,,2.712,,us-east-1,us-east-1e
@@ -5445,7 +5445,7 @@ r5ad.2xlarge,,,8.0,64.0,,0.524,0.273200,us-west-2,us-west-2c
 r5ad.2xlarge,,,8.0,64.0,,0.524,0.167000,us-west-2,us-west-2d
 r5ad.4xlarge,,,16.0,128.0,,1.048,0.473100,us-east-1,us-east-1a
 r5ad.4xlarge,,,16.0,128.0,,1.048,0.497100,us-east-1,us-east-1b
-r5ad.4xlarge,,,16.0,128.0,,1.048,0.506600,us-east-1,us-east-1c
+r5ad.4xlarge,,,16.0,128.0,,1.048,0.499700,us-east-1,us-east-1c
 r5ad.4xlarge,,,16.0,128.0,,1.048,0.522800,us-east-1,us-east-1d
 r5ad.4xlarge,,,16.0,128.0,,1.048,,us-east-1,us-east-1e
 r5ad.4xlarge,,,16.0,128.0,,1.048,0.506200,us-east-1,us-east-1f
@@ -5503,7 +5503,7 @@ r5ad.xlarge,,,4.0,32.0,,0.262,0.147300,us-west-2,us-west-2a
 r5ad.xlarge,,,4.0,32.0,,0.262,0.088500,us-west-2,us-west-2b
 r5ad.xlarge,,,4.0,32.0,,0.262,0.076400,us-west-2,us-west-2c
 r5ad.xlarge,,,4.0,32.0,,0.262,0.070800,us-west-2,us-west-2d
-r5b.12xlarge,,,48.0,384.0,,3.576,0.872600,us-east-1,us-east-1a
+r5b.12xlarge,,,48.0,384.0,,3.576,0.869600,us-east-1,us-east-1a
 r5b.12xlarge,,,48.0,384.0,,3.576,1.071500,us-east-1,us-east-1b
 r5b.12xlarge,,,48.0,384.0,,3.576,1.995400,us-east-1,us-east-1c
 r5b.12xlarge,,,48.0,384.0,,3.576,0.856400,us-east-1,us-east-1d
@@ -5609,7 +5609,7 @@ r5b.metal,,,96.0,768.0,,7.152,1.699900,us-west-2,us-west-2c
 r5b.metal,,,96.0,768.0,,7.152,,us-west-2,us-west-2d
 r5b.xlarge,,,4.0,32.0,,0.298,0.140600,us-east-1,us-east-1a
 r5b.xlarge,,,4.0,32.0,,0.298,0.176200,us-east-1,us-east-1b
-r5b.xlarge,,,4.0,32.0,,0.298,0.160200,us-east-1,us-east-1c
+r5b.xlarge,,,4.0,32.0,,0.298,0.158900,us-east-1,us-east-1c
 r5b.xlarge,,,4.0,32.0,,0.298,0.098200,us-east-1,us-east-1d
 r5b.xlarge,,,4.0,32.0,,0.298,,us-east-1,us-east-1e
 r5b.xlarge,,,4.0,32.0,,0.298,,us-east-1,us-east-1f
@@ -5667,7 +5667,7 @@ r5d.24xlarge,,,96.0,768.0,,6.912,1.894600,us-west-2,us-west-2c
 r5d.24xlarge,,,96.0,768.0,,6.912,1.699900,us-west-2,us-west-2d
 r5d.2xlarge,,,8.0,64.0,,0.576,0.292800,us-east-1,us-east-1a
 r5d.2xlarge,,,8.0,64.0,,0.576,0.334400,us-east-1,us-east-1b
-r5d.2xlarge,,,8.0,64.0,,0.576,0.261200,us-east-1,us-east-1c
+r5d.2xlarge,,,8.0,64.0,,0.576,0.260900,us-east-1,us-east-1c
 r5d.2xlarge,,,8.0,64.0,,0.576,0.284900,us-east-1,us-east-1d
 r5d.2xlarge,,,8.0,64.0,,0.576,,us-east-1,us-east-1e
 r5d.2xlarge,,,8.0,64.0,,0.576,0.180600,us-east-1,us-east-1f
@@ -5728,7 +5728,7 @@ r5d.large,,,2.0,16.0,,0.144,0.035600,us-west-2,us-west-2d
 r5d.metal,,,96.0,768.0,,6.912,1.928300,us-east-1,us-east-1a
 r5d.metal,,,96.0,768.0,,6.912,2.071400,us-east-1,us-east-1b
 r5d.metal,,,96.0,768.0,,6.912,2.249000,us-east-1,us-east-1c
-r5d.metal,,,96.0,768.0,,6.912,1.921800,us-east-1,us-east-1d
+r5d.metal,,,96.0,768.0,,6.912,1.922900,us-east-1,us-east-1d
 r5d.metal,,,96.0,768.0,,6.912,,us-east-1,us-east-1e
 r5d.metal,,,96.0,768.0,,6.912,1.710000,us-east-1,us-east-1f
 r5d.metal,,,96.0,768.0,,6.912,1.003400,us-east-2,us-east-2a
@@ -5836,7 +5836,7 @@ r5dn.8xlarge,,,32.0,256.0,,2.672,0.609400,us-west-2,us-west-2d
 r5dn.large,,,2.0,16.0,,0.167,0.036800,us-east-1,us-east-1a
 r5dn.large,,,2.0,16.0,,0.167,0.035600,us-east-1,us-east-1b
 r5dn.large,,,2.0,16.0,,0.167,0.037500,us-east-1,us-east-1c
-r5dn.large,,,2.0,16.0,,0.167,0.039300,us-east-1,us-east-1d
+r5dn.large,,,2.0,16.0,,0.167,0.039200,us-east-1,us-east-1d
 r5dn.large,,,2.0,16.0,,0.167,,us-east-1,us-east-1e
 r5dn.large,,,2.0,16.0,,0.167,0.035600,us-east-1,us-east-1f
 r5dn.large,,,2.0,16.0,,0.167,0.020900,us-east-2,us-east-2a
@@ -5948,7 +5948,7 @@ r5n.4xlarge,,,16.0,128.0,,1.192,0.392700,us-west-2,us-west-2b
 r5n.4xlarge,,,16.0,128.0,,1.192,0.526500,us-west-2,us-west-2c
 r5n.4xlarge,,,16.0,128.0,,1.192,,us-west-2,us-west-2d
 r5n.8xlarge,,,32.0,256.0,,2.384,1.157300,us-east-1,us-east-1a
-r5n.8xlarge,,,32.0,256.0,,2.384,0.965500,us-east-1,us-east-1b
+r5n.8xlarge,,,32.0,256.0,,2.384,0.950900,us-east-1,us-east-1b
 r5n.8xlarge,,,32.0,256.0,,2.384,1.160200,us-east-1,us-east-1c
 r5n.8xlarge,,,32.0,256.0,,2.384,1.055100,us-east-1,us-east-1d
 r5n.8xlarge,,,32.0,256.0,,2.384,,us-east-1,us-east-1e
@@ -6087,7 +6087,7 @@ r6a.48xlarge,,,192.0,1536.0,,10.8864,3.569800,us-west-2,us-west-2c
 r6a.48xlarge,,,192.0,1536.0,,10.8864,3.569800,us-west-2,us-west-2d
 r6a.4xlarge,,,16.0,128.0,,0.9072,0.493200,us-east-1,us-east-1a
 r6a.4xlarge,,,16.0,128.0,,0.9072,0.470900,us-east-1,us-east-1b
-r6a.4xlarge,,,16.0,128.0,,0.9072,0.408200,us-east-1,us-east-1c
+r6a.4xlarge,,,16.0,128.0,,0.9072,0.409100,us-east-1,us-east-1c
 r6a.4xlarge,,,16.0,128.0,,0.9072,0.474200,us-east-1,us-east-1d
 r6a.4xlarge,,,16.0,128.0,,0.9072,,us-east-1,us-east-1e
 r6a.4xlarge,,,16.0,128.0,,0.9072,0.522900,us-east-1,us-east-1f
@@ -6173,7 +6173,7 @@ r6g.16xlarge,,,64.0,512.0,,3.2256,,us-east-1,us-east-1e
 r6g.16xlarge,,,64.0,512.0,,3.2256,1.197000,us-east-1,us-east-1f
 r6g.16xlarge,,,64.0,512.0,,3.2256,0.702400,us-east-2,us-east-2a
 r6g.16xlarge,,,64.0,512.0,,3.2256,0.702400,us-east-2,us-east-2b
-r6g.16xlarge,,,64.0,512.0,,3.2256,0.702700,us-east-2,us-east-2c
+r6g.16xlarge,,,64.0,512.0,,3.2256,0.702600,us-east-2,us-east-2c
 r6g.16xlarge,,,64.0,512.0,,3.584,1.257600,us-west-1,us-west-1a
 r6g.16xlarge,,,64.0,512.0,,3.584,1.162700,us-west-1,us-west-1c
 r6g.16xlarge,,,64.0,512.0,,3.2256,1.209800,us-west-2,us-west-2a
@@ -6286,7 +6286,7 @@ r6g.xlarge,,,4.0,32.0,,0.2016,0.076100,us-west-2,us-west-2b
 r6g.xlarge,,,4.0,32.0,,0.2016,0.074400,us-west-2,us-west-2c
 r6g.xlarge,,,4.0,32.0,,0.2016,0.074400,us-west-2,us-west-2d
 r6gd.12xlarge,,,48.0,384.0,,2.7648,0.897800,us-east-1,us-east-1a
-r6gd.12xlarge,,,48.0,384.0,,2.7648,0.918400,us-east-1,us-east-1b
+r6gd.12xlarge,,,48.0,384.0,,2.7648,0.920000,us-east-1,us-east-1b
 r6gd.12xlarge,,,48.0,384.0,,2.7648,0.897800,us-east-1,us-east-1c
 r6gd.12xlarge,,,48.0,384.0,,2.7648,0.945100,us-east-1,us-east-1d
 r6gd.12xlarge,,,48.0,384.0,,2.7648,,us-east-1,us-east-1e
@@ -6443,7 +6443,7 @@ r6i.16xlarge,,,64.0,512.0,,4.032,,us-east-1,us-east-1e
 r6i.16xlarge,,,64.0,512.0,,4.032,2.147400,us-east-1,us-east-1f
 r6i.16xlarge,,,64.0,512.0,,4.032,0.879300,us-east-2,us-east-2a
 r6i.16xlarge,,,64.0,512.0,,4.032,0.843100,us-east-2,us-east-2b
-r6i.16xlarge,,,64.0,512.0,,4.032,0.878000,us-east-2,us-east-2c
+r6i.16xlarge,,,64.0,512.0,,4.032,0.879500,us-east-2,us-east-2c
 r6i.16xlarge,,,64.0,512.0,,4.48,1.218000,us-west-1,us-west-1a
 r6i.16xlarge,,,64.0,512.0,,4.48,1.338700,us-west-1,us-west-1c
 r6i.16xlarge,,,64.0,512.0,,4.032,1.483300,us-west-2,us-west-2a
@@ -6455,7 +6455,7 @@ r6i.24xlarge,,,96.0,768.0,,6.048,3.651100,us-east-1,us-east-1b
 r6i.24xlarge,,,96.0,768.0,,6.048,3.054000,us-east-1,us-east-1c
 r6i.24xlarge,,,96.0,768.0,,6.048,1.795500,us-east-1,us-east-1d
 r6i.24xlarge,,,96.0,768.0,,6.048,,us-east-1,us-east-1e
-r6i.24xlarge,,,96.0,768.0,,6.048,3.042800,us-east-1,us-east-1f
+r6i.24xlarge,,,96.0,768.0,,6.048,3.001900,us-east-1,us-east-1f
 r6i.24xlarge,,,96.0,768.0,,6.048,1.054000,us-east-2,us-east-2a
 r6i.24xlarge,,,96.0,768.0,,6.048,1.069100,us-east-2,us-east-2b
 r6i.24xlarge,,,96.0,768.0,,6.048,1.214300,us-east-2,us-east-2c
@@ -6732,7 +6732,7 @@ t2.large,,,2.0,8.0,,0.0928,0.031400,us-east-1,us-east-1b
 t2.large,,,2.0,8.0,,0.0928,0.033200,us-east-1,us-east-1c
 t2.large,,,2.0,8.0,,0.0928,0.035000,us-east-1,us-east-1d
 t2.large,,,2.0,8.0,,0.0928,0.041300,us-east-1,us-east-1e
-t2.large,,,2.0,8.0,,0.0928,0.029000,us-east-1,us-east-1f
+t2.large,,,2.0,8.0,,0.0928,0.028900,us-east-1,us-east-1f
 t2.large,,,2.0,8.0,,0.0928,0.027800,us-east-2,us-east-2a
 t2.large,,,2.0,8.0,,0.0928,0.027800,us-east-2,us-east-2b
 t2.large,,,2.0,8.0,,0.0928,0.027800,us-east-2,us-east-2c
@@ -6961,7 +6961,7 @@ t3a.medium,,,2.0,4.0,,0.0376,0.024800,us-east-1,us-east-1f
 t3a.medium,,,2.0,4.0,,0.0376,0.011300,us-east-2,us-east-2a
 t3a.medium,,,2.0,4.0,,0.0376,0.011300,us-east-2,us-east-2b
 t3a.medium,,,2.0,4.0,,0.0376,0.011300,us-east-2,us-east-2c
-t3a.medium,,,2.0,4.0,,0.0446,0.013800,us-west-1,us-west-1a
+t3a.medium,,,2.0,4.0,,0.0446,0.013700,us-west-1,us-west-1a
 t3a.medium,,,2.0,4.0,,0.0446,0.018400,us-west-1,us-west-1c
 t3a.medium,,,2.0,4.0,,0.0376,0.012800,us-west-2,us-west-2a
 t3a.medium,,,2.0,4.0,,0.0376,0.012900,us-west-2,us-west-2b
