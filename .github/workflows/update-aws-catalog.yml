@@ -38,9 +38,9 @@ jobs:
 
       - name: Commit catalog
         run: |
-          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
-          cd catalog/$version
+          cd catalog
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am "Update AWS catalog (scheduled $(date))"
+          git add .
+          git commit -m"Update AWS catalog (scheduled $(date))"
           git push
