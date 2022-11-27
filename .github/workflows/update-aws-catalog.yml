@@ -11,6 +11,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: skypilot-org/skypilot
+          ref: update-catalog-from-host #!!! remove this when merging to master
           path: sky
       - name: Clone Catalog repo
         uses: actions/checkout@v3
