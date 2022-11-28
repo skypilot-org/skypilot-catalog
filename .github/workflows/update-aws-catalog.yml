@@ -2,6 +2,11 @@ name: "update-aws-catalog"
 on:
   schedule:
     - cron:  '00 */7 * * *'    # Every 7 hours (coprimes with 24)
+    # The frequency can be tuned for the trade-off between
+    # freshness of the price and github action cost/user downloading
+    # overhead of the update.
+    # _UPDATE_FREQUENCY_HOURS in `aws_catalog.py` need to be updated
+    # accordingly, if this is changed.
 
 jobs:
   update_aws_catalog:
