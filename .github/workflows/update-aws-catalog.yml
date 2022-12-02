@@ -20,7 +20,9 @@ jobs:
       - name: Clone Catalog repo
         uses: actions/checkout@v3
         with:
+          fetch-depth: 0
           path: catalogs
+          token: ${{ secrets.GH_ACTION_PAT }}
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
