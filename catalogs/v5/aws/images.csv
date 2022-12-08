@@ -9,6 +9,7 @@ skypilot:gpu-ubuntu-1804,eu-west-1,ubuntu,18.04,ami-0dcc674f6d9067b6a,20220308
 skypilot:gpu-ubuntu-1804,eu-west-2,ubuntu,18.04,ami-0298fe2065808a563,20220308
 skypilot:gpu-ubuntu-1804,eu-west-3,ubuntu,18.04,ami-0bb60d50a139be5f2,20220308
 skypilot:gpu-ubuntu-1804,eu-north-1,ubuntu,18.04,ami-0fae225c11f949cd4,20220308
+skypilot:gpu-ubuntu-1804,ap-east-1,ubuntu,18.04,ami-0fadabfee71edec6d,20220308
 skypilot:gpu-ubuntu-1804,ap-south-1,ubuntu,18.04,ami-0956455879fd05778,20220308
 skypilot:gpu-ubuntu-1804,ap-northeast-3,ubuntu,18.04,ami-0f1a0043c65e26c63,20220308
 skypilot:gpu-ubuntu-1804,ap-northeast-2,ubuntu,18.04,ami-08bc77cba2a571c57,20220308
@@ -25,6 +26,7 @@ skypilot:gpu-ubuntu-2004,eu-west-1,ubuntu,20.04,ami-0e55e4d019884a5f8,20220308
 skypilot:gpu-ubuntu-2004,eu-west-2,ubuntu,20.04,ami-010455402d8e1cc58,20220308
 skypilot:gpu-ubuntu-2004,eu-west-3,ubuntu,20.04,ami-00b068cc55c59b711,20220308
 skypilot:gpu-ubuntu-2004,eu-north-1,ubuntu,20.04,ami-016368d37ba996f72,20220308
+skypilot:gpu-ubuntu-2004,ap-east-1,ubuntu,20.04,ami-0f67c8304962f6139,20220308
 skypilot:gpu-ubuntu-2004,ap-south-1,ubuntu,20.04,ami-0d3c1d29d1dd98d1a,20220308
 skypilot:gpu-ubuntu-2004,ap-northeast-3,ubuntu,20.04,ami-03e883fd27d3203db,20220308
 skypilot:gpu-ubuntu-2004,ap-northeast-2,ubuntu,20.04,ami-027aafa258be40256,20220308
@@ -41,6 +43,7 @@ skypilot:k80-ubuntu-1804,eu-west-1,ubuntu,18.04,ami-0b306c372dc1d699d,20211208
 skypilot:k80-ubuntu-1804,eu-west-2,ubuntu,18.04,ami-0fc4623e37dbdd876,20211208
 skypilot:k80-ubuntu-1804,eu-west-3,ubuntu,18.04,ami-02c176fca3799bba5,20211208
 skypilot:k80-ubuntu-1804,eu-north-1,ubuntu,18.04,ami-03a92c18603e3dc75,20211208
+skypilot:k80-ubuntu-1804,ap-east-1,ubuntu,18.04,ami-0f2f173232b208f63,20211208
 skypilot:k80-ubuntu-1804,ap-south-1,ubuntu,18.04,ami-0e147e5a516daa1bb,20211208
 skypilot:k80-ubuntu-1804,ap-northeast-3,ubuntu,18.04,ami-0268bda48ff7bda78,20211208
 skypilot:k80-ubuntu-1804,ap-northeast-2,ubuntu,18.04,ami-017721722ed51c291,20211208
@@ -57,6 +60,7 @@ skypilot:k80-ubuntu-2004,eu-west-1,ubuntu,20.04,ami-0f3b6d1ded4028da3,20211208
 skypilot:k80-ubuntu-2004,eu-west-2,ubuntu,20.04,ami-086380aca67a8a871,20211208
 skypilot:k80-ubuntu-2004,eu-west-3,ubuntu,20.04,ami-0d19b6bc708b28c11,20211208
 skypilot:k80-ubuntu-2004,eu-north-1,ubuntu,20.04,ami-03c8f75e86fe40f9c,20211208
+skypilot:k80-ubuntu-2004,ap-east-1,ubuntu,20.04,ami-0d32a9108e5604680,20211208
 skypilot:k80-ubuntu-2004,ap-south-1,ubuntu,20.04,ami-06dbefca5d9fb8363,20211208
 skypilot:k80-ubuntu-2004,ap-northeast-3,ubuntu,20.04,ami-0002064e4516f6a81,20211208
 skypilot:k80-ubuntu-2004,ap-northeast-2,ubuntu,20.04,ami-09b640a19aef24065,20211208
