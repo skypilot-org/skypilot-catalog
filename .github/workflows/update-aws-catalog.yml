@@ -39,7 +39,8 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
-          python -m sky.clouds.service_catalog.data_fetchers.fetch_aws --all-regions --no-az-mappings
+          # Uses --check-regions-integrity to ensure that the catalog fetched is complete, otherwise fail the job.
+          python -m sky.clouds.service_catalog.data_fetchers.fetch_aws --all-regions --no-az-mappings --check-regions-integrity
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
