@@ -2036,6 +2036,7 @@ g1-small,,,0.5,1.7,,0.0257,0.007,us-central1,us-central1-a
 g1-small,,,0.5,1.7,,0.0257,0.007,us-central1,us-central1-b
 g1-small,,,0.5,1.7,,0.0257,0.007,us-central1,us-central1-c
 g1-small,,,0.5,1.7,,0.0257,0.007,us-central1,us-central1-f
+n1-highmem-8,,,8.0,52.0,,0.473212,0.099624,us-central2,us-central2-b
 n1-standard-1,,,1.0,3.75,,0.04749975,0.01,us-west1,us-west1-a
 n1-standard-1,,,1.0,3.75,,0.04749975,0.01,us-west1,us-west1-b
 n1-standard-1,,,1.0,3.75,,0.04749975,0.01,us-west1,us-west1-c
