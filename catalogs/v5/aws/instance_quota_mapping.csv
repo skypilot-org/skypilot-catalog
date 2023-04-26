@@ -1,4 +1,4 @@
-Instance Type,On-Demand Service Quota Code,Spot Instance Service Quota Code
+InstanceType,OnDemandInstanceCode,SpotInstanceCode
 p4d.24xlarge,L-417A185B,L-7212CCBC
 p4de.24xlarge,L-417A185B,L-7212CCBC
 g5.xlarge,L-DB2E81BA,L-3819A6DF
