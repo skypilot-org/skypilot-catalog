@@ -1,0 +1,28 @@
+InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,GpuInfo,Price,SpotPrice,Region,AvailabilityZone
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.05,0.025,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.1,0.05,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.15,0.075,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.2,0.1,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.25,0.125,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,0.3,0.15,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,0.35,0.175,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': '1x NVIDIA A10 Tensor Core', 'GpuMemory': 24}]}",2,1,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': '2x NVIDIA A10 Tensor Core', 'GpuMemory': 48}]}",4,3,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': '4x NVIDIA A10 Tensor Core', 'GpuMemory': 96}]}",8,,ap-seoul-1,bxtG:AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.05,0.025,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.1,0.05,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.15,0.075,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.2,0.1,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.25,0.125,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,0.3,0.15,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,0.35,0.175,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.GPU3.1,V100,1,32,90,{'Gpus': [{'Name': '1x NVIDIA Tesla V100 16 GB'}]},2.95,1.475,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.GPU3.2,V100,2,64,180,{'Gpus': [{'Name': '2x NVIDIA Tesla P100 16 GB'}]},5.9,2.95,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.GPU3.4,V100,4,128,360,{'Gpus': [{'Name': '4x NVIDIA Tesla P100 16 GB'}]},11.8,5.9,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+BM.GPU3.8,V100,8,104,1536,{'Gpus': [{'Name': '8x NVIDIA Tesla V100 16 GB'}]},23.6,,us-ashburn-1,bxtG:US-ASHBURN-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': '1x NVIDIA A10 Tensor Core', 'GpuMemory': 24}]}",2,2,us-ashburn-1,bxtG:US-ASHBURN-AD-2
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': '2x NVIDIA A10 Tensor Core', 'GpuMemory': 48}]}",4,3,us-ashburn-1,bxtG:US-ASHBURN-AD-2
+BM.GPU3.8,V100,8,104,1536,{'Gpus': [{'Name': '8x NVIDIA Tesla V100 16 GB'}]},23.6,,us-ashburn-1,bxtG:US-ASHBURN-AD-2
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': '1x NVIDIA A10 Tensor Core', 'GpuMemory': 24}]}",2,2,us-ashburn-1,bxtG:US-ASHBURN-AD-3
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': '2x NVIDIA A10 Tensor Core', 'GpuMemory': 48}]}",4,3,us-ashburn-1,bxtG:US-ASHBURN-AD-3
+VM.GPU2.1,P100,1,32,72,{'Gpus': [{'Name': '1x NVIDIA Tesla P100 16 GB'}]},1.275,0.6375,us-ashburn-1,bxtG:US-ASHBURN-AD-3
