@@ -11,7 +11,10 @@ The catalogs for each cloud in [v5](v5) include the following files:
 1. `vms.csv`: the catalog for the VMs, including the instance and the accelerators.
 2. `images.csv`: the catalog for the images, which contains the mapping from the SkyPilot image tag to the image ID that can be used to find the image in the clouds. 
 
+To supply your own custom pricing or custom regions/zones, you can update vms.csv according to the schema below.
+
 ### vms.csv
+
 | Field | Type | Description |
 | ----- | ---- | ----------- |
 | `InstanceType` | string | The type of instance. |
