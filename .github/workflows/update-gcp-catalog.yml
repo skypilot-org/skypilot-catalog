@@ -1,4 +1,4 @@
-name: "update-aws-catalog"
+name: "update-gcp-catalog"
 on:
   push
   # schedule:
@@ -18,6 +18,7 @@ jobs:
         with:
           repository: skypilot-org/skypilot
           path: sky
+          ref: auto-update-gcp # change back to main after testing
       - name: Clone Catalog repo
         uses: actions/checkout@v3
         with:
