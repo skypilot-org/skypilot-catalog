@@ -51,7 +51,7 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
-          python -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions
+          python -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
         env:
           GCP_SERVICE_ACCOUNT_KEY: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
           GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
