@@ -39,16 +39,15 @@ jobs:
           curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-436.0.0-linux-x86_64.tar.gz
           tar -xf google-cloud-cli-436.0.0-linux-x86_64.tar.gz
           ./google-cloud-sdk/install.sh -q
-          wait
-
-      - name: Run fetch_gcp
-        run: |
           source ~/google-cloud-sdk/path.bash.inc
           echo $GCP_SERVICE_ACCOUNT_KEY > $HOME/service_account_key.json
           export GOOGLE_APPLICATION_CREDENTIALS=$HOME/service_account_key.json
           gcloud auth activate-service-account --key-file $GOOGLE_APPLICATION_CREDENTIALS &> /dev/null
           gcloud config set project $GCP_PROJECT_ID &> /dev/null
+          wait
 
+      - name: Run fetch_gcp
+        run: |
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
