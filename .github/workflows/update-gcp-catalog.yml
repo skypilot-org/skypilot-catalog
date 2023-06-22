@@ -1,13 +1,12 @@
 name: "update-gcp-catalog"
 on:
-  push
-  # schedule:
-  #   - cron:  '00 * */11 * *'    # Every 11 days (GCP guarantees the price changes up to once a month)
-  #   # The frequency can be tuned for the trade-off between
-  #   # freshness of the price and github action cost/user downloading
-  #   # overhead of the update.
-  #   # _UPDATE_FREQUENCY_HOURS in `aws_catalog.py` need to be updated
-  #   # accordingly, if this is changed.
+  schedule:
+    - cron:  '00 * */11 * *'    # Every 11 days (GCP guarantees the price changes up to once a month)
+    # The frequency can be tuned for the trade-off between
+    # freshness of the price and github action cost/user downloading
+    # overhead of the update.
+    # _UPDATE_FREQUENCY_HOURS in `aws_catalog.py` need to be updated
+    # accordingly, if this is changed.
 
 jobs:
   update_gcp_catalog:
@@ -18,7 +17,6 @@ jobs:
         with:
           repository: skypilot-org/skypilot
           path: sky
-          ref: auto-update-gcp # change back to main after testing
       - name: Clone Catalog repo
         uses: actions/checkout@v3
         with:
