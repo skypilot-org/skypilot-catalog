@@ -51,7 +51,7 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
-          python -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
+          python -u -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
         env:
           GCP_SERVICE_ACCOUNT_KEY: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
           GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
@@ -63,5 +63,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m"[Bot] Update GCP catalog $version (scheduled at $(date))"
+          git commit --allow-empty -m"[Bot] Update GCP catalog $version (scheduled at $(date))"
           git push
