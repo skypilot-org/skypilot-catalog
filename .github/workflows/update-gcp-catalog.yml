@@ -1,12 +1,13 @@
 name: "update-gcp-catalog"
 on:
-  schedule:
-    - cron:  '00 * */11 * *'    # Every 11 days (GCP guarantees the price changes up to once a month)
-    # The frequency can be tuned for the trade-off between
-    # freshness of the price and github action cost/user downloading
-    # overhead of the update.
-    # _UPDATE_FREQUENCY_HOURS in `aws_catalog.py` need to be updated
-    # accordingly, if this is changed.
+  push
+  # schedule:
+  #   - cron:  '00 * */11 * *'    # Every 11 days (GCP guarantees the price changes up to once a month)
+  #   # The frequency can be tuned for the trade-off between
+  #   # freshness of the price and github action cost/user downloading
+  #   # overhead of the update.
+  #   # _UPDATE_FREQUENCY_HOURS in `gcp_catalog.py` need to be updated
+  #   # accordingly, if this is changed.
 
 jobs:
   update_gcp_catalog:
