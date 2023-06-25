@@ -5,7 +5,7 @@ on:
     # The frequency can be tuned for the trade-off between
     # freshness of the price and github action cost/user downloading
     # overhead of the update.
-    # _UPDATE_FREQUENCY_HOURS in `gcp_catalog.py` need to be updated
+    # _PULL_FREQUENCY_HOURS in `gcp_catalog.py` need to be updated
     # accordingly, if this is changed.
 
 jobs:
