@@ -1,7 +1,7 @@
 name: "update-gcp-catalog"
 on:
   schedule:
-    - cron:  '00 * */5 * *'    # Every 5 days (GCP guarantees the price changes up to once a month)
+    - cron:  '00 */7 * * *'    # Every 7 hours (GCP guarantees the price changes up to once a month, but different VMs may change at different times)
     # The frequency can be tuned for the trade-off between
     # freshness of the price and github action cost/user downloading
     # overhead of the update.
