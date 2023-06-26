@@ -53,5 +53,6 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m"[Bot] Update AWS catalog $version (scheduled at $(date))"
+          git fetch origin
           git rebase origin/master
           git push
