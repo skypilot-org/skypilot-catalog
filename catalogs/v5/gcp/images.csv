@@ -2,4 +2,5 @@ Tag,Region,OS,OSVersion,ImageId,CreationDate
 skypilot:cpu-debian-10,,debian,10,projects/deeplearning-platform-release/global/images/common-cpu-v20221215,20221215
 skypilot:k80-debian-10,,debian,10,projects/deeplearning-platform-release/global/images/common-cu113-v20220701,20220701
 skypilot:gpu-debian-10,,debian,10,projects/deeplearning-platform-release/global/images/common-cu113-v20221215,20221215
+skypilot:l4-debian-11,,debian,11,projects/ml-images/global/images/c0-deeplearning-common-gpu-v20230615-debian-11-py310,20230615
 
