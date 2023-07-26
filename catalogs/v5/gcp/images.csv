@@ -3,4 +3,5 @@ skypilot:cpu-debian-10,,debian,10,projects/deeplearning-platform-release/global/
 skypilot:k80-debian-10,,debian,10,projects/deeplearning-platform-release/global/images/common-cu113-v20220701,20220701
 skypilot:gpu-debian-10,,debian,10,projects/deeplearning-platform-release/global/images/common-cu113-v20221215,20221215
 skypilot:cuda118-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-gpu-v20230615-debian-11-py310,20230615
-
+skypilot:cpu-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cpu-v20230615-debian-11-py310,20230615
+skypilot:gpu-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-gpu-v20230615-debian-11-py310,20230615
