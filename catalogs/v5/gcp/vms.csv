@@ -1460,6 +1460,7 @@ c3-standard-176-lssd,176.0,704.0,,,,europe-west1,europe-west1-d,10.1068,4.04202
 c3-standard-176-lssd,176.0,704.0,,,,europe-west4,europe-west4-a,9.65462,4.04518
 c3-standard-176-lssd,176.0,704.0,,,,europe-west4,europe-west4-b,9.65462,4.04518
 c3-standard-176-lssd,176.0,704.0,,,,europe-west4,europe-west4-c,9.65462,4.04518
+c3-standard-176-lssd,176.0,704.0,,,,us-central1,us-central1-a,9.18755,3.67453
 c3-standard-176-lssd,176.0,704.0,,,,us-central1,us-central1-b,9.18755,3.67453
 c3-standard-176-lssd,176.0,704.0,,,,us-central1,us-central1-c,9.18755,3.67453
 c3-standard-176-lssd,176.0,704.0,,,,us-east1,us-east1-b,9.18755,3.67453
@@ -1495,6 +1496,7 @@ c3-standard-22-lssd,22.0,88.0,,,,europe-west1,europe-west1-d,1.26335,0.50525
 c3-standard-22-lssd,22.0,88.0,,,,europe-west4,europe-west4-a,1.20683,0.50565
 c3-standard-22-lssd,22.0,88.0,,,,europe-west4,europe-west4-b,1.20683,0.50565
 c3-standard-22-lssd,22.0,88.0,,,,europe-west4,europe-west4-c,1.20683,0.50565
+c3-standard-22-lssd,22.0,88.0,,,,us-central1,us-central1-a,1.14844,0.45932
 c3-standard-22-lssd,22.0,88.0,,,,us-central1,us-central1-b,1.14844,0.45932
 c3-standard-22-lssd,22.0,88.0,,,,us-central1,us-central1-c,1.14844,0.45932
 c3-standard-22-lssd,22.0,88.0,,,,us-east1,us-east1-b,1.14844,0.45932
@@ -1530,6 +1532,7 @@ c3-standard-4-lssd,4.0,16.0,,,,europe-west1,europe-west1-d,0.2297,0.09186
 c3-standard-4-lssd,4.0,16.0,,,,europe-west4,europe-west4-a,0.21942,0.09194
 c3-standard-4-lssd,4.0,16.0,,,,europe-west4,europe-west4-b,0.21942,0.09194
 c3-standard-4-lssd,4.0,16.0,,,,europe-west4,europe-west4-c,0.21942,0.09194
+c3-standard-4-lssd,4.0,16.0,,,,us-central1,us-central1-a,0.20881,0.08351
 c3-standard-4-lssd,4.0,16.0,,,,us-central1,us-central1-b,0.20881,0.08351
 c3-standard-4-lssd,4.0,16.0,,,,us-central1,us-central1-c,0.20881,0.08351
 c3-standard-4-lssd,4.0,16.0,,,,us-east1,us-east1-b,0.20881,0.08351
@@ -1565,6 +1568,7 @@ c3-standard-44-lssd,44.0,176.0,,,,europe-west1,europe-west1-d,2.5267,1.0105
 c3-standard-44-lssd,44.0,176.0,,,,europe-west4,europe-west4-a,2.41366,1.0113
 c3-standard-44-lssd,44.0,176.0,,,,europe-west4,europe-west4-b,2.41366,1.0113
 c3-standard-44-lssd,44.0,176.0,,,,europe-west4,europe-west4-c,2.41366,1.0113
+c3-standard-44-lssd,44.0,176.0,,,,us-central1,us-central1-a,2.29689,0.91863
 c3-standard-44-lssd,44.0,176.0,,,,us-central1,us-central1-b,2.29689,0.91863
 c3-standard-44-lssd,44.0,176.0,,,,us-central1,us-central1-c,2.29689,0.91863
 c3-standard-44-lssd,44.0,176.0,,,,us-east1,us-east1-b,2.29689,0.91863
@@ -1600,6 +1604,7 @@ c3-standard-8-lssd,8.0,32.0,,,,europe-west1,europe-west1-d,0.4594,0.18373
 c3-standard-8-lssd,8.0,32.0,,,,europe-west4,europe-west4-a,0.43885,0.18387
 c3-standard-8-lssd,8.0,32.0,,,,europe-west4,europe-west4-b,0.43885,0.18387
 c3-standard-8-lssd,8.0,32.0,,,,europe-west4,europe-west4-c,0.43885,0.18387
+c3-standard-8-lssd,8.0,32.0,,,,us-central1,us-central1-a,0.41762,0.16702
 c3-standard-8-lssd,8.0,32.0,,,,us-central1,us-central1-b,0.41762,0.16702
 c3-standard-8-lssd,8.0,32.0,,,,us-central1,us-central1-c,0.41762,0.16702
 c3-standard-8-lssd,8.0,32.0,,,,us-east1,us-east1-b,0.41762,0.16702
@@ -1635,6 +1640,7 @@ c3-standard-88-lssd,88.0,352.0,,,,europe-west1,europe-west1-d,5.0534,2.02101
 c3-standard-88-lssd,88.0,352.0,,,,europe-west4,europe-west4-a,4.82731,2.02259
 c3-standard-88-lssd,88.0,352.0,,,,europe-west4,europe-west4-b,4.82731,2.02259
 c3-standard-88-lssd,88.0,352.0,,,,europe-west4,europe-west4-c,4.82731,2.02259
+c3-standard-88-lssd,88.0,352.0,,,,us-central1,us-central1-a,4.59378,1.83726
 c3-standard-88-lssd,88.0,352.0,,,,us-central1,us-central1-b,4.59378,1.83726
 c3-standard-88-lssd,88.0,352.0,,,,us-central1,us-central1-c,4.59378,1.83726
 c3-standard-88-lssd,88.0,352.0,,,,us-east1,us-east1-b,4.59378,1.83726
