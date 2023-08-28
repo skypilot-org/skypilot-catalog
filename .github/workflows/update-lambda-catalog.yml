@@ -7,6 +7,7 @@ on:
     # overhead of the update.
     # _UPDATE_FREQUENCY_HOURS in `lambda_catalog.py` need to be updated
     # accordingly, if this is changed.
+  workflow_dispatch:
 
 jobs:
   update_lambda_catalog:
