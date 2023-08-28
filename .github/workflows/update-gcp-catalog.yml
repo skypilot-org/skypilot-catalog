@@ -7,6 +7,7 @@ on:
     # overhead of the update.
     # _PULL_FREQUENCY_HOURS in `gcp_catalog.py` need to be updated
     # accordingly, if this is changed.
+  workflow_dispatch:
 
 jobs:
   update_gcp_catalog:
@@ -61,7 +62,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit --allow-empty -m"[Bot] Update GCP catalog $version (scheduled at $(date))"
+          git commit -m"[Bot] Update GCP catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
           git rebase origin/master
           git push
