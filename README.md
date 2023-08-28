@@ -4,6 +4,12 @@
 
 **Supported catalog schema versions**: v1, v2, v3, v4, v5
 
+## Automatic Catalog Fetching
+
+The catalogs are automatically fetched from the cloud providers for AWS and GCP. More clouds will be added when [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/clouds/service_catalog/data_fetchers) are implemented and more stable.
+
+Catalogs for every cloud are updated **every 7 hours**.
+
 
 ## Schema V5
 

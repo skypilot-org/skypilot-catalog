@@ -7,6 +7,7 @@ on:
     # overhead of the update.
     # _UPDATE_FREQUENCY_HOURS in `aws_catalog.py` need to be updated
     # accordingly, if this is changed.
+  workflow_dispatch:
 
 jobs:
   update_aws_catalog:
@@ -53,6 +54,10 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m"[Bot] Update AWS catalog $version (scheduled at $(date))"
+          if [ $? -ne 0 ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git fetch origin
           git rebase origin/master
           git push
