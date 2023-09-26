@@ -7603,6 +7603,7 @@ n2-highmem-128,128.0,864.0,,,,asia-southeast2,asia-southeast2-c,10.36278,2.94291
 n2-highmem-128,128.0,864.0,,,,australia-southeast1,australia-southeast1-a,10.93507,2.51267
 n2-highmem-128,128.0,864.0,,,,australia-southeast1,australia-southeast1-b,10.93507,2.51267
 n2-highmem-128,128.0,864.0,,,,australia-southeast1,australia-southeast1-c,10.93507,2.51267
+n2-highmem-128,128.0,864.0,,,,australia-southeast2,australia-southeast2-b,10.93507,2.37638
 n2-highmem-128,128.0,864.0,,,,australia-southeast2,australia-southeast2-c,10.93507,2.37638
 n2-highmem-128,128.0,864.0,,,,europe-central2,europe-central2-a,9.92915,2.20771
 n2-highmem-128,128.0,864.0,,,,europe-central2,europe-central2-b,9.92915,2.20771
@@ -8641,6 +8642,7 @@ n2-highmem-96,96.0,768.0,,,,asia-southeast2,asia-southeast2-c,8.45564,2.40134
 n2-highmem-96,96.0,768.0,,,,australia-southeast1,australia-southeast1-a,8.92262,2.04998
 n2-highmem-96,96.0,768.0,,,,australia-southeast1,australia-southeast1-b,8.92262,2.04998
 n2-highmem-96,96.0,768.0,,,,australia-southeast1,australia-southeast1-c,8.92262,2.04998
+n2-highmem-96,96.0,768.0,,,,australia-southeast2,australia-southeast2-b,8.92262,1.93901
 n2-highmem-96,96.0,768.0,,,,australia-southeast2,australia-southeast2-c,8.92262,1.93901
 n2-highmem-96,96.0,768.0,,,,europe-central2,europe-central2-a,8.10182,1.80134
 n2-highmem-96,96.0,768.0,,,,europe-central2,europe-central2-b,8.10182,1.80134
