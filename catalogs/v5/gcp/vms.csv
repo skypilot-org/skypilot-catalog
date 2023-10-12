@@ -4101,6 +4101,7 @@ m1-megamem-96,96.0,1433.599609375,,,,southamerica-east1,southamerica-east1-c,16.
 m1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-a,10.65216,1.95384
 m1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-b,10.65216,1.95384
 m1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-c,10.65216,1.95384
+m1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-f,10.65216,1.95384
 m1-megamem-96,96.0,1433.599609375,,,,us-east1,us-east1-b,10.65216,1.95384
 m1-megamem-96,96.0,1433.599609375,,,,us-east1,us-east1-c,10.65216,1.95384
 m1-megamem-96,96.0,1433.599609375,,,,us-east1,us-east1-d,10.65216,1.95384
@@ -5673,6 +5674,7 @@ n1-megamem-96,96.0,1433.599609375,,,,northamerica-northeast1,northamerica-northe
 n1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-a,9.10882,1.91765
 n1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-b,9.10882,1.91765
 n1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-c,9.10882,1.91765
+n1-megamem-96,96.0,1433.599609375,,,,us-central1,us-central1-f,9.10882,1.91765
 n1-megamem-96,96.0,1433.599609375,,,,us-east1,us-east1-b,9.10882,1.91765
 n1-megamem-96,96.0,1433.599609375,,,,us-east1,us-east1-c,9.10882,1.91765
 n1-megamem-96,96.0,1433.599609375,,,,us-east1,us-east1-d,9.10882,1.91765
@@ -14003,6 +14005,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,K80,1.0,K80,europe-west1,europe-west1-d,0.49,0.196
 ,,,K80,1.0,K80,us-central1,us-central1-a,0.45,0.18
 ,,,K80,1.0,K80,us-central1,us-central1-c,0.45,0.18
+,,,K80,1.0,K80,us-central1,us-central1-f,0.45,0.18
 ,,,K80,1.0,K80,us-east1,us-east1-c,0.45,0.18
 ,,,K80,1.0,K80,us-east1,us-east1-d,0.45,0.18
 ,,,K80,1.0,K80,us-west1,us-west1-b,0.45,0.18
@@ -14012,6 +14015,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,K80,2.0,K80,europe-west1,europe-west1-d,0.98,0.392
 ,,,K80,2.0,K80,us-central1,us-central1-a,0.9,0.36
 ,,,K80,2.0,K80,us-central1,us-central1-c,0.9,0.36
+,,,K80,2.0,K80,us-central1,us-central1-f,0.9,0.36
 ,,,K80,2.0,K80,us-east1,us-east1-c,0.9,0.36
 ,,,K80,2.0,K80,us-east1,us-east1-d,0.9,0.36
 ,,,K80,2.0,K80,us-west1,us-west1-b,0.9,0.36
@@ -14021,6 +14025,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,K80,4.0,K80,europe-west1,europe-west1-d,1.96,0.784
 ,,,K80,4.0,K80,us-central1,us-central1-a,1.8,0.72
 ,,,K80,4.0,K80,us-central1,us-central1-c,1.8,0.72
+,,,K80,4.0,K80,us-central1,us-central1-f,1.8,0.72
 ,,,K80,4.0,K80,us-east1,us-east1-c,1.8,0.72
 ,,,K80,4.0,K80,us-east1,us-east1-d,1.8,0.72
 ,,,K80,4.0,K80,us-west1,us-west1-b,1.8,0.72
@@ -14030,6 +14035,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,K80,8.0,K80,europe-west1,europe-west1-d,3.92,1.568
 ,,,K80,8.0,K80,us-central1,us-central1-a,3.6,1.44
 ,,,K80,8.0,K80,us-central1,us-central1-c,3.6,1.44
+,,,K80,8.0,K80,us-central1,us-central1-f,3.6,1.44
 ,,,K80,8.0,K80,us-east1,us-east1-c,3.6,1.44
 ,,,K80,8.0,K80,us-east1,us-east1-d,3.6,1.44
 ,,,K80,8.0,K80,us-west1,us-west1-b,3.6,1.44
