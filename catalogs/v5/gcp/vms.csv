@@ -3852,6 +3852,7 @@ g2-standard-12,12.0,48.0,,,,asia-northeast1,asia-northeast1-a,0.56553,0.14419
 g2-standard-12,12.0,48.0,,,,asia-northeast1,asia-northeast1-c,0.56553,0.14419
 g2-standard-12,12.0,48.0,,,,asia-northeast3,asia-northeast3-b,0.56553,0.16966
 g2-standard-12,12.0,48.0,,,,asia-south1,asia-south1-a,0.45841,0.13486
+g2-standard-12,12.0,48.0,,,,asia-south1,asia-south1-b,0.45841,0.13486
 g2-standard-12,12.0,48.0,,,,asia-southeast1,asia-southeast1-a,0.54329,0.21732
 g2-standard-12,12.0,48.0,,,,asia-southeast1,asia-southeast1-b,0.54329,0.21732
 g2-standard-12,12.0,48.0,,,,asia-southeast1,asia-southeast1-c,0.54329,0.21732
@@ -3881,6 +3882,7 @@ g2-standard-16,16.0,64.0,,,,asia-northeast1,asia-northeast1-a,0.75404,0.19226
 g2-standard-16,16.0,64.0,,,,asia-northeast1,asia-northeast1-c,0.75404,0.19226
 g2-standard-16,16.0,64.0,,,,asia-northeast3,asia-northeast3-b,0.75404,0.22621
 g2-standard-16,16.0,64.0,,,,asia-south1,asia-south1-a,0.61121,0.17981
+g2-standard-16,16.0,64.0,,,,asia-south1,asia-south1-b,0.61121,0.17981
 g2-standard-16,16.0,64.0,,,,asia-southeast1,asia-southeast1-a,0.72439,0.28976
 g2-standard-16,16.0,64.0,,,,asia-southeast1,asia-southeast1-b,0.72439,0.28976
 g2-standard-16,16.0,64.0,,,,asia-southeast1,asia-southeast1-c,0.72439,0.28976
@@ -3910,6 +3912,7 @@ g2-standard-24,24.0,96.0,,,,asia-northeast1,asia-northeast1-a,1.13106,0.28838
 g2-standard-24,24.0,96.0,,,,asia-northeast1,asia-northeast1-c,1.13106,0.28838
 g2-standard-24,24.0,96.0,,,,asia-northeast3,asia-northeast3-b,1.13106,0.33932
 g2-standard-24,24.0,96.0,,,,asia-south1,asia-south1-a,0.91682,0.26971
+g2-standard-24,24.0,96.0,,,,asia-south1,asia-south1-b,0.91682,0.26971
 g2-standard-24,24.0,96.0,,,,asia-southeast1,asia-southeast1-a,1.08658,0.43464
 g2-standard-24,24.0,96.0,,,,asia-southeast1,asia-southeast1-b,1.08658,0.43464
 g2-standard-24,24.0,96.0,,,,asia-southeast1,asia-southeast1-c,1.08658,0.43464
@@ -3939,6 +3942,7 @@ g2-standard-32,32.0,128.0,,,,asia-northeast1,asia-northeast1-a,1.50808,0.38451
 g2-standard-32,32.0,128.0,,,,asia-northeast1,asia-northeast1-c,1.50808,0.38451
 g2-standard-32,32.0,128.0,,,,asia-northeast3,asia-northeast3-b,1.50808,0.45242
 g2-standard-32,32.0,128.0,,,,asia-south1,asia-south1-a,1.22243,0.35962
+g2-standard-32,32.0,128.0,,,,asia-south1,asia-south1-b,1.22243,0.35962
 g2-standard-32,32.0,128.0,,,,asia-southeast1,asia-southeast1-a,1.44878,0.57952
 g2-standard-32,32.0,128.0,,,,asia-southeast1,asia-southeast1-b,1.44878,0.57952
 g2-standard-32,32.0,128.0,,,,asia-southeast1,asia-southeast1-c,1.44878,0.57952
@@ -3968,6 +3972,7 @@ g2-standard-4,4.0,16.0,,,,asia-northeast1,asia-northeast1-a,0.18851,0.04806
 g2-standard-4,4.0,16.0,,,,asia-northeast1,asia-northeast1-c,0.18851,0.04806
 g2-standard-4,4.0,16.0,,,,asia-northeast3,asia-northeast3-b,0.18851,0.05655
 g2-standard-4,4.0,16.0,,,,asia-south1,asia-south1-a,0.1528,0.04495
+g2-standard-4,4.0,16.0,,,,asia-south1,asia-south1-b,0.1528,0.04495
 g2-standard-4,4.0,16.0,,,,asia-southeast1,asia-southeast1-a,0.1811,0.07244
 g2-standard-4,4.0,16.0,,,,asia-southeast1,asia-southeast1-b,0.1811,0.07244
 g2-standard-4,4.0,16.0,,,,asia-southeast1,asia-southeast1-c,0.1811,0.07244
@@ -3997,6 +4002,7 @@ g2-standard-48,48.0,192.0,,,,asia-northeast1,asia-northeast1-a,2.26212,0.57677
 g2-standard-48,48.0,192.0,,,,asia-northeast1,asia-northeast1-c,2.26212,0.57677
 g2-standard-48,48.0,192.0,,,,asia-northeast3,asia-northeast3-b,2.26212,0.67864
 g2-standard-48,48.0,192.0,,,,asia-south1,asia-south1-a,1.83364,0.53942
+g2-standard-48,48.0,192.0,,,,asia-south1,asia-south1-b,1.83364,0.53942
 g2-standard-48,48.0,192.0,,,,asia-southeast1,asia-southeast1-a,2.17317,0.86928
 g2-standard-48,48.0,192.0,,,,asia-southeast1,asia-southeast1-b,2.17317,0.86928
 g2-standard-48,48.0,192.0,,,,asia-southeast1,asia-southeast1-c,2.17317,0.86928
@@ -4026,6 +4032,7 @@ g2-standard-8,8.0,32.0,,,,asia-northeast1,asia-northeast1-a,0.37702,0.09613
 g2-standard-8,8.0,32.0,,,,asia-northeast1,asia-northeast1-c,0.37702,0.09613
 g2-standard-8,8.0,32.0,,,,asia-northeast3,asia-northeast3-b,0.37702,0.11311
 g2-standard-8,8.0,32.0,,,,asia-south1,asia-south1-a,0.30561,0.0899
+g2-standard-8,8.0,32.0,,,,asia-south1,asia-south1-b,0.30561,0.0899
 g2-standard-8,8.0,32.0,,,,asia-southeast1,asia-southeast1-a,0.36219,0.14488
 g2-standard-8,8.0,32.0,,,,asia-southeast1,asia-southeast1-b,0.36219,0.14488
 g2-standard-8,8.0,32.0,,,,asia-southeast1,asia-southeast1-c,0.36219,0.14488
@@ -4053,12 +4060,15 @@ g2-standard-96,96.0,384.0,,,,asia-east1,asia-east1-a,4.07929,1.04026
 g2-standard-96,96.0,384.0,,,,asia-east1,asia-east1-c,4.07929,1.04026
 g2-standard-96,96.0,384.0,,,,asia-northeast1,asia-northeast1-a,4.52425,1.15354
 g2-standard-96,96.0,384.0,,,,asia-northeast1,asia-northeast1-c,4.52425,1.15354
+g2-standard-96,96.0,384.0,,,,asia-northeast3,asia-northeast3-b,4.52425,1.35727
 g2-standard-96,96.0,384.0,,,,asia-south1,asia-south1-a,3.66729,1.07885
+g2-standard-96,96.0,384.0,,,,asia-south1,asia-south1-b,3.66729,1.07885
 g2-standard-96,96.0,384.0,,,,asia-southeast1,asia-southeast1-b,4.34634,1.73856
 g2-standard-96,96.0,384.0,,,,asia-southeast1,asia-southeast1-c,4.34634,1.73856
 g2-standard-96,96.0,384.0,,,,europe-west1,europe-west1-c,3.87918,1.16376
 g2-standard-96,96.0,384.0,,,,europe-west2,europe-west2-a,4.01125,1.36171
 g2-standard-96,96.0,384.0,,,,europe-west2,europe-west2-b,4.01125,1.36171
+g2-standard-96,96.0,384.0,,,,europe-west3,europe-west3-b,4.15199,1.36171
 g2-standard-96,96.0,384.0,,,,europe-west4,europe-west4-a,3.70286,1.48166
 g2-standard-96,96.0,384.0,,,,europe-west4,europe-west4-b,3.70286,1.48166
 g2-standard-96,96.0,384.0,,,,europe-west4,europe-west4-c,3.70286,1.48166
@@ -14079,6 +14089,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,L4,1.0,L4,asia-northeast1,asia-northeast1-c,0.7192,0.21576
 ,,,L4,1.0,L4,asia-northeast3,asia-northeast3-b,0.7192,0.21576
 ,,,L4,1.0,L4,asia-south1,asia-south1-a,0.58298,0.2018
+,,,L4,1.0,L4,asia-south1,asia-south1-b,0.58298,0.2018
 ,,,L4,1.0,L4,asia-southeast1,asia-southeast1-a,0.69092,0.20728
 ,,,L4,1.0,L4,asia-southeast1,asia-southeast1-b,0.69092,0.20728
 ,,,L4,1.0,L4,asia-southeast1,asia-southeast1-c,0.69092,0.20728
@@ -14108,6 +14119,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,L4,2.0,L4,asia-northeast1,asia-northeast1-c,1.43841,0.43152
 ,,,L4,2.0,L4,asia-northeast3,asia-northeast3-b,1.43841,0.43152
 ,,,L4,2.0,L4,asia-south1,asia-south1-a,1.16595,0.4036
+,,,L4,2.0,L4,asia-south1,asia-south1-b,1.16595,0.4036
 ,,,L4,2.0,L4,asia-southeast1,asia-southeast1-a,1.38184,0.41455
 ,,,L4,2.0,L4,asia-southeast1,asia-southeast1-b,1.38184,0.41455
 ,,,L4,2.0,L4,asia-southeast1,asia-southeast1-c,1.38184,0.41455
@@ -14137,6 +14149,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,L4,4.0,L4,asia-northeast1,asia-northeast1-c,2.87681,0.86304
 ,,,L4,4.0,L4,asia-northeast3,asia-northeast3-b,2.87681,0.86304
 ,,,L4,4.0,L4,asia-south1,asia-south1-a,2.3319,0.8072
+,,,L4,4.0,L4,asia-south1,asia-south1-b,2.3319,0.8072
 ,,,L4,4.0,L4,asia-southeast1,asia-southeast1-a,2.76369,0.82911
 ,,,L4,4.0,L4,asia-southeast1,asia-southeast1-b,2.76369,0.82911
 ,,,L4,4.0,L4,asia-southeast1,asia-southeast1-c,2.76369,0.82911
@@ -14166,6 +14179,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.09882
 ,,,L4,8.0,L4,asia-northeast1,asia-northeast1-c,5.75363,1.72609
 ,,,L4,8.0,L4,asia-northeast3,asia-northeast3-b,5.75363,1.72609
 ,,,L4,8.0,L4,asia-south1,asia-south1-a,4.66381,1.61439
+,,,L4,8.0,L4,asia-south1,asia-south1-b,4.66381,1.61439
 ,,,L4,8.0,L4,asia-southeast1,asia-southeast1-a,5.52737,1.65821
 ,,,L4,8.0,L4,asia-southeast1,asia-southeast1-b,5.52737,1.65821
 ,,,L4,8.0,L4,asia-southeast1,asia-southeast1-c,5.52737,1.65821
