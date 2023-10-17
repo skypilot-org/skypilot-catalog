@@ -4063,6 +4063,7 @@ g2-standard-96,96.0,384.0,,,,asia-northeast1,asia-northeast1-c,4.52425,1.15354
 g2-standard-96,96.0,384.0,,,,asia-northeast3,asia-northeast3-b,4.52425,1.35727
 g2-standard-96,96.0,384.0,,,,asia-south1,asia-south1-a,3.66729,1.07885
 g2-standard-96,96.0,384.0,,,,asia-south1,asia-south1-b,3.66729,1.07885
+g2-standard-96,96.0,384.0,,,,asia-southeast1,asia-southeast1-a,4.34634,1.73856
 g2-standard-96,96.0,384.0,,,,asia-southeast1,asia-southeast1-b,4.34634,1.73856
 g2-standard-96,96.0,384.0,,,,asia-southeast1,asia-southeast1-c,4.34634,1.73856
 g2-standard-96,96.0,384.0,,,,europe-west1,europe-west1-b,3.87918,1.16376
@@ -4083,6 +4084,7 @@ g2-standard-96,96.0,384.0,,,,us-east4,us-east4-c,3.51147,1.34918
 g2-standard-96,96.0,384.0,,,,us-west1,us-west1-a,3.52301,1.40928
 g2-standard-96,96.0,384.0,,,,us-west1,us-west1-b,3.52301,1.40928
 g2-standard-96,96.0,384.0,,,,us-west1,us-west1-c,3.52301,1.40928
+g2-standard-96,96.0,384.0,,,,us-west4,us-west4-a,3.96796,1.19039
 g2-standard-96,96.0,384.0,,,,us-west4,us-west4-c,3.96796,1.19039
 m1-megamem-96,96.0,1433.599609375,,,,asia-east1,asia-east1-a,12.36222,2.46541
 m1-megamem-96,96.0,1433.599609375,,,,asia-east1,asia-east1-b,12.36222,2.46541
