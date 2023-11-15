@@ -6,9 +6,12 @@
 
 ## Automatic Catalog Fetching
 
-Catalogs for AWS and GCP are automatically fetched & refreshed from the cloud provider, implemented as GitHub Actions. Other clouds can implement [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/clouds/service_catalog/data_fetchers) and a corresponding Action to add auto-refresh.
+Catalogs for AWS and GCP are automatically fetched & refreshed from the cloud provider, implemented as GitHub Actions. Other clouds can implement [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/clouds/service_catalog/data_fetchers) and a corresponding [Action](./.github/workflows/) to add auto-refresh.
 
 Catalogs are updated **every 7 hours**.
+
+
+
 
 
 ## Schema V5
@@ -44,3 +47,19 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `ImageId` | string | The ID of the image that is used to launch the instance in the cloud. |
 | `CreationDate` | string | The creation date of the image (mainly for tracking purpose). |
 
+
+#### Update Images
+
+For AWS, the images are automatically updated by the catalog fetcher. To update those images, please update the [fetch_aws.py](https://github.com/skypilot-org/skypilot/blob/master/sky/clouds/service_catalog/data_fetchers/fetch_aws.py) in SkyPilot repository.
+
+For GCP, the images are updated manually. To check the latest images, please run the following command:
+```bash
+gcloud compute images list \
+    --project deeplearning-platform-release \
+    --no-standard-images --uri 
+```
+A common case for updating the images is to support a latest CUDA driver. To do so, we can change the image link for tag `skypilot:gpu-debian-11` in [images.csv](./catalogs/v5/gcp/images.csv) according to the command above. For tracking the history, we can add another tag `skypilot:cu<version>-debian-11` that also points to the latest image link.
+```csv
+skypilot:cuda121-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cu121-v20231105-debian-11-py310,20231105
+skypilot:gpu-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cu121-v20231105-debian-11-py310,20231105
+```
