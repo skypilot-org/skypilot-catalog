@@ -7743,6 +7743,7 @@ n2-highcpu-96,96.0,96.0,,,,northamerica-northeast2,northamerica-northeast2-c,3.7
 n2-highcpu-96,96.0,96.0,,,,southamerica-east1,southamerica-east1-a,5.46288,0.8351
 n2-highcpu-96,96.0,96.0,,,,southamerica-east1,southamerica-east1-b,5.46288,0.8351
 n2-highcpu-96,96.0,96.0,,,,southamerica-east1,southamerica-east1-c,5.46288,0.8351
+n2-highcpu-96,96.0,96.0,,,,southamerica-west1,southamerica-west1-b,4.92121,1.37395
 n2-highcpu-96,96.0,96.0,,,,us-central1,us-central1-a,3.44141,0.8904
 n2-highcpu-96,96.0,96.0,,,,us-central1,us-central1-b,3.44141,0.8904
 n2-highcpu-96,96.0,96.0,,,,us-central1,us-central1-c,3.44141,0.8904
@@ -7853,6 +7854,7 @@ n2-highmem-128,128.0,864.0,,,,northamerica-northeast2,northamerica-northeast2-c,
 n2-highmem-128,128.0,864.0,,,,southamerica-east1,southamerica-east1-a,12.23344,1.87082
 n2-highmem-128,128.0,864.0,,,,southamerica-east1,southamerica-east1-b,12.23344,1.87082
 n2-highmem-128,128.0,864.0,,,,southamerica-east1,southamerica-east1-c,12.23344,1.87082
+n2-highmem-128,128.0,864.0,,,,southamerica-west1,southamerica-west1-b,11.02098,3.07725
 n2-highmem-128,128.0,864.0,,,,us-central1,us-central1-a,7.70698,1.99312
 n2-highmem-128,128.0,864.0,,,,us-central1,us-central1-b,7.70698,1.99312
 n2-highmem-128,128.0,864.0,,,,us-central1,us-central1-c,7.70698,1.99312
@@ -8907,6 +8909,7 @@ n2-highmem-96,96.0,768.0,,,,northamerica-northeast2,northamerica-northeast2-c,6.
 n2-highmem-96,96.0,768.0,,,,southamerica-east1,southamerica-east1-a,9.98208,1.52659
 n2-highmem-96,96.0,768.0,,,,southamerica-east1,southamerica-east1-b,9.98208,1.52659
 n2-highmem-96,96.0,768.0,,,,southamerica-east1,southamerica-east1-c,9.98208,1.52659
+n2-highmem-96,96.0,768.0,,,,southamerica-west1,southamerica-west1-b,8.9928,2.51098
 n2-highmem-96,96.0,768.0,,,,us-central1,us-central1-a,6.28867,1.62624
 n2-highmem-96,96.0,768.0,,,,us-central1,us-central1-b,6.28867,1.62624
 n2-highmem-96,96.0,768.0,,,,us-central1,us-central1-c,6.28867,1.62624
@@ -9019,6 +9022,7 @@ n2-standard-128,128.0,512.0,,,,northamerica-northeast2,northamerica-northeast2-c
 n2-standard-128,128.0,512.0,,,,southamerica-east1,southamerica-east1-a,9.86624,1.50861
 n2-standard-128,128.0,512.0,,,,southamerica-east1,southamerica-east1-b,9.86624,1.50861
 n2-standard-128,128.0,512.0,,,,southamerica-east1,southamerica-east1-c,9.86624,1.50861
+n2-standard-128,128.0,512.0,,,,southamerica-west1,southamerica-west1-b,8.88824,2.48166
 n2-standard-128,128.0,512.0,,,,us-central1,us-central1-a,6.21555,1.60768
 n2-standard-128,128.0,512.0,,,,us-central1,us-central1-b,6.21555,1.60768
 n2-standard-128,128.0,512.0,,,,us-central1,us-central1-c,6.21555,1.60768
@@ -10075,6 +10079,7 @@ n2-standard-96,96.0,384.0,,,,northamerica-northeast2,northamerica-northeast2-c,5
 n2-standard-96,96.0,384.0,,,,southamerica-east1,southamerica-east1-a,7.39968,1.13146
 n2-standard-96,96.0,384.0,,,,southamerica-east1,southamerica-east1-b,7.39968,1.13146
 n2-standard-96,96.0,384.0,,,,southamerica-east1,southamerica-east1-c,7.39968,1.13146
+n2-standard-96,96.0,384.0,,,,southamerica-west1,southamerica-west1-b,6.66618,1.86125
 n2-standard-96,96.0,384.0,,,,us-central1,us-central1-a,4.66166,1.20576
 n2-standard-96,96.0,384.0,,,,us-central1,us-central1-b,4.66166,1.20576
 n2-standard-96,96.0,384.0,,,,us-central1,us-central1-c,4.66166,1.20576
