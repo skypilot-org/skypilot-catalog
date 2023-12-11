@@ -3923,6 +3923,7 @@ g2-standard-12,12.0,48.0,,,,us-central1,us-central1-a,0.44038,0.16738
 g2-standard-12,12.0,48.0,,,,us-central1,us-central1-b,0.44038,0.16738
 g2-standard-12,12.0,48.0,,,,us-central1,us-central1-c,0.44038,0.16738
 g2-standard-12,12.0,48.0,,,,us-east1,us-east1-b,0.44038,0.16738
+g2-standard-12,12.0,48.0,,,,us-east1,us-east1-c,0.44038,0.16738
 g2-standard-12,12.0,48.0,,,,us-east1,us-east1-d,0.44038,0.16738
 g2-standard-12,12.0,48.0,,,,us-east4,us-east4-a,0.43893,0.17554
 g2-standard-12,12.0,48.0,,,,us-east4,us-east4-c,0.43893,0.17554
@@ -3954,6 +3955,7 @@ g2-standard-16,16.0,64.0,,,,us-central1,us-central1-a,0.58717,0.22317
 g2-standard-16,16.0,64.0,,,,us-central1,us-central1-b,0.58717,0.22317
 g2-standard-16,16.0,64.0,,,,us-central1,us-central1-c,0.58717,0.22317
 g2-standard-16,16.0,64.0,,,,us-east1,us-east1-b,0.58717,0.22317
+g2-standard-16,16.0,64.0,,,,us-east1,us-east1-c,0.58717,0.22317
 g2-standard-16,16.0,64.0,,,,us-east1,us-east1-d,0.58717,0.22317
 g2-standard-16,16.0,64.0,,,,us-east4,us-east4-a,0.58525,0.23405
 g2-standard-16,16.0,64.0,,,,us-east4,us-east4-c,0.58525,0.23405
@@ -3985,6 +3987,7 @@ g2-standard-24,24.0,96.0,,,,us-central1,us-central1-a,0.88075,0.33475
 g2-standard-24,24.0,96.0,,,,us-central1,us-central1-b,0.88075,0.33475
 g2-standard-24,24.0,96.0,,,,us-central1,us-central1-c,0.88075,0.33475
 g2-standard-24,24.0,96.0,,,,us-east1,us-east1-b,0.88075,0.33475
+g2-standard-24,24.0,96.0,,,,us-east1,us-east1-c,0.88075,0.33475
 g2-standard-24,24.0,96.0,,,,us-east1,us-east1-d,0.88075,0.33475
 g2-standard-24,24.0,96.0,,,,us-east4,us-east4-a,0.87787,0.35107
 g2-standard-24,24.0,96.0,,,,us-east4,us-east4-c,0.87787,0.35107
@@ -4016,6 +4019,7 @@ g2-standard-32,32.0,128.0,,,,us-central1,us-central1-a,1.17434,0.44634
 g2-standard-32,32.0,128.0,,,,us-central1,us-central1-b,1.17434,0.44634
 g2-standard-32,32.0,128.0,,,,us-central1,us-central1-c,1.17434,0.44634
 g2-standard-32,32.0,128.0,,,,us-east1,us-east1-b,1.17434,0.44634
+g2-standard-32,32.0,128.0,,,,us-east1,us-east1-c,1.17434,0.44634
 g2-standard-32,32.0,128.0,,,,us-east1,us-east1-d,1.17434,0.44634
 g2-standard-32,32.0,128.0,,,,us-east4,us-east4-a,1.17049,0.4681
 g2-standard-32,32.0,128.0,,,,us-east4,us-east4-c,1.17049,0.4681
@@ -4047,6 +4051,7 @@ g2-standard-4,4.0,16.0,,,,us-central1,us-central1-a,0.14679,0.05579
 g2-standard-4,4.0,16.0,,,,us-central1,us-central1-b,0.14679,0.05579
 g2-standard-4,4.0,16.0,,,,us-central1,us-central1-c,0.14679,0.05579
 g2-standard-4,4.0,16.0,,,,us-east1,us-east1-b,0.14679,0.05579
+g2-standard-4,4.0,16.0,,,,us-east1,us-east1-c,0.14679,0.05579
 g2-standard-4,4.0,16.0,,,,us-east1,us-east1-d,0.14679,0.05579
 g2-standard-4,4.0,16.0,,,,us-east4,us-east4-a,0.14631,0.05851
 g2-standard-4,4.0,16.0,,,,us-east4,us-east4-c,0.14631,0.05851
@@ -4078,6 +4083,7 @@ g2-standard-48,48.0,192.0,,,,us-central1,us-central1-a,1.7615,0.6695
 g2-standard-48,48.0,192.0,,,,us-central1,us-central1-b,1.7615,0.6695
 g2-standard-48,48.0,192.0,,,,us-central1,us-central1-c,1.7615,0.6695
 g2-standard-48,48.0,192.0,,,,us-east1,us-east1-b,1.7615,0.6695
+g2-standard-48,48.0,192.0,,,,us-east1,us-east1-c,1.7615,0.6695
 g2-standard-48,48.0,192.0,,,,us-east1,us-east1-d,1.7615,0.6695
 g2-standard-48,48.0,192.0,,,,us-east4,us-east4-a,1.75574,0.70214
 g2-standard-48,48.0,192.0,,,,us-east4,us-east4-c,1.75574,0.70214
@@ -4109,6 +4115,7 @@ g2-standard-8,8.0,32.0,,,,us-central1,us-central1-a,0.29358,0.11158
 g2-standard-8,8.0,32.0,,,,us-central1,us-central1-b,0.29358,0.11158
 g2-standard-8,8.0,32.0,,,,us-central1,us-central1-c,0.29358,0.11158
 g2-standard-8,8.0,32.0,,,,us-east1,us-east1-b,0.29358,0.11158
+g2-standard-8,8.0,32.0,,,,us-east1,us-east1-c,0.29358,0.11158
 g2-standard-8,8.0,32.0,,,,us-east1,us-east1-d,0.29358,0.11158
 g2-standard-8,8.0,32.0,,,,us-east4,us-east4-a,0.29262,0.11702
 g2-standard-8,8.0,32.0,,,,us-east4,us-east4-c,0.29262,0.11702
@@ -4139,6 +4146,7 @@ g2-standard-96,96.0,384.0,,,,us-central1,us-central1-a,3.52301,1.33901
 g2-standard-96,96.0,384.0,,,,us-central1,us-central1-b,3.52301,1.33901
 g2-standard-96,96.0,384.0,,,,us-central1,us-central1-c,3.52301,1.33901
 g2-standard-96,96.0,384.0,,,,us-east1,us-east1-b,3.52301,1.33901
+g2-standard-96,96.0,384.0,,,,us-east1,us-east1-c,3.52301,1.33901
 g2-standard-96,96.0,384.0,,,,us-east1,us-east1-d,3.52301,1.33901
 g2-standard-96,96.0,384.0,,,,us-east4,us-east4-a,3.51147,1.40429
 g2-standard-96,96.0,384.0,,,,us-east4,us-east4-c,3.51147,1.40429
