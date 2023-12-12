@@ -7839,6 +7839,7 @@ n2-highmem-128,128.0,864.0,,,,europe-central2,europe-central2-b,9.92915,2.53904
 n2-highmem-128,128.0,864.0,,,,europe-central2,europe-central2-c,9.92915,2.53904
 n2-highmem-128,128.0,864.0,,,,europe-north1,europe-north1-a,8.48486,2.05158
 n2-highmem-128,128.0,864.0,,,,europe-north1,europe-north1-b,8.48486,2.05158
+n2-highmem-128,128.0,864.0,,,,europe-north1,europe-north1-c,8.48486,2.05158
 n2-highmem-128,128.0,864.0,,,,europe-southwest1,europe-southwest1-a,9.09423,1.28669
 n2-highmem-128,128.0,864.0,,,,europe-southwest1,europe-southwest1-b,9.09423,1.28669
 n2-highmem-128,128.0,864.0,,,,europe-southwest1,europe-southwest1-c,9.09423,1.28669
@@ -8896,6 +8897,7 @@ n2-highmem-96,96.0,768.0,,,,europe-central2,europe-central2-b,8.10182,2.07168
 n2-highmem-96,96.0,768.0,,,,europe-central2,europe-central2-c,8.10182,2.07168
 n2-highmem-96,96.0,768.0,,,,europe-north1,europe-north1-a,6.92333,1.67405
 n2-highmem-96,96.0,768.0,,,,europe-north1,europe-north1-b,6.92333,1.67405
+n2-highmem-96,96.0,768.0,,,,europe-north1,europe-north1-c,6.92333,1.67405
 n2-highmem-96,96.0,768.0,,,,europe-southwest1,europe-southwest1-a,7.42063,1.04986
 n2-highmem-96,96.0,768.0,,,,europe-southwest1,europe-southwest1-b,7.42063,1.04986
 n2-highmem-96,96.0,768.0,,,,europe-southwest1,europe-southwest1-c,7.42063,1.04986
