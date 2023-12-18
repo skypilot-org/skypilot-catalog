@@ -4420,6 +4420,7 @@ m3-megamem-128,128.0,1952.0,,,,europe-west4,europe-west4-b,15.14521,2.85155
 m3-megamem-128,128.0,1952.0,,,,europe-west8,europe-west8-a,16.71514,3.53382
 m3-megamem-128,128.0,1952.0,,,,europe-west8,europe-west8-c,16.71514,3.53382
 m3-megamem-128,128.0,1952.0,,,,europe-west9,europe-west9-a,16.71514,3.53382
+m3-megamem-128,128.0,1952.0,,,,europe-west9,europe-west9-b,16.71514,3.53382
 m3-megamem-128,128.0,1952.0,,,,me-central1,me-central1-b,17.50766,3.70138
 m3-megamem-128,128.0,1952.0,,,,me-central1,me-central1-c,17.50766,3.70138
 m3-megamem-128,128.0,1952.0,,,,me-central2,me-central2-a,23.05536,4.87424
@@ -4455,6 +4456,7 @@ m3-megamem-64,64.0,976.0,,,,europe-west4,europe-west4-b,7.57261,1.42578
 m3-megamem-64,64.0,976.0,,,,europe-west8,europe-west8-a,8.35757,1.76691
 m3-megamem-64,64.0,976.0,,,,europe-west8,europe-west8-c,8.35757,1.76691
 m3-megamem-64,64.0,976.0,,,,europe-west9,europe-west9-a,8.35757,1.76691
+m3-megamem-64,64.0,976.0,,,,europe-west9,europe-west9-b,8.35757,1.76691
 m3-megamem-64,64.0,976.0,,,,me-central1,me-central1-b,8.75383,1.85069
 m3-megamem-64,64.0,976.0,,,,me-central1,me-central1-c,8.75383,1.85069
 m3-megamem-64,64.0,976.0,,,,me-central2,me-central2-a,11.52768,2.43712
@@ -4490,6 +4492,7 @@ m3-ultramem-128,128.0,3904.0,,,,europe-west4,europe-west4-b,25.60862,4.82502
 m3-ultramem-128,128.0,3904.0,,,,europe-west8,europe-west8-a,28.26317,5.97929
 m3-ultramem-128,128.0,3904.0,,,,europe-west8,europe-west8-c,28.26317,5.97929
 m3-ultramem-128,128.0,3904.0,,,,europe-west9,europe-west9-a,28.26317,5.97929
+m3-ultramem-128,128.0,3904.0,,,,europe-west9,europe-west9-b,28.26317,5.97929
 m3-ultramem-128,128.0,3904.0,,,,me-central1,me-central1-b,29.60323,6.26279
 m3-ultramem-128,128.0,3904.0,,,,me-central1,me-central1-c,29.60323,6.26279
 m3-ultramem-128,128.0,3904.0,,,,me-central2,me-central2-a,38.98368,8.2473
@@ -4525,6 +4528,7 @@ m3-ultramem-32,32.0,976.0,,,,europe-west4,europe-west4-b,6.40216,1.20626
 m3-ultramem-32,32.0,976.0,,,,europe-west8,europe-west8-a,7.06579,1.49482
 m3-ultramem-32,32.0,976.0,,,,europe-west8,europe-west8-c,7.06579,1.49482
 m3-ultramem-32,32.0,976.0,,,,europe-west9,europe-west9-a,7.06579,1.49482
+m3-ultramem-32,32.0,976.0,,,,europe-west9,europe-west9-b,7.06579,1.49482
 m3-ultramem-32,32.0,976.0,,,,me-central1,me-central1-b,7.40081,1.5657
 m3-ultramem-32,32.0,976.0,,,,me-central1,me-central1-c,7.40081,1.5657
 m3-ultramem-32,32.0,976.0,,,,me-central2,me-central2-a,9.74592,2.06182
@@ -4560,6 +4564,7 @@ m3-ultramem-64,64.0,1952.0,,,,europe-west4,europe-west4-b,12.80431,2.41251
 m3-ultramem-64,64.0,1952.0,,,,europe-west8,europe-west8-a,14.13158,2.98964
 m3-ultramem-64,64.0,1952.0,,,,europe-west8,europe-west8-c,14.13158,2.98964
 m3-ultramem-64,64.0,1952.0,,,,europe-west9,europe-west9-a,14.13158,2.98964
+m3-ultramem-64,64.0,1952.0,,,,europe-west9,europe-west9-b,14.13158,2.98964
 m3-ultramem-64,64.0,1952.0,,,,me-central1,me-central1-b,14.80162,3.1314
 m3-ultramem-64,64.0,1952.0,,,,me-central1,me-central1-c,14.80162,3.1314
 m3-ultramem-64,64.0,1952.0,,,,me-central2,me-central2-a,19.49184,4.12365
@@ -10259,6 +10264,7 @@ n2d-highcpu-128,128.0,128.0,,,,northamerica-northeast1,northamerica-northeast1-c
 n2d-highcpu-128,128.0,128.0,,,,southamerica-east1,southamerica-east1-a,6.33702,1.13101
 n2d-highcpu-128,128.0,128.0,,,,southamerica-east1,southamerica-east1-b,6.33702,1.13101
 n2d-highcpu-128,128.0,128.0,,,,southamerica-east1,southamerica-east1-c,6.33702,1.13101
+n2d-highcpu-128,128.0,128.0,,,,southamerica-west1,southamerica-west1-b,5.70865,1.3814
 n2d-highcpu-128,128.0,128.0,,,,us-central1,us-central1-a,3.99206,0.80256
 n2d-highcpu-128,128.0,128.0,,,,us-central1,us-central1-b,3.99206,0.80256
 n2d-highcpu-128,128.0,128.0,,,,us-central1,us-central1-c,3.99206,0.80256
@@ -10365,6 +10371,7 @@ n2d-highcpu-16,16.0,16.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.
 n2d-highcpu-16,16.0,16.0,,,,southamerica-east1,southamerica-east1-a,0.79213,0.14138
 n2d-highcpu-16,16.0,16.0,,,,southamerica-east1,southamerica-east1-b,0.79213,0.14138
 n2d-highcpu-16,16.0,16.0,,,,southamerica-east1,southamerica-east1-c,0.79213,0.14138
+n2d-highcpu-16,16.0,16.0,,,,southamerica-west1,southamerica-west1-b,0.71358,0.17268
 n2d-highcpu-16,16.0,16.0,,,,us-central1,us-central1-a,0.49901,0.10032
 n2d-highcpu-16,16.0,16.0,,,,us-central1,us-central1-b,0.49901,0.10032
 n2d-highcpu-16,16.0,16.0,,,,us-central1,us-central1-c,0.49901,0.10032
@@ -10471,6 +10478,7 @@ n2d-highcpu-2,2.0,2.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.068
 n2d-highcpu-2,2.0,2.0,,,,southamerica-east1,southamerica-east1-a,0.09902,0.01767
 n2d-highcpu-2,2.0,2.0,,,,southamerica-east1,southamerica-east1-b,0.09902,0.01767
 n2d-highcpu-2,2.0,2.0,,,,southamerica-east1,southamerica-east1-c,0.09902,0.01767
+n2d-highcpu-2,2.0,2.0,,,,southamerica-west1,southamerica-west1-b,0.0892,0.02158
 n2d-highcpu-2,2.0,2.0,,,,us-central1,us-central1-a,0.06238,0.01254
 n2d-highcpu-2,2.0,2.0,,,,us-central1,us-central1-b,0.06238,0.01254
 n2d-highcpu-2,2.0,2.0,,,,us-central1,us-central1-c,0.06238,0.01254
@@ -10577,6 +10585,7 @@ n2d-highcpu-224,224.0,224.0,,,,northamerica-northeast1,northamerica-northeast1-c
 n2d-highcpu-224,224.0,224.0,,,,southamerica-east1,southamerica-east1-a,11.08979,1.97926
 n2d-highcpu-224,224.0,224.0,,,,southamerica-east1,southamerica-east1-b,11.08979,1.97926
 n2d-highcpu-224,224.0,224.0,,,,southamerica-east1,southamerica-east1-c,11.08979,1.97926
+n2d-highcpu-224,224.0,224.0,,,,southamerica-west1,southamerica-west1-b,9.99014,2.41746
 n2d-highcpu-224,224.0,224.0,,,,us-central1,us-central1-a,6.98611,1.40448
 n2d-highcpu-224,224.0,224.0,,,,us-central1,us-central1-b,6.98611,1.40448
 n2d-highcpu-224,224.0,224.0,,,,us-central1,us-central1-c,6.98611,1.40448
@@ -10683,6 +10692,7 @@ n2d-highcpu-32,32.0,32.0,,,,northamerica-northeast1,northamerica-northeast1-c,1.
 n2d-highcpu-32,32.0,32.0,,,,southamerica-east1,southamerica-east1-a,1.58426,0.28275
 n2d-highcpu-32,32.0,32.0,,,,southamerica-east1,southamerica-east1-b,1.58426,0.28275
 n2d-highcpu-32,32.0,32.0,,,,southamerica-east1,southamerica-east1-c,1.58426,0.28275
+n2d-highcpu-32,32.0,32.0,,,,southamerica-west1,southamerica-west1-b,1.42716,0.34535
 n2d-highcpu-32,32.0,32.0,,,,us-central1,us-central1-a,0.99802,0.20064
 n2d-highcpu-32,32.0,32.0,,,,us-central1,us-central1-b,0.99802,0.20064
 n2d-highcpu-32,32.0,32.0,,,,us-central1,us-central1-c,0.99802,0.20064
@@ -10789,6 +10799,7 @@ n2d-highcpu-4,4.0,4.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.137
 n2d-highcpu-4,4.0,4.0,,,,southamerica-east1,southamerica-east1-a,0.19803,0.03534
 n2d-highcpu-4,4.0,4.0,,,,southamerica-east1,southamerica-east1-b,0.19803,0.03534
 n2d-highcpu-4,4.0,4.0,,,,southamerica-east1,southamerica-east1-c,0.19803,0.03534
+n2d-highcpu-4,4.0,4.0,,,,southamerica-west1,southamerica-west1-b,0.1784,0.04317
 n2d-highcpu-4,4.0,4.0,,,,us-central1,us-central1-a,0.12475,0.02508
 n2d-highcpu-4,4.0,4.0,,,,us-central1,us-central1-b,0.12475,0.02508
 n2d-highcpu-4,4.0,4.0,,,,us-central1,us-central1-c,0.12475,0.02508
@@ -10895,6 +10906,7 @@ n2d-highcpu-48,48.0,48.0,,,,northamerica-northeast1,northamerica-northeast1-c,1.
 n2d-highcpu-48,48.0,48.0,,,,southamerica-east1,southamerica-east1-a,2.37638,0.42413
 n2d-highcpu-48,48.0,48.0,,,,southamerica-east1,southamerica-east1-b,2.37638,0.42413
 n2d-highcpu-48,48.0,48.0,,,,southamerica-east1,southamerica-east1-c,2.37638,0.42413
+n2d-highcpu-48,48.0,48.0,,,,southamerica-west1,southamerica-west1-b,2.14074,0.51803
 n2d-highcpu-48,48.0,48.0,,,,us-central1,us-central1-a,1.49702,0.30096
 n2d-highcpu-48,48.0,48.0,,,,us-central1,us-central1-b,1.49702,0.30096
 n2d-highcpu-48,48.0,48.0,,,,us-central1,us-central1-c,1.49702,0.30096
@@ -11001,6 +11013,7 @@ n2d-highcpu-64,64.0,64.0,,,,northamerica-northeast1,northamerica-northeast1-c,2.
 n2d-highcpu-64,64.0,64.0,,,,southamerica-east1,southamerica-east1-a,3.16851,0.5655
 n2d-highcpu-64,64.0,64.0,,,,southamerica-east1,southamerica-east1-b,3.16851,0.5655
 n2d-highcpu-64,64.0,64.0,,,,southamerica-east1,southamerica-east1-c,3.16851,0.5655
+n2d-highcpu-64,64.0,64.0,,,,southamerica-west1,southamerica-west1-b,2.85433,0.6907
 n2d-highcpu-64,64.0,64.0,,,,us-central1,us-central1-a,1.99603,0.40128
 n2d-highcpu-64,64.0,64.0,,,,us-central1,us-central1-b,1.99603,0.40128
 n2d-highcpu-64,64.0,64.0,,,,us-central1,us-central1-c,1.99603,0.40128
@@ -11107,6 +11120,7 @@ n2d-highcpu-8,8.0,8.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.274
 n2d-highcpu-8,8.0,8.0,,,,southamerica-east1,southamerica-east1-a,0.39606,0.07069
 n2d-highcpu-8,8.0,8.0,,,,southamerica-east1,southamerica-east1-b,0.39606,0.07069
 n2d-highcpu-8,8.0,8.0,,,,southamerica-east1,southamerica-east1-c,0.39606,0.07069
+n2d-highcpu-8,8.0,8.0,,,,southamerica-west1,southamerica-west1-b,0.35679,0.08634
 n2d-highcpu-8,8.0,8.0,,,,us-central1,us-central1-a,0.2495,0.05016
 n2d-highcpu-8,8.0,8.0,,,,us-central1,us-central1-b,0.2495,0.05016
 n2d-highcpu-8,8.0,8.0,,,,us-central1,us-central1-c,0.2495,0.05016
@@ -11213,6 +11227,7 @@ n2d-highcpu-80,80.0,80.0,,,,northamerica-northeast1,northamerica-northeast1-c,2.
 n2d-highcpu-80,80.0,80.0,,,,southamerica-east1,southamerica-east1-a,3.96064,0.70688
 n2d-highcpu-80,80.0,80.0,,,,southamerica-east1,southamerica-east1-b,3.96064,0.70688
 n2d-highcpu-80,80.0,80.0,,,,southamerica-east1,southamerica-east1-c,3.96064,0.70688
+n2d-highcpu-80,80.0,80.0,,,,southamerica-west1,southamerica-west1-b,3.56791,0.86338
 n2d-highcpu-80,80.0,80.0,,,,us-central1,us-central1-a,2.49504,0.5016
 n2d-highcpu-80,80.0,80.0,,,,us-central1,us-central1-b,2.49504,0.5016
 n2d-highcpu-80,80.0,80.0,,,,us-central1,us-central1-c,2.49504,0.5016
@@ -11319,6 +11334,7 @@ n2d-highcpu-96,96.0,96.0,,,,northamerica-northeast1,northamerica-northeast1-c,3.
 n2d-highcpu-96,96.0,96.0,,,,southamerica-east1,southamerica-east1-a,4.75277,0.84826
 n2d-highcpu-96,96.0,96.0,,,,southamerica-east1,southamerica-east1-b,4.75277,0.84826
 n2d-highcpu-96,96.0,96.0,,,,southamerica-east1,southamerica-east1-c,4.75277,0.84826
+n2d-highcpu-96,96.0,96.0,,,,southamerica-west1,southamerica-west1-b,4.28149,1.03605
 n2d-highcpu-96,96.0,96.0,,,,us-central1,us-central1-a,2.99405,0.60192
 n2d-highcpu-96,96.0,96.0,,,,us-central1,us-central1-b,2.99405,0.60192
 n2d-highcpu-96,96.0,96.0,,,,us-central1,us-central1-c,2.99405,0.60192
@@ -11425,6 +11441,7 @@ n2d-highmem-16,16.0,128.0,,,,northamerica-northeast1,northamerica-northeast1-c,1
 n2d-highmem-16,16.0,128.0,,,,southamerica-east1,southamerica-east1-a,1.44744,0.25853
 n2d-highmem-16,16.0,128.0,,,,southamerica-east1,southamerica-east1-b,1.44744,0.25853
 n2d-highmem-16,16.0,128.0,,,,southamerica-east1,southamerica-east1-c,1.44744,0.25853
+n2d-highmem-16,16.0,128.0,,,,southamerica-west1,southamerica-west1-b,1.30393,0.31554
 n2d-highmem-16,16.0,128.0,,,,us-central1,us-central1-a,0.91184,0.1832
 n2d-highmem-16,16.0,128.0,,,,us-central1,us-central1-b,0.91184,0.1832
 n2d-highmem-16,16.0,128.0,,,,us-central1,us-central1-c,0.91184,0.1832
@@ -11531,6 +11548,7 @@ n2d-highmem-2,2.0,16.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.12
 n2d-highmem-2,2.0,16.0,,,,southamerica-east1,southamerica-east1-a,0.18093,0.03232
 n2d-highmem-2,2.0,16.0,,,,southamerica-east1,southamerica-east1-b,0.18093,0.03232
 n2d-highmem-2,2.0,16.0,,,,southamerica-east1,southamerica-east1-c,0.18093,0.03232
+n2d-highmem-2,2.0,16.0,,,,southamerica-west1,southamerica-west1-b,0.16299,0.03944
 n2d-highmem-2,2.0,16.0,,,,us-central1,us-central1-a,0.11398,0.0229
 n2d-highmem-2,2.0,16.0,,,,us-central1,us-central1-b,0.11398,0.0229
 n2d-highmem-2,2.0,16.0,,,,us-central1,us-central1-c,0.11398,0.0229
@@ -11637,6 +11655,7 @@ n2d-highmem-32,32.0,256.0,,,,northamerica-northeast1,northamerica-northeast1-c,2
 n2d-highmem-32,32.0,256.0,,,,southamerica-east1,southamerica-east1-a,2.89488,0.51706
 n2d-highmem-32,32.0,256.0,,,,southamerica-east1,southamerica-east1-b,2.89488,0.51706
 n2d-highmem-32,32.0,256.0,,,,southamerica-east1,southamerica-east1-c,2.89488,0.51706
+n2d-highmem-32,32.0,256.0,,,,southamerica-west1,southamerica-west1-b,2.60786,0.63108
 n2d-highmem-32,32.0,256.0,,,,us-central1,us-central1-a,1.82368,0.3664
 n2d-highmem-32,32.0,256.0,,,,us-central1,us-central1-b,1.82368,0.3664
 n2d-highmem-32,32.0,256.0,,,,us-central1,us-central1-c,1.82368,0.3664
@@ -11743,6 +11762,7 @@ n2d-highmem-4,4.0,32.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.25
 n2d-highmem-4,4.0,32.0,,,,southamerica-east1,southamerica-east1-a,0.36186,0.06463
 n2d-highmem-4,4.0,32.0,,,,southamerica-east1,southamerica-east1-b,0.36186,0.06463
 n2d-highmem-4,4.0,32.0,,,,southamerica-east1,southamerica-east1-c,0.36186,0.06463
+n2d-highmem-4,4.0,32.0,,,,southamerica-west1,southamerica-west1-b,0.32598,0.07888
 n2d-highmem-4,4.0,32.0,,,,us-central1,us-central1-a,0.22796,0.0458
 n2d-highmem-4,4.0,32.0,,,,us-central1,us-central1-b,0.22796,0.0458
 n2d-highmem-4,4.0,32.0,,,,us-central1,us-central1-c,0.22796,0.0458
@@ -11849,6 +11869,7 @@ n2d-highmem-48,48.0,384.0,,,,northamerica-northeast1,northamerica-northeast1-c,3
 n2d-highmem-48,48.0,384.0,,,,southamerica-east1,southamerica-east1-a,4.34232,0.77558
 n2d-highmem-48,48.0,384.0,,,,southamerica-east1,southamerica-east1-b,4.34232,0.77558
 n2d-highmem-48,48.0,384.0,,,,southamerica-east1,southamerica-east1-c,4.34232,0.77558
+n2d-highmem-48,48.0,384.0,,,,southamerica-west1,southamerica-west1-b,3.91179,0.94661
 n2d-highmem-48,48.0,384.0,,,,us-central1,us-central1-a,2.73552,0.5496
 n2d-highmem-48,48.0,384.0,,,,us-central1,us-central1-b,2.73552,0.5496
 n2d-highmem-48,48.0,384.0,,,,us-central1,us-central1-c,2.73552,0.5496
@@ -11955,6 +11976,7 @@ n2d-highmem-64,64.0,512.0,,,,northamerica-northeast1,northamerica-northeast1-c,4
 n2d-highmem-64,64.0,512.0,,,,southamerica-east1,southamerica-east1-a,5.78976,1.03411
 n2d-highmem-64,64.0,512.0,,,,southamerica-east1,southamerica-east1-b,5.78976,1.03411
 n2d-highmem-64,64.0,512.0,,,,southamerica-east1,southamerica-east1-c,5.78976,1.03411
+n2d-highmem-64,64.0,512.0,,,,southamerica-west1,southamerica-west1-b,5.21572,1.26215
 n2d-highmem-64,64.0,512.0,,,,us-central1,us-central1-a,3.64736,0.7328
 n2d-highmem-64,64.0,512.0,,,,us-central1,us-central1-b,3.64736,0.7328
 n2d-highmem-64,64.0,512.0,,,,us-central1,us-central1-c,3.64736,0.7328
@@ -12061,6 +12083,7 @@ n2d-highmem-8,8.0,64.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.50
 n2d-highmem-8,8.0,64.0,,,,southamerica-east1,southamerica-east1-a,0.72372,0.12926
 n2d-highmem-8,8.0,64.0,,,,southamerica-east1,southamerica-east1-b,0.72372,0.12926
 n2d-highmem-8,8.0,64.0,,,,southamerica-east1,southamerica-east1-c,0.72372,0.12926
+n2d-highmem-8,8.0,64.0,,,,southamerica-west1,southamerica-west1-b,0.65197,0.15777
 n2d-highmem-8,8.0,64.0,,,,us-central1,us-central1-a,0.45592,0.0916
 n2d-highmem-8,8.0,64.0,,,,us-central1,us-central1-b,0.45592,0.0916
 n2d-highmem-8,8.0,64.0,,,,us-central1,us-central1-c,0.45592,0.0916
@@ -12167,6 +12190,7 @@ n2d-highmem-80,80.0,640.0,,,,northamerica-northeast1,northamerica-northeast1-c,5
 n2d-highmem-80,80.0,640.0,,,,southamerica-east1,southamerica-east1-a,7.2372,1.29264
 n2d-highmem-80,80.0,640.0,,,,southamerica-east1,southamerica-east1-b,7.2372,1.29264
 n2d-highmem-80,80.0,640.0,,,,southamerica-east1,southamerica-east1-c,7.2372,1.29264
+n2d-highmem-80,80.0,640.0,,,,southamerica-west1,southamerica-west1-b,6.51966,1.57769
 n2d-highmem-80,80.0,640.0,,,,us-central1,us-central1-a,4.5592,0.916
 n2d-highmem-80,80.0,640.0,,,,us-central1,us-central1-b,4.5592,0.916
 n2d-highmem-80,80.0,640.0,,,,us-central1,us-central1-c,4.5592,0.916
@@ -12273,6 +12297,7 @@ n2d-highmem-96,96.0,768.0,,,,northamerica-northeast1,northamerica-northeast1-c,6
 n2d-highmem-96,96.0,768.0,,,,southamerica-east1,southamerica-east1-a,8.68464,1.55117
 n2d-highmem-96,96.0,768.0,,,,southamerica-east1,southamerica-east1-b,8.68464,1.55117
 n2d-highmem-96,96.0,768.0,,,,southamerica-east1,southamerica-east1-c,8.68464,1.55117
+n2d-highmem-96,96.0,768.0,,,,southamerica-west1,southamerica-west1-b,7.82359,1.89323
 n2d-highmem-96,96.0,768.0,,,,us-central1,us-central1-a,5.47104,1.0992
 n2d-highmem-96,96.0,768.0,,,,us-central1,us-central1-b,5.47104,1.0992
 n2d-highmem-96,96.0,768.0,,,,us-central1,us-central1-c,5.47104,1.0992
@@ -12379,6 +12404,7 @@ n2d-standard-128,128.0,512.0,,,,northamerica-northeast1,northamerica-northeast1-
 n2d-standard-128,128.0,512.0,,,,southamerica-east1,southamerica-east1-a,8.58381,1.53267
 n2d-standard-128,128.0,512.0,,,,southamerica-east1,southamerica-east1-b,8.58381,1.53267
 n2d-standard-128,128.0,512.0,,,,southamerica-east1,southamerica-east1-c,8.58381,1.53267
+n2d-standard-128,128.0,512.0,,,,southamerica-west1,southamerica-west1-b,7.73271,1.87122
 n2d-standard-128,128.0,512.0,,,,us-central1,us-central1-a,5.40749,1.08672
 n2d-standard-128,128.0,512.0,,,,us-central1,us-central1-b,5.40749,1.08672
 n2d-standard-128,128.0,512.0,,,,us-central1,us-central1-c,5.40749,1.08672
@@ -12485,6 +12511,7 @@ n2d-standard-16,16.0,64.0,,,,northamerica-northeast1,northamerica-northeast1-c,0
 n2d-standard-16,16.0,64.0,,,,southamerica-east1,southamerica-east1-a,1.07298,0.19158
 n2d-standard-16,16.0,64.0,,,,southamerica-east1,southamerica-east1-b,1.07298,0.19158
 n2d-standard-16,16.0,64.0,,,,southamerica-east1,southamerica-east1-c,1.07298,0.19158
+n2d-standard-16,16.0,64.0,,,,southamerica-west1,southamerica-west1-b,0.96659,0.2339
 n2d-standard-16,16.0,64.0,,,,us-central1,us-central1-a,0.67594,0.13584
 n2d-standard-16,16.0,64.0,,,,us-central1,us-central1-b,0.67594,0.13584
 n2d-standard-16,16.0,64.0,,,,us-central1,us-central1-c,0.67594,0.13584
@@ -12591,6 +12618,7 @@ n2d-standard-2,2.0,8.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.09
 n2d-standard-2,2.0,8.0,,,,southamerica-east1,southamerica-east1-a,0.13412,0.02395
 n2d-standard-2,2.0,8.0,,,,southamerica-east1,southamerica-east1-b,0.13412,0.02395
 n2d-standard-2,2.0,8.0,,,,southamerica-east1,southamerica-east1-c,0.13412,0.02395
+n2d-standard-2,2.0,8.0,,,,southamerica-west1,southamerica-west1-b,0.12082,0.02924
 n2d-standard-2,2.0,8.0,,,,us-central1,us-central1-a,0.08449,0.01698
 n2d-standard-2,2.0,8.0,,,,us-central1,us-central1-b,0.08449,0.01698
 n2d-standard-2,2.0,8.0,,,,us-central1,us-central1-c,0.08449,0.01698
@@ -12697,6 +12725,7 @@ n2d-standard-224,224.0,896.0,,,,northamerica-northeast1,northamerica-northeast1-
 n2d-standard-224,224.0,896.0,,,,southamerica-east1,southamerica-east1-a,15.02166,2.68218
 n2d-standard-224,224.0,896.0,,,,southamerica-east1,southamerica-east1-b,15.02166,2.68218
 n2d-standard-224,224.0,896.0,,,,southamerica-east1,southamerica-east1-c,15.02166,2.68218
+n2d-standard-224,224.0,896.0,,,,southamerica-west1,southamerica-west1-b,13.53224,3.27463
 n2d-standard-224,224.0,896.0,,,,us-central1,us-central1-a,9.4631,1.90176
 n2d-standard-224,224.0,896.0,,,,us-central1,us-central1-b,9.4631,1.90176
 n2d-standard-224,224.0,896.0,,,,us-central1,us-central1-c,9.4631,1.90176
@@ -12803,6 +12832,7 @@ n2d-standard-32,32.0,128.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 n2d-standard-32,32.0,128.0,,,,southamerica-east1,southamerica-east1-a,2.14595,0.38317
 n2d-standard-32,32.0,128.0,,,,southamerica-east1,southamerica-east1-b,2.14595,0.38317
 n2d-standard-32,32.0,128.0,,,,southamerica-east1,southamerica-east1-c,2.14595,0.38317
+n2d-standard-32,32.0,128.0,,,,southamerica-west1,southamerica-west1-b,1.93318,0.4678
 n2d-standard-32,32.0,128.0,,,,us-central1,us-central1-a,1.35187,0.27168
 n2d-standard-32,32.0,128.0,,,,us-central1,us-central1-b,1.35187,0.27168
 n2d-standard-32,32.0,128.0,,,,us-central1,us-central1-c,1.35187,0.27168
@@ -12909,6 +12939,7 @@ n2d-standard-4,4.0,16.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.1
 n2d-standard-4,4.0,16.0,,,,southamerica-east1,southamerica-east1-a,0.26824,0.0479
 n2d-standard-4,4.0,16.0,,,,southamerica-east1,southamerica-east1-b,0.26824,0.0479
 n2d-standard-4,4.0,16.0,,,,southamerica-east1,southamerica-east1-c,0.26824,0.0479
+n2d-standard-4,4.0,16.0,,,,southamerica-west1,southamerica-west1-b,0.24165,0.05848
 n2d-standard-4,4.0,16.0,,,,us-central1,us-central1-a,0.16898,0.03396
 n2d-standard-4,4.0,16.0,,,,us-central1,us-central1-b,0.16898,0.03396
 n2d-standard-4,4.0,16.0,,,,us-central1,us-central1-c,0.16898,0.03396
@@ -13015,6 +13046,7 @@ n2d-standard-48,48.0,192.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 n2d-standard-48,48.0,192.0,,,,southamerica-east1,southamerica-east1-a,3.21893,0.57475
 n2d-standard-48,48.0,192.0,,,,southamerica-east1,southamerica-east1-b,3.21893,0.57475
 n2d-standard-48,48.0,192.0,,,,southamerica-east1,southamerica-east1-c,3.21893,0.57475
+n2d-standard-48,48.0,192.0,,,,southamerica-west1,southamerica-west1-b,2.89977,0.70171
 n2d-standard-48,48.0,192.0,,,,us-central1,us-central1-a,2.02781,0.40752
 n2d-standard-48,48.0,192.0,,,,us-central1,us-central1-b,2.02781,0.40752
 n2d-standard-48,48.0,192.0,,,,us-central1,us-central1-c,2.02781,0.40752
@@ -13121,6 +13153,7 @@ n2d-standard-64,64.0,256.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 n2d-standard-64,64.0,256.0,,,,southamerica-east1,southamerica-east1-a,4.2919,0.76634
 n2d-standard-64,64.0,256.0,,,,southamerica-east1,southamerica-east1-b,4.2919,0.76634
 n2d-standard-64,64.0,256.0,,,,southamerica-east1,southamerica-east1-c,4.2919,0.76634
+n2d-standard-64,64.0,256.0,,,,southamerica-west1,southamerica-west1-b,3.86635,0.93561
 n2d-standard-64,64.0,256.0,,,,us-central1,us-central1-a,2.70374,0.54336
 n2d-standard-64,64.0,256.0,,,,us-central1,us-central1-b,2.70374,0.54336
 n2d-standard-64,64.0,256.0,,,,us-central1,us-central1-c,2.70374,0.54336
@@ -13227,6 +13260,7 @@ n2d-standard-8,8.0,32.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.3
 n2d-standard-8,8.0,32.0,,,,southamerica-east1,southamerica-east1-a,0.53649,0.09579
 n2d-standard-8,8.0,32.0,,,,southamerica-east1,southamerica-east1-b,0.53649,0.09579
 n2d-standard-8,8.0,32.0,,,,southamerica-east1,southamerica-east1-c,0.53649,0.09579
+n2d-standard-8,8.0,32.0,,,,southamerica-west1,southamerica-west1-b,0.48329,0.11695
 n2d-standard-8,8.0,32.0,,,,us-central1,us-central1-a,0.33797,0.06792
 n2d-standard-8,8.0,32.0,,,,us-central1,us-central1-b,0.33797,0.06792
 n2d-standard-8,8.0,32.0,,,,us-central1,us-central1-c,0.33797,0.06792
@@ -13333,6 +13367,7 @@ n2d-standard-80,80.0,320.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 n2d-standard-80,80.0,320.0,,,,southamerica-east1,southamerica-east1-a,5.36488,0.95792
 n2d-standard-80,80.0,320.0,,,,southamerica-east1,southamerica-east1-b,5.36488,0.95792
 n2d-standard-80,80.0,320.0,,,,southamerica-east1,southamerica-east1-c,5.36488,0.95792
+n2d-standard-80,80.0,320.0,,,,southamerica-west1,southamerica-west1-b,4.83294,1.16951
 n2d-standard-80,80.0,320.0,,,,us-central1,us-central1-a,3.37968,0.6792
 n2d-standard-80,80.0,320.0,,,,us-central1,us-central1-b,3.37968,0.6792
 n2d-standard-80,80.0,320.0,,,,us-central1,us-central1-c,3.37968,0.6792
@@ -13439,6 +13474,7 @@ n2d-standard-96,96.0,384.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 n2d-standard-96,96.0,384.0,,,,southamerica-east1,southamerica-east1-a,6.43786,1.1495
 n2d-standard-96,96.0,384.0,,,,southamerica-east1,southamerica-east1-b,6.43786,1.1495
 n2d-standard-96,96.0,384.0,,,,southamerica-east1,southamerica-east1-c,6.43786,1.1495
+n2d-standard-96,96.0,384.0,,,,southamerica-west1,southamerica-west1-b,5.79953,1.40341
 n2d-standard-96,96.0,384.0,,,,us-central1,us-central1-a,4.05562,0.81504
 n2d-standard-96,96.0,384.0,,,,us-central1,us-central1-b,4.05562,0.81504
 n2d-standard-96,96.0,384.0,,,,us-central1,us-central1-c,4.05562,0.81504
@@ -13598,6 +13634,7 @@ t2d-standard-1,1.0,4.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.04
 t2d-standard-1,1.0,4.0,,,,southamerica-east1,southamerica-east1-a,0.06706,0.02016
 t2d-standard-1,1.0,4.0,,,,southamerica-east1,southamerica-east1-b,0.06706,0.02016
 t2d-standard-1,1.0,4.0,,,,southamerica-east1,southamerica-east1-c,0.06706,0.02016
+t2d-standard-1,1.0,4.0,,,,southamerica-west1,southamerica-west1-b,0.06041,0.01462
 t2d-standard-1,1.0,4.0,,,,us-central1,us-central1-a,0.04225,0.00707
 t2d-standard-1,1.0,4.0,,,,us-central1,us-central1-b,0.04225,0.00707
 t2d-standard-1,1.0,4.0,,,,us-central1,us-central1-c,0.04225,0.00707
@@ -13701,6 +13738,7 @@ t2d-standard-16,16.0,64.0,,,,northamerica-northeast1,northamerica-northeast1-c,0
 t2d-standard-16,16.0,64.0,,,,southamerica-east1,southamerica-east1-a,1.07298,0.32256
 t2d-standard-16,16.0,64.0,,,,southamerica-east1,southamerica-east1-b,1.07298,0.32256
 t2d-standard-16,16.0,64.0,,,,southamerica-east1,southamerica-east1-c,1.07298,0.32256
+t2d-standard-16,16.0,64.0,,,,southamerica-west1,southamerica-west1-b,0.96659,0.2339
 t2d-standard-16,16.0,64.0,,,,us-central1,us-central1-a,0.67594,0.11309
 t2d-standard-16,16.0,64.0,,,,us-central1,us-central1-b,0.67594,0.11309
 t2d-standard-16,16.0,64.0,,,,us-central1,us-central1-c,0.67594,0.11309
@@ -13804,6 +13842,7 @@ t2d-standard-2,2.0,8.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.09
 t2d-standard-2,2.0,8.0,,,,southamerica-east1,southamerica-east1-a,0.13412,0.04032
 t2d-standard-2,2.0,8.0,,,,southamerica-east1,southamerica-east1-b,0.13412,0.04032
 t2d-standard-2,2.0,8.0,,,,southamerica-east1,southamerica-east1-c,0.13412,0.04032
+t2d-standard-2,2.0,8.0,,,,southamerica-west1,southamerica-west1-b,0.12082,0.02924
 t2d-standard-2,2.0,8.0,,,,us-central1,us-central1-a,0.08449,0.01414
 t2d-standard-2,2.0,8.0,,,,us-central1,us-central1-b,0.08449,0.01414
 t2d-standard-2,2.0,8.0,,,,us-central1,us-central1-c,0.08449,0.01414
@@ -13907,6 +13946,7 @@ t2d-standard-32,32.0,128.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 t2d-standard-32,32.0,128.0,,,,southamerica-east1,southamerica-east1-a,2.14595,0.64512
 t2d-standard-32,32.0,128.0,,,,southamerica-east1,southamerica-east1-b,2.14595,0.64512
 t2d-standard-32,32.0,128.0,,,,southamerica-east1,southamerica-east1-c,2.14595,0.64512
+t2d-standard-32,32.0,128.0,,,,southamerica-west1,southamerica-west1-b,1.93318,0.4678
 t2d-standard-32,32.0,128.0,,,,us-central1,us-central1-a,1.35187,0.22618
 t2d-standard-32,32.0,128.0,,,,us-central1,us-central1-b,1.35187,0.22618
 t2d-standard-32,32.0,128.0,,,,us-central1,us-central1-c,1.35187,0.22618
@@ -14010,6 +14050,7 @@ t2d-standard-4,4.0,16.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.1
 t2d-standard-4,4.0,16.0,,,,southamerica-east1,southamerica-east1-a,0.26824,0.08064
 t2d-standard-4,4.0,16.0,,,,southamerica-east1,southamerica-east1-b,0.26824,0.08064
 t2d-standard-4,4.0,16.0,,,,southamerica-east1,southamerica-east1-c,0.26824,0.08064
+t2d-standard-4,4.0,16.0,,,,southamerica-west1,southamerica-west1-b,0.24165,0.05848
 t2d-standard-4,4.0,16.0,,,,us-central1,us-central1-a,0.16898,0.02827
 t2d-standard-4,4.0,16.0,,,,us-central1,us-central1-b,0.16898,0.02827
 t2d-standard-4,4.0,16.0,,,,us-central1,us-central1-c,0.16898,0.02827
@@ -14113,6 +14154,7 @@ t2d-standard-48,48.0,192.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 t2d-standard-48,48.0,192.0,,,,southamerica-east1,southamerica-east1-a,3.21893,0.96768
 t2d-standard-48,48.0,192.0,,,,southamerica-east1,southamerica-east1-b,3.21893,0.96768
 t2d-standard-48,48.0,192.0,,,,southamerica-east1,southamerica-east1-c,3.21893,0.96768
+t2d-standard-48,48.0,192.0,,,,southamerica-west1,southamerica-west1-b,2.89977,0.70171
 t2d-standard-48,48.0,192.0,,,,us-central1,us-central1-a,2.02781,0.33926
 t2d-standard-48,48.0,192.0,,,,us-central1,us-central1-b,2.02781,0.33926
 t2d-standard-48,48.0,192.0,,,,us-central1,us-central1-c,2.02781,0.33926
@@ -14216,6 +14258,7 @@ t2d-standard-60,60.0,240.0,,,,northamerica-northeast1,northamerica-northeast1-c,
 t2d-standard-60,60.0,240.0,,,,southamerica-east1,southamerica-east1-a,4.02366,1.2096
 t2d-standard-60,60.0,240.0,,,,southamerica-east1,southamerica-east1-b,4.02366,1.2096
 t2d-standard-60,60.0,240.0,,,,southamerica-east1,southamerica-east1-c,4.02366,1.2096
+t2d-standard-60,60.0,240.0,,,,southamerica-west1,southamerica-west1-b,3.62471,0.87713
 t2d-standard-60,60.0,240.0,,,,us-central1,us-central1-a,2.53476,0.42408
 t2d-standard-60,60.0,240.0,,,,us-central1,us-central1-b,2.53476,0.42408
 t2d-standard-60,60.0,240.0,,,,us-central1,us-central1-c,2.53476,0.42408
@@ -14319,6 +14362,7 @@ t2d-standard-8,8.0,32.0,,,,northamerica-northeast1,northamerica-northeast1-c,0.3
 t2d-standard-8,8.0,32.0,,,,southamerica-east1,southamerica-east1-a,0.53649,0.16128
 t2d-standard-8,8.0,32.0,,,,southamerica-east1,southamerica-east1-b,0.53649,0.16128
 t2d-standard-8,8.0,32.0,,,,southamerica-east1,southamerica-east1-c,0.53649,0.16128
+t2d-standard-8,8.0,32.0,,,,southamerica-west1,southamerica-west1-b,0.48329,0.11695
 t2d-standard-8,8.0,32.0,,,,us-central1,us-central1-a,0.33797,0.05654
 t2d-standard-8,8.0,32.0,,,,us-central1,us-central1-b,0.33797,0.05654
 t2d-standard-8,8.0,32.0,,,,us-central1,us-central1-c,0.33797,0.05654
