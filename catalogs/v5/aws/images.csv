@@ -9,7 +9,7 @@ skypilot:gpu-ubuntu-1804,ap-southeast-1,ubuntu,18.04,ami-039e9fe87889a26aa,20221
 skypilot:gpu-ubuntu-1804,ap-southeast-2,ubuntu,18.04,ami-0d399ac952cd82df2,20221114
 skypilot:gpu-ubuntu-1804,ap-southeast-3,ubuntu,18.04,ami-055905796513f39a4,20221114
 skypilot:gpu-ubuntu-1804,ca-central-1,ubuntu,18.04,ami-039ee36db032bb105,20221114
-skypilot:gpu-ubuntu-1804,eu-central-1,ubuntu,18.04,,20221114
+skypilot:gpu-ubuntu-1804,eu-central-1,ubuntu,18.04,ami-0679cfc43e2f826b7,20221114
 skypilot:gpu-ubuntu-1804,eu-north-1,ubuntu,18.04,ami-0fa7961662d57f497,20221114
 skypilot:gpu-ubuntu-1804,eu-south-1,ubuntu,18.04,ami-0541142722333c9a7,20221114
 skypilot:gpu-ubuntu-1804,eu-west-1,ubuntu,18.04,ami-0f531d201ab7473d1,20221114
