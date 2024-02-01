@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - fluidstack-catalog
-  # schedule:
-  #   - cron:  '00 */7 * * *'    # Every 7 hours (coprimes with 24)
+  schedule:
+   - cron:  '00 */7 * * *'    # Every 7 hours (coprimes with 24)
   #   # The frequency can be tuned for the trade-off between
   #   # freshness of the price and github action cost/user downloading
   #   # overhead of the update.
@@ -20,6 +20,7 @@ jobs:
         with:
           repository: fluidstackio/skypilot
           path: sky
+          ref: fluidstack-provisioner
       - name: Clone Catalog repo
         uses: actions/checkout@v3
         with:
@@ -41,7 +42,6 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
-          git checkout fluidstack-provisioner
           python -m sky.clouds.service_catalog.data_fetchers.fetch_fluidstack 
 
       - name: Commit catalog
@@ -50,6 +50,7 @@ jobs:
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull
           git add .
           git commit -m"[Bot] Update FluidStack catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
