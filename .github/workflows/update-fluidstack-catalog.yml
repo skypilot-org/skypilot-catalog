@@ -18,7 +18,7 @@ jobs:
       - name: Clone SkyPilot repo
         uses: actions/checkout@v3
         with:
-          repository: skypilot-org/skypilot
+          repository: fluidstackio/skypilot
           path: sky
       - name: Clone Catalog repo
         uses: actions/checkout@v3
@@ -41,6 +41,7 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
+          git checkout fluidstack-provisioner
           python -m sky.clouds.service_catalog.data_fetchers.fetch_fluidstack 
 
       - name: Commit catalog
