@@ -6,7 +6,7 @@
 
 ## Automatic Catalog Fetching
 
-Catalogs for AWS and GCP are automatically fetched & refreshed from the cloud provider, implemented as GitHub Actions. Other clouds can implement [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/clouds/service_catalog/data_fetchers) and a corresponding [Action](./.github/workflows/) to add auto-refresh.
+Catalogs for AWS, GCP, and Lambda are automatically fetched & refreshed from the cloud provider, implemented as GitHub Actions. Other clouds can implement [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/clouds/service_catalog/data_fetchers) and a corresponding [Action](./.github/workflows/) to add auto-refresh.
 
 Catalogs are updated **every 7 hours**.
 
