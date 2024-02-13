@@ -10335,6 +10335,7 @@ n2-standard-96,96.0,384.0,,,,us-west4,us-west4-a,5.24995,1.20173
 n2-standard-96,96.0,384.0,,,,us-west4,us-west4-b,5.24995,1.20173
 n2-standard-96,96.0,384.0,,,,us-west4,us-west4-c,5.24995,1.20173
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-southeast1,asia-southeast1-b,4.67307,1.15098
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west1,europe-west1-b,4.1669,1.15117
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west4,europe-west4-a,4.17027,0.55635
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west4,europe-west4-b,4.17027,0.55635
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-central1,us-central1-a,3.78794,0.76144
@@ -10347,6 +10348,7 @@ n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-west4,us-west4-a,4.2663,0.98061
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-west4,us-west4-b,4.2663,0.98061
 n2d-356-96-tpu,96.0,340.0,,,,us-east5,us-east5-b,3.89343,0.65822
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-southeast1,asia-southeast1-b,9.34614,2.30195
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west1,europe-west1-b,8.33379,2.30234
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west4,europe-west4-a,8.34054,1.1127
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west4,europe-west4-b,8.34054,1.1127
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-central1,us-central1-a,7.57587,1.52288
@@ -10358,6 +10360,7 @@ n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west1,us-west1-c,7.57587,1.52288
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west4,us-west4-a,8.53261,1.96122
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west4,us-west4-b,8.53261,1.96122
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-southeast1,asia-southeast1-b,1.03255,0.2543
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west1,europe-west1-b,0.92071,0.25435
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west4,europe-west4-a,0.92146,0.12293
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west4,europe-west4-b,0.92146,0.12293
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-central1,us-central1-a,0.83698,0.16824
