@@ -15401,7 +15401,6 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.08395
 ,,,tpu-v3-64,1.0,tpu-v3-64,europe-west4,europe-west4-a,64.0,19.2
 ,,,tpu-v3-64,1.0,tpu-v3-64,us-east1,us-east1-d,64.0,19.2
 ,,,tpu-v3-128,1.0,tpu-v3-128,europe-west4,europe-west4-a,128.0,38.4
-,,,tpu-v3-128,1.0,tpu-v3-128,us-east1,us-east1-d,128.0,38.4
 ,,,tpu-v3-256,1.0,tpu-v3-256,europe-west4,europe-west4-a,256.0,76.8
 ,,,tpu-v3-256,1.0,tpu-v3-256,us-east1,us-east1-d,256.0,76.8
 ,,,tpu-v3-512,1.0,tpu-v3-512,europe-west4,europe-west4-a,512.0,153.6
