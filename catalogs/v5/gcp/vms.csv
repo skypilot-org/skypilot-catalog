@@ -4498,6 +4498,7 @@ m3-megamem-128,128.0,1952.0,,,,northamerica-northeast1,northamerica-northeast1-b
 m3-megamem-128,128.0,1952.0,,,,northamerica-northeast1,northamerica-northeast1-c,15.86641,3.35439
 m3-megamem-128,128.0,1952.0,,,,northamerica-northeast2,northamerica-northeast2-a,15.86641,3.35439
 m3-megamem-128,128.0,1952.0,,,,northamerica-northeast2,northamerica-northeast2-b,15.86641,3.35439
+m3-megamem-128,128.0,1952.0,,,,southamerica-east1,southamerica-east1-b,22.881,4.83738
 m3-megamem-128,128.0,1952.0,,,,us-central1,us-central1-a,14.4096,5.63309
 m3-megamem-128,128.0,1952.0,,,,us-central1,us-central1-b,14.4096,5.63309
 m3-megamem-128,128.0,1952.0,,,,us-central1,us-central1-f,14.4096,5.63309
@@ -4537,6 +4538,7 @@ m3-megamem-64,64.0,976.0,,,,northamerica-northeast1,northamerica-northeast1-b,7.
 m3-megamem-64,64.0,976.0,,,,northamerica-northeast1,northamerica-northeast1-c,7.93321,1.6772
 m3-megamem-64,64.0,976.0,,,,northamerica-northeast2,northamerica-northeast2-a,7.93321,1.6772
 m3-megamem-64,64.0,976.0,,,,northamerica-northeast2,northamerica-northeast2-b,7.93321,1.6772
+m3-megamem-64,64.0,976.0,,,,southamerica-east1,southamerica-east1-b,11.4405,2.41869
 m3-megamem-64,64.0,976.0,,,,us-central1,us-central1-a,7.2048,2.81654
 m3-megamem-64,64.0,976.0,,,,us-central1,us-central1-b,7.2048,2.81654
 m3-megamem-64,64.0,976.0,,,,us-central1,us-central1-f,7.2048,2.81654
@@ -4576,6 +4578,7 @@ m3-ultramem-128,128.0,3904.0,,,,northamerica-northeast1,northamerica-northeast1-
 m3-ultramem-128,128.0,3904.0,,,,northamerica-northeast1,northamerica-northeast1-c,26.82808,5.67569
 m3-ultramem-128,128.0,3904.0,,,,northamerica-northeast2,northamerica-northeast2-a,26.82808,5.67569
 m3-ultramem-128,128.0,3904.0,,,,northamerica-northeast2,northamerica-northeast2-b,26.82808,5.67569
+m3-ultramem-128,128.0,3904.0,,,,southamerica-east1,southamerica-east1-b,38.68887,8.18493
 m3-ultramem-128,128.0,3904.0,,,,us-central1,us-central1-a,24.3648,9.52538
 m3-ultramem-128,128.0,3904.0,,,,us-central1,us-central1-b,24.3648,9.52538
 m3-ultramem-128,128.0,3904.0,,,,us-central1,us-central1-f,24.3648,9.52538
@@ -4615,6 +4618,7 @@ m3-ultramem-32,32.0,976.0,,,,northamerica-northeast1,northamerica-northeast1-b,6
 m3-ultramem-32,32.0,976.0,,,,northamerica-northeast1,northamerica-northeast1-c,6.70702,1.41892
 m3-ultramem-32,32.0,976.0,,,,northamerica-northeast2,northamerica-northeast2-a,6.70702,1.41892
 m3-ultramem-32,32.0,976.0,,,,northamerica-northeast2,northamerica-northeast2-b,6.70702,1.41892
+m3-ultramem-32,32.0,976.0,,,,southamerica-east1,southamerica-east1-b,9.67222,2.04623
 m3-ultramem-32,32.0,976.0,,,,us-central1,us-central1-a,6.0912,2.38134
 m3-ultramem-32,32.0,976.0,,,,us-central1,us-central1-b,6.0912,2.38134
 m3-ultramem-32,32.0,976.0,,,,us-central1,us-central1-f,6.0912,2.38134
@@ -4654,6 +4658,7 @@ m3-ultramem-64,64.0,1952.0,,,,northamerica-northeast1,northamerica-northeast1-b,
 m3-ultramem-64,64.0,1952.0,,,,northamerica-northeast1,northamerica-northeast1-c,13.41404,2.83784
 m3-ultramem-64,64.0,1952.0,,,,northamerica-northeast2,northamerica-northeast2-a,13.41404,2.83784
 m3-ultramem-64,64.0,1952.0,,,,northamerica-northeast2,northamerica-northeast2-b,13.41404,2.83784
+m3-ultramem-64,64.0,1952.0,,,,southamerica-east1,southamerica-east1-b,19.34443,4.09246
 m3-ultramem-64,64.0,1952.0,,,,us-central1,us-central1-a,12.1824,4.76269
 m3-ultramem-64,64.0,1952.0,,,,us-central1,us-central1-b,12.1824,4.76269
 m3-ultramem-64,64.0,1952.0,,,,us-central1,us-central1-f,12.1824,4.76269
