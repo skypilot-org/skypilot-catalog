@@ -1,0 +1,57 @@
+name: "update-lambda-catalog"
+on:
+  schedule:
+    - cron:  '00 */7 * * *'    # Every 7 hours (coprimes with 24)
+    # The frequency can be tuned for the trade-off between
+    # freshness of the price and github action cost/user downloading
+    # overhead of the update.
+    # _UPDATE_FREQUENCY_HOURS in `lambda_catalog.py` need to be updated
+    # accordingly, if this is changed.
+  workflow_dispatch:
+
+jobs:
+  update_lambda_catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone SkyPilot repo
+        uses: actions/checkout@v3
+        with:
+          repository: skypilot-org/skypilot
+          path: sky
+      - name: Clone Catalog repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          path: catalogs
+          token: ${{ secrets.GH_ACTION_PAT }}
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip' # caching pip dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          cd sky
+          pip install ".[lambda]"
+
+      - name: Run fetch_lambda
+        run: |
+          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          mkdir -p catalogs/catalogs/$version
+          cd catalogs/catalogs/$version
+          python -m sky.clouds.service_catalog.data_fetchers.fetch_lambda_cloud --api-key ${LAMBDA_API_KEY}
+        env:
+          LAMBDA_API_KEY: ${{ secrets.LAMBDA_API_KEY }}
+
+      - name: Commit catalog
+        run: |
+          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          cd catalogs
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m"[Bot] Update Lambda catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git fetch origin
+          git rebase origin/master
+          git push
