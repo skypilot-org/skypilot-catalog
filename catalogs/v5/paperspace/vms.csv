@@ -8,10 +8,7 @@ A100-80G,A100-80GB,1.0,12,80.0,A100-80GB,East Coast (NY2),,3.18
 V100-32Gx4,V100-32GB,4.0,32,128.0,V100-32GB,East Coast (NY2),,9.20
 V100-32Gx2,V100-32GB,2.0,16,64.0,V100-32GB,East Coast (NY2),,4.60
 V100-32G,V100-32GB,1.0,8,32.0,V100-32GB,East Coast (NY2),,2.30
-V100,V100,1.0,8,32.0,V100,East Coast (NY2),,2.30
-C2,,,1,1.07,,East Coast (NY2),,0.009
-C3,,,2,2.15,,East Coast (NY2),,0.018
-C4,,,2,4.29,,East Coast (NY2),,0.04
+V100,V100,1.0,8,32.0,V100,East Coast (NY2),,2.29
 C5,,,4,8.59,,East Coast (NY2),,0.08
 C6,,,8,17.2,,East Coast (NY2),,0.16
 C7,,,12,32.2,,East Coast (NY2),,0.30
