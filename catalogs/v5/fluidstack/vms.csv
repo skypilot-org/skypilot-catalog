@@ -8,7 +8,6 @@ recCsiQJWg1pO7JiG,RTXA5000,8,64.0,240.0,6.3856965689,norway_4_eu,"{'Gpus': [{'Na
 rec67A0ZCdJgLfQf4,RTXA6000,8,128.0,480.0,9.5200000001,generic_1_canada,"{'Gpus': [{'Name': 'RTXA6000', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 393216}",
 recDsMwZj5HbYY6Tg,RTXA6000,4,24.0,220.0,3.4,norway_2_eu,"{'Gpus': [{'Name': 'RTXA6000', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 196608}",
 rec3pUyh6pNkIjCaL,RTXA4000,1,6.0,24.0,0.6406674783999999,norway_4_eu,"{'Gpus': [{'Name': 'RTXA4000', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",
-recUiB2e6s3XDxwE9,A100,4,60.0,440.0,5.8,calgary_1_canada,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 163840}",
 recY0EqEFid9a5Yqf,RTXA6000,1,16.0,59.0,1.1900000000000002,norway_4_eu,"{'Gpus': [{'Name': 'RTXA6000', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",
 recY0EqEFid9a5Yqf,RTXA6000,1,16.0,59.0,1.1900000000000002,generic_1_canada,"{'Gpus': [{'Name': 'RTXA6000', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",
 recsGZmsxe35V5HK3,RTXA6000,2,32.0,119.0,2.3799999999,generic_1_canada,"{'Gpus': [{'Name': 'RTXA6000', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 98304}",
