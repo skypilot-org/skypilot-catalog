@@ -117,6 +117,7 @@ a3-highgpu-8g,208.0,1872.0,,,,us-east5,us-east5-a,10.65487,7.51493
 a3-highgpu-8g,208.0,1872.0,,,,us-west1,us-west1-a,9.46006,6.67223
 a3-highgpu-8g,208.0,1872.0,,,,us-west1,us-west1-b,9.46006,6.67223
 a3-highgpu-8g,208.0,1872.0,,,,us-west4,us-west4-a,10.65487,7.51493
+a3-megagpu-8g,208.0,1872.0,,,,us-central1,us-central1-c,9.46006,6.67223
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-a,0.96709,0.22229
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-b,0.96709,0.22229
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-c,0.96709,0.22229
@@ -1456,6 +1457,7 @@ c3-highmem-176,176.0,1408.0,,,,us-east1,us-east1-d,12.39427,3.58266
 c3-highmem-176,176.0,1408.0,,,,us-east4,us-east4-a,12.35146,4.20147
 c3-highmem-176,176.0,1408.0,,,,us-east4,us-east4-b,12.35146,4.20147
 c3-highmem-176,176.0,1408.0,,,,us-east4,us-east4-c,12.35146,4.20147
+c3-highmem-176,176.0,1408.0,,,,us-south1,us-south1-a,14.62524,1.47411
 c3-highmem-22,22.0,176.0,,,,asia-northeast1,asia-northeast1-b,1.98581,0.20684
 c3-highmem-22,22.0,176.0,,,,asia-southeast1,asia-southeast1-a,1.9111,0.76441
 c3-highmem-22,22.0,176.0,,,,asia-southeast1,asia-southeast1-b,1.9111,0.76441
@@ -1477,6 +1479,7 @@ c3-highmem-22,22.0,176.0,,,,us-east1,us-east1-d,1.54928,0.44783
 c3-highmem-22,22.0,176.0,,,,us-east4,us-east4-a,1.54393,0.52518
 c3-highmem-22,22.0,176.0,,,,us-east4,us-east4-b,1.54393,0.52518
 c3-highmem-22,22.0,176.0,,,,us-east4,us-east4-c,1.54393,0.52518
+c3-highmem-22,22.0,176.0,,,,us-south1,us-south1-a,1.82816,0.18426
 c3-highmem-22,22.0,176.0,,,,us-west2,us-west2-b,1.86089,0.45118
 c3-highmem-4,4.0,32.0,,,,asia-northeast1,asia-northeast1-b,0.36106,0.03761
 c3-highmem-4,4.0,32.0,,,,asia-southeast1,asia-southeast1-a,0.34747,0.13898
@@ -1499,6 +1502,7 @@ c3-highmem-4,4.0,32.0,,,,us-east1,us-east1-d,0.28169,0.08142
 c3-highmem-4,4.0,32.0,,,,us-east4,us-east4-a,0.28072,0.09549
 c3-highmem-4,4.0,32.0,,,,us-east4,us-east4-b,0.28072,0.09549
 c3-highmem-4,4.0,32.0,,,,us-east4,us-east4-c,0.28072,0.09549
+c3-highmem-4,4.0,32.0,,,,us-south1,us-south1-a,0.33239,0.0335
 c3-highmem-4,4.0,32.0,,,,us-west2,us-west2-b,0.33834,0.08203
 c3-highmem-44,44.0,352.0,,,,asia-northeast1,asia-northeast1-b,3.97162,0.41369
 c3-highmem-44,44.0,352.0,,,,asia-southeast1,asia-southeast1-a,3.82219,1.52882
@@ -1521,6 +1525,7 @@ c3-highmem-44,44.0,352.0,,,,us-east1,us-east1-d,3.09857,0.89566
 c3-highmem-44,44.0,352.0,,,,us-east4,us-east4-a,3.08787,1.05037
 c3-highmem-44,44.0,352.0,,,,us-east4,us-east4-b,3.08787,1.05037
 c3-highmem-44,44.0,352.0,,,,us-east4,us-east4-c,3.08787,1.05037
+c3-highmem-44,44.0,352.0,,,,us-south1,us-south1-a,3.65631,0.36853
 c3-highmem-44,44.0,352.0,,,,us-west2,us-west2-b,3.72178,0.90235
 c3-highmem-8,8.0,64.0,,,,asia-northeast1,asia-northeast1-b,0.72211,0.07522
 c3-highmem-8,8.0,64.0,,,,asia-southeast1,asia-southeast1-a,0.69494,0.27797
@@ -1543,6 +1548,7 @@ c3-highmem-8,8.0,64.0,,,,us-east1,us-east1-d,0.56338,0.16285
 c3-highmem-8,8.0,64.0,,,,us-east4,us-east4-a,0.56143,0.19098
 c3-highmem-8,8.0,64.0,,,,us-east4,us-east4-b,0.56143,0.19098
 c3-highmem-8,8.0,64.0,,,,us-east4,us-east4-c,0.56143,0.19098
+c3-highmem-8,8.0,64.0,,,,us-south1,us-south1-a,0.66478,0.06701
 c3-highmem-8,8.0,64.0,,,,us-west2,us-west2-b,0.67669,0.16406
 c3-highmem-88,88.0,704.0,,,,asia-northeast1,asia-northeast1-b,7.94323,0.82738
 c3-highmem-88,88.0,704.0,,,,asia-southeast1,asia-southeast1-a,7.64438,3.05765
@@ -1564,6 +1570,7 @@ c3-highmem-88,88.0,704.0,,,,us-east1,us-east1-d,6.19714,1.79133
 c3-highmem-88,88.0,704.0,,,,us-east4,us-east4-a,6.17573,2.10074
 c3-highmem-88,88.0,704.0,,,,us-east4,us-east4-b,6.17573,2.10074
 c3-highmem-88,88.0,704.0,,,,us-east4,us-east4-c,6.17573,2.10074
+c3-highmem-88,88.0,704.0,,,,us-south1,us-south1-a,7.31262,0.73706
 c3-standard-176,176.0,704.0,,,,asia-southeast1,asia-southeast1-a,11.3337,4.53341
 c3-standard-176,176.0,704.0,,,,asia-southeast1,asia-southeast1-b,11.3337,4.53341
 c3-standard-176,176.0,704.0,,,,asia-southeast1,asia-southeast1-c,11.3337,4.53341
@@ -4789,6 +4796,7 @@ m3-ultramem-64,64.0,1952.0,,,,us-west1,us-west1-a,12.1824,4.2872
 m3-ultramem-64,64.0,1952.0,,,,us-west1,us-west1-b,12.1824,4.2872
 m3-ultramem-64,64.0,1952.0,,,,us-west4,us-west4-a,13.72104,2.41251
 m3-ultramem-64,64.0,1952.0,,,,us-west4,us-west4-b,13.72104,2.41251
+n1-340-48-tpu,48.0,340.0,,,,asia-east1,asia-east1-a,3.42494,0.65738
 n1-340-48-tpu,48.0,340.0,,,,asia-east1,asia-east1-b,3.42494,0.65738
 n1-340-48-tpu,48.0,340.0,,,,asia-east1,asia-east1-c,3.42494,0.65738
 n1-340-48-tpu,48.0,340.0,,,,asia-east2,asia-east2-b,4.13861,0.53834
@@ -4805,6 +4813,7 @@ n1-340-48-tpu,48.0,340.0,,,,asia-south2,asia-south2-b,3.55248,0.97446
 n1-340-48-tpu,48.0,340.0,,,,asia-south2,asia-south2-c,3.55248,0.97446
 n1-340-48-tpu,48.0,340.0,,,,asia-southeast1,asia-southeast1-b,3.64879,0.5434
 n1-340-48-tpu,48.0,340.0,,,,asia-southeast1,asia-southeast1-c,3.64879,0.5434
+n1-340-48-tpu,48.0,340.0,,,,asia-southeast2,asia-southeast2-a,3.97718,0.70894
 n1-340-48-tpu,48.0,340.0,,,,asia-southeast2,asia-southeast2-b,3.97718,0.70894
 n1-340-48-tpu,48.0,340.0,,,,asia-southeast2,asia-southeast2-c,3.97718,0.70894
 n1-340-48-tpu,48.0,340.0,,,,australia-southeast1,australia-southeast1-a,4.19683,0.91026
@@ -4814,6 +4823,7 @@ n1-340-48-tpu,48.0,340.0,,,,australia-southeast2,australia-southeast2-b,4.19683,
 n1-340-48-tpu,48.0,340.0,,,,australia-southeast2,australia-southeast2-c,4.19683,1.2535
 n1-340-48-tpu,48.0,340.0,,,,europe-central2,europe-central2-b,3.81076,0.51936
 n1-340-48-tpu,48.0,340.0,,,,europe-central2,europe-central2-c,3.81076,0.51936
+n1-340-48-tpu,48.0,340.0,,,,europe-north1,europe-north1-a,3.25645,0.6849
 n1-340-48-tpu,48.0,340.0,,,,europe-north1,europe-north1-b,3.25645,0.6849
 n1-340-48-tpu,48.0,340.0,,,,europe-north1,europe-north1-c,3.25645,0.6849
 n1-340-48-tpu,48.0,340.0,,,,europe-west1,europe-west1-b,3.25384,0.81206
@@ -4833,6 +4843,7 @@ n1-340-48-tpu,48.0,340.0,,,,northamerica-northeast2,northamerica-northeast2-b,3.
 n1-340-48-tpu,48.0,340.0,,,,northamerica-northeast2,northamerica-northeast2-c,3.25626,0.74848
 n1-340-48-tpu,48.0,340.0,,,,southamerica-east1,southamerica-east1-b,4.69514,0.44738
 n1-340-48-tpu,48.0,340.0,,,,southamerica-east1,southamerica-east1-c,4.69514,0.44738
+n1-340-48-tpu,48.0,340.0,,,,us-central1,us-central1-a,2.95791,0.59134
 n1-340-48-tpu,48.0,340.0,,,,us-central1,us-central1-b,2.95791,0.59134
 n1-340-48-tpu,48.0,340.0,,,,us-central1,us-central1-c,2.95791,0.59134
 n1-340-48-tpu,48.0,340.0,,,,us-central1,us-central1-f,2.95791,0.59134
@@ -4850,6 +4861,7 @@ n1-340-48-tpu,48.0,340.0,,,,us-west3,us-west3-b,3.55282,0.94004
 n1-340-48-tpu,48.0,340.0,,,,us-west3,us-west3-c,3.55282,0.94004
 n1-340-48-tpu,48.0,340.0,,,,us-west4,us-west4-b,3.33118,0.44308
 n1-340-48-tpu,48.0,340.0,,,,us-west4,us-west4-c,3.33118,0.44308
+n1-356-96-tpu,96.0,340.0,,,,asia-east1,asia-east1-a,5.18183,0.99482
 n1-356-96-tpu,96.0,340.0,,,,asia-east1,asia-east1-b,5.18183,0.99482
 n1-356-96-tpu,96.0,340.0,,,,asia-east1,asia-east1-c,5.18183,0.99482
 n1-356-96-tpu,96.0,340.0,,,,asia-east2,asia-east2-b,6.2617,0.81386
@@ -4866,6 +4878,7 @@ n1-356-96-tpu,96.0,340.0,,,,asia-south2,asia-south2-b,5.37504,1.47462
 n1-356-96-tpu,96.0,340.0,,,,asia-south2,asia-south2-c,5.37504,1.47462
 n1-356-96-tpu,96.0,340.0,,,,asia-southeast1,asia-southeast1-b,5.52074,0.82228
 n1-356-96-tpu,96.0,340.0,,,,asia-southeast1,asia-southeast1-c,5.52074,0.82228
+n1-356-96-tpu,96.0,340.0,,,,asia-southeast2,asia-southeast2-a,6.01761,1.07278
 n1-356-96-tpu,96.0,340.0,,,,asia-southeast2,asia-southeast2-b,6.01761,1.07278
 n1-356-96-tpu,96.0,340.0,,,,asia-southeast2,asia-southeast2-c,6.01761,1.07278
 n1-356-96-tpu,96.0,340.0,,,,australia-southeast1,australia-southeast1-a,6.34992,1.36866
@@ -4875,6 +4888,7 @@ n1-356-96-tpu,96.0,340.0,,,,australia-southeast2,australia-southeast2-b,6.34992,
 n1-356-96-tpu,96.0,340.0,,,,australia-southeast2,australia-southeast2-c,6.34992,1.8967
 n1-356-96-tpu,96.0,340.0,,,,europe-central2,europe-central2-b,5.7658,0.78576
 n1-356-96-tpu,96.0,340.0,,,,europe-central2,europe-central2-c,5.7658,0.78576
+n1-356-96-tpu,96.0,340.0,,,,europe-north1,europe-north1-a,4.92714,1.03626
 n1-356-96-tpu,96.0,340.0,,,,europe-north1,europe-north1-b,4.92714,1.03626
 n1-356-96-tpu,96.0,340.0,,,,europe-north1,europe-north1-c,4.92714,1.03626
 n1-356-96-tpu,96.0,340.0,,,,europe-west1,europe-west1-b,4.92295,1.2287
@@ -10580,8 +10594,10 @@ n2-standard-96,96.0,384.0,,,,us-west3,us-west3-c,5.5993,2.19014
 n2-standard-96,96.0,384.0,,,,us-west4,us-west4-a,5.24995,1.38182
 n2-standard-96,96.0,384.0,,,,us-west4,us-west4-b,5.24995,1.38182
 n2-standard-96,96.0,384.0,,,,us-west4,us-west4-c,5.24995,1.38182
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,africa-south1,africa-south1-a,4.95462,0.7473
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,africa-south1,africa-south1-b,4.95462,0.7473
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,africa-south1,africa-south1-c,4.95462,0.7473
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-east1,asia-east1-a,4.38598,1.60602
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-east1,asia-east1-b,4.38598,1.60602
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-east1,asia-east1-c,4.38598,1.60602
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-east2,asia-east2-b,5.30002,1.12621
@@ -10598,6 +10614,7 @@ n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-south2,asia-south2-b,4.54979,0.77683
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-south2,asia-south2-c,4.54979,0.77683
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-southeast1,asia-southeast1-b,4.67307,1.15098
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-southeast1,asia-southeast1-c,4.67307,1.15098
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-southeast2,asia-southeast2-a,5.09365,0.97347
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-southeast2,asia-southeast2-b,5.09365,0.97347
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,asia-southeast2,asia-southeast2-c,5.09365,0.97347
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,australia-southeast1,australia-southeast1-b,5.37496,1.48797
@@ -10605,8 +10622,10 @@ n2d-192-112-v5lite-tpu,112.0,192.0,,,,australia-southeast1,australia-southeast1-
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,australia-southeast2,australia-southeast2-c,4.56878,1.30161
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-central2,europe-central2-b,4.88034,1.45946
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-central2,europe-central2-c,4.88034,1.45946
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-north1,europe-north1-a,4.17061,0.64848
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-north1,europe-north1-b,4.17061,0.64848
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-north1,europe-north1-c,4.17061,0.64848
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-southwest1,europe-southwest1-a,4.46976,0.87347
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-southwest1,europe-southwest1-b,4.46976,0.87347
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-southwest1,europe-southwest1-c,4.46976,0.87347
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west1,europe-west1-b,4.1669,1.15117
@@ -10624,12 +10643,14 @@ n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west4,europe-west4-b,4.17027,0.4984
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west4,europe-west4-c,4.17027,0.4984
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west6,europe-west6-b,5.29893,1.28234
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west6,europe-west6-c,5.29893,1.28234
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west8,europe-west8-a,4.39401,0.59894
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west8,europe-west8-b,4.39401,0.59894
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west8,europe-west8-c,4.39401,0.59894
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west9,europe-west9-b,4.39401,0.98304
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,europe-west9,europe-west9-c,4.39401,0.98304
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,me-central1,me-central1-b,4.60234,0.58957
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,me-central1,me-central1-c,4.60234,0.58957
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,me-central2,me-central2-a,6.0607,0.65994
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,me-central2,me-central2-b,6.0607,0.65994
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,me-central2,me-central2-c,6.0607,0.65994
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,me-west1,me-west1-b,4.16673,0.79616
@@ -10664,8 +10685,10 @@ n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-west3,us-west3-c,4.54979,1.10102
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-west4,us-west4-a,4.2663,0.98061
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-west4,us-west4-b,4.2663,0.98061
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-west4,us-west4-c,4.2663,0.98061
+n2d-356-96-tpu,96.0,340.0,,,,africa-south1,africa-south1-a,5.09261,0.76812
 n2d-356-96-tpu,96.0,340.0,,,,africa-south1,africa-south1-b,5.09261,0.76812
 n2d-356-96-tpu,96.0,340.0,,,,africa-south1,africa-south1-c,5.09261,0.76812
+n2d-356-96-tpu,96.0,340.0,,,,asia-east1,asia-east1-a,4.50814,1.65078
 n2d-356-96-tpu,96.0,340.0,,,,asia-east1,asia-east1-b,4.50814,1.65078
 n2d-356-96-tpu,96.0,340.0,,,,asia-east1,asia-east1-c,4.50814,1.65078
 n2d-356-96-tpu,96.0,340.0,,,,asia-east2,asia-east2-b,5.44756,1.15724
@@ -10682,6 +10705,7 @@ n2d-356-96-tpu,96.0,340.0,,,,asia-south2,asia-south2-b,4.67644,0.79848
 n2d-356-96-tpu,96.0,340.0,,,,asia-south2,asia-south2-c,4.67644,0.79848
 n2d-356-96-tpu,96.0,340.0,,,,asia-southeast1,asia-southeast1-b,4.80316,1.18268
 n2d-356-96-tpu,96.0,340.0,,,,asia-southeast1,asia-southeast1-c,4.80316,1.18268
+n2d-356-96-tpu,96.0,340.0,,,,asia-southeast2,asia-southeast2-a,5.23545,1.00036
 n2d-356-96-tpu,96.0,340.0,,,,asia-southeast2,asia-southeast2-b,5.23545,1.00036
 n2d-356-96-tpu,96.0,340.0,,,,asia-southeast2,asia-southeast2-c,5.23545,1.00036
 n2d-356-96-tpu,96.0,340.0,,,,australia-southeast1,australia-southeast1-b,5.5246,1.52872
@@ -10689,8 +10713,10 @@ n2d-356-96-tpu,96.0,340.0,,,,australia-southeast1,australia-southeast1-c,5.5246,
 n2d-356-96-tpu,96.0,340.0,,,,australia-southeast2,australia-southeast2-c,4.69606,1.33787
 n2d-356-96-tpu,96.0,340.0,,,,europe-central2,europe-central2-b,5.01608,1.49972
 n2d-356-96-tpu,96.0,340.0,,,,europe-central2,europe-central2-c,5.01608,1.49972
+n2d-356-96-tpu,96.0,340.0,,,,europe-north1,europe-north1-a,4.2867,0.66636
 n2d-356-96-tpu,96.0,340.0,,,,europe-north1,europe-north1-b,4.2867,0.66636
 n2d-356-96-tpu,96.0,340.0,,,,europe-north1,europe-north1-c,4.2867,0.66636
+n2d-356-96-tpu,96.0,340.0,,,,europe-southwest1,europe-southwest1-a,4.59425,0.89798
 n2d-356-96-tpu,96.0,340.0,,,,europe-southwest1,europe-southwest1-b,4.59425,0.89798
 n2d-356-96-tpu,96.0,340.0,,,,europe-southwest1,europe-southwest1-c,4.59425,0.89798
 n2d-356-96-tpu,96.0,340.0,,,,europe-west1,europe-west1-b,4.28299,1.18302
@@ -10707,12 +10733,14 @@ n2d-356-96-tpu,96.0,340.0,,,,europe-west4,europe-west4-b,4.28641,0.53158
 n2d-356-96-tpu,96.0,340.0,,,,europe-west4,europe-west4-c,4.28641,0.53158
 n2d-356-96-tpu,96.0,340.0,,,,europe-west6,europe-west6-b,5.44645,1.31808
 n2d-356-96-tpu,96.0,340.0,,,,europe-west6,europe-west6-c,5.44645,1.31808
+n2d-356-96-tpu,96.0,340.0,,,,europe-west8,europe-west8-a,4.51638,0.61548
 n2d-356-96-tpu,96.0,340.0,,,,europe-west8,europe-west8-b,4.51638,0.61548
 n2d-356-96-tpu,96.0,340.0,,,,europe-west8,europe-west8-c,4.51638,0.61548
 n2d-356-96-tpu,96.0,340.0,,,,europe-west9,europe-west9-b,4.51638,1.01014
 n2d-356-96-tpu,96.0,340.0,,,,europe-west9,europe-west9-c,4.51638,1.01014
 n2d-356-96-tpu,96.0,340.0,,,,me-central1,me-central1-b,4.73052,0.60604
 n2d-356-96-tpu,96.0,340.0,,,,me-central1,me-central1-c,4.73052,0.60604
+n2d-356-96-tpu,96.0,340.0,,,,me-central2,me-central2-a,6.22949,0.67846
 n2d-356-96-tpu,96.0,340.0,,,,me-central2,me-central2-b,6.22949,0.67846
 n2d-356-96-tpu,96.0,340.0,,,,me-central2,me-central2-c,6.22949,0.67846
 n2d-356-96-tpu,96.0,340.0,,,,me-west1,me-west1-b,4.28278,0.81838
@@ -10724,6 +10752,7 @@ n2d-356-96-tpu,96.0,340.0,,,,northamerica-northeast2,northamerica-northeast2-c,4
 n2d-356-96-tpu,96.0,340.0,,,,southamerica-east1,southamerica-east1-b,6.18041,1.26918
 n2d-356-96-tpu,96.0,340.0,,,,southamerica-east1,southamerica-east1-c,6.18041,1.26918
 n2d-356-96-tpu,96.0,340.0,,,,southamerica-west1,southamerica-west1-b,5.56761,1.34729
+n2d-356-96-tpu,96.0,340.0,,,,us-central1,us-central1-a,3.89343,0.70452
 n2d-356-96-tpu,96.0,340.0,,,,us-central1,us-central1-b,3.89343,0.70452
 n2d-356-96-tpu,96.0,340.0,,,,us-central1,us-central1-c,3.89343,0.70452
 n2d-356-96-tpu,96.0,340.0,,,,us-central1,us-central1-f,3.89343,0.70452
@@ -10733,6 +10762,7 @@ n2d-356-96-tpu,96.0,340.0,,,,us-east4,us-east4-b,4.38504,0.96452
 n2d-356-96-tpu,96.0,340.0,,,,us-east4,us-east4-c,4.38504,0.96452
 n2d-356-96-tpu,96.0,340.0,,,,us-east5,us-east5-b,3.89343,0.5594
 n2d-356-96-tpu,96.0,340.0,,,,us-east5,us-east5-c,3.89343,0.5594
+n2d-356-96-tpu,96.0,340.0,,,,us-south1,us-south1-a,4.59425,0.69308
 n2d-356-96-tpu,96.0,340.0,,,,us-south1,us-south1-c,4.59425,0.69308
 n2d-356-96-tpu,96.0,340.0,,,,us-west1,us-west1-b,3.89343,0.70452
 n2d-356-96-tpu,96.0,340.0,,,,us-west1,us-west1-c,3.89343,0.70452
@@ -10743,8 +10773,10 @@ n2d-356-96-tpu,96.0,340.0,,,,us-west3,us-west3-b,4.67644,1.1325
 n2d-356-96-tpu,96.0,340.0,,,,us-west3,us-west3-c,4.67644,1.1325
 n2d-356-96-tpu,96.0,340.0,,,,us-west4,us-west4-b,4.38504,1.00788
 n2d-356-96-tpu,96.0,340.0,,,,us-west4,us-west4-c,4.38504,1.00788
+n2d-384-224-tpu,224.0,384.0,,,,africa-south1,africa-south1-a,9.90924,1.49459
 n2d-384-224-tpu,224.0,384.0,,,,africa-south1,africa-south1-b,9.90924,1.49459
 n2d-384-224-tpu,224.0,384.0,,,,africa-south1,africa-south1-c,9.90924,1.49459
+n2d-384-224-tpu,224.0,384.0,,,,asia-east1,asia-east1-a,8.77197,3.21203
 n2d-384-224-tpu,224.0,384.0,,,,asia-east1,asia-east1-b,8.77197,3.21203
 n2d-384-224-tpu,224.0,384.0,,,,asia-east1,asia-east1-c,8.77197,3.21203
 n2d-384-224-tpu,224.0,384.0,,,,asia-east2,asia-east2-b,10.60003,2.25242
@@ -10761,6 +10793,7 @@ n2d-384-224-tpu,224.0,384.0,,,,asia-south2,asia-south2-b,9.09958,1.55366
 n2d-384-224-tpu,224.0,384.0,,,,asia-south2,asia-south2-c,9.09958,1.55366
 n2d-384-224-tpu,224.0,384.0,,,,asia-southeast1,asia-southeast1-b,9.34614,2.30195
 n2d-384-224-tpu,224.0,384.0,,,,asia-southeast1,asia-southeast1-c,9.34614,2.30195
+n2d-384-224-tpu,224.0,384.0,,,,asia-southeast2,asia-southeast2-a,10.1873,1.94694
 n2d-384-224-tpu,224.0,384.0,,,,asia-southeast2,asia-southeast2-b,10.1873,1.94694
 n2d-384-224-tpu,224.0,384.0,,,,asia-southeast2,asia-southeast2-c,10.1873,1.94694
 n2d-384-224-tpu,224.0,384.0,,,,australia-southeast1,australia-southeast1-b,10.74992,2.97594
@@ -10768,8 +10801,10 @@ n2d-384-224-tpu,224.0,384.0,,,,australia-southeast1,australia-southeast1-c,10.74
 n2d-384-224-tpu,224.0,384.0,,,,australia-southeast2,australia-southeast2-c,9.13757,2.60321
 n2d-384-224-tpu,224.0,384.0,,,,europe-central2,europe-central2-b,9.76067,2.91891
 n2d-384-224-tpu,224.0,384.0,,,,europe-central2,europe-central2-c,9.76067,2.91891
+n2d-384-224-tpu,224.0,384.0,,,,europe-north1,europe-north1-a,8.34122,1.29696
 n2d-384-224-tpu,224.0,384.0,,,,europe-north1,europe-north1-b,8.34122,1.29696
 n2d-384-224-tpu,224.0,384.0,,,,europe-north1,europe-north1-c,8.34122,1.29696
+n2d-384-224-tpu,224.0,384.0,,,,europe-southwest1,europe-southwest1-a,8.93953,1.74694
 n2d-384-224-tpu,224.0,384.0,,,,europe-southwest1,europe-southwest1-b,8.93953,1.74694
 n2d-384-224-tpu,224.0,384.0,,,,europe-southwest1,europe-southwest1-c,8.93953,1.74694
 n2d-384-224-tpu,224.0,384.0,,,,europe-west1,europe-west1-b,8.33379,2.30234
@@ -10786,12 +10821,14 @@ n2d-384-224-tpu,224.0,384.0,,,,europe-west4,europe-west4-b,8.34054,0.9968
 n2d-384-224-tpu,224.0,384.0,,,,europe-west4,europe-west4-c,8.34054,0.9968
 n2d-384-224-tpu,224.0,384.0,,,,europe-west6,europe-west6-b,10.59786,2.56467
 n2d-384-224-tpu,224.0,384.0,,,,europe-west6,europe-west6-c,10.59786,2.56467
+n2d-384-224-tpu,224.0,384.0,,,,europe-west8,europe-west8-a,8.78801,1.19789
 n2d-384-224-tpu,224.0,384.0,,,,europe-west8,europe-west8-b,8.78801,1.19789
 n2d-384-224-tpu,224.0,384.0,,,,europe-west8,europe-west8-c,8.78801,1.19789
 n2d-384-224-tpu,224.0,384.0,,,,europe-west9,europe-west9-b,8.78801,1.96608
 n2d-384-224-tpu,224.0,384.0,,,,europe-west9,europe-west9-c,8.78801,1.96608
 n2d-384-224-tpu,224.0,384.0,,,,me-central1,me-central1-b,9.20468,1.17914
 n2d-384-224-tpu,224.0,384.0,,,,me-central1,me-central1-c,9.20468,1.17914
+n2d-384-224-tpu,224.0,384.0,,,,me-central2,me-central2-a,12.1214,1.31987
 n2d-384-224-tpu,224.0,384.0,,,,me-central2,me-central2-b,12.1214,1.31987
 n2d-384-224-tpu,224.0,384.0,,,,me-central2,me-central2-c,12.1214,1.31987
 n2d-384-224-tpu,224.0,384.0,,,,me-west1,me-west1-b,8.33346,1.59232
@@ -10803,6 +10840,7 @@ n2d-384-224-tpu,224.0,384.0,,,,northamerica-northeast2,northamerica-northeast2-c
 n2d-384-224-tpu,224.0,384.0,,,,southamerica-east1,southamerica-east1-b,12.02595,2.46899
 n2d-384-224-tpu,224.0,384.0,,,,southamerica-east1,southamerica-east1-c,12.02595,2.46899
 n2d-384-224-tpu,224.0,384.0,,,,southamerica-west1,southamerica-west1-b,10.8335,2.62154
+n2d-384-224-tpu,224.0,384.0,,,,us-central1,us-central1-a,7.57587,1.37126
 n2d-384-224-tpu,224.0,384.0,,,,us-central1,us-central1-b,7.57587,1.37126
 n2d-384-224-tpu,224.0,384.0,,,,us-central1,us-central1-c,7.57587,1.37126
 n2d-384-224-tpu,224.0,384.0,,,,us-central1,us-central1-f,7.57587,1.37126
@@ -10812,6 +10850,7 @@ n2d-384-224-tpu,224.0,384.0,,,,us-east4,us-east4-b,8.53261,1.87642
 n2d-384-224-tpu,224.0,384.0,,,,us-east4,us-east4-c,8.53261,1.87642
 n2d-384-224-tpu,224.0,384.0,,,,us-east5,us-east5-b,7.57587,1.08832
 n2d-384-224-tpu,224.0,384.0,,,,us-east5,us-east5-c,7.57587,1.08832
+n2d-384-224-tpu,224.0,384.0,,,,us-south1,us-south1-a,8.93953,1.3485
 n2d-384-224-tpu,224.0,384.0,,,,us-south1,us-south1-c,8.93953,1.3485
 n2d-384-224-tpu,224.0,384.0,,,,us-west1,us-west1-b,7.57587,1.37126
 n2d-384-224-tpu,224.0,384.0,,,,us-west1,us-west1-c,7.57587,1.37126
@@ -10822,8 +10861,10 @@ n2d-384-224-tpu,224.0,384.0,,,,us-west3,us-west3-b,9.09958,2.20205
 n2d-384-224-tpu,224.0,384.0,,,,us-west3,us-west3-c,9.09958,2.20205
 n2d-384-224-tpu,224.0,384.0,,,,us-west4,us-west4-b,8.53261,1.96122
 n2d-384-224-tpu,224.0,384.0,,,,us-west4,us-west4-c,8.53261,1.96122
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,africa-south1,africa-south1-a,9.90924,1.49459
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,africa-south1,africa-south1-b,9.90924,1.49459
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,africa-south1,africa-south1-c,9.90924,1.49459
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-east1,asia-east1-a,8.77197,3.21203
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-east1,asia-east1-b,8.77197,3.21203
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-east1,asia-east1-c,8.77197,3.21203
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-east2,asia-east2-b,10.60003,2.25242
@@ -10840,6 +10881,7 @@ n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-south2,asia-south2-b,9.09958,1.55366
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-south2,asia-south2-c,9.09958,1.55366
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-southeast1,asia-southeast1-b,9.34614,2.30195
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-southeast1,asia-southeast1-c,9.34614,2.30195
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-southeast2,asia-southeast2-a,10.1873,1.94694
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-southeast2,asia-southeast2-b,10.1873,1.94694
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,asia-southeast2,asia-southeast2-c,10.1873,1.94694
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,australia-southeast1,australia-southeast1-b,10.74992,2.97594
@@ -10847,8 +10889,10 @@ n2d-384-224-v5lite-tpu,224.0,384.0,,,,australia-southeast1,australia-southeast1-
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,australia-southeast2,australia-southeast2-c,9.13757,2.60321
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-central2,europe-central2-b,9.76067,2.91891
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-central2,europe-central2-c,9.76067,2.91891
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-north1,europe-north1-a,8.34122,1.29696
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-north1,europe-north1-b,8.34122,1.29696
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-north1,europe-north1-c,8.34122,1.29696
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-southwest1,europe-southwest1-a,8.93953,1.74694
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-southwest1,europe-southwest1-b,8.93953,1.74694
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-southwest1,europe-southwest1-c,8.93953,1.74694
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west1,europe-west1-b,8.33379,2.30234
@@ -10866,12 +10910,14 @@ n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west4,europe-west4-b,8.34054,0.9968
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west4,europe-west4-c,8.34054,0.9968
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west6,europe-west6-b,10.59786,2.56467
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west6,europe-west6-c,10.59786,2.56467
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west8,europe-west8-a,8.78801,1.19789
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west8,europe-west8-b,8.78801,1.19789
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west8,europe-west8-c,8.78801,1.19789
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west9,europe-west9-b,8.78801,1.96608
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,europe-west9,europe-west9-c,8.78801,1.96608
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,me-central1,me-central1-b,9.20468,1.17914
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,me-central1,me-central1-c,9.20468,1.17914
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,me-central2,me-central2-a,12.1214,1.31987
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,me-central2,me-central2-b,12.1214,1.31987
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,me-central2,me-central2-c,12.1214,1.31987
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,me-west1,me-west1-b,8.33346,1.59232
@@ -10906,8 +10952,10 @@ n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west3,us-west3-c,9.09958,2.20205
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west4,us-west4-a,8.53261,1.96122
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west4,us-west4-b,8.53261,1.96122
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west4,us-west4-c,8.53261,1.96122
+n2d-407-240-tpu,240.0,407.0,,,,africa-south1,africa-south1-a,10.59569,1.59813
 n2d-407-240-tpu,240.0,407.0,,,,africa-south1,africa-south1-b,10.59569,1.59813
 n2d-407-240-tpu,240.0,407.0,,,,africa-south1,africa-south1-c,10.59569,1.59813
+n2d-407-240-tpu,240.0,407.0,,,,asia-east1,asia-east1-a,9.37964,3.43454
 n2d-407-240-tpu,240.0,407.0,,,,asia-east1,asia-east1-b,9.37964,3.43454
 n2d-407-240-tpu,240.0,407.0,,,,asia-east1,asia-east1-c,9.37964,3.43454
 n2d-407-240-tpu,240.0,407.0,,,,asia-east2,asia-east2-b,11.33434,2.40846
@@ -10924,6 +10972,7 @@ n2d-407-240-tpu,240.0,407.0,,,,asia-south2,asia-south2-b,9.72995,1.66129
 n2d-407-240-tpu,240.0,407.0,,,,asia-south2,asia-south2-c,9.72995,1.66129
 n2d-407-240-tpu,240.0,407.0,,,,asia-southeast1,asia-southeast1-b,9.99359,2.46143
 n2d-407-240-tpu,240.0,407.0,,,,asia-southeast1,asia-southeast1-c,9.99359,2.46143
+n2d-407-240-tpu,240.0,407.0,,,,asia-southeast2,asia-southeast2-a,10.89301,2.08182
 n2d-407-240-tpu,240.0,407.0,,,,asia-southeast2,asia-southeast2-b,10.89301,2.08182
 n2d-407-240-tpu,240.0,407.0,,,,asia-southeast2,asia-southeast2-c,10.89301,2.08182
 n2d-407-240-tpu,240.0,407.0,,,,australia-southeast1,australia-southeast1-b,11.49461,3.18211
@@ -10931,8 +10980,10 @@ n2d-407-240-tpu,240.0,407.0,,,,australia-southeast1,australia-southeast1-c,11.49
 n2d-407-240-tpu,240.0,407.0,,,,australia-southeast2,australia-southeast2-c,9.77056,2.78355
 n2d-407-240-tpu,240.0,407.0,,,,europe-central2,europe-central2-b,10.43684,3.12113
 n2d-407-240-tpu,240.0,407.0,,,,europe-central2,europe-central2-c,10.43684,3.12113
+n2d-407-240-tpu,240.0,407.0,,,,europe-north1,europe-north1-a,8.91905,1.38681
 n2d-407-240-tpu,240.0,407.0,,,,europe-north1,europe-north1-b,8.91905,1.38681
 n2d-407-240-tpu,240.0,407.0,,,,europe-north1,europe-north1-c,8.91905,1.38681
+n2d-407-240-tpu,240.0,407.0,,,,europe-southwest1,europe-southwest1-a,9.5588,1.86796
 n2d-407-240-tpu,240.0,407.0,,,,europe-southwest1,europe-southwest1-b,9.5588,1.86796
 n2d-407-240-tpu,240.0,407.0,,,,europe-southwest1,europe-southwest1-c,9.5588,1.86796
 n2d-407-240-tpu,240.0,407.0,,,,europe-west1,europe-west1-b,8.9111,2.46183
@@ -10949,12 +11000,14 @@ n2d-407-240-tpu,240.0,407.0,,,,europe-west4,europe-west4-b,8.91833,1.06536
 n2d-407-240-tpu,240.0,407.0,,,,europe-west4,europe-west4-c,8.91833,1.06536
 n2d-407-240-tpu,240.0,407.0,,,,europe-west6,europe-west6-b,11.33201,2.74234
 n2d-407-240-tpu,240.0,407.0,,,,europe-west6,europe-west6-c,11.33201,2.74234
+n2d-407-240-tpu,240.0,407.0,,,,europe-west8,europe-west8-a,9.39679,1.28087
 n2d-407-240-tpu,240.0,407.0,,,,europe-west8,europe-west8-b,9.39679,1.28087
 n2d-407-240-tpu,240.0,407.0,,,,europe-west8,europe-west8-c,9.39679,1.28087
 n2d-407-240-tpu,240.0,407.0,,,,europe-west9,europe-west9-b,9.39679,2.10229
 n2d-407-240-tpu,240.0,407.0,,,,europe-west9,europe-west9-c,9.39679,2.10229
 n2d-407-240-tpu,240.0,407.0,,,,me-central1,me-central1-b,9.84233,1.26082
 n2d-407-240-tpu,240.0,407.0,,,,me-central1,me-central1-c,9.84233,1.26082
+n2d-407-240-tpu,240.0,407.0,,,,me-central2,me-central2-a,12.96109,1.4113
 n2d-407-240-tpu,240.0,407.0,,,,me-central2,me-central2-b,12.96109,1.4113
 n2d-407-240-tpu,240.0,407.0,,,,me-central2,me-central2-c,12.96109,1.4113
 n2d-407-240-tpu,240.0,407.0,,,,me-west1,me-west1-b,8.91075,1.70262
@@ -10966,6 +11019,7 @@ n2d-407-240-tpu,240.0,407.0,,,,northamerica-northeast2,northamerica-northeast2-c
 n2d-407-240-tpu,240.0,407.0,,,,southamerica-east1,southamerica-east1-b,12.85904,2.64002
 n2d-407-240-tpu,240.0,407.0,,,,southamerica-east1,southamerica-east1-c,12.85904,2.64002
 n2d-407-240-tpu,240.0,407.0,,,,southamerica-west1,southamerica-west1-b,11.58398,2.80315
+n2d-407-240-tpu,240.0,407.0,,,,us-central1,us-central1-a,8.10068,1.46626
 n2d-407-240-tpu,240.0,407.0,,,,us-central1,us-central1-b,8.10068,1.46626
 n2d-407-240-tpu,240.0,407.0,,,,us-central1,us-central1-c,8.10068,1.46626
 n2d-407-240-tpu,240.0,407.0,,,,us-central1,us-central1-f,8.10068,1.46626
@@ -10975,6 +11029,7 @@ n2d-407-240-tpu,240.0,407.0,,,,us-east4,us-east4-b,9.1237,2.0064
 n2d-407-240-tpu,240.0,407.0,,,,us-east4,us-east4-c,9.1237,2.0064
 n2d-407-240-tpu,240.0,407.0,,,,us-east5,us-east5-b,8.10068,1.16371
 n2d-407-240-tpu,240.0,407.0,,,,us-east5,us-east5-c,8.10068,1.16371
+n2d-407-240-tpu,240.0,407.0,,,,us-south1,us-south1-a,9.5588,1.44191
 n2d-407-240-tpu,240.0,407.0,,,,us-south1,us-south1-c,9.5588,1.44191
 n2d-407-240-tpu,240.0,407.0,,,,us-west1,us-west1-b,8.10068,1.46626
 n2d-407-240-tpu,240.0,407.0,,,,us-west1,us-west1-c,8.10068,1.46626
@@ -10985,8 +11040,10 @@ n2d-407-240-tpu,240.0,407.0,,,,us-west3,us-west3-b,9.72995,2.35457
 n2d-407-240-tpu,240.0,407.0,,,,us-west3,us-west3-c,9.72995,2.35457
 n2d-407-240-tpu,240.0,407.0,,,,us-west4,us-west4-b,9.1237,2.09708
 n2d-407-240-tpu,240.0,407.0,,,,us-west4,us-west4-c,9.1237,2.09708
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,africa-south1,africa-south1-a,1.09476,0.16512
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,africa-south1,africa-south1-b,1.09476,0.16512
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,africa-south1,africa-south1-c,1.09476,0.16512
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-east1,asia-east1-a,0.96912,0.35486
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-east1,asia-east1-b,0.96912,0.35486
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-east1,asia-east1-c,0.96912,0.35486
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-east2,asia-east2-b,1.17108,0.24883
@@ -11003,6 +11060,7 @@ n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-south2,asia-south2-b,1.00531,0.17165
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-south2,asia-south2-c,1.00531,0.17165
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-southeast1,asia-southeast1-b,1.03255,0.2543
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-southeast1,asia-southeast1-c,1.03255,0.2543
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-southeast2,asia-southeast2-a,1.12548,0.21509
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-southeast2,asia-southeast2-b,1.12548,0.21509
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,asia-southeast2,asia-southeast2-c,1.12548,0.21509
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,australia-southeast1,australia-southeast1-b,1.18764,0.32875
@@ -11010,8 +11068,10 @@ n2d-48-24-v5lite-tpu,24.0,48.0,,,,australia-southeast1,australia-southeast1-c,1.
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,australia-southeast2,australia-southeast2-c,1.00951,0.2876
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-central2,europe-central2-b,1.07834,0.32246
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-central2,europe-central2-c,1.07834,0.32246
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-north1,europe-north1-a,0.92153,0.14328
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-north1,europe-north1-b,0.92153,0.14328
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-north1,europe-north1-c,0.92153,0.14328
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-southwest1,europe-southwest1-a,0.98763,0.19301
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-southwest1,europe-southwest1-b,0.98763,0.19301
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-southwest1,europe-southwest1-c,0.98763,0.19301
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west1,europe-west1-b,0.92071,0.25435
@@ -11029,12 +11089,14 @@ n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west4,europe-west4-b,0.92146,0.11088
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west4,europe-west4-c,0.92146,0.11088
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west6,europe-west6-b,1.17084,0.28334
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west6,europe-west6-c,1.17084,0.28334
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west8,europe-west8-a,0.97089,0.13234
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west8,europe-west8-b,0.97089,0.13234
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west8,europe-west8-c,0.97089,0.13234
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west9,europe-west9-b,0.97089,0.2172
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,europe-west9,europe-west9-c,0.97089,0.2172
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,me-central1,me-central1-b,1.01693,0.13027
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,me-central1,me-central1-c,1.01693,0.13027
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,me-central2,me-central2-a,1.33916,0.14582
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,me-central2,me-central2-b,1.33916,0.14582
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,me-central2,me-central2-c,1.33916,0.14582
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,me-west1,me-west1-b,0.92067,0.17592
@@ -15720,7 +15782,6 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,K80,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-b,0.49,0.1666
 ,,,K80,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-d,0.49,0.1666
 ,,,K80,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-a,0.45,0.153
-,,,K80,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-c,0.45,0.153
 ,,,K80,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-f,0.45,0.153
 ,,,K80,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-c,0.45,0.153
 ,,,K80,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-d,0.45,0.153
@@ -15730,7 +15791,6 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,K80,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-b,0.98,0.3332
 ,,,K80,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-d,0.98,0.3332
 ,,,K80,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-a,0.9,0.306
-,,,K80,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-c,0.9,0.306
 ,,,K80,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-f,0.9,0.306
 ,,,K80,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-c,0.9,0.306
 ,,,K80,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-d,0.9,0.306
@@ -15740,7 +15800,6 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,K80,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-b,1.96,0.6664
 ,,,K80,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-d,1.96,0.6664
 ,,,K80,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-a,1.8,0.612
-,,,K80,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-c,1.8,0.612
 ,,,K80,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-f,1.8,0.612
 ,,,K80,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-c,1.8,0.612
 ,,,K80,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-d,1.8,0.612
@@ -15750,7 +15809,6 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,K80,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-b,3.92,1.3328
 ,,,K80,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},europe-west1,europe-west1-d,3.92,1.3328
 ,,,K80,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-a,3.6,1.224
-,,,K80,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-c,3.6,1.224
 ,,,K80,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-central1,us-central1-f,3.6,1.224
 ,,,K80,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-c,3.6,1.224
 ,,,K80,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 12288}}]},us-east1,us-east1-d,3.6,1.224
@@ -16202,6 +16260,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v3-128,1.0,tpu-v3-128,europe-west4,europe-west4-a,128.0,38.4
 ,,,tpu-v3-128,1.0,tpu-v3-128,us-east1,us-east1-d,128.0,38.4
 ,,,tpu-v3-256,1.0,tpu-v3-256,europe-west4,europe-west4-a,256.0,76.8
+,,,tpu-v3-256,1.0,tpu-v3-256,us-east1,us-east1-d,256.0,76.8
 ,,,tpu-v3-512,1.0,tpu-v3-512,europe-west4,europe-west4-a,512.0,153.6
 ,,,tpu-v3-512,1.0,tpu-v3-512,us-east1,us-east1-d,512.0,153.6
 ,,,tpu-v3-1024,1.0,tpu-v3-1024,europe-west4,europe-west4-a,1024.0,307.2
