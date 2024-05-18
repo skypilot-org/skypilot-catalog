@@ -121,6 +121,7 @@ a3-megagpu-8g,208.0,1872.0,,,,europe-west4,europe-west4-b,9.93306,7.00584
 a3-megagpu-8g,208.0,1872.0,,,,europe-west4,europe-west4-c,9.93306,7.00584
 a3-megagpu-8g,208.0,1872.0,,,,us-central1,us-central1-c,9.46006,6.67223
 a3-megagpu-8g,208.0,1872.0,,,,us-east4,us-east4-b,9.46006,6.67222
+a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-a,9.46006,6.67223
 a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-b,9.46006,6.67223
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-a,0.96709,0.22229
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-b,0.96709,0.22229
@@ -16446,6 +16447,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v3-1024,1.0,tpu-v3-1024,europe-west4,europe-west4-a,1024.0,307.2
 ,,,tpu-v3-1024,1.0,tpu-v3-1024,us-east1,us-east1-d,1024.0,307.2
 ,,,tpu-v3-2048,1.0,tpu-v3-2048,europe-west4,europe-west4-a,2048.0,614.4
+,,,tpu-v3-2048,1.0,tpu-v3-2048,us-east1,us-east1-d,2048.0,614.4
 ,,,tpu-v4-8,1.0,tpu-v4-8,us-central2,us-central2-b,12.88,3.88
 ,,,tpu-v4-8,1.0,tpu-v4-8,us-central2,us-central2-b,12.88,3.88
 ,,,tpu-v4-16,1.0,tpu-v4-16,us-central2,us-central2-b,25.76,7.76
