@@ -50,5 +50,5 @@ jobs:
           git add .
           git commit -m"[Bot] Update FluidStack catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
-          git pull
+          git rebase origin/master
           git push
