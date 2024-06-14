@@ -28,10 +28,10 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | ----- | ---- | ----------- |
 | `InstanceType` | string | The type of instance. |
 | `vCPUs` | float | The number of virtual CPUs. |
-| `MemoryGiB` | float | The amount of memory in GB. |
+| `MemoryGiB` | float | The amount of memory in GiB. |
 | `AcceleratorName` | string | The name of accelerators (GPU/TPU). |
 | `AcceleratorCount` | float | The number of accelerators (GPU/TPU). |
-| `GPUInfo` | string | The human readable inforomation of the GPU (not used in code). |
+| `GPUInfo` | string | The human readable inforomation of the GPU (used for, e.g., parsing device memory). |
 | `Region` | string | The region of the resource. |
 | `AvailabilityZone` | string | The availability zone of the resource (can be empty if not supported in the cloud). |
 | `Price` | float | The price of the resource. |

@@ -1,0 +1,4 @@
+Tag,Region,OS,OSVersion,ImageId
+skypilot:gpu-ubuntu-2204,,Ubuntu,22.04,microsoft-dsvm:ubuntu-hpc:2204:22.04.2023080201
+skypilot:k80-ubuntu-2004,,Ubuntu,20.04,microsoft-dsvm:ubuntu-2004:2004-gen2:21.08.30
+skypilot:v1-ubuntu-2004,,Ubuntu,20.04,microsoft-dsvm:ubuntu-2004:2004:21.11.04
