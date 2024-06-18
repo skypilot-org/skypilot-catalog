@@ -1366,6 +1366,7 @@ c3-highcpu-176,176.0,352.0,,,,us-east5,us-east5-b,7.58419,1.86349
 c3-highcpu-176,176.0,352.0,,,,us-west2,us-west2-a,9.10976,1.8744
 c3-highcpu-176,176.0,352.0,,,,us-west2,us-west2-b,9.10976,1.8744
 c3-highcpu-192-metal,192.0,512.0,,,,europe-west1,europe-west1-b,9.74278,3.80954
+c3-highcpu-192-metal,192.0,512.0,,,,europe-west1,europe-west1-c,9.74278,3.80954
 c3-highcpu-192-metal,192.0,512.0,,,,europe-west4,europe-west4-b,9.30708,3.65632
 c3-highcpu-192-metal,192.0,512.0,,,,us-central1,us-central1-c,8.8567,2.17613
 c3-highcpu-192-metal,192.0,512.0,,,,us-east1,us-east1-c,8.8567,2.17613
