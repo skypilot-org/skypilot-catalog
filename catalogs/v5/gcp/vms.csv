@@ -178,6 +178,7 @@ c2-standard-16,16.0,64.0,,,,europe-west4,europe-west4-c,0.91949,0.1369
 c2-standard-16,16.0,64.0,,,,europe-west6,europe-west6-a,1.1684,0.32563
 c2-standard-16,16.0,64.0,,,,europe-west6,europe-west6-b,1.1684,0.32563
 c2-standard-16,16.0,64.0,,,,europe-west6,europe-west6-c,1.1684,0.32563
+c2-standard-16,16.0,64.0,,,,me-central2,me-central2-c,1.33637,0.12129
 c2-standard-16,16.0,64.0,,,,me-west1,me-west1-a,0.91876,0.08262
 c2-standard-16,16.0,64.0,,,,me-west1,me-west1-b,0.91876,0.08262
 c2-standard-16,16.0,64.0,,,,me-west1,me-west1-c,0.91876,0.08262
@@ -260,6 +261,7 @@ c2-standard-30,30.0,120.0,,,,europe-west4,europe-west4-c,1.72404,0.25668
 c2-standard-30,30.0,120.0,,,,europe-west6,europe-west6-a,2.19075,0.61056
 c2-standard-30,30.0,120.0,,,,europe-west6,europe-west6-b,2.19075,0.61056
 c2-standard-30,30.0,120.0,,,,europe-west6,europe-west6-c,2.19075,0.61056
+c2-standard-30,30.0,120.0,,,,me-central2,me-central2-c,2.5057,0.22742
 c2-standard-30,30.0,120.0,,,,me-west1,me-west1-a,1.72267,0.15492
 c2-standard-30,30.0,120.0,,,,me-west1,me-west1-b,1.72267,0.15492
 c2-standard-30,30.0,120.0,,,,me-west1,me-west1-c,1.72267,0.15492
@@ -342,6 +344,7 @@ c2-standard-4,4.0,16.0,,,,europe-west4,europe-west4-c,0.22987,0.03422
 c2-standard-4,4.0,16.0,,,,europe-west6,europe-west6-a,0.2921,0.08141
 c2-standard-4,4.0,16.0,,,,europe-west6,europe-west6-b,0.2921,0.08141
 c2-standard-4,4.0,16.0,,,,europe-west6,europe-west6-c,0.2921,0.08141
+c2-standard-4,4.0,16.0,,,,me-central2,me-central2-c,0.33409,0.03032
 c2-standard-4,4.0,16.0,,,,me-west1,me-west1-a,0.22969,0.02066
 c2-standard-4,4.0,16.0,,,,me-west1,me-west1-b,0.22969,0.02066
 c2-standard-4,4.0,16.0,,,,me-west1,me-west1-c,0.22969,0.02066
@@ -424,6 +427,7 @@ c2-standard-60,60.0,240.0,,,,europe-west4,europe-west4-c,3.44808,0.51336
 c2-standard-60,60.0,240.0,,,,europe-west6,europe-west6-a,4.3815,1.22112
 c2-standard-60,60.0,240.0,,,,europe-west6,europe-west6-b,4.3815,1.22112
 c2-standard-60,60.0,240.0,,,,europe-west6,europe-west6-c,4.3815,1.22112
+c2-standard-60,60.0,240.0,,,,me-central2,me-central2-c,5.01139,0.45485
 c2-standard-60,60.0,240.0,,,,me-west1,me-west1-a,3.44533,0.30984
 c2-standard-60,60.0,240.0,,,,me-west1,me-west1-b,3.44533,0.30984
 c2-standard-60,60.0,240.0,,,,me-west1,me-west1-c,3.44533,0.30984
@@ -506,6 +510,7 @@ c2-standard-8,8.0,32.0,,,,europe-west4,europe-west4-c,0.45974,0.06845
 c2-standard-8,8.0,32.0,,,,europe-west6,europe-west6-a,0.5842,0.16282
 c2-standard-8,8.0,32.0,,,,europe-west6,europe-west6-b,0.5842,0.16282
 c2-standard-8,8.0,32.0,,,,europe-west6,europe-west6-c,0.5842,0.16282
+c2-standard-8,8.0,32.0,,,,me-central2,me-central2-c,0.66819,0.06065
 c2-standard-8,8.0,32.0,,,,me-west1,me-west1-a,0.45938,0.04131
 c2-standard-8,8.0,32.0,,,,me-west1,me-west1-b,0.45938,0.04131
 c2-standard-8,8.0,32.0,,,,me-west1,me-west1-c,0.45938,0.04131
