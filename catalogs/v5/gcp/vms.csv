@@ -4679,6 +4679,7 @@ m3-megamem-128,128.0,1952.0,,,,europe-southwest1,europe-southwest1-a,17.00333,3.
 m3-megamem-128,128.0,1952.0,,,,europe-southwest1,europe-southwest1-c,17.00333,3.59475
 m3-megamem-128,128.0,1952.0,,,,europe-west1,europe-west1-b,15.86641,3.15585
 m3-megamem-128,128.0,1952.0,,,,europe-west1,europe-west1-d,15.86641,3.15585
+m3-megamem-128,128.0,1952.0,,,,europe-west12,europe-west12-a,18.58838,3.92986
 m3-megamem-128,128.0,1952.0,,,,europe-west12,europe-west12-b,18.58838,3.92986
 m3-megamem-128,128.0,1952.0,,,,europe-west2,europe-west2-c,16.40657,3.92498
 m3-megamem-128,128.0,1952.0,,,,europe-west3,europe-west3-a,16.98224,3.92498
@@ -4725,6 +4726,7 @@ m3-megamem-64,64.0,976.0,,,,europe-southwest1,europe-southwest1-a,8.50166,1.7973
 m3-megamem-64,64.0,976.0,,,,europe-southwest1,europe-southwest1-c,8.50166,1.79738
 m3-megamem-64,64.0,976.0,,,,europe-west1,europe-west1-b,7.93321,1.57793
 m3-megamem-64,64.0,976.0,,,,europe-west1,europe-west1-d,7.93321,1.57793
+m3-megamem-64,64.0,976.0,,,,europe-west12,europe-west12-a,9.29419,1.96493
 m3-megamem-64,64.0,976.0,,,,europe-west12,europe-west12-b,9.29419,1.96493
 m3-megamem-64,64.0,976.0,,,,europe-west2,europe-west2-c,8.20328,1.96249
 m3-megamem-64,64.0,976.0,,,,europe-west3,europe-west3-a,8.49112,1.96249
