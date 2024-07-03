@@ -4157,6 +4157,7 @@ g2-standard-12,12.0,48.0,,,,europe-west4,europe-west4-b,0.46286,0.18521
 g2-standard-12,12.0,48.0,,,,europe-west4,europe-west4-c,0.46286,0.18521
 g2-standard-12,12.0,48.0,,,,europe-west6,europe-west6-b,0.61604,0.17465
 g2-standard-12,12.0,48.0,,,,europe-west6,europe-west6-c,0.61604,0.17465
+g2-standard-12,12.0,48.0,,,,northamerica-northeast2,northamerica-northeast2-a,0.4849,0.14547
 g2-standard-12,12.0,48.0,,,,us-central1,us-central1-a,0.44038,0.13565
 g2-standard-12,12.0,48.0,,,,us-central1,us-central1-b,0.44038,0.13565
 g2-standard-12,12.0,48.0,,,,us-central1,us-central1-c,0.44038,0.13565
@@ -4195,6 +4196,7 @@ g2-standard-16,16.0,64.0,,,,europe-west4,europe-west4-b,0.61714,0.24694
 g2-standard-16,16.0,64.0,,,,europe-west4,europe-west4-c,0.61714,0.24694
 g2-standard-16,16.0,64.0,,,,europe-west6,europe-west6-b,0.82139,0.23286
 g2-standard-16,16.0,64.0,,,,europe-west6,europe-west6-c,0.82139,0.23286
+g2-standard-16,16.0,64.0,,,,northamerica-northeast2,northamerica-northeast2-a,0.64653,0.19396
 g2-standard-16,16.0,64.0,,,,us-central1,us-central1-a,0.58717,0.18086
 g2-standard-16,16.0,64.0,,,,us-central1,us-central1-b,0.58717,0.18086
 g2-standard-16,16.0,64.0,,,,us-central1,us-central1-c,0.58717,0.18086
@@ -4233,6 +4235,7 @@ g2-standard-24,24.0,96.0,,,,europe-west4,europe-west4-b,0.92571,0.37042
 g2-standard-24,24.0,96.0,,,,europe-west4,europe-west4-c,0.92571,0.37042
 g2-standard-24,24.0,96.0,,,,europe-west6,europe-west6-b,1.23208,0.3493
 g2-standard-24,24.0,96.0,,,,europe-west6,europe-west6-c,1.23208,0.3493
+g2-standard-24,24.0,96.0,,,,northamerica-northeast2,northamerica-northeast2-a,0.9698,0.29094
 g2-standard-24,24.0,96.0,,,,us-central1,us-central1-a,0.88075,0.2713
 g2-standard-24,24.0,96.0,,,,us-central1,us-central1-b,0.88075,0.2713
 g2-standard-24,24.0,96.0,,,,us-central1,us-central1-c,0.88075,0.2713
@@ -4271,6 +4274,7 @@ g2-standard-32,32.0,128.0,,,,europe-west4,europe-west4-b,1.23429,0.49389
 g2-standard-32,32.0,128.0,,,,europe-west4,europe-west4-c,1.23429,0.49389
 g2-standard-32,32.0,128.0,,,,europe-west6,europe-west6-b,1.64278,0.46573
 g2-standard-32,32.0,128.0,,,,europe-west6,europe-west6-c,1.64278,0.46573
+g2-standard-32,32.0,128.0,,,,northamerica-northeast2,northamerica-northeast2-a,1.29306,0.38792
 g2-standard-32,32.0,128.0,,,,us-central1,us-central1-a,1.17434,0.36173
 g2-standard-32,32.0,128.0,,,,us-central1,us-central1-b,1.17434,0.36173
 g2-standard-32,32.0,128.0,,,,us-central1,us-central1-c,1.17434,0.36173
@@ -4309,6 +4313,7 @@ g2-standard-4,4.0,16.0,,,,europe-west4,europe-west4-b,0.15429,0.06174
 g2-standard-4,4.0,16.0,,,,europe-west4,europe-west4-c,0.15429,0.06174
 g2-standard-4,4.0,16.0,,,,europe-west6,europe-west6-b,0.20535,0.05822
 g2-standard-4,4.0,16.0,,,,europe-west6,europe-west6-c,0.20535,0.05822
+g2-standard-4,4.0,16.0,,,,northamerica-northeast2,northamerica-northeast2-a,0.16163,0.04849
 g2-standard-4,4.0,16.0,,,,us-central1,us-central1-a,0.14679,0.04522
 g2-standard-4,4.0,16.0,,,,us-central1,us-central1-b,0.14679,0.04522
 g2-standard-4,4.0,16.0,,,,us-central1,us-central1-c,0.14679,0.04522
@@ -4347,6 +4352,7 @@ g2-standard-48,48.0,192.0,,,,europe-west4,europe-west4-b,1.85143,0.74083
 g2-standard-48,48.0,192.0,,,,europe-west4,europe-west4-c,1.85143,0.74083
 g2-standard-48,48.0,192.0,,,,europe-west6,europe-west6-b,2.46417,0.69859
 g2-standard-48,48.0,192.0,,,,europe-west6,europe-west6-c,2.46417,0.69859
+g2-standard-48,48.0,192.0,,,,northamerica-northeast2,northamerica-northeast2-a,1.93959,0.58188
 g2-standard-48,48.0,192.0,,,,us-central1,us-central1-a,1.7615,0.54259
 g2-standard-48,48.0,192.0,,,,us-central1,us-central1-b,1.7615,0.54259
 g2-standard-48,48.0,192.0,,,,us-central1,us-central1-c,1.7615,0.54259
@@ -4385,6 +4391,7 @@ g2-standard-8,8.0,32.0,,,,europe-west4,europe-west4-b,0.30857,0.12347
 g2-standard-8,8.0,32.0,,,,europe-west4,europe-west4-c,0.30857,0.12347
 g2-standard-8,8.0,32.0,,,,europe-west6,europe-west6-b,0.41069,0.11643
 g2-standard-8,8.0,32.0,,,,europe-west6,europe-west6-c,0.41069,0.11643
+g2-standard-8,8.0,32.0,,,,northamerica-northeast2,northamerica-northeast2-a,0.32327,0.09698
 g2-standard-8,8.0,32.0,,,,us-central1,us-central1-a,0.29358,0.09043
 g2-standard-8,8.0,32.0,,,,us-central1,us-central1-b,0.29358,0.09043
 g2-standard-8,8.0,32.0,,,,us-central1,us-central1-c,0.29358,0.09043
@@ -4423,6 +4430,7 @@ g2-standard-96,96.0,384.0,,,,europe-west4,europe-west4-b,3.70286,1.48166
 g2-standard-96,96.0,384.0,,,,europe-west4,europe-west4-c,3.70286,1.48166
 g2-standard-96,96.0,384.0,,,,europe-west6,europe-west6-b,4.92834,1.39718
 g2-standard-96,96.0,384.0,,,,europe-west6,europe-west6-c,4.92834,1.39718
+g2-standard-96,96.0,384.0,,,,northamerica-northeast2,northamerica-northeast2-a,3.87918,1.16376
 g2-standard-96,96.0,384.0,,,,us-central1,us-central1-a,3.52301,1.08518
 g2-standard-96,96.0,384.0,,,,us-central1,us-central1-b,3.52301,1.08518
 g2-standard-96,96.0,384.0,,,,us-central1,us-central1-c,3.52301,1.08518
@@ -16173,6 +16181,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,L4,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west4,europe-west4-c,0.58863,0.1665
 ,,,L4,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-b,0.78344,0.1698
 ,,,L4,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-c,0.78344,0.1698
+,,,L4,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},northamerica-northeast2,northamerica-northeast2-a,0.61666,0.185
 ,,,L4,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-a,0.56004,0.1764
 ,,,L4,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-b,0.56004,0.1764
 ,,,L4,1.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-c,0.56004,0.1764
@@ -16211,6 +16220,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,L4,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west4,europe-west4-c,1.17726,0.333
 ,,,L4,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-b,1.56688,0.3396
 ,,,L4,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-c,1.56688,0.3396
+,,,L4,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},northamerica-northeast2,northamerica-northeast2-a,1.23332,0.37
 ,,,L4,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-a,1.12008,0.3528
 ,,,L4,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-b,1.12008,0.3528
 ,,,L4,2.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-c,1.12008,0.3528
@@ -16249,6 +16259,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,L4,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west4,europe-west4-c,2.35452,0.666
 ,,,L4,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-b,3.13376,0.6792
 ,,,L4,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-c,3.13376,0.6792
+,,,L4,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},northamerica-northeast2,northamerica-northeast2-a,2.46664,0.73999
 ,,,L4,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-a,2.24016,0.7056
 ,,,L4,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-b,2.24016,0.7056
 ,,,L4,4.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-c,2.24016,0.7056
@@ -16287,6 +16298,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,L4,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west4,europe-west4-c,4.70904,1.332
 ,,,L4,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-b,6.26752,1.3584
 ,,,L4,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},europe-west6,europe-west6-c,6.26752,1.3584
+,,,L4,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},northamerica-northeast2,northamerica-northeast2-a,4.93328,1.47998
 ,,,L4,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-a,4.48032,1.4112
 ,,,L4,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-b,4.48032,1.4112
 ,,,L4,8.0,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},us-central1,us-central1-c,4.48032,1.4112
