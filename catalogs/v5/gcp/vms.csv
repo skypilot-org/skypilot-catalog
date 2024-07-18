@@ -1742,6 +1742,7 @@ c3-standard-176,176.0,704.0,,,,us-east4,us-east4-b,9.15605,3.1145
 c3-standard-176,176.0,704.0,,,,us-east4,us-east4-c,9.15605,3.1145
 c3-standard-176,176.0,704.0,,,,us-west1,us-west1-a,9.18755,2.03245
 c3-standard-176,176.0,704.0,,,,us-west1,us-west1-b,9.18755,2.03245
+c3-standard-176,176.0,704.0,,,,us-west4,us-west4-a,10.34634,2.37846
 c3-standard-176-lssd,176.0,704.0,,,,asia-southeast1,asia-southeast1-a,11.3337,4.53341
 c3-standard-176-lssd,176.0,704.0,,,,asia-southeast1,asia-southeast1-b,11.3337,4.53341
 c3-standard-176-lssd,176.0,704.0,,,,asia-southeast1,asia-southeast1-c,11.3337,4.53341
@@ -1791,6 +1792,7 @@ c3-standard-22,22.0,88.0,,,,us-east4,us-east4-c,1.14451,0.38931
 c3-standard-22,22.0,88.0,,,,us-west1,us-west1-a,1.14844,0.25406
 c3-standard-22,22.0,88.0,,,,us-west1,us-west1-b,1.14844,0.25406
 c3-standard-22,22.0,88.0,,,,us-west2,us-west2-b,1.37944,0.24134
+c3-standard-22,22.0,88.0,,,,us-west4,us-west4-a,1.29329,0.29731
 c3-standard-22-lssd,22.0,88.0,,,,asia-southeast1,asia-southeast1-a,1.41671,0.56668
 c3-standard-22-lssd,22.0,88.0,,,,asia-southeast1,asia-southeast1-b,1.41671,0.56668
 c3-standard-22-lssd,22.0,88.0,,,,asia-southeast1,asia-southeast1-c,1.41671,0.56668
@@ -1834,6 +1836,7 @@ c3-standard-4,4.0,16.0,,,,us-east4,us-east4-c,0.20809,0.07078
 c3-standard-4,4.0,16.0,,,,us-west1,us-west1-a,0.20881,0.04619
 c3-standard-4,4.0,16.0,,,,us-west1,us-west1-b,0.20881,0.04619
 c3-standard-4,4.0,16.0,,,,us-west2,us-west2-b,0.25081,0.04388
+c3-standard-4,4.0,16.0,,,,us-west4,us-west4-a,0.23514,0.05406
 c3-standard-4-lssd,4.0,16.0,,,,asia-southeast1,asia-southeast1-a,0.25758,0.10303
 c3-standard-4-lssd,4.0,16.0,,,,asia-southeast1,asia-southeast1-b,0.25758,0.10303
 c3-standard-4-lssd,4.0,16.0,,,,asia-southeast1,asia-southeast1-c,0.25758,0.10303
@@ -1877,6 +1880,7 @@ c3-standard-44,44.0,176.0,,,,us-east4,us-east4-c,2.28901,0.77862
 c3-standard-44,44.0,176.0,,,,us-west1,us-west1-a,2.29689,0.50811
 c3-standard-44,44.0,176.0,,,,us-west1,us-west1-b,2.29689,0.50811
 c3-standard-44,44.0,176.0,,,,us-west2,us-west2-b,2.75889,0.48268
+c3-standard-44,44.0,176.0,,,,us-west4,us-west4-a,2.58658,0.59462
 c3-standard-44-lssd,44.0,176.0,,,,asia-southeast1,asia-southeast1-a,2.83342,1.13335
 c3-standard-44-lssd,44.0,176.0,,,,asia-southeast1,asia-southeast1-b,2.83342,1.13335
 c3-standard-44-lssd,44.0,176.0,,,,asia-southeast1,asia-southeast1-c,2.83342,1.13335
@@ -1920,6 +1924,7 @@ c3-standard-8,8.0,32.0,,,,us-east4,us-east4-c,0.41618,0.14157
 c3-standard-8,8.0,32.0,,,,us-west1,us-west1-a,0.41762,0.09238
 c3-standard-8,8.0,32.0,,,,us-west1,us-west1-b,0.41762,0.09238
 c3-standard-8,8.0,32.0,,,,us-west2,us-west2-b,0.50162,0.08776
+c3-standard-8,8.0,32.0,,,,us-west4,us-west4-a,0.47029,0.10811
 c3-standard-8-lssd,8.0,32.0,,,,asia-southeast1,asia-southeast1-a,0.51517,0.20606
 c3-standard-8-lssd,8.0,32.0,,,,asia-southeast1,asia-southeast1-b,0.51517,0.20606
 c3-standard-8-lssd,8.0,32.0,,,,asia-southeast1,asia-southeast1-c,0.51517,0.20606
@@ -1963,6 +1968,7 @@ c3-standard-88,88.0,352.0,,,,us-east4,us-east4-c,4.57802,1.55725
 c3-standard-88,88.0,352.0,,,,us-west1,us-west1-a,4.59378,1.01622
 c3-standard-88,88.0,352.0,,,,us-west1,us-west1-b,4.59378,1.01622
 c3-standard-88,88.0,352.0,,,,us-west2,us-west2-b,5.51778,0.96536
+c3-standard-88,88.0,352.0,,,,us-west4,us-west4-a,5.17317,1.18923
 c3-standard-88-lssd,88.0,352.0,,,,asia-southeast1,asia-southeast1-a,5.66685,2.2667
 c3-standard-88-lssd,88.0,352.0,,,,asia-southeast1,asia-southeast1-b,5.66685,2.2667
 c3-standard-88-lssd,88.0,352.0,,,,asia-southeast1,asia-southeast1-c,5.66685,2.2667
