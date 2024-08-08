@@ -1797,6 +1797,7 @@ c3-standard-176,176.0,704.0,,,,europe-west4,europe-west4-c,9.31429,3.86074
 c3-standard-176,176.0,704.0,,,,us-central1,us-central1-a,8.87075,2.03245
 c3-standard-176,176.0,704.0,,,,us-central1,us-central1-b,8.87075,2.03245
 c3-standard-176,176.0,704.0,,,,us-central1,us-central1-c,8.87075,2.03245
+c3-standard-176,176.0,704.0,,,,us-central1,us-central1-f,8.87075,2.03245
 c3-standard-176,176.0,704.0,,,,us-east1,us-east1-b,8.87075,2.03245
 c3-standard-176,176.0,704.0,,,,us-east1,us-east1-c,8.87075,2.03245
 c3-standard-176,176.0,704.0,,,,us-east1,us-east1-d,8.87075,2.03245
@@ -1849,6 +1850,7 @@ c3-standard-22,22.0,88.0,,,,europe-west4,europe-west4-c,1.16429,0.48259
 c3-standard-22,22.0,88.0,,,,us-central1,us-central1-a,1.10884,0.25406
 c3-standard-22,22.0,88.0,,,,us-central1,us-central1-b,1.10884,0.25406
 c3-standard-22,22.0,88.0,,,,us-central1,us-central1-c,1.10884,0.25406
+c3-standard-22,22.0,88.0,,,,us-central1,us-central1-f,1.10884,0.25406
 c3-standard-22,22.0,88.0,,,,us-east1,us-east1-b,1.10884,0.25406
 c3-standard-22,22.0,88.0,,,,us-east1,us-east1-c,1.10884,0.25406
 c3-standard-22,22.0,88.0,,,,us-east1,us-east1-d,1.10884,0.25406
@@ -1894,6 +1896,7 @@ c3-standard-4,4.0,16.0,,,,europe-west4,europe-west4-c,0.21169,0.08774
 c3-standard-4,4.0,16.0,,,,us-central1,us-central1-a,0.20161,0.04619
 c3-standard-4,4.0,16.0,,,,us-central1,us-central1-b,0.20161,0.04619
 c3-standard-4,4.0,16.0,,,,us-central1,us-central1-c,0.20161,0.04619
+c3-standard-4,4.0,16.0,,,,us-central1,us-central1-f,0.20161,0.04619
 c3-standard-4,4.0,16.0,,,,us-east1,us-east1-b,0.20161,0.04619
 c3-standard-4,4.0,16.0,,,,us-east1,us-east1-c,0.20161,0.04619
 c3-standard-4,4.0,16.0,,,,us-east1,us-east1-d,0.20161,0.04619
@@ -1939,6 +1942,7 @@ c3-standard-44,44.0,176.0,,,,europe-west4,europe-west4-c,2.32857,0.96518
 c3-standard-44,44.0,176.0,,,,us-central1,us-central1-a,2.21769,0.50811
 c3-standard-44,44.0,176.0,,,,us-central1,us-central1-b,2.21769,0.50811
 c3-standard-44,44.0,176.0,,,,us-central1,us-central1-c,2.21769,0.50811
+c3-standard-44,44.0,176.0,,,,us-central1,us-central1-f,2.21769,0.50811
 c3-standard-44,44.0,176.0,,,,us-east1,us-east1-b,2.21769,0.50811
 c3-standard-44,44.0,176.0,,,,us-east1,us-east1-c,2.21769,0.50811
 c3-standard-44,44.0,176.0,,,,us-east1,us-east1-d,2.21769,0.50811
@@ -1984,6 +1988,7 @@ c3-standard-8,8.0,32.0,,,,europe-west4,europe-west4-c,0.42338,0.17549
 c3-standard-8,8.0,32.0,,,,us-central1,us-central1-a,0.40322,0.09238
 c3-standard-8,8.0,32.0,,,,us-central1,us-central1-b,0.40322,0.09238
 c3-standard-8,8.0,32.0,,,,us-central1,us-central1-c,0.40322,0.09238
+c3-standard-8,8.0,32.0,,,,us-central1,us-central1-f,0.40322,0.09238
 c3-standard-8,8.0,32.0,,,,us-east1,us-east1-b,0.40322,0.09238
 c3-standard-8,8.0,32.0,,,,us-east1,us-east1-c,0.40322,0.09238
 c3-standard-8,8.0,32.0,,,,us-east1,us-east1-d,0.40322,0.09238
@@ -2029,6 +2034,7 @@ c3-standard-88,88.0,352.0,,,,europe-west4,europe-west4-c,4.65714,1.93037
 c3-standard-88,88.0,352.0,,,,us-central1,us-central1-a,4.43538,1.01622
 c3-standard-88,88.0,352.0,,,,us-central1,us-central1-b,4.43538,1.01622
 c3-standard-88,88.0,352.0,,,,us-central1,us-central1-c,4.43538,1.01622
+c3-standard-88,88.0,352.0,,,,us-central1,us-central1-f,4.43538,1.01622
 c3-standard-88,88.0,352.0,,,,us-east1,us-east1-b,4.43538,1.01622
 c3-standard-88,88.0,352.0,,,,us-east1,us-east1-c,4.43538,1.01622
 c3-standard-88,88.0,352.0,,,,us-east1,us-east1-d,4.43538,1.01622
