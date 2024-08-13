@@ -1837,6 +1837,7 @@ c3-standard-192-metal,192.0,768.0,,,,us-east4,us-east4-a,9.67718,3.39763
 c3-standard-192-metal,192.0,768.0,,,,us-east4,us-east4-c,9.67718,3.39763
 c3-standard-192-metal,192.0,768.0,,,,us-east5,us-east5-a,9.67718,2.09357
 c3-standard-192-metal,192.0,768.0,,,,us-east5,us-east5-b,9.67718,2.09357
+c3-standard-192-metal,192.0,768.0,,,,us-west1,us-west1-a,9.67718,2.21722
 c3-standard-22,22.0,88.0,,,,asia-northeast1,asia-northeast1-b,1.42398,0.16144
 c3-standard-22,22.0,88.0,,,,asia-southeast1,asia-southeast1-a,1.36798,0.56668
 c3-standard-22,22.0,88.0,,,,asia-southeast1,asia-southeast1-b,1.36798,0.56668
