@@ -1,0 +1,37 @@
+AcceleratorName,Clouds
+A100,"['GCP', 'Azure', 'Lambda', 'AWS', 'OCI']"
+A100-80GB,"['GCP', 'RunPod', 'Azure', 'Lambda', 'scp', 'AWS', 'OCI', 'Fluidstack', 'Paperspace']"
+A10G,['AWS']
+Gaudi HL-205,['AWS']
+H100,"['GCP', 'RunPod', 'Azure', 'Lambda', 'AWS', 'Fluidstack', 'Paperspace']"
+K80,"['Azure', 'AWS']"
+L4,"['RunPod', 'GCP', 'AWS']"
+M60,"['Azure', 'AWS']"
+Radeon Pro V520,['AWS']
+T4,"['GCP', 'Azure', 'AWS']"
+T4g,['AWS']
+V100,"['GCP', 'Azure', 'Lambda', 'AWS', 'OCI', 'IBM', 'Cudo', 'Paperspace']"
+V100-32GB,"['scp', 'Paperspace', 'Azure', 'AWS']"
+A10,"['Azure', 'Lambda', 'OCI']"
+P100,"['GCP', 'Azure', 'OCI']"
+P40,['Azure']
+Radeon MI25,['Azure']
+P4,['GCP']
+tpu-v2,['GCP']
+tpu-v3,['GCP']
+tpu-v4,['GCP']
+A6000,['Lambda']
+RTX6000,['Lambda']
+A100-80GB-SXM,['RunPod']
+A40,"['Cudo', 'RunPod']"
+H100-SXM,['RunPod']
+L40,"['Fluidstack', 'RunPod']"
+RTX3090,['RunPod']
+RTX4000-Ada,['RunPod']
+RTX4090,['RunPod']
+RTX6000-Ada,['RunPod']
+RTXA4000,"['Fluidstack', 'Cudo', 'RunPod']"
+RTXA4500,"['Cudo', 'RunPod']"
+RTXA5000,"['Fluidstack', 'Cudo', 'RunPod']"
+RTXA6000,"['Fluidstack', 'Cudo', 'RunPod']"
+RTX3080,['Cudo']
