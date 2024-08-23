@@ -1873,6 +1873,7 @@ c3-standard-176-lssd,176.0,704.0,,,,us-east4,us-east4-c,8.87075,3.1145
 c3-standard-176-lssd,176.0,704.0,,,,us-west1,us-west1-a,8.87075,2.03245
 c3-standard-176-lssd,176.0,704.0,,,,us-west1,us-west1-b,8.87075,2.03245
 c3-standard-192-metal,192.0,768.0,,,,asia-southeast1,asia-southeast1-a,11.93874,4.94554
+c3-standard-192-metal,192.0,768.0,,,,europe-west1,europe-west1-b,10.65555,4.09536
 c3-standard-192-metal,192.0,768.0,,,,europe-west1,europe-west1-c,10.65555,4.09536
 c3-standard-192-metal,192.0,768.0,,,,europe-west4,europe-west4-c,10.16104,4.21171
 c3-standard-192-metal,192.0,768.0,,,,us-central1,us-central1-a,9.67718,2.21722
