@@ -39,8 +39,11 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
+          mkdir -p ~/.fluidstack
+          echo "$FLUIDSTACK_API_KEY" > ~/.fluidstack/api_key
           python -m  sky.clouds.service_catalog.data_fetchers.fetch_fluidstack
-
+        env:
+          FLUIDSTACK_API_KEY: ${{ secrets.FLUIDSTACK_API_KEY }}
       - name: Commit catalog
         run: |
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
@@ -50,5 +53,5 @@ jobs:
           git add .
           git commit -m"[Bot] Update FluidStack catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
-          git pull
+          git rebase origin/master
           git push
