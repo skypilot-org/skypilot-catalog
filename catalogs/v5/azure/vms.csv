@@ -4700,12 +4700,14 @@ Standard_E96a_v4,,,96.0,672,,6.048,0.78624,westus2,"V1,V2"
 Standard_E96a_v4,,,96.0,672,,6.048,0.66528,westus3,"V1,V2"
 Standard_E96bds_v5,,,96.0,672,,9.058,0.99638,centralus,"V1,V2"
 Standard_E96bds_v5,,,96.0,672,,8.016,0.88176,eastus,"V1,V2"
+Standard_E96bds_v5,,,96.0,672,,8.016,1.04208,eastus2,"V1,V2"
 Standard_E96bds_v5,,,96.0,672,,8.016,1.04208,northcentralus,"V1,V2"
 Standard_E96bds_v5,,,96.0,672,,9.619,1.146585,southcentralus,"V1,V2"
 Standard_E96bds_v5,,,96.0,672,,8.016,1.04208,westus2,"V1,V2"
 Standard_E96bds_v5,,,96.0,672,,8.016,0.88176,westus3,"V1,V2"
 Standard_E96bs_v5,,,96.0,672,,8.082,0.88902,centralus,"V1,V2"
 Standard_E96bs_v5,,,96.0,672,,7.152,0.78672,eastus,"V1,V2"
+Standard_E96bs_v5,,,96.0,672,,7.152,0.92976,eastus2,"V1,V2"
 Standard_E96bs_v5,,,96.0,672,,7.152,0.92976,northcentralus,"V1,V2"
 Standard_E96bs_v5,,,96.0,672,,8.582,1.022974,southcentralus,"V1,V2"
 Standard_E96bs_v5,,,96.0,672,,7.152,0.92976,westus2,"V1,V2"
@@ -5867,6 +5869,7 @@ Standard_NC96ads_A100_v4,A100-80GB,4,96.0,880,A100-80GB,17.63,2.2919,southcentra
 Standard_NC96ads_A100_v4,A100-80GB,4,96.0,880,A100-80GB,19.1,2.59187,westus,V2
 Standard_NC96ads_A100_v4,A100-80GB,4,96.0,880,A100-80GB,14.692,2.463848,westus2,V2
 Standard_NC96ads_A100_v4,A100-80GB,4,96.0,880,A100-80GB,14.692,1.61612,westus3,V2
+Standard_NCC40ads_H100_v5,,,40.0,320,,6.98,1.745,eastus2,V2
 Standard_ND40rs_v2,V100-32GB,8,40.0,672,V100-32GB,22.032,2.42352,eastus,V2
 Standard_ND40rs_v2,V100-32GB,8,40.0,672,V100-32GB,26.438,2.90818,southcentralus,V2
 Standard_ND40rs_v2,V100-32GB,8,40.0,672,V100-32GB,22.032,2.42352,westus2,V2
@@ -5880,7 +5883,10 @@ Standard_ND96asr_v4,A100,8,96.0,900,A100,27.197,2.99167,westus2,V2
 Standard_ND96isr_H100_v5,H100,12,96.0,1900,H100,98.32,98.32,eastus,V2
 Standard_ND96isr_H100_v5,H100,12,96.0,1900,H100,98.32,98.32,eastus2,V2
 Standard_ND96isr_H100_v5,H100,12,96.0,1900,H100,127.816,127.816,westus,V2
-Standard_ND96is_H100_v5,H100,12,96.0,1900,H100,88.488,88.488,eastus2,V2
+Standard_NG16ads_V620_v1,,,16.0,32,,1.815,0.45375,eastus2,"V1,V2"
+Standard_NG32adms_V620_v1,,,32.0,176,,,,eastus2,"V1,V2"
+Standard_NG32ads_V620_v1,,,32.0,64,,3.63,0.9075,eastus2,"V1,V2"
+Standard_NG8ads_V620_v1,,,8.0,16,,0.908,0.227,eastus2,"V1,V2"
 Standard_NP10s,,,10.0,168,,1.65,0.1815,eastus,V1
 Standard_NP10s,,,10.0,168,,1.98,0.2178,southcentralus,V1
 Standard_NP10s,,,10.0,168,,1.65,0.1815,westus2,V1
@@ -5891,13 +5897,13 @@ Standard_NP40s,,,40.0,672,,6.6,0.726,eastus,"V1,V2"
 Standard_NP40s,,,40.0,672,,7.92,0.8712,southcentralus,"V1,V2"
 Standard_NP40s,,,40.0,672,,6.6,0.726,westus2,"V1,V2"
 Standard_NV12,M60,2,12.0,112,M60,2.28,0.2508,northcentralus,V1
-Standard_NV12ads_A10_v5,A10,1,12.0,110,A10,0.908,0.227,eastus,"V1,V2"
-Standard_NV12ads_A10_v5,A10,1,12.0,110,A10,0.908,0.227,eastus2,"V1,V2"
-Standard_NV12ads_A10_v5,A10,1,12.0,110,A10,1.09,0.2725,northcentralus,"V1,V2"
-Standard_NV12ads_A10_v5,A10,1,12.0,110,A10,1.09,0.2725,southcentralus,"V1,V2"
-Standard_NV12ads_A10_v5,A10,1,12.0,110,A10,1.18,0.295,westus,"V1,V2"
-Standard_NV12ads_A10_v5,A10,1,12.0,110,A10,0.908,0.227,westus2,"V1,V2"
-Standard_NV12ads_A10_v5,A10,1,12.0,110,A10,0.908,0.227,westus3,"V1,V2"
+Standard_NV12ads_A10_v5,A10,0.5,12.0,110,A10,0.908,0.227,eastus,"V1,V2"
+Standard_NV12ads_A10_v5,A10,0.5,12.0,110,A10,0.908,0.227,eastus2,"V1,V2"
+Standard_NV12ads_A10_v5,A10,0.5,12.0,110,A10,1.09,0.2725,northcentralus,"V1,V2"
+Standard_NV12ads_A10_v5,A10,0.5,12.0,110,A10,1.09,0.2725,southcentralus,"V1,V2"
+Standard_NV12ads_A10_v5,A10,0.5,12.0,110,A10,1.18,0.295,westus,"V1,V2"
+Standard_NV12ads_A10_v5,A10,0.5,12.0,110,A10,0.908,0.227,westus2,"V1,V2"
+Standard_NV12ads_A10_v5,A10,0.5,12.0,110,A10,0.908,0.227,westus3,"V1,V2"
 Standard_NV12s_v3,M60,1,12.0,112,M60,1.14,0.1254,eastus,"V1,V2"
 Standard_NV12s_v3,M60,1,12.0,112,M60,1.14,0.13965,eastus2,"V1,V2"
 Standard_NV12s_v3,M60,1,12.0,112,M60,1.368,0.15048,southcentralus,"V1,V2"
@@ -5911,13 +5917,13 @@ Standard_NV16as_v4,Radeon MI25,1,16.0,56,Radeon MI25,1.118,0.12298,southcentralu
 Standard_NV16as_v4,Radeon MI25,1,16.0,56,Radeon MI25,,,westus,"V1,V2"
 Standard_NV16as_v4,Radeon MI25,1,16.0,56,Radeon MI25,0.932,0.10252,westus2,"V1,V2"
 Standard_NV16as_v4,Radeon MI25,1,16.0,56,Radeon MI25,0.932,0.10252,westus3,"V1,V2"
-Standard_NV18ads_A10_v5,A10,1,18.0,220,A10,1.6,0.4,eastus,"V1,V2"
-Standard_NV18ads_A10_v5,A10,1,18.0,220,A10,1.6,0.4,eastus2,"V1,V2"
-Standard_NV18ads_A10_v5,A10,1,18.0,220,A10,1.92,0.48,northcentralus,"V1,V2"
-Standard_NV18ads_A10_v5,A10,1,18.0,220,A10,1.92,0.48,southcentralus,"V1,V2"
-Standard_NV18ads_A10_v5,A10,1,18.0,220,A10,2.08,0.52,westus,"V1,V2"
-Standard_NV18ads_A10_v5,A10,1,18.0,220,A10,1.6,0.4,westus2,"V1,V2"
-Standard_NV18ads_A10_v5,A10,1,18.0,220,A10,1.6,0.4,westus3,"V1,V2"
+Standard_NV18ads_A10_v5,A10,0.75,18.0,220,A10,1.6,0.4,eastus,"V1,V2"
+Standard_NV18ads_A10_v5,A10,0.75,18.0,220,A10,1.6,0.4,eastus2,"V1,V2"
+Standard_NV18ads_A10_v5,A10,0.75,18.0,220,A10,1.92,0.48,northcentralus,"V1,V2"
+Standard_NV18ads_A10_v5,A10,0.75,18.0,220,A10,1.92,0.48,southcentralus,"V1,V2"
+Standard_NV18ads_A10_v5,A10,0.75,18.0,220,A10,2.08,0.52,westus,"V1,V2"
+Standard_NV18ads_A10_v5,A10,0.75,18.0,220,A10,1.6,0.4,westus2,"V1,V2"
+Standard_NV18ads_A10_v5,A10,0.75,18.0,220,A10,1.6,0.4,westus3,"V1,V2"
 Standard_NV24,M60,4,24.0,224,M60,4.56,0.5016,northcentralus,V1
 Standard_NV24s_v3,M60,2,24.0,224,M60,2.28,0.2508,eastus,"V1,V2"
 Standard_NV24s_v3,M60,2,24.0,224,M60,2.28,0.2793,eastus2,"V1,V2"
@@ -5959,13 +5965,13 @@ Standard_NV4as_v4,Radeon MI25,1,4.0,14,Radeon MI25,,,westus,"V1,V2"
 Standard_NV4as_v4,Radeon MI25,1,4.0,14,Radeon MI25,0.233,0.02563,westus2,"V1,V2"
 Standard_NV4as_v4,Radeon MI25,1,4.0,14,Radeon MI25,0.233,0.02563,westus3,"V1,V2"
 Standard_NV6,M60,1,6.0,56,M60,1.14,0.1254,northcentralus,V1
-Standard_NV6ads_A10_v5,A10,1,6.0,55,A10,0.454,0.1135,eastus,"V1,V2"
-Standard_NV6ads_A10_v5,A10,1,6.0,55,A10,0.454,0.1135,eastus2,"V1,V2"
-Standard_NV6ads_A10_v5,A10,1,6.0,55,A10,0.545,0.13625,northcentralus,"V1,V2"
-Standard_NV6ads_A10_v5,A10,1,6.0,55,A10,0.545,0.13625,southcentralus,"V1,V2"
-Standard_NV6ads_A10_v5,A10,1,6.0,55,A10,0.59,0.1475,westus,"V1,V2"
-Standard_NV6ads_A10_v5,A10,1,6.0,55,A10,0.454,0.1135,westus2,"V1,V2"
-Standard_NV6ads_A10_v5,A10,1,6.0,55,A10,0.454,0.1135,westus3,"V1,V2"
+Standard_NV6ads_A10_v5,A10,0.25,6.0,55,A10,0.454,0.1135,eastus,"V1,V2"
+Standard_NV6ads_A10_v5,A10,0.25,6.0,55,A10,0.454,0.1135,eastus2,"V1,V2"
+Standard_NV6ads_A10_v5,A10,0.25,6.0,55,A10,0.545,0.13625,northcentralus,"V1,V2"
+Standard_NV6ads_A10_v5,A10,0.25,6.0,55,A10,0.545,0.13625,southcentralus,"V1,V2"
+Standard_NV6ads_A10_v5,A10,0.25,6.0,55,A10,0.59,0.1475,westus,"V1,V2"
+Standard_NV6ads_A10_v5,A10,0.25,6.0,55,A10,0.454,0.1135,westus2,"V1,V2"
+Standard_NV6ads_A10_v5,A10,0.25,6.0,55,A10,0.454,0.1135,westus3,"V1,V2"
 Standard_NV6_Promo,M60,1,6.0,56,M60,0.228,,northcentralus,V1
 Standard_NV72ads_A10_v5,A10,2,72.0,880,A10,6.52,1.63,eastus,"V1,V2"
 Standard_NV72ads_A10_v5,A10,2,72.0,880,A10,6.52,1.63,eastus2,"V1,V2"
