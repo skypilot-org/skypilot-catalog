@@ -1697,6 +1697,7 @@ c3-highmem-192-metal,192.0,1536.0,,,,asia-southeast1,asia-southeast1-a,15.66992,
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west1,europe-west1-b,13.98569,5.52384
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west4,europe-west4-b,13.33665,5.68166
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west4,europe-west4-c,13.33665,5.68166
+c3-highmem-192-metal,192.0,1536.0,,,,us-central1,us-central1-a,12.70157,2.99059
 c3-highmem-192-metal,192.0,1536.0,,,,us-east1,us-east1-d,12.70157,2.99059
 c3-highmem-192-metal,192.0,1536.0,,,,us-east5,us-east5-a,12.70157,2.82394
 c3-highmem-192-metal,192.0,1536.0,,,,us-east5,us-east5-b,12.70157,2.82394
