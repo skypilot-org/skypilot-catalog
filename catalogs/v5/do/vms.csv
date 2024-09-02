@@ -1,0 +1,2 @@
+InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,Price,Region,GpuInfo,SpotPrice
+s-4vcpu-8gb,,,4,8.0,0.07143,nyc1,,
