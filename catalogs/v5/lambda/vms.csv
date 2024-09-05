@@ -194,3 +194,5 @@ gpu_8x_h100_sxm5,H100,8.0,208.0,1800.0,23.92,us-west-1,"{'Gpus': [{'Name': 'H100
 gpu_8x_h100_sxm5,H100,8.0,208.0,1800.0,23.92,us-south-1,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
 gpu_8x_h100_sxm5,H100,8.0,208.0,1800.0,23.92,us-west-3,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
 gpu_8x_h100_sxm5,H100,8.0,208.0,1800.0,23.92,us-midwest-1,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
+gpu_8x_h100_sxm5,H100,8.0,208.0,1800.0,23.92,us-south-2,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
+gpu_8x_h100_sxm5,H100,8.0,208.0,1800.0,23.92,us-south-3,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
