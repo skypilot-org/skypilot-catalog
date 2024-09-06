@@ -15405,6 +15405,7 @@ t2d-standard-1,1.0,4.0,,,,asia-northeast1,asia-northeast1-c,0.0542,0.01052
 t2d-standard-1,1.0,4.0,,,,asia-northeast2,asia-northeast2-a,0.05425,0.02171
 t2d-standard-1,1.0,4.0,,,,asia-northeast2,asia-northeast2-b,0.05425,0.02171
 t2d-standard-1,1.0,4.0,,,,asia-northeast2,asia-northeast2-c,0.05425,0.02171
+t2d-standard-1,1.0,4.0,,,,asia-northeast3,asia-northeast3-a,0.05425,0.01313
 t2d-standard-1,1.0,4.0,,,,asia-northeast3,asia-northeast3-b,0.05425,0.01313
 t2d-standard-1,1.0,4.0,,,,asia-northeast3,asia-northeast3-c,0.05425,0.01313
 t2d-standard-1,1.0,4.0,,,,asia-south1,asia-south1-a,0.02788,0.01116
@@ -15520,6 +15521,7 @@ t2d-standard-16,16.0,64.0,,,,asia-northeast1,asia-northeast1-c,0.86717,0.16826
 t2d-standard-16,16.0,64.0,,,,asia-northeast2,asia-northeast2-a,0.86806,0.3473
 t2d-standard-16,16.0,64.0,,,,asia-northeast2,asia-northeast2-b,0.86806,0.3473
 t2d-standard-16,16.0,64.0,,,,asia-northeast2,asia-northeast2-c,0.86806,0.3473
+t2d-standard-16,16.0,64.0,,,,asia-northeast3,asia-northeast3-a,0.86806,0.21008
 t2d-standard-16,16.0,64.0,,,,asia-northeast3,asia-northeast3-b,0.86806,0.21008
 t2d-standard-16,16.0,64.0,,,,asia-northeast3,asia-northeast3-c,0.86806,0.21008
 t2d-standard-16,16.0,64.0,,,,asia-south1,asia-south1-a,0.44613,0.1785
@@ -15635,6 +15637,7 @@ t2d-standard-2,2.0,8.0,,,,asia-northeast1,asia-northeast1-c,0.1084,0.02103
 t2d-standard-2,2.0,8.0,,,,asia-northeast2,asia-northeast2-a,0.10851,0.04341
 t2d-standard-2,2.0,8.0,,,,asia-northeast2,asia-northeast2-b,0.10851,0.04341
 t2d-standard-2,2.0,8.0,,,,asia-northeast2,asia-northeast2-c,0.10851,0.04341
+t2d-standard-2,2.0,8.0,,,,asia-northeast3,asia-northeast3-a,0.10851,0.02626
 t2d-standard-2,2.0,8.0,,,,asia-northeast3,asia-northeast3-b,0.10851,0.02626
 t2d-standard-2,2.0,8.0,,,,asia-northeast3,asia-northeast3-c,0.10851,0.02626
 t2d-standard-2,2.0,8.0,,,,asia-south1,asia-south1-a,0.05577,0.02231
@@ -15750,6 +15753,7 @@ t2d-standard-32,32.0,128.0,,,,asia-northeast1,asia-northeast1-c,1.73434,0.33651
 t2d-standard-32,32.0,128.0,,,,asia-northeast2,asia-northeast2-a,1.73613,0.69459
 t2d-standard-32,32.0,128.0,,,,asia-northeast2,asia-northeast2-b,1.73613,0.69459
 t2d-standard-32,32.0,128.0,,,,asia-northeast2,asia-northeast2-c,1.73613,0.69459
+t2d-standard-32,32.0,128.0,,,,asia-northeast3,asia-northeast3-a,1.73613,0.42016
 t2d-standard-32,32.0,128.0,,,,asia-northeast3,asia-northeast3-b,1.73613,0.42016
 t2d-standard-32,32.0,128.0,,,,asia-northeast3,asia-northeast3-c,1.73613,0.42016
 t2d-standard-32,32.0,128.0,,,,asia-south1,asia-south1-a,0.89226,0.35699
@@ -15865,6 +15869,7 @@ t2d-standard-4,4.0,16.0,,,,asia-northeast1,asia-northeast1-c,0.21679,0.04206
 t2d-standard-4,4.0,16.0,,,,asia-northeast2,asia-northeast2-a,0.21702,0.08682
 t2d-standard-4,4.0,16.0,,,,asia-northeast2,asia-northeast2-b,0.21702,0.08682
 t2d-standard-4,4.0,16.0,,,,asia-northeast2,asia-northeast2-c,0.21702,0.08682
+t2d-standard-4,4.0,16.0,,,,asia-northeast3,asia-northeast3-a,0.21702,0.05252
 t2d-standard-4,4.0,16.0,,,,asia-northeast3,asia-northeast3-b,0.21702,0.05252
 t2d-standard-4,4.0,16.0,,,,asia-northeast3,asia-northeast3-c,0.21702,0.05252
 t2d-standard-4,4.0,16.0,,,,asia-south1,asia-south1-a,0.11153,0.04462
@@ -15980,6 +15985,7 @@ t2d-standard-48,48.0,192.0,,,,asia-northeast1,asia-northeast1-c,2.6015,0.50477
 t2d-standard-48,48.0,192.0,,,,asia-northeast2,asia-northeast2-a,2.60419,1.04189
 t2d-standard-48,48.0,192.0,,,,asia-northeast2,asia-northeast2-b,2.60419,1.04189
 t2d-standard-48,48.0,192.0,,,,asia-northeast2,asia-northeast2-c,2.60419,1.04189
+t2d-standard-48,48.0,192.0,,,,asia-northeast3,asia-northeast3-a,2.60419,0.63024
 t2d-standard-48,48.0,192.0,,,,asia-northeast3,asia-northeast3-b,2.60419,0.63024
 t2d-standard-48,48.0,192.0,,,,asia-northeast3,asia-northeast3-c,2.60419,0.63024
 t2d-standard-48,48.0,192.0,,,,asia-south1,asia-south1-a,1.33838,0.53549
@@ -16095,6 +16101,7 @@ t2d-standard-60,60.0,240.0,,,,asia-northeast1,asia-northeast1-c,3.25188,0.63096
 t2d-standard-60,60.0,240.0,,,,asia-northeast2,asia-northeast2-a,3.25524,1.30236
 t2d-standard-60,60.0,240.0,,,,asia-northeast2,asia-northeast2-b,3.25524,1.30236
 t2d-standard-60,60.0,240.0,,,,asia-northeast2,asia-northeast2-c,3.25524,1.30236
+t2d-standard-60,60.0,240.0,,,,asia-northeast3,asia-northeast3-a,3.25524,0.7878
 t2d-standard-60,60.0,240.0,,,,asia-northeast3,asia-northeast3-b,3.25524,0.7878
 t2d-standard-60,60.0,240.0,,,,asia-northeast3,asia-northeast3-c,3.25524,0.7878
 t2d-standard-60,60.0,240.0,,,,asia-south1,asia-south1-a,1.67298,0.66936
@@ -16210,6 +16217,7 @@ t2d-standard-8,8.0,32.0,,,,asia-northeast1,asia-northeast1-c,0.43358,0.08413
 t2d-standard-8,8.0,32.0,,,,asia-northeast2,asia-northeast2-a,0.43403,0.17365
 t2d-standard-8,8.0,32.0,,,,asia-northeast2,asia-northeast2-b,0.43403,0.17365
 t2d-standard-8,8.0,32.0,,,,asia-northeast2,asia-northeast2-c,0.43403,0.17365
+t2d-standard-8,8.0,32.0,,,,asia-northeast3,asia-northeast3-a,0.43403,0.10504
 t2d-standard-8,8.0,32.0,,,,asia-northeast3,asia-northeast3-b,0.43403,0.10504
 t2d-standard-8,8.0,32.0,,,,asia-northeast3,asia-northeast3-c,0.43403,0.10504
 t2d-standard-8,8.0,32.0,,,,asia-south1,asia-south1-a,0.22306,0.08925
