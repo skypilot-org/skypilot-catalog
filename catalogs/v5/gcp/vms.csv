@@ -1599,6 +1599,7 @@ c3-highcpu-192-metal,192.0,512.0,,,,us-central1,us-central1-c,8.66906,1.66515
 c3-highcpu-192-metal,192.0,512.0,,,,us-east1,us-east1-c,8.66906,1.66515
 c3-highcpu-192-metal,192.0,512.0,,,,us-east1,us-east1-d,8.66906,1.66515
 c3-highcpu-192-metal,192.0,512.0,,,,us-east4,us-east4-c,8.66906,3.00237
+c3-highcpu-192-metal,192.0,512.0,,,,us-east5,us-east5-a,8.66906,2.03507
 c3-highcpu-192-metal,192.0,512.0,,,,us-east5,us-east5-b,8.66906,2.03507
 c3-highcpu-192-metal,192.0,512.0,,,,us-west1,us-west1-a,8.66906,1.66515
 c3-highcpu-192-metal,192.0,512.0,,,,us-west1,us-west1-b,8.66906,1.66515
