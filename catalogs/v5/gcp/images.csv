@@ -6,3 +6,4 @@ skypilot:cuda118-debian-11,,debian,11,projects/deeplearning-platform-release/glo
 skypilot:cuda121-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cu121-v20231105-debian-11-py310,20231105
 skypilot:cpu-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cpu-v20231105-debian-11-py310,20231105
 skypilot:gpu-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cu121-v20231105-debian-11-py310,20231105
+skypilot:custom-gpu-debian-11,,debian,11,projects/sky-dev-465/global/images/skypilot-gcp-gpu-debian-11-v20241003,20241003
