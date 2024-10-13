@@ -43,13 +43,22 @@ jobs:
 
       - name: Run fetch_gcp
         run: |
+          echo "running json"
           echo "$GCP_SERVICE_ACCOUNT_KEY" > $HOME/service_account_key.json
+          echo "running export"
           export GOOGLE_APPLICATION_CREDENTIALS=$HOME/service_account_key.json
+          echo "auth"
           gcloud auth activate-service-account --key-file $GOOGLE_APPLICATION_CREDENTIALS &> /dev/null
+          echo "config"
           gcloud config set project $GCP_PROJECT_ID &> /dev/null
+          echo "version"
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          echo "mkdir"
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
+          echo "gcloud"
+          gcloud auth list
+          echo "python"
           python -u -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
         env:
           GCP_SERVICE_ACCOUNT_KEY: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
