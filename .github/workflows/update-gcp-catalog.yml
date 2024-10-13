@@ -38,11 +38,12 @@ jobs:
           curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-436.0.0-linux-x86_64.tar.gz
           tar -xf google-cloud-cli-436.0.0-linux-x86_64.tar.gz
           ./google-cloud-sdk/install.sh -q
-          source ~/google-cloud-sdk/path.bash.inc
           wait
 
       - name: Run fetch_gcp
         run: |
+          echo "source"
+          source ~/google-cloud-sdk/path.bash.inc
           echo "running json"
           echo "$GCP_SERVICE_ACCOUNT_KEY" > $HOME/service_account_key.json
           echo "running export"
