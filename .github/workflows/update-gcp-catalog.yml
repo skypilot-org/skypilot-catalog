@@ -48,7 +48,7 @@ jobs:
           echo "running export"
           export GOOGLE_APPLICATION_CREDENTIALS=$HOME/service_account_key.json
           echo "auth"
-          gcloud auth activate-service-account --key-file $GOOGLE_APPLICATION_CREDENTIALS &> /dev/null
+          gcloud auth activate-service-account --key-file $GOOGLE_APPLICATION_CREDENTIALS
           echo "config"
           gcloud config set project $GCP_PROJECT_ID &> /dev/null
           echo "version"
