@@ -13,18 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone SkyPilot repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: skypilot-org/skypilot
           path: sky
       - name: Clone Catalog repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           path: catalogs
           token: ${{ secrets.GH_ACTION_PAT }}
       - name: Set up Python 3.10
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
           cache: "pip" # caching pip dependencies
@@ -39,8 +39,11 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
+          mkdir -p ~/.fluidstack
+          echo "$FLUIDSTACK_API_KEY" > ~/.fluidstack/api_key
           python -m  sky.clouds.service_catalog.data_fetchers.fetch_fluidstack
-
+        env:
+          FLUIDSTACK_API_KEY: ${{ secrets.FLUIDSTACK_API_KEY }}
       - name: Commit catalog
         run: |
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
