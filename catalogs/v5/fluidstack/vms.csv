@@ -17,5 +17,5 @@ A100_PCIE_80GB::1,A100-80GB,1,28,120.0,1.8,CANADA,"{'Gpus': [{'Name': 'A100-80GB
 A100_PCIE_80GB::2,A100-80GB,2,60,240.0,3.6,CANADA,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 163840}",
 A100_PCIE_80GB::4,A100-80GB,4,124,480.0,7.2,CANADA,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 327680}",
 A100_PCIE_80GB::8,A100-80GB,8,252,1440.0,14.4,CANADA,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",
-H100_NVLINK_80GB::8,H100,8,252,1440.0,23.92,CANADA,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",
 A100_NVLINK_80GB::8,A100-80GB,8,252,960.0,15.2,CANADA,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",
+H100_NVLINK_80GB::8,H100,8,252,1440.0,23.92,CANADA,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",
