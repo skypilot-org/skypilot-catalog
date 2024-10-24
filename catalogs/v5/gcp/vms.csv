@@ -103,7 +103,6 @@ a2-ultragpu-8g,96.0,1360.0,,,,us-central1,us-central1-c,8.79698,3.51864
 a2-ultragpu-8g,96.0,1360.0,,,,us-east4,us-east4-c,9.90664,3.56584
 a2-ultragpu-8g,96.0,1360.0,,,,us-east5,us-east5-b,8.79698,2.76344
 a3-highgpu-1g,26.0,234.0,,,,asia-northeast1,asia-northeast1-b,1.51858,1.07106
-a3-highgpu-1g,26.0,234.0,,,,asia-northeast3,asia-northeast3-c,1.51858,1.07106
 a3-highgpu-1g,26.0,234.0,,,,asia-southeast1,asia-southeast1-b,1.45886,0.80244
 a3-highgpu-1g,26.0,234.0,,,,asia-southeast1,asia-southeast1-c,1.45886,0.80244
 a3-highgpu-1g,26.0,234.0,,,,australia-southeast1,australia-southeast1-c,1.47813,1.04254
@@ -112,8 +111,6 @@ a3-highgpu-1g,26.0,234.0,,,,europe-west3,europe-west3-a,1.39536,0.98415
 a3-highgpu-1g,26.0,234.0,,,,europe-west3,europe-west3-c,1.39536,0.98415
 a3-highgpu-1g,26.0,234.0,,,,europe-west4,europe-west4-b,1.24163,0.68271
 a3-highgpu-1g,26.0,234.0,,,,europe-west4,europe-west4-c,1.24163,0.68271
-a3-highgpu-1g,26.0,234.0,,,,europe-west8,europe-west8-c,1.37171,0.96747
-a3-highgpu-1g,26.0,234.0,,,,europe-west9,europe-west9-c,1.37171,0.96747
 a3-highgpu-1g,26.0,234.0,,,,us-central1,us-central1-a,1.18251,0.65023
 a3-highgpu-1g,26.0,234.0,,,,us-central1,us-central1-b,1.18251,0.65023
 a3-highgpu-1g,26.0,234.0,,,,us-central1,us-central1-c,1.18251,0.65023
@@ -125,7 +122,6 @@ a3-highgpu-1g,26.0,234.0,,,,us-west1,us-west1-a,1.18251,0.65023
 a3-highgpu-1g,26.0,234.0,,,,us-west1,us-west1-b,1.18251,0.65023
 a3-highgpu-1g,26.0,234.0,,,,us-west4,us-west4-a,1.33186,0.73255
 a3-highgpu-2g,52.0,468.0,,,,asia-northeast1,asia-northeast1-b,3.03715,2.14212
-a3-highgpu-2g,52.0,468.0,,,,asia-northeast3,asia-northeast3-c,3.03715,2.14212
 a3-highgpu-2g,52.0,468.0,,,,asia-southeast1,asia-southeast1-b,2.91772,1.60488
 a3-highgpu-2g,52.0,468.0,,,,asia-southeast1,asia-southeast1-c,2.91772,1.60488
 a3-highgpu-2g,52.0,468.0,,,,australia-southeast1,australia-southeast1-c,2.95627,2.08507
@@ -134,8 +130,6 @@ a3-highgpu-2g,52.0,468.0,,,,europe-west3,europe-west3-a,2.79072,1.96831
 a3-highgpu-2g,52.0,468.0,,,,europe-west3,europe-west3-c,2.79072,1.96831
 a3-highgpu-2g,52.0,468.0,,,,europe-west4,europe-west4-b,2.48327,1.36542
 a3-highgpu-2g,52.0,468.0,,,,europe-west4,europe-west4-c,2.48327,1.36542
-a3-highgpu-2g,52.0,468.0,,,,europe-west8,europe-west8-c,2.74342,1.93495
-a3-highgpu-2g,52.0,468.0,,,,europe-west9,europe-west9-c,2.74342,1.93495
 a3-highgpu-2g,52.0,468.0,,,,us-central1,us-central1-a,2.36502,1.30047
 a3-highgpu-2g,52.0,468.0,,,,us-central1,us-central1-b,2.36502,1.30047
 a3-highgpu-2g,52.0,468.0,,,,us-central1,us-central1-c,2.36502,1.30047
@@ -147,7 +141,6 @@ a3-highgpu-2g,52.0,468.0,,,,us-west1,us-west1-a,2.36502,1.30047
 a3-highgpu-2g,52.0,468.0,,,,us-west1,us-west1-b,2.36502,1.30047
 a3-highgpu-2g,52.0,468.0,,,,us-west4,us-west4-a,2.66372,1.4651
 a3-highgpu-4g,104.0,936.0,,,,asia-northeast1,asia-northeast1-b,6.07431,4.28424
-a3-highgpu-4g,104.0,936.0,,,,asia-northeast3,asia-northeast3-c,6.07431,4.28424
 a3-highgpu-4g,104.0,936.0,,,,asia-southeast1,asia-southeast1-b,5.83544,3.20975
 a3-highgpu-4g,104.0,936.0,,,,asia-southeast1,asia-southeast1-c,5.83544,3.20975
 a3-highgpu-4g,104.0,936.0,,,,australia-southeast1,australia-southeast1-c,5.91254,4.17014
@@ -156,8 +149,6 @@ a3-highgpu-4g,104.0,936.0,,,,europe-west3,europe-west3-a,5.58144,3.93661
 a3-highgpu-4g,104.0,936.0,,,,europe-west3,europe-west3-c,5.58144,3.93661
 a3-highgpu-4g,104.0,936.0,,,,europe-west4,europe-west4-b,4.96653,2.73083
 a3-highgpu-4g,104.0,936.0,,,,europe-west4,europe-west4-c,4.96653,2.73083
-a3-highgpu-4g,104.0,936.0,,,,europe-west8,europe-west8-c,5.48683,3.86989
-a3-highgpu-4g,104.0,936.0,,,,europe-west9,europe-west9-c,5.48683,3.86989
 a3-highgpu-4g,104.0,936.0,,,,us-central1,us-central1-a,4.73003,2.60094
 a3-highgpu-4g,104.0,936.0,,,,us-central1,us-central1-b,4.73003,2.60094
 a3-highgpu-4g,104.0,936.0,,,,us-central1,us-central1-c,4.73003,2.60094
