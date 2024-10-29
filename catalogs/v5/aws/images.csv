@@ -1,6 +1,8 @@
 Tag,Region,OS,OSVersion,ImageId,CreationDate,BaseImageId
 skypilot:custom-cpu-ubuntu,us-east-1,ubuntu,22.04,ami-0a852cb5b4eafe657,20241029,ami-005fc0f236362e99f
 skypilot:custom-gpu-ubuntu,us-east-1,ubuntu,22.04,ami-05e9f5efd844f1a4f,20241029,ami-005fc0f236362e99f
+skypilot:custom-cpu-ubuntu,us-east-2,ubuntu,22.04,ami-058137abba9baacb4,20241029,ami-005fc0f236362e99f
+skypilot:custom-gpu-ubuntu,us-east-2,ubuntu,22.04,ami-0318f586c36e3f5c5,20241029,ami-005fc0f236362e99f
 skypilot:custom-cpu-ubuntu,us-west-1,ubuntu,22.04,ami-0f9d1a64e5dfa27b8,20241029,ami-005fc0f236362e99f
 skypilot:custom-gpu-ubuntu,us-west-1,ubuntu,22.04,ami-03fc480655446a698,20241029,ami-005fc0f236362e99f
 skypilot:custom-cpu-ubuntu,us-west-2,ubuntu,22.04,ami-04d2a4e5d8e0df259,20241029,ami-005fc0f236362e99f
