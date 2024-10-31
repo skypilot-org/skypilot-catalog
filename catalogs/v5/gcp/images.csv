@@ -6,5 +6,5 @@ skypilot:cuda118-debian-11,,debian,11,projects/deeplearning-platform-release/glo
 skypilot:cuda121-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cu121-v20231105-debian-11-py310,20231105,
 skypilot:cpu-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cpu-v20231105-debian-11-py310,20231105,
 skypilot:gpu-debian-11,,debian,11,projects/deeplearning-platform-release/global/images/common-cu121-v20231105-debian-11-py310,20231105,
-skypilot:custom-gpu-ubuntu-2204,,ubuntu,22.04,projects/sky-dev-465/global/images/skypilot-gcp-gpu-ubuntu-20241017203343,20241017,projects/ubuntu-os-cloud/global/images/ubuntu-2204-jammy-v20240927
-skypilot:custom-cpu-ubuntu-2204,,ubuntu,22.04,projects/sky-dev-465/global/images/skypilot-gcp-cpu-ubuntu-20241017184242,20241017,projects/ubuntu-os-cloud/global/images/ubuntu-2204-jammy-v20240927
+skypilot:custom-gpu-ubuntu-2204,,ubuntu,22.04,projects/sky-dev-465/global/images/skypilot-gcp-gpu-ubuntu-241030,20241030,projects/ubuntu-os-cloud/global/images/ubuntu-2204-jammy-v20240927
+skypilot:custom-cpu-ubuntu-2204,,ubuntu,22.04,projects/sky-dev-465/global/images/skypilot-gcp-cpu-ubuntu-241030,20241030,projects/ubuntu-os-cloud/global/images/ubuntu-2204-jammy-v20240927
