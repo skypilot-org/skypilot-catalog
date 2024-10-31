@@ -1,9 +1,9 @@
 Tag,Region,OS,OSVersion,ImageId,CreationDate
 skypilot:cpu-ubuntu-2004,,ubuntu,20.04,us-central1-docker.pkg.dev/skypilot-375900/skypilotk8s/skypilot:20240613,20240613
 skypilot:gpu-ubuntu-2004,,ubuntu,20.04,us-central1-docker.pkg.dev/skypilot-375900/skypilotk8s/skypilot-gpu:20240613,20240613
-skypilot:custom-cpu-ubuntu-2004,us,ubuntu,20.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:20241031,20241031
-skypilot:custom-gpu-ubuntu-2004,us,ubuntu,20.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:20241031,20241031
-skypilot:custom-cpu-ubuntu-2004,europe,ubuntu,20.04,europe-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:20241031,20241031
-skypilot:custom-gpu-ubuntu-2004,europe,ubuntu,20.04,europe-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:20241031,20241031
-skypilot:custom-cpu-ubuntu-2004,asia,ubuntu,20.04,asia-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:20241031,20241031
-skypilot:custom-gpu-ubuntu-2004,asia,ubuntu,20.04,asia-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:20241031,20241031
+skypilot:custom-cpu-ubuntu-2004,us,ubuntu,20.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:latest,20241031
+skypilot:custom-gpu-ubuntu-2004,us,ubuntu,20.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:latest,20241031
+skypilot:custom-cpu-ubuntu-2004,europe,ubuntu,20.04,europe-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:latest,20241031
+skypilot:custom-gpu-ubuntu-2004,europe,ubuntu,20.04,europe-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:latest,20241031
+skypilot:custom-cpu-ubuntu-2004,asia,ubuntu,20.04,asia-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:latest,20241031
+skypilot:custom-gpu-ubuntu-2004,asia,ubuntu,20.04,asia-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:latest,20241031
