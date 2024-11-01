@@ -1,3 +1,5 @@
 Tag,Region,OS,OSVersion,ImageId,CreationDate
 skypilot:cpu-ubuntu-2004,,ubuntu,20.04,us-central1-docker.pkg.dev/skypilot-375900/skypilotk8s/skypilot:20240613,20240613
 skypilot:gpu-ubuntu-2004,,ubuntu,20.04,us-central1-docker.pkg.dev/skypilot-375900/skypilotk8s/skypilot-gpu:20240613,20240613
+skypilot:custom-cpu-ubuntu-2004,,ubuntu,20.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:latest,20241031
+skypilot:custom-gpu-ubuntu-2004,,ubuntu,20.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:latest,20241031
