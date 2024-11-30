@@ -15,3 +15,4 @@ L40_48GB::2,L40,2,64,120.0,2.5,CANADA,"{'Gpus': [{'Name': 'L40', 'Manufacturer':
 L40_48GB::4,L40,4,126,240.0,5.0,CANADA,"{'Gpus': [{'Name': 'L40', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 196608}",
 L40_48GB::8,L40,8,252,480.0,10.0,CANADA,"{'Gpus': [{'Name': 'L40', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 393216}",
 H100_PCIE_80GB::1,H100,1,28,180.0,2.89,CANADA,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
+H100_PCIE_80GB::2,H100,2,60,360.0,5.78,CANADA,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 163840}",
