@@ -102,7 +102,13 @@ a2-ultragpu-8g,96.0,1360.0,,,,us-central1,us-central1-a,8.79698,3.51864
 a2-ultragpu-8g,96.0,1360.0,,,,us-central1,us-central1-c,8.79698,3.51864
 a2-ultragpu-8g,96.0,1360.0,,,,us-east4,us-east4-c,9.90664,3.96192
 a2-ultragpu-8g,96.0,1360.0,,,,us-east5,us-east5-b,8.79698,2.48752
+a3-edgegpu-8g,208.0,1872.0,,,,asia-northeast3,asia-northeast3-c,12.14861,8.56847
+a3-edgegpu-8g,208.0,1872.0,,,,europe-west9,europe-west9-c,10.97367,7.73978
+a3-edgegpu-8g,208.0,1872.0,,,,northamerica-northeast2,northamerica-northeast2-c,10.41647,7.34679
 a3-edgegpu-8g,208.0,1872.0,,,,us-central1,us-central1-c,9.46006,3.78394
+a3-edgegpu-8g-nolssd,208.0,1872.0,,,,asia-northeast3,asia-northeast3-c,12.14861,8.56847
+a3-edgegpu-8g-nolssd,208.0,1872.0,,,,europe-west9,europe-west9-c,10.97367,7.73978
+a3-edgegpu-8g-nolssd,208.0,1872.0,,,,northamerica-northeast2,northamerica-northeast2-c,10.41647,7.34679
 a3-edgegpu-8g-nolssd,208.0,1872.0,,,,us-central1,us-central1-c,9.46006,3.78394
 a3-highgpu-1g,26.0,234.0,,,,asia-northeast1,asia-northeast1-b,1.51858,1.07106
 a3-highgpu-1g,26.0,234.0,,,,asia-southeast1,asia-southeast1-b,1.45886,0.58354
