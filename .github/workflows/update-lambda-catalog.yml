@@ -24,34 +24,43 @@ jobs:
           fetch-depth: 0
           path: catalogs
           token: ${{ secrets.GH_ACTION_PAT }}
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v5
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v4
         with:
-          python-version: '3.10'
-          cache: 'pip' # caching pip dependencies
+          version: "latest"
+          python-version: "3.10"
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           cd sky
-          pip install ".[lambda]"
+          uv pip install ".[lambda]"
 
       - name: Run fetch_lambda
+        id: fetch_catalogs
         run: |
-          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
-          mkdir -p catalogs/catalogs/$version
-          cd catalogs/catalogs/$version
-          python -m sky.clouds.service_catalog.data_fetchers.fetch_lambda_cloud --api-key ${LAMBDA_API_KEY}
+          versions=$(cat .metadata.yml | yq -r '.version_commit | keys[]')
+          for version in $versions; do
+            commit_hash=$(cat .metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
+            cd sky
+            git checkout $commit_hash
+            uv pip install ".[lambda]"
+            cd -
+            mkdir -p catalogs/catalogs/$version
+            cd catalogs/catalogs/$version
+            python -m sky.clouds.service_catalog.data_fetchers.fetch_lambda_cloud --api-key ${LAMBDA_API_KEY}
+          done
+          echo "versions=$versions" >> $GITHUB_OUTPUT
         env:
           LAMBDA_API_KEY: ${{ secrets.LAMBDA_API_KEY }}
 
       - name: Commit catalog
         run: |
-          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m"[Bot] Update Lambda catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git commit -m"[Bot] Update Lambda catalog $VERSIONS (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
           git rebase origin/master
           git push
+        env:
+          VERSIONS: ${{ steps.fetch_catalogs.outputs.versions }}
