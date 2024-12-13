@@ -44,11 +44,10 @@ jobs:
         id: fetch_catalogs
         run: |
           source ~/catalogs-venv/bin/activate
-          echo "> Fetching catalog schema version ..."
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
-            echo "> Fetching catalog schema version $version ..."
             commit_hash=$(cat catalogs/.metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
+            echo "> Fetching catalog schema version $version with SkyPilot commit hash $commit_hash ..."
             if [ "$commit_hash" == "latest" ]; then
               commit_hash=$(git rev-parse origin/master)
             fi
