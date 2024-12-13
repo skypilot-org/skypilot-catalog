@@ -16,6 +16,7 @@ jobs:
       - name: Clone SkyPilot repo
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           repository: skypilot-org/skypilot
           path: sky
       - name: Clone Catalog repo
@@ -24,8 +25,6 @@ jobs:
           fetch-depth: 0
           path: catalogs
           token: ${{ secrets.GH_ACTION_PAT }}
-          # Use the same commit hash as the workflow is triggered by
-          ref: ${{ github.event.workflow_run.head_sha }}
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v4
         with:

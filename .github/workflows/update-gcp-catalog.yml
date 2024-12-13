@@ -16,6 +16,7 @@ jobs:
       - name: Clone SkyPilot repo
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           repository: skypilot-org/skypilot
           path: sky
       - name: Clone Catalog repo
