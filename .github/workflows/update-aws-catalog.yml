@@ -54,6 +54,7 @@ jobs:
             cd catalogs/catalogs/$version
             # Uses --check-all-regions-enabled-for-account to ensure that the catalog fetched has all regions, otherwise fail the job.
             python -m sky.clouds.service_catalog.data_fetchers.fetch_aws --no-az-mappings --check-all-regions-enabled-for-account
+            cd -
           done
           echo "versions=$versions" >> $GITHUB_OUTPUT
           echo "commit_hashes=$commit_hashes" >> $GITHUB_OUTPUT

@@ -58,10 +58,12 @@ jobs:
           echo "> Fetching catalog schema version ..."
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
+            echo "> Fetching catalog schema version $version ..."
             commit_hash=$(cat catalogs/.metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
             if [ "$commit_hash" == "latest" ]; then
               commit_hash=$(git rev-parse origin/master)
             fi
+            echo "> Checking out SkyPilot to commit hash $commit_hash ..."
             cd sky
             git checkout $commit_hash
             uv pip install ".[gcp]"
@@ -71,6 +73,7 @@ jobs:
             cd catalogs/catalogs/$version
             echo "> Fetching GCP catalog ..."
             python -u -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
+            cd -
           done
           echo "versions=$versions" >> $GITHUB_OUTPUT
         env:

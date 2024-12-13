@@ -53,6 +53,7 @@ jobs:
             mkdir -p ~/.fluidstack
             echo "$FLUIDSTACK_API_KEY" > ~/.fluidstack/api_key
             python -m  sky.clouds.service_catalog.data_fetchers.fetch_fluidstack
+            cd -
           done
           echo "versions=$versions" >> $GITHUB_OUTPUT
         env:
