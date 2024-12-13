@@ -47,13 +47,13 @@ jobs:
           source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
+            cd sky
             commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
             echo "> Fetching catalog schema version $version with SkyPilot commit hash $commit_hash ..."
             if [ "$commit_hash" == "latest" ]; then
               commit_hash=$(git rev-parse origin/master)
             fi
             echo "> Checking out SkyPilot to commit hash $commit_hash ..."
-            cd sky
             git checkout $commit_hash
             uv pip install ".[gcp]"
             cd -
