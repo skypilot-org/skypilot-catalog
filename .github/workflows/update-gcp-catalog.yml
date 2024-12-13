@@ -46,7 +46,7 @@ jobs:
           source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
-            commit_hash=$(cat catalogs/.metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
+            commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
             echo "> Fetching catalog schema version $version with SkyPilot commit hash $commit_hash ..."
             if [ "$commit_hash" == "latest" ]; then
               commit_hash=$(git rev-parse origin/master)
