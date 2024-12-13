@@ -32,6 +32,8 @@ jobs:
       - name: Run fetch_aws
         id: fetch_catalogs
         run: |
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           # Loop over all versions and commit hashes
           for version in $versions; do

@@ -31,6 +31,8 @@ jobs:
           python-version: "3.10"
       - name: Install dependencies
         run: |
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
           cd sky
           uv pip install ".[gcp]"
           cd ~
@@ -42,6 +44,7 @@ jobs:
       - name: Run fetch_gcp
         id: fetch_catalogs
         run: |
+          source ~/catalogs-venv/bin/activate
           echo "> Sourcing gcloud path ..."
           source ~/google-cloud-sdk/path.bash.inc
           echo "> Writing service account key to file ..."

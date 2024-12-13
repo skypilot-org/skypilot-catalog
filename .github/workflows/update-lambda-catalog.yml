@@ -31,12 +31,15 @@ jobs:
           python-version: "3.10"
       - name: Install dependencies
         run: |
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
           cd sky
           uv pip install ".[lambda]"
 
       - name: Run fetch_lambda
         id: fetch_catalogs
         run: |
+          source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
             commit_hash=$(cat catalogs/.metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
