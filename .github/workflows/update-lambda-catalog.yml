@@ -56,7 +56,7 @@ jobs:
             python -m sky.clouds.service_catalog.data_fetchers.fetch_lambda_cloud --api-key ${LAMBDA_API_KEY}
             cd -
           done
-          echo "versions=$versions" >> $GITHUB_OUTPUT
+          echo "versions=\"$versions\"" >> $GITHUB_OUTPUT
         env:
           LAMBDA_API_KEY: ${{ secrets.LAMBDA_API_KEY }}
 

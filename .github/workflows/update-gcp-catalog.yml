@@ -64,7 +64,7 @@ jobs:
             python -u -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
             cd -
           done
-          echo "versions=$versions" >> $GITHUB_OUTPUT
+          echo "versions=\"$versions\"" >> $GITHUB_OUTPUT
         env:
           GCP_SERVICE_ACCOUNT_KEY: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
           GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
