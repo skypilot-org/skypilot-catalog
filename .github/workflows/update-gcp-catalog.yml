@@ -53,9 +53,12 @@ jobs:
           echo "> Configuring project ..."
           gcloud config set project $GCP_PROJECT_ID > /dev/null
           echo "> Fetching catalog schema version ..."
-          versions=$(cat .metadata.yml | yq -r '.version_commit | keys[]')
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
-            commit_hash=$(cat .metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
+            commit_hash=$(cat catalogs/.metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
+            if [ "$commit_hash" == "latest" ]; then
+              commit_hash=$(git rev-parse origin/master)
+            fi
             cd sky
             git checkout $commit_hash
             uv pip install ".[gcp]"

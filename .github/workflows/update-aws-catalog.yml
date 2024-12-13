@@ -32,11 +32,15 @@ jobs:
       - name: Run fetch_aws
         id: fetch_catalogs
         run: |
-          versions=$(cat .metadata.yml | yq -r '.version_commit | keys[]')
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           # Loop over all versions and commit hashes
           for version in $versions; do
             # Find commit hash for the version
-            commit_hash=$(cat .metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
+            commit_hash=$(cat catalogs/.metadata.yml | yq -r '.version_commit | .[] | select(. == $version)')
+            if [ "$commit_hash" == "latest" ]; then
+              # Find the latest commit of the remote SkyPilot repo
+              commit_hash=$(git rev-parse origin/master)
+            fi
             cd sky
             git checkout $commit_hash
             uv pip install ".[aws]"
