@@ -64,20 +64,18 @@ jobs:
             python -u -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
             cd -
           done
-          echo "versions=\"$versions\"" >> $GITHUB_OUTPUT
         env:
           GCP_SERVICE_ACCOUNT_KEY: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
           GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
 
       - name: Commit catalog
         run: |
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m"[Bot] Update GCP catalog $VERSIONS (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git commit -m"[Bot] Update GCP catalog $versions (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
           git rebase origin/master
           git push
-        env:
-          VERSIONS: ${{ steps.fetch_catalogs.outputs.versions }}
