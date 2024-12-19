@@ -1,0 +1,610 @@
+InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,Price,Region,GpuInfo,SpotPrice
+2x-RTX_4090-64,RTX4090,2,64,47.9765625,0.72,"Spain, ES","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.72
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.40,"Sweden, SE","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.37,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.37
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.41,"Poland, PL","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.41
+2x-RTX_4090-192,RTX4090,2,192,47.9765625,0.78,"Spain, ES","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.78
+1x-RTX_4090-48,RTX4090,1,48,23.98828125,0.47,"Spain, ES","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.47
+2x-RTX_4090-64,RTX4090,2,64,47.9765625,0.56,"Hong Kong, HK","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.56
+2x-RTX_4090-64,RTX4090,2,64,47.9765625,0.76,"Quebec, CA","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.76
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,0.88,"Missouri, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.88
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.47,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.47
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.43,", US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.43
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.40,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.38,"Czechia, CZ","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.38
+1x-H100_SXM-64,H100,1,64,79.6474609375,2.13,"Thailand, TH","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",2.13
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.40,"British Columbia, CA","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.45,"Spain, ES","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.45
+1x-RTX_A4000-72,RTXA4000,1,72,15.9921875,0.09,"Pennsylvania, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.09
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.33,"Washington, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.33
+1x-RTX_3090-28,RTX3090,1,28,24.0,0.21,"Utah, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.21
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.40,"Romania, RO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+2x-RTX_A4000-88,RTXA4000,2,88,31.984375,0.19,"Washington, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.19
+8x-RTX_3090-32,RTX3090,8,32,192.0,1.07,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196608}}], 'TotalGpuMemoryInMiB': 196608}",1.07
+2x-RTX_A4000-72,RTXA4000,2,72,31.984375,0.19,"Pennsylvania, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.19
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.47,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.47
+2x-RTX_4090-32,RTX4090,2,32,47.9765625,0.80,", RU","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.80
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.40,"Idaho, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-H100_NVL-64,H100,1,64,93.583984375,2.67,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 95830}}], 'TotalGpuMemoryInMiB': 95830}",2.67
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.80,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.80
+1x-RTX_6000Ada-96,RTX6000-Ada,1,96,44.98828125,0.76,", US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.76
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,1.07,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.07
+1x-H100_SXM-128,H100,1,128,79.6474609375,2.47,"Czechia, CZ","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",2.47
+1x-H100_NVL-64,H100,1,64,93.583984375,2.67,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 95830}}], 'TotalGpuMemoryInMiB': 95830}",2.67
+1x-RTX_4090-32,RTX4090,1,32,23.98828125,0.40,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.42,"Hong Kong, HK","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.42
+1x-RTX_4090-12,RTX4090,1,12,23.98828125,0.31,"Utah, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.31
+1x-RTX_3090-64,RTX3090,1,64,24.0,0.22,"Czechia, CZ","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.22
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.80,"Romania, RO","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.80
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.43,"New Jersey, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.43
+1x-L40S-64,L40S,1,64,44.98828125,0.85,", US","{'Gpus': [{'Name': 'L40S', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.85
+1x-RTX_4090-12,RTX4090,1,12,23.98828125,0.44,"Poland, PL","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.44
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,0.80,"Pennsylvania, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.80
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,0.76,"Italy, IT","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.76
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.47,", US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.47
+1x-H100_NVL-64,H100,1,64,93.583984375,2.80,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 95830}}], 'TotalGpuMemoryInMiB': 95830}",2.80
+2x-H100_NVL-64,H100,2,64,187.16796875,5.60,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 191660}}], 'TotalGpuMemoryInMiB': 191660}",5.60
+1x-RTX_4090-12,RTX4090,1,12,23.98828125,0.29,"Utah, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.29
+2x-RTX_4090D-256,RTX4090,2,256,47.9765625,0.93,", US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.93
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.53,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.53
+1x-RTX_4090-15,RTX4090,1,15,23.98828125,0.41,"Finland, FI","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.41
+1x-L40S-128,L40S,1,128,44.98828125,0.81,"Quebec, CA","{'Gpus': [{'Name': 'L40S', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.81
+1x-RTX_6000Ada-128,RTX6000-Ada,1,128,47.98828125,0.93,"Texas, US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.93
+1x-RTX_4090D-64,RTX4090,1,64,23.98828125,0.47,"France, FR","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.47
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.47,"Maryland, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.47
+4x-RTX_3090-24,RTX3090,4,24,96.0,0.80,"Lithuania, LT","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.80
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.54,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+4x-H100_NVL-64,H100,4,64,374.3359375,11.20,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 383320}}], 'TotalGpuMemoryInMiB': 383320}",11.20
+4x-H100_PCIE-128,H100,4,128,318.58984375,7.73,"Texas, US","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 326236}}], 'TotalGpuMemoryInMiB': 326236}",7.73
+1x-RTX_3090-64,RTX3090,1,64,24.0,0.20,"Norway, NO","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.20
+1x-RTX_6000Ada-254,RTX6000-Ada,1,254,47.98828125,0.83,"Finland, FI","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.83
+2x-L40S-64,L40S,2,64,89.9765625,1.71,", US","{'Gpus': [{'Name': 'L40S', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.71
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+2x-H100_NVL-64,H100,2,64,187.16796875,5.33,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 191660}}], 'TotalGpuMemoryInMiB': 191660}",5.33
+2x-RTX_4090-32,RTX4090,2,32,47.9765625,0.80,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.80
+1x-RTX_6000Ada-96,RTX6000-Ada,1,96,44.98828125,0.83,", US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.83
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.59,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.59
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.67,"Washington, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.67
+2x-RTX_6000Ada-96,RTX6000-Ada,2,96,89.9765625,1.65,", US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.65
+1x-H100_SXM-128,H100,1,128,79.6474609375,2.67,", US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",2.67
+1x-RTX_4080S-48,RTX4080,1,48,15.9921875,0.24,"Alberta, CA","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.24
+2x-H100_NVL-64,H100,2,64,187.16796875,5.33,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 191660}}], 'TotalGpuMemoryInMiB': 191660}",5.33
+4x-RTX_A4000-88,RTXA4000,4,88,63.96875,0.37,"Washington, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 65504}}], 'TotalGpuMemoryInMiB': 65504}",0.37
+1x-H100_NVL-128,H100,1,128,93.583984375,3.20,", US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 95830}}], 'TotalGpuMemoryInMiB': 95830}",3.20
+1x-L40S-96,L40S,1,96,44.98828125,0.60,"Türkiye, TR","{'Gpus': [{'Name': 'L40S', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.60
+8x-H100_NVL-64,H100,8,64,748.671875,22.40,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 766640}}], 'TotalGpuMemoryInMiB': 766640}",22.40
+2x-RTX_4090-64,RTX4090,2,64,47.9765625,0.85,"Hong Kong, HK","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.85
+1x-RTX_3090_Ti-20,RTX3090,1,20,23.98828125,0.19,"Vietnam, VN","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.19
+3x-RTX_4090-64,RTX4090,3,64,67.46484375,1.12,"British Columbia, CA","{'Gpus': [{'Name': 'RTX4090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 69084}}], 'TotalGpuMemoryInMiB': 69084}",1.12
+1x-RTX_4090-32,RTX4090,1,32,23.98828125,0.44,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.44
+2x-H100_NVL-128,H100,2,128,187.16796875,6.40,", US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 191660}}], 'TotalGpuMemoryInMiB': 191660}",6.40
+2x-RTX_3090-32,RTX3090,2,32,48.0,0.43,"Moscow Oblas, RU","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.43
+1x-RTX_3090-32,RTX3090,1,32,24.0,0.21,"Moscow Oblas, RU","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.21
+2x-RTX_6000Ada-128,RTX6000-Ada,2,128,95.9765625,1.87,"Texas, US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.87
+2x-RTX_3090-256,RTX3090,2,256,48.0,0.53,"Australia, AU","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.53
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.17,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.17
+2x-RTX_3090_Ti-32,RTX3090,2,32,47.9765625,0.42,"Minnesota, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.42
+1x-H100_SXM-128,H100,1,128,79.6474609375,2.53,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",2.53
+1x-H100_PCIE-128,H100,1,128,79.6474609375,1.93,"Texas, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",1.93
+2x-H100_PCIE-128,H100,2,128,159.294921875,3.87,"Texas, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",3.87
+2x-H100_PCIE-192,H100,2,192,159.294921875,5.20,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",5.20
+1x-RTX_A4000-50,RTXA4000,1,50,15.9921875,0.11,"Utah, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.11
+1x-RTX_4090-32,RTX4090,1,32,23.98828125,0.40,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-RTX_6000Ada-64,RTX6000-Ada,1,64,47.98828125,0.87,"Japan, JP","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.87
+1x-H100_SXM-256,H100,1,256,79.6474609375,1.73,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",1.73
+1x-H100_SXM-256,H100,1,256,79.6474609375,1.73,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",1.73
+1x-RTX_A4000-28,RTXA4000,1,28,15.9921875,0.09,"Washington, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.09
+1x-RTX_3090-16,RTX3090,1,16,24.0,0.20,"Norway, NO","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.20
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,0.96,"Japan, JP","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.96
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,0.69,"Quebec, CA","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.69
+2x-RTX_6000Ada-127,RTX6000-Ada,2,127,95.9765625,1.60,"Finland, FI","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.60
+2x-RTX_6000Ada-96,RTX6000-Ada,2,96,89.9765625,1.52,", US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.52
+4x-RTX_4090-64,RTX4090,4,64,95.953125,1.55,"Ontario, CA","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.55
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,0.93,"Maryland, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.93
+1x-RTX_4080-64,RTX4080,1,64,15.9921875,0.24,"Pennsylvania, US","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.24
+4x-RTX_4090-128,RTX4090,4,128,95.953125,1.60,"Idaho, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.60
+1x-RTX_6000Ada-128,RTX6000-Ada,1,128,47.98828125,0.90,"Colorado, US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.90
+2x-RTX_4090-32,RTX4090,2,32,47.9765625,0.93,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.93
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.83,"Thailand, TH","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.83
+2x-RTX_A6000-64,RTXA6000,2,64,95.9765625,0.67,"France, FR","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",0.67
+2x-RTX_A4000-12,RTXA4000,2,12,31.984375,0.18,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.18
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.35,"Quebec, CA","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.35
+1x-L40S-8,L40S,1,8,44.98828125,0.59,"France, FR","{'Gpus': [{'Name': 'L40S', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.59
+2x-H100_PCIE-192,H100,2,192,159.294921875,5.33,"United Arab Emirates, AE","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",5.33
+1x-RTX_4070-56,RTX4070,1,56,11.994140625,0.14,"British Columbia, CA","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12282}}], 'TotalGpuMemoryInMiB': 12282}",0.14
+2x-H100_SXM-256,H100,2,256,159.294921875,3.47,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",3.47
+2x-RTX_4090-32,RTX4090,2,32,47.9765625,0.93,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.93
+1x-RTX_A4000-56,RTXA4000,1,56,15.9921875,0.09,"Washington, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.09
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+2x-H100_SXM-128,H100,2,128,159.294921875,5.33,", US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",5.33
+1x-RTX_A6000-48,RTXA6000,1,48,44.98828125,0.45,"Delaware, US","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.45
+4x-RTX_4090-96,RTX4090,4,96,95.953125,1.60,"Sweden, SE","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.60
+4x-RTX_4090-256,RTX4090,4,256,95.953125,1.87,", US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.43,"North Carolina, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.43
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,1.07,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.07
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.54,"New York, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+1x-RTX_4070S_Ti-48,RTX4070,1,48,15.9921875,0.20,"The Netherlands, NL","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.20
+1x-RTX_3090-64,RTX3090,1,64,24.0,0.24,"Norway, NO","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.24
+1x-RTX_3090-24,RTX3090,1,24,24.0,0.27,"Japan, JP","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.27
+6x-RTX_4090-128,RTX4090,6,128,143.9296875,2.64,"Missouri, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 6, 'MemoryInfo': {'SizeInMiB': 147384}}], 'TotalGpuMemoryInMiB': 147384}",2.64
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.60,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.60
+2x-RTX_4090-32,RTX4090,2,32,47.9765625,0.93,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.93
+1x-RTX_4090-32,RTX4090,1,32,23.98828125,0.47,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.47
+2x-RTX_3090-28,RTX3090,2,28,48.0,0.43,"Washington, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.43
+1x-RTX_3090-48,RTX3090,1,48,24.0,0.21,"Poland, PL","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.21
+1x-RTX_3080_Ti-64,RTX3080,1,64,12.0,0.13,"Quebec, CA","{'Gpus': [{'Name': 'RTX3080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.13
+8x-RTX_3090-24,RTX3090,8,24,192.0,1.60,"Lithuania, LT","{'Gpus': [{'Name': 'RTX3090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196608}}], 'TotalGpuMemoryInMiB': 196608}",1.60
+4x-H100_SXM-256,H100,4,256,318.58984375,6.93,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 326236}}], 'TotalGpuMemoryInMiB': 326236}",6.93
+2x-RTX_A4000-56,RTXA4000,2,56,31.984375,0.19,"Washington, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.19
+1x-L40S-64,L40S,1,64,44.98828125,0.87,"Oregon, US","{'Gpus': [{'Name': 'L40S', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.87
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.60,"Maryland, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.60
+2x-RTX_3090-64,RTX3090,2,64,48.0,0.49,"Czechia, CZ","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.49
+2x-L40S-128,L40S,2,128,89.9765625,1.63,"Quebec, CA","{'Gpus': [{'Name': 'L40S', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.63
+1x-RTX_5000Ada-128,RTX5000-Ada,1,128,31.9921875,0.55,"Japan, JP","{'Gpus': [{'Name': 'RTX5000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32760}}], 'TotalGpuMemoryInMiB': 32760}",0.55
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.18,"Poland, PL","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.18
+2x-RTX_A4000-16,RTXA4000,2,16,31.984375,0.18,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.18
+1x-RTX_3090-8,RTX3090,1,8,24.0,0.21,"The Netherlands, NL","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.21
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,1.07,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.07
+2x-RTX_4090-64,RTX4090,2,64,47.9765625,1.00,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.00
+1x-RTX_3090-32,RTX3090,1,32,24.0,0.31,"Estonia, EE","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.31
+1x-RTX_4090-32,RTX4090,1,32,23.98828125,0.40,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-RTX_4080S-16,RTX4080,1,16,15.9921875,0.25,"New Jersey, US","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.25
+4x-RTX_4090-256,RTX4090,4,256,95.953125,1.87,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.50,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.50
+4x-RTX_A6000-64,RTXA6000,4,64,191.953125,1.33,"France, FR","{'Gpus': [{'Name': 'RTXA6000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",1.33
+2x-RTX_4080S-128,RTX4080,2,128,31.984375,0.52,"British Columbia, CA","{'Gpus': [{'Name': 'RTX4080', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.52
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,0.92,"Florida, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.92
+1x-RTX_4090-12,RTX4090,1,12,23.98828125,0.37,"India, IN","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.37
+2x-RTX_3090-64,RTX3090,2,64,48.0,0.35,"Czechia, CZ","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.35
+1x-RTX_4080S-128,RTX4080,1,128,15.9921875,0.27,"Norway, NO","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.27
+2x-L40-254,L40,2,254,89.9765625,1.65,"Finland, FI","{'Gpus': [{'Name': 'L40', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.65
+4x-L40-254,L40,4,254,179.953125,3.31,"Finland, FI","{'Gpus': [{'Name': 'L40', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 184272}}], 'TotalGpuMemoryInMiB': 184272}",3.31
+2x-RTX_4080S-48,RTX4080,2,48,31.984375,0.48,"Alberta, CA","{'Gpus': [{'Name': 'RTX4080', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.48
+8x-RTX_4090-128,RTX4090,8,128,191.90625,2.24,"Hungary, HU","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",2.24
+1x-RTX_4080S-128,RTX4080,1,128,15.9921875,0.26,"British Columbia, CA","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.26
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.60,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.60
+2x-RTX_3090-40,RTX3090,2,40,48.0,0.43,"Poland, PL","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.43
+2x-A100_SXM4-32,A100,2,32,80.0,1.20,"Kansas, US","{'Gpus': [{'Name': 'A100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.20
+1x-RTX_4080S-28,RTX4080,1,28,15.9921875,0.23,"Alberta, CA","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.23
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.67,"Washington, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.67
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.21,"Tokyo, JP","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.21
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.60,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.60
+2x-RTX_6000Ada-96,RTX6000-Ada,2,96,95.9765625,1.31,"Türkiye, TR","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.31
+8x-RTX_4090-192,RTX4090,8,192,191.90625,3.52,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.52
+1x-RTX_4090-48,RTX4090,1,48,23.98828125,0.60,"New Jersey, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.60
+4x-RTX_4090-96,RTX4090,4,96,95.953125,1.76,"Missouri, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.76
+4x-H100_NVL-128,H100,4,128,374.3359375,12.80,", US","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 383320}}], 'TotalGpuMemoryInMiB': 383320}",12.80
+4x-RTX_3090-32,RTX3090,4,32,96.0,0.73,"Netherlands, NL","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.73
+4x-RTX_6000Ada-96,RTX6000-Ada,4,96,179.953125,3.31,", US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 184272}}], 'TotalGpuMemoryInMiB': 184272}",3.31
+2x-RTX_3090-12,RTX3090,2,12,48.0,0.29,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.29
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.60,"Bulgaria, BG","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.60
+2x-RTX_3090-48,RTX3090,2,48,48.0,0.40,"Czechia, CZ","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.40
+1x-RTX_4090-10,RTX4090,1,10,23.98828125,0.38,"Taiwan, TW","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.38
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.20,"Viken, NO","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.20
+2x-RTX_3090-48,RTX3090,2,48,48.0,0.43,"Poland, PL","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.43
+2x-H100_SXM-256,H100,2,256,159.294921875,3.47,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",3.47
+1x-RTX_6000Ada-96,RTX6000-Ada,1,96,47.98828125,0.65,"Türkiye, TR","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.65
+4x-RTX_A6000-64,RTXA6000,4,64,191.953125,1.60,"United Kingdom, GB","{'Gpus': [{'Name': 'RTXA6000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",1.60
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,1.07,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.07
+4x-RTX_3090-48,RTX3090,4,48,96.0,0.75,"Germany, DE","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.75
+4x-RTX_4090-256,RTX4090,4,256,95.953125,1.87,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+4x-RTX_4090-256,RTX4090,4,256,95.953125,1.65,"Thailand, TH","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.65
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.99,"Maryland, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.99
+1x-RTX_A4000-4,RTXA4000,1,4,15.9921875,0.09,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.09
+4x-H100_PCIE-192,H100,4,192,318.58984375,10.40,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 326236}}], 'TotalGpuMemoryInMiB': 326236}",10.40
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.80,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.80
+1x-RTX_4080S-12,RTX4080,1,12,15.9921875,0.27,"Norway, NO","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.27
+4x-RTX_3090-128,RTX3090,4,128,96.0,0.80,", US","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.80
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.87,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+1x-A100_SXM4-128,A100,1,128,80.0,1.53,"Czechia, CZ","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.53
+2x-RTX_3080-56,RTX3080,2,56,20.0,0.21,"Quebec, CA","{'Gpus': [{'Name': 'RTX3080', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 20480}}], 'TotalGpuMemoryInMiB': 20480}",0.21
+4x-RTX_4080-128,RTX4080,4,128,63.96875,0.96,"Quebec, CA","{'Gpus': [{'Name': 'RTX4080', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 65504}}], 'TotalGpuMemoryInMiB': 65504}",0.96
+8x-RTX_4090-64,RTX4090,8,64,191.90625,3.73,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.73
+4x-H100_PCIE-192,H100,4,192,318.58984375,10.67,"United Arab Emirates, AE","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 326236}}], 'TotalGpuMemoryInMiB': 326236}",10.67
+2x-A100_SXM4-48,A100,2,48,80.0,1.47,"Minnesota, US","{'Gpus': [{'Name': 'A100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.47
+2x-RTX_4090-32,RTX4090,2,32,47.9765625,0.80,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.80
+1x-RTX_4080-64,RTX4080,1,64,15.9921875,0.27,"Japan, JP","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.27
+1x-L40S-96,L40S,1,96,44.98828125,0.60,"Türkiye, TR","{'Gpus': [{'Name': 'L40S', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.60
+4x-RTX_3090-48,RTX3090,4,48,96.0,0.74,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.74
+1x-RTX_A4000-12,RTXA4000,1,12,15.9921875,0.09,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.09
+1x-RTX_6000Ada-32,RTX6000-Ada,1,32,47.98828125,0.80,"Japan, JP","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.80
+1x-RTX_3090-32,RTX3090,1,32,24.0,0.27,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.27
+1x-RTX_4070S-28,RTX4070,1,28,11.994140625,0.16,"Alberta, CA","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12282}}], 'TotalGpuMemoryInMiB': 12282}",0.16
+1x-RTX_4080-16,RTX4080,1,16,15.9921875,0.27,"Taiwan, TW","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.27
+1x-A100_PCIE-32,A100,1,32,80.0,1.07,"Oklahoma, US","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.07
+6x-RTX_3090-32,RTX3090,6,32,144.0,1.36,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 6, 'MemoryInfo': {'SizeInMiB': 147456}}], 'TotalGpuMemoryInMiB': 147456}",1.36
+8x-RTX_A6000-64,RTXA6000,8,64,383.90625,2.67,"France, FR","{'Gpus': [{'Name': 'RTXA6000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 393120}}], 'TotalGpuMemoryInMiB': 393120}",2.67
+1x-RTX_4070S_Ti-32,RTX4070,1,32,15.9921875,0.23,"California, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.23
+2x-RTX_3060-64,RTX3060,2,64,24.0,0.11,"Quebec, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.11
+5x-RTX_4090-32,RTX4090,5,32,119.94140625,2.00,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 122820}}], 'TotalGpuMemoryInMiB': 122820}",2.00
+2x-RTX_3090-32,RTX3090,2,32,48.0,0.55,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.55
+1x-RTX_4090-512,RTX4090,1,512,23.98828125,0.60,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.60
+2x-RTX_A5000-32,RTXA5000,2,32,47.9765625,0.46,"Romania, RO","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.46
+8x-RTX_6000Ada-128,RTX6000-Ada,8,128,383.90625,6.93,"Texas, US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 393120}}], 'TotalGpuMemoryInMiB': 393120}",6.93
+1x-RTX_A4000-12,RTXA4000,1,12,15.9921875,0.13,"Ontario, CA","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.13
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,1.20,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.20
+2x-L40S-126,L40S,2,126,89.9765625,1.60,"Finland, FI","{'Gpus': [{'Name': 'L40S', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.60
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+1x-RTX_4070S_Ti-96,RTX4070,1,96,15.9921875,0.20,"Sweden, SE","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.20
+2x-RTX_A4000-12,RTXA4000,2,12,31.984375,0.18,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.18
+2x-RTX_A5000-64,RTXA5000,2,64,47.9765625,0.48,"Poland, PL","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.48
+4x-RTX_3090-128,RTX3090,4,128,96.0,0.91,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.91
+2x-RTX_4090-512,RTX4090,2,512,47.9765625,1.20,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.20
+2x-RTX_3090-12,RTX3090,2,12,48.0,0.40,"Viken, NO","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.40
+1x-RTX_3080_Ti-28,RTX3080,1,28,12.0,0.17,"Quebec, CA","{'Gpus': [{'Name': 'RTX3080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.17
+4x-RTX_4090-64,RTX4090,4,64,95.953125,1.87,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.76,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.76
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+5x-RTX_4090-32,RTX4090,5,32,119.94140625,2.00,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 122820}}], 'TotalGpuMemoryInMiB': 122820}",2.00
+1x-RTX_A5000-32,RTXA5000,1,32,23.98828125,0.23,"Romania, RO","{'Gpus': [{'Name': 'RTXA5000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.23
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,1.33,"Bulgaria, BG","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.33
+8x-RTX_A6000-64,RTXA6000,8,64,383.90625,3.20,"United Kingdom, GB","{'Gpus': [{'Name': 'RTXA6000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 393120}}], 'TotalGpuMemoryInMiB': 393120}",3.20
+1x-RTX_4090-64,RTX4090,1,64,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+4x-L40S-64,L40S,4,64,179.953125,3.41,", US","{'Gpus': [{'Name': 'L40S', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 184272}}], 'TotalGpuMemoryInMiB': 184272}",3.41
+4x-A100_PCIE-112,A100,4,112,320.0,4.27,"Moscow, RU","{'Gpus': [{'Name': 'A100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 327680}}], 'TotalGpuMemoryInMiB': 327680}",4.27
+2x-RTX_4090-64,RTX4090,2,64,47.9765625,1.07,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.07
+4x-H100_SXM-128,H100,4,128,318.58984375,10.67,", US","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 326236}}], 'TotalGpuMemoryInMiB': 326236}",10.67
+4x-RTX_4090-128,RTX4090,4,128,95.953125,1.87,"Maryland, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+1x-RTX_3090_Ti-44,RTX3090,1,44,23.98828125,0.31,"Valais, CH","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.31
+2x-RTX_A4000-64,RTXA4000,2,64,31.984375,0.27,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.27
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.23,"Taiwan, TW","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.23
+1x-RTX_A5000-32,RTXA5000,1,32,23.98828125,0.23,"Romania, RO","{'Gpus': [{'Name': 'RTXA5000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.23
+4x-RTX_4090-256,RTX4090,4,256,95.953125,2.14,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+2x-RTX_4080-224,RTX4080,2,224,31.984375,0.48,"Norway, NO","{'Gpus': [{'Name': 'RTX4080', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.48
+4x-RTX_6000Ada-128,RTX6000-Ada,4,128,191.953125,3.60,"Texas, US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",3.60
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,1.10,"New Jersey, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.10
+4x-RTX_6000Ada-127,RTX6000-Ada,4,127,191.953125,3.20,"Finland, FI","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",3.20
+1x-RTX_3090-256,RTX3090,1,256,24.0,0.40,"Australia, AU","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.40
+1x-RTX_A4000-24,RTXA4000,1,24,15.9921875,0.13,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.13
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.16,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.16
+1x-A100_SXM4-64,A100,1,64,40.0,1.07,", US","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 40960}",1.07
+8x-RTX_4090-256,RTX4090,8,256,191.90625,3.20,"South Korea, KR","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.20
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.54,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+1x-RTX_4070S_Ti-128,RTX4070,1,128,15.9921875,0.29,"Arizona, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.29
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.85,"North Carolina, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.85
+1x-RTX_6000Ada-48,RTX6000-Ada,1,48,47.98828125,0.77,"Japan, JP","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.77
+5x-RTX_4090-32,RTX4090,5,32,119.94140625,2.33,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 122820}}], 'TotalGpuMemoryInMiB': 122820}",2.33
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.60,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.60
+1x-RTX_3080_Ti-96,RTX3080,1,96,12.0,0.20,"Norway, NO","{'Gpus': [{'Name': 'RTX3080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.20
+4x-RTX_3080-56,RTX3080,4,56,40.0,0.43,"Quebec, CA","{'Gpus': [{'Name': 'RTX3080', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 40960}",0.43
+8x-RTX_3080-48,RTX3080,8,48,80.0,1.01,"Minnesota, US","{'Gpus': [{'Name': 'RTX3080', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.01
+8x-RTX_4090-256,RTX4090,8,256,191.90625,3.20,"Romania, RO","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.20
+2x-RTX_3060-12,RTX3060,2,12,24.0,0.13,"Poland, PL","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.13
+2x-A100_SXM4-64,A100,2,64,80.0,2.13,", US","{'Gpus': [{'Name': 'A100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",2.13
+2x-RTX_A4000-12,RTXA4000,2,12,31.984375,0.18,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.18
+5x-RTX_4090-32,RTX4090,5,32,119.94140625,2.33,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 122820}}], 'TotalGpuMemoryInMiB': 122820}",2.33
+5x-RTX_4090-32,RTX4090,5,32,119.94140625,2.33,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 122820}}], 'TotalGpuMemoryInMiB': 122820}",2.33
+8x-RTX_4090-256,RTX4090,8,256,191.90625,4.40,"Alberta, CA","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",4.40
+1x-A40-128,A40,1,128,44.98828125,0.41,"New Jersey, US","{'Gpus': [{'Name': 'A40', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.41
+1x-A100_SXM4-96,A100,1,96,80.0,1.47,", US","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.47
+2x-RTX_3090-72,RTX3090,2,72,48.0,0.59,"Spain, ES","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.59
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,1.07,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.07
+6x-RTX_A4000-64,RTXA4000,6,64,95.953125,0.80,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 6, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",0.80
+3x-RTX_4090-64,RTX4090,3,64,71.96484375,1.60,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 73692}}], 'TotalGpuMemoryInMiB': 73692}",1.60
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.17,"Egypt, EG","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.17
+4x-RTX_4090-64,RTX4090,4,64,95.953125,1.67,"Hong Kong, HK","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.67
+1x-RTX_3090-32,RTX3090,1,32,24.0,0.25,"Iceland, IS","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.25
+1x-RTX_A5000-12,RTXA5000,1,12,23.98828125,0.24,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.24
+1x-RTX_3090-128,RTX3090,1,128,24.0,0.23,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.23
+2x-RTX_3080_Ti-28,RTX3080,2,28,24.0,0.27,"Bulgaria, BG","{'Gpus': [{'Name': 'RTX3080', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.27
+1x-A40-128,A40,1,128,44.98828125,0.41,"New Jersey, US","{'Gpus': [{'Name': 'A40', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.41
+1x-RTX_3090-8,RTX3090,1,8,24.0,0.22,"Colorado, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.22
+8x-H100_PCIE-192,H100,8,192,637.1796875,20.80,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 652472}}], 'TotalGpuMemoryInMiB': 652472}",20.80
+4x-A100_PCIE-128,A100,4,128,160.0,3.25,"New Jersey, US","{'Gpus': [{'Name': 'A100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 163840}}], 'TotalGpuMemoryInMiB': 163840}",3.25
+1x-RTX_4070S_Ti-32,RTX4070,1,32,15.9921875,0.20,"Oregon, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.20
+4x-RTX_4080S-48,RTX4080,4,48,63.96875,0.96,"Alberta, CA","{'Gpus': [{'Name': 'RTX4080', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 65504}}], 'TotalGpuMemoryInMiB': 65504}",0.96
+8x-RTX_4090-96,RTX4090,8,96,191.90625,3.52,"Missouri, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.52
+1x-RTX_3080-16,RTX3080,1,16,10.0,0.17,"Quebec, CA","{'Gpus': [{'Name': 'RTX3080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 10240}}], 'TotalGpuMemoryInMiB': 10240}",0.17
+4x-H200-192,H200,4,192,561.60546875,16.00,"France, FR","{'Gpus': [{'Name': 'H200', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 575084}}], 'TotalGpuMemoryInMiB': 575084}",16.00
+1x-A100_PCIE-24,A100,1,24,80.0,2.40,"Virginia, US","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",2.40
+2x-RTX_4070S_Ti-128,RTX4070,2,128,31.984375,0.59,"Arizona, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.59
+4x-RTX_4090-64,RTX4090,4,64,95.953125,2.14,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+4x-RTX_4090-128,RTX4090,4,128,95.953125,1.84,"Florida, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.84
+2x-RTX_3070-88,RTX3070,2,88,16.0,0.21,"Quebec, CA","{'Gpus': [{'Name': 'RTX3070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.21
+3x-RTX_4090-256,RTX4090,3,256,71.96484375,1.80,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 73692}}], 'TotalGpuMemoryInMiB': 73692}",1.80
+2x-RTX_A6000-48,RTXA6000,2,48,95.9765625,0.85,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",0.85
+2x-RTX_4090-32,RTX4090,2,32,47.9765625,0.93,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.93
+1x-RTX_A4000-12,RTXA4000,1,12,15.9921875,0.10,"Quebec, CA","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.10
+4x-RTX_4090-64,RTX4090,4,64,95.953125,2.14,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+1x-RTX_3080_Ti-24,RTX3080,1,24,12.0,0.19,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.19
+4x-RTX_3090-64,RTX3090,4,64,96.0,0.80,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.80
+1x-RTX_3060-12,RTX3060,1,12,12.0,0.07,"Poland, PL","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.07
+4x-RTX_4090-256,RTX4090,4,256,95.953125,1.87,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+1x-RTX_3060-16,RTX3060,1,16,12.0,0.07,"Poland, PL","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.07
+4x-RTX_4090-64,RTX4090,4,64,95.953125,2.14,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+4x-RTX_4090-128,RTX4090,4,128,95.953125,2.14,"Innlandet, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+2x-RTX_3060-16,RTX3060,2,16,24.0,0.16,"Utah, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.16
+1x-RTX_4090-128,RTX4090,1,128,23.98828125,0.54,"Viken, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.54
+4x-RTX_3090-72,RTX3090,4,72,96.0,0.96,"Missouri, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.96
+2x-RTX_A5000-40,RTXA5000,2,40,47.9765625,0.45,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.45
+8x-RTX_6000Ada-128,RTX6000-Ada,8,128,383.90625,6.93,"Texas, US","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 393120}}], 'TotalGpuMemoryInMiB': 393120}",6.93
+1x-RTX_3070-48,RTX3070,1,48,8.0,0.10,"Taiwan, TW","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.10
+1x-H100_SXM-128,H100,1,128,79.6474609375,2.40,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",2.40
+4x-RTX_4090-256,RTX4090,4,256,95.953125,1.33,"Washington, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.33
+1x-RTX_3090-56,RTX3090,1,56,24.0,0.23,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.23
+1x-A800_PCIE-32,A800,1,32,80.0,1.07,"Idaho, US","{'Gpus': [{'Name': 'A800', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.07
+2x-RTX_A6000-40,RTXA6000,2,40,89.9765625,1.01,"Croatia, HR","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.01
+2x-H100_SXM-128,H100,2,128,159.294921875,4.80,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",4.80
+4x-RTX_4090-256,RTX4090,4,256,95.953125,2.14,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+8x-RTX_4090-128,RTX4090,8,128,191.90625,4.05,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",4.05
+2x-RTX_A5000-24,RTXA5000,2,24,47.9765625,0.69,"Lithuania, LT","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.69
+1x-RTX_A6000-48,RTXA6000,1,48,47.98828125,0.51,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.51
+2x-RTX_3090-12,RTX3090,2,12,48.0,0.46,"Taiwan, TW","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.46
+1x-RTX_3070-88,RTX3070,1,88,8.0,0.11,"Quebec, CA","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.11
+2x-RTX_A5000-12,RTXA5000,2,12,47.9765625,0.48,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.48
+2x-A100_PCIE-128,A100,2,128,80.0,1.63,"New Jersey, US","{'Gpus': [{'Name': 'A100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.63
+1x-RTX_4090-256,RTX4090,1,256,23.98828125,0.87,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.87
+8x-H100_PCIE-192,H100,8,192,637.1796875,21.33,"United Arab Emirates, AE","{'Gpus': [{'Name': 'H100', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 652472}}], 'TotalGpuMemoryInMiB': 652472}",21.33
+9x-RTX_4090-128,RTX4090,9,128,215.89453125,4.80,"Bulgaria, BG","{'Gpus': [{'Name': 'RTX4090', 'Count': 9, 'MemoryInfo': {'SizeInMiB': 221076}}], 'TotalGpuMemoryInMiB': 221076}",4.80
+8x-RTX_4090-256,RTX4090,8,256,191.90625,3.31,"Thailand, TH","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.31
+8x-L40-254,L40,8,254,359.90625,6.61,"Finland, FI","{'Gpus': [{'Name': 'L40', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 368544}}], 'TotalGpuMemoryInMiB': 368544}",6.61
+3x-RTX_4090-128,RTX4090,3,128,71.96484375,1.60,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 73692}}], 'TotalGpuMemoryInMiB': 73692}",1.60
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.65,"Spain, ES","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.65
+4x-RTX_3090-16,RTX3090,4,16,96.0,0.86,"Arizona, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",0.86
+8x-RTX_3090-128,RTX3090,8,128,192.0,1.83,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196608}}], 'TotalGpuMemoryInMiB': 196608}",1.83
+3x-RTX_4090-128,RTX4090,3,128,71.96484375,1.60,"Viken, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 73692}}], 'TotalGpuMemoryInMiB': 73692}",1.60
+4x-RTX_A6000-40,RTXA6000,4,40,179.953125,2.03,"Croatia, HR","{'Gpus': [{'Name': 'RTXA6000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 184272}}], 'TotalGpuMemoryInMiB': 184272}",2.03
+1x-RTX_A4000-24,RTXA4000,1,24,15.9921875,0.15,"British Columbia, CA","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.15
+2x-A100_SXM4-96,A100,2,96,160.0,2.93,", US","{'Gpus': [{'Name': 'A100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163840}}], 'TotalGpuMemoryInMiB': 163840}",2.93
+8x-RTX_4090-128,RTX4090,8,128,191.90625,3.73,"Virginia, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.73
+1x-A100_PCIE-128,A100,1,128,40.0,0.81,"New Jersey, US","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 40960}",0.81
+8x-RTX_3090-32,RTX3090,8,32,192.0,1.71,"Utah, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196608}}], 'TotalGpuMemoryInMiB': 196608}",1.71
+2x-RTX_3090-56,RTX3090,2,56,48.0,0.80,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.80
+1x-RTX_3090_Ti-24,RTX3090,1,24,23.98828125,0.40,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.40
+1x-RTX_A6000-48,RTXA6000,1,48,47.98828125,0.51,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.51
+1x-RTX_3070-32,RTX3070,1,32,8.0,0.10,"North Carolina, US","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.10
+2x-RTX_4090-128,RTX4090,2,128,47.9765625,1.07,"Viken, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",1.07
+4x-RTX_4090-256,RTX4090,4,256,95.953125,1.60,"Romania, RO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.60
+4x-RTX_4070S_Ti-128,RTX4070,4,128,63.96875,1.17,"Arizona, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 65504}}], 'TotalGpuMemoryInMiB': 65504}",1.17
+2x-RTX_A4000-4,RTXA4000,2,4,31.984375,0.20,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.20
+4x-RTX_A5000-24,RTXA5000,4,24,95.953125,1.39,"Lithuania, LT","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.39
+8x-RTX_4060_Ti-256,RTX4060,8,256,127.96875,1.23,"Taipei City, TW","{'Gpus': [{'Name': 'RTX4060', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 131040}}], 'TotalGpuMemoryInMiB': 131040}",1.23
+4x-RTX_4090-256,RTX4090,4,256,95.953125,2.40,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.40
+2x-RTX_A6000-64,RTXA6000,2,64,95.9765625,1.30,"United Kingdom, GB","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.30
+4x-L40S-124,L40S,4,124,179.953125,3.20,"Finland, FI","{'Gpus': [{'Name': 'L40S', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 184272}}], 'TotalGpuMemoryInMiB': 184272}",3.20
+2x-A100_SXM4-96,A100,2,96,160.0,3.20,", US","{'Gpus': [{'Name': 'A100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163840}}], 'TotalGpuMemoryInMiB': 163840}",3.20
+2x-RTX_A4000-4,RTXA4000,2,4,31.984375,0.20,"Poland, PL","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.20
+1x-A100_SXM4-64,A100,1,64,80.0,1.32,"Czechia, CZ","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.32
+2x-RTX_A5000-32,RTXA5000,2,32,47.9765625,0.48,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.48
+1x-RTX_3090-8,RTX3090,1,8,24.0,0.27,"United Kingdom, GB","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.27
+2x-RTX_3070-28,RTX3070,2,28,16.0,0.19,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.19
+4x-H100_SXM-128,H100,4,128,318.58984375,6.93,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 326236}}], 'TotalGpuMemoryInMiB': 326236}",6.93
+4x-RTX_4090-128,RTX4090,4,128,95.953125,2.14,"Viken, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+4x-RTX_4090-128,RTX4090,4,128,95.953125,2.14,"New York, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+1x-Tesla_V100-96,V100,1,96,16.0,0.11,"Sweden, SE","{'Gpus': [{'Name': 'V100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.11
+1x-RTX_3070-44,RTX3070,1,44,8.0,0.11,"Quebec, CA","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.11
+2x-A40-40,A40,2,40,89.9765625,0.91,"Croatia, HR","{'Gpus': [{'Name': 'A40', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",0.91
+1x-RTX_A6000-64,RTXA6000,1,64,47.98828125,0.65,"United Kingdom, GB","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.65
+1x-Tesla_V100-32,V100,1,32,32.0,0.27,"Georgia, US","{'Gpus': [{'Name': 'V100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32768}}], 'TotalGpuMemoryInMiB': 32768}",0.27
+1x-RTX_A4000-28,RTXA4000,1,28,15.9921875,0.15,"Fukushima-ken, JP","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.15
+4x-RTX_4090-128,RTX4090,4,128,95.953125,2.14,"Viken, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+1x-RTX_A6000-48,RTXA6000,1,48,47.98828125,0.59,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.59
+2x-RTX_A6000-48,RTXA6000,2,48,95.9765625,1.17,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.17
+1x-A100_PCIE-16,A100,1,16,80.0,1.73,"Italy, IT","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.73
+1x-Tesla_V100-24,V100,1,24,32.0,0.22,"Germany, DE","{'Gpus': [{'Name': 'V100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32768}}], 'TotalGpuMemoryInMiB': 32768}",0.22
+1x-RTX_3060-12,RTX3060,1,12,12.0,0.09,"Norway, NO","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.09
+7x-RTX_4090-64,RTX4090,7,64,167.91796875,3.74,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 7, 'MemoryInfo': {'SizeInMiB': 171948}}], 'TotalGpuMemoryInMiB': 171948}",3.74
+1x-RTX_3080-6,RTX3080,1,6,10.0,0.12,"Netherlands, NL","{'Gpus': [{'Name': 'RTX3080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 10240}}], 'TotalGpuMemoryInMiB': 10240}",0.12
+1x-RTX_3090-64,RTX3090,1,64,24.0,0.33,"Alberta, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.33
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.27,"Poland, PL","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.27
+4x-RTX_A5000-72,RTXA5000,4,72,95.953125,0.96,"Missouri, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",0.96
+2x-Tesla_V100-96,V100,2,96,32.0,0.22,"Sweden, SE","{'Gpus': [{'Name': 'V100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32768}}], 'TotalGpuMemoryInMiB': 32768}",0.22
+1x-A10-128,A10,1,128,22.48828125,0.29,"Minnesota, US","{'Gpus': [{'Name': 'A10', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 23028}}], 'TotalGpuMemoryInMiB': 23028}",0.29
+2x-RTX_A6000-48,RTXA6000,2,48,95.9765625,1.01,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.01
+2x-RTX_3060-4,RTX3060,2,4,24.0,0.15,"Poland, PL","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.15
+2x-RTX_A6000-28,RTXA6000,2,28,95.9765625,0.96,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",0.96
+2x-RTX_3060-56,RTX3060,2,56,24.0,0.12,"Guangdong, CN","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.12
+1x-RTX_3060-16,RTX3060,1,16,12.0,0.09,"Nebraska, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.09
+2x-RTX_A6000-40,RTXA6000,2,40,95.9765625,1.15,"Sweden, SE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.15
+5x-A40-16,A40,5,16,224.94140625,2.00,"Sweden, SE","{'Gpus': [{'Name': 'A40', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 230340}}], 'TotalGpuMemoryInMiB': 230340}",2.00
+8x-RTX_6000Ada-127,RTX6000-Ada,8,127,383.90625,6.40,"Finland, FI","{'Gpus': [{'Name': 'RTX6000-Ada', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 393120}}], 'TotalGpuMemoryInMiB': 393120}",6.40
+2x-RTX_3070-72,RTX3070,2,72,16.0,0.18,"Taiwan, TW","{'Gpus': [{'Name': 'RTX3070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.18
+1x-RTX_A6000-96,RTXA6000,1,96,47.98828125,0.58,"British Columbia, CA","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.58
+1x-RTX_A5000-32,RTXA5000,1,32,23.98828125,0.23,"Iceland, IS","{'Gpus': [{'Name': 'RTXA5000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.23
+1x-RTX_3090-8,RTX3090,1,8,24.0,0.31,"Ontario, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.31
+1x-RTX_3060_Ti-32,RTX3060,1,32,8.0,0.08,"Nebraska, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.08
+2x-RTX_3060-24,RTX3060,2,24,24.0,0.21,"Japan, JP","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.21
+8x-RTX_3090-128,RTX3090,8,128,192.0,1.60,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196608}}], 'TotalGpuMemoryInMiB': 196608}",1.60
+1x-RTX_A6000-64,RTXA6000,1,64,47.98828125,0.52,"Sweden, SE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.52
+10x-RTX_4090-128,RTX4090,10,128,239.8828125,5.67,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 10, 'MemoryInfo': {'SizeInMiB': 245640}}], 'TotalGpuMemoryInMiB': 245640}",5.67
+1x-RTX_A6000-48,RTXA6000,1,48,47.98828125,0.51,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.51
+5x-RTX_A4000-16,RTXA4000,5,16,79.9609375,0.80,"Sweden, SE","{'Gpus': [{'Name': 'RTXA4000', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 81880}}], 'TotalGpuMemoryInMiB': 81880}",0.80
+5x-A40-16,A40,5,16,224.94140625,2.00,"Sweden, SE","{'Gpus': [{'Name': 'A40', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 230340}}], 'TotalGpuMemoryInMiB': 230340}",2.00
+2x-A40-52,A40,2,52,89.9765625,1.04,"Sweden, SE","{'Gpus': [{'Name': 'A40', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.04
+4x-A40-40,A40,4,40,179.953125,1.81,"Croatia, HR","{'Gpus': [{'Name': 'A40', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 184272}}], 'TotalGpuMemoryInMiB': 184272}",1.81
+2x-RTX_A6000-64,RTXA6000,2,64,95.9765625,1.04,"Sweden, SE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.04
+1x-RTX_A4000-28,RTXA4000,1,28,15.9921875,0.13,"Michigan, US","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.13
+2x-RTX_3090-12,RTX3090,2,12,48.0,0.53,"Poland, PL","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.53
+1x-RTX_3060-40,RTX3060,1,40,12.0,0.09,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.09
+1x-RTX_A4000-12,RTXA4000,1,12,15.9921875,0.20,"Tochigi, JP","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.20
+1x-A100_PCIE-16,A100,1,16,80.0,1.79,"Italy, IT","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.79
+1x-RTX_3060-24,RTX3060,1,24,12.0,0.11,"Japan, JP","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.11
+4x-RTX_4090-256,RTX4090,4,256,95.953125,2.40,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.40
+3x-Tesla_V100-96,V100,3,96,48.0,0.32,"Sweden, SE","{'Gpus': [{'Name': 'V100', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.32
+4x-A40-52,A40,4,52,179.953125,2.08,"Sweden, SE","{'Gpus': [{'Name': 'A40', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 184272}}], 'TotalGpuMemoryInMiB': 184272}",2.08
+1x-RTX_3060-64,RTX3060,1,64,12.0,0.10,"Texas, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.10
+4x-RTX_3090-72,RTX3090,4,72,96.0,1.17,"Spain, ES","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",1.17
+2x-RTX_A6000-96,RTXA6000,2,96,95.9765625,1.15,"British Columbia, CA","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.15
+4x-RTX_4090-256,RTX4090,4,256,95.953125,2.14,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",2.14
+8x-RTX_4090-64,RTX4090,8,64,191.90625,3.38,"Hong Kong, HK","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.38
+10x-RTX_4090-128,RTX4090,10,128,239.8828125,6.34,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 10, 'MemoryInfo': {'SizeInMiB': 245640}}], 'TotalGpuMemoryInMiB': 245640}",6.34
+8x-RTX_4090-64,RTX4090,8,64,191.90625,4.27,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",4.27
+1x-RTX_3060-256,RTX3060,1,256,12.0,0.11,"Norway, NO","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.11
+8x-H100_SXM-128,H100,8,128,637.1796875,21.33,", US","{'Gpus': [{'Name': 'H100', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 652472}}], 'TotalGpuMemoryInMiB': 652472}",21.33
+1x-H100_PCIE-192,H100,1,192,79.6474609375,2.60,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",2.60
+2x-RTX_A5000-32,RTXA5000,2,32,47.9765625,0.51,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.51
+4x-RTX_3090-56,RTX3090,4,56,96.0,1.60,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",1.60
+1x-RTX_3060_Ti-12,RTX3060,1,12,8.0,0.09,"Poland, PL","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+2x-Tesla_V100-50,V100,2,50,32.0,0.33,"Germany, DE","{'Gpus': [{'Name': 'V100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32768}}], 'TotalGpuMemoryInMiB': 32768}",0.33
+1x-RTX_3060-4,RTX3060,1,4,12.0,0.08,"South Korea, KR","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.08
+1x-Tesla_V100-50,V100,1,50,16.0,0.17,"Germany, DE","{'Gpus': [{'Name': 'V100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.17
+8x-RTX_4090-64,RTX4090,8,64,191.90625,3.60,"Minnesota, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.60
+1x-RTX_3070-72,RTX3070,1,72,8.0,0.09,"Taiwan, TW","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+4x-RTX_A5000-32,RTXA5000,4,32,95.953125,1.07,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.07
+2x-RTX_A6000-16,RTXA6000,2,16,95.9765625,1.09,"Sweden, SE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.09
+8x-RTX_4090-128,RTX4090,8,128,191.90625,3.68,"Florida, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.68
+1x-RTX_3070_Ti-64,RTX3070,1,64,8.0,0.15,"Norway, NO","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.15
+2x-RTX_A4000-40,RTXA4000,2,40,31.984375,0.35,"Troms og Finnmark, NO","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.35
+1x-RTX_4090-192,RTX4090,1,192,23.98828125,1.07,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",1.07
+4x-H100_SXM-128,H100,4,128,318.58984375,9.60,"The Netherlands, NL","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 326236}}], 'TotalGpuMemoryInMiB': 326236}",9.60
+10x-RTX_4090-256,RTX4090,10,256,239.8828125,6.00,"Texas, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 10, 'MemoryInfo': {'SizeInMiB': 245640}}], 'TotalGpuMemoryInMiB': 245640}",6.00
+1x-RTX_3060-36,RTX3060,1,36,12.0,0.12,"Tennessee, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.12
+2x-RTX_A5000-96,RTXA5000,2,96,47.9765625,0.88,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.88
+2x-RTX_A5000-16,RTXA5000,2,16,47.9765625,0.61,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.61
+2x-RTX_3090-128,RTX3090,2,128,48.0,1.20,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",1.20
+1x-RTX_3060-128,RTX3060,1,128,12.0,0.11,"Norway, NO","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.11
+1x-RTX_3060-48,RTX3060,1,48,12.0,0.12,"Indiana, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.12
+2x-RTX_3070_Ti-64,RTX3070,2,64,16.0,0.29,"Norway, NO","{'Gpus': [{'Name': 'RTX3070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.29
+8x-RTX_4090-256,RTX4090,8,256,191.90625,3.74,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.74
+2x-RTX_A5000-16,RTXA5000,2,16,47.9765625,0.61,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.61
+8x-H200-192,H200,8,192,1123.2109375,32.00,"France, FR","{'Gpus': [{'Name': 'H200', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 1150168}}], 'TotalGpuMemoryInMiB': 1150168}",32.00
+4x-RTX_A6000-48,RTXA6000,4,48,191.953125,2.03,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",2.03
+1x-RTX_3070-24,RTX3070,1,24,8.0,0.15,"Quebec, CA","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.15
+7x-RTX_3090-32,RTX3090,7,32,168.0,1.17,"Quebec, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 7, 'MemoryInfo': {'SizeInMiB': 172032}}], 'TotalGpuMemoryInMiB': 172032}",1.17
+2x-RTX_3060-48,RTX3060,2,48,24.0,0.23,"Indiana, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.23
+5x-RTX_A5000-16,RTXA5000,5,16,119.94140625,1.53,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 122820}}], 'TotalGpuMemoryInMiB': 122820}",1.53
+7x-RTX_4090-256,RTX4090,7,256,167.91796875,4.20,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 7, 'MemoryInfo': {'SizeInMiB': 171948}}], 'TotalGpuMemoryInMiB': 171948}",4.20
+3x-RTX_3090-128,RTX3090,3,128,72.0,1.80,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 73728}}], 'TotalGpuMemoryInMiB': 73728}",1.80
+8x-RTX_4090-48,RTX4090,8,48,191.90625,3.31,"Romania, RO","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.31
+4x-RTX_A5000-24,RTXA5000,4,24,95.953125,0.91,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",0.91
+1x-RTX_3090-128,RTX3090,1,128,24.0,0.60,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.60
+7x-RTX_4090-128,RTX4090,7,128,167.91796875,3.74,"Viken, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 7, 'MemoryInfo': {'SizeInMiB': 171948}}], 'TotalGpuMemoryInMiB': 171948}",3.74
+4x-RTX_A5000-32,RTXA5000,4,32,95.953125,1.01,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.01
+4x-RTX_A6000-48,RTXA6000,4,48,191.953125,2.35,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",2.35
+1x-RTX_3060-28,RTX3060,1,28,12.0,0.08,"Quebec, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.08
+8x-L40S-124,L40S,8,124,359.90625,6.40,"Finland, FI","{'Gpus': [{'Name': 'L40S', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 368544}}], 'TotalGpuMemoryInMiB': 368544}",6.40
+4x-RTX_A5000-96,RTXA5000,4,96,95.953125,1.76,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.76
+8x-RTX_4090-64,RTX4090,8,64,191.90625,3.99,"New Jersey, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.99
+4x-RTX_4090-128,RTX4090,4,128,95.953125,4.80,"Bulgaria, BG","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",4.80
+1x-RTX_3060-8,RTX3060,1,8,12.0,0.10,"Poland, PL","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.10
+2x-Tesla_V100-32,V100,2,32,32.0,0.37,"The Netherlands, NL","{'Gpus': [{'Name': 'V100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32768}}], 'TotalGpuMemoryInMiB': 32768}",0.37
+2x-L4-64,L4,2,64,44.98828125,0.93,"Iceland, IS","{'Gpus': [{'Name': 'L4', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.93
+2x-RTX_A4000-64,RTXA4000,2,64,31.984375,0.32,"Bistrita-Nasaud, RO","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.32
+1x-RTX_A4000-64,RTXA4000,1,64,15.9921875,0.16,"Bistrita-Nasaud, RO","{'Gpus': [{'Name': 'RTXA4000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",0.16
+9x-RTX_4090-256,RTX4090,9,256,215.89453125,4.80,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 9, 'MemoryInfo': {'SizeInMiB': 221076}}], 'TotalGpuMemoryInMiB': 221076}",4.80
+2x-RTX_4090-384,RTX4090,2,384,47.9765625,2.80,"Indiana, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",2.80
+3x-RTX_3090-12,RTX3090,3,12,72.0,0.80,"Poland, PL","{'Gpus': [{'Name': 'RTX3090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 73728}}], 'TotalGpuMemoryInMiB': 73728}",0.80
+4x-RTX_A6000-64,RTXA6000,4,64,191.953125,2.66,"Tallinn, EE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",2.66
+1x-RTX_3060-28,RTX3060,1,28,12.0,0.08,"Quebec, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.08
+8x-RTX_A5000-32,RTXA5000,8,32,191.90625,1.92,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.92
+1x-RTX_A5000-24,RTXA5000,1,24,23.98828125,0.23,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.23
+8x-RTX_4070S_Ti-128,RTX4070,8,128,127.9375,2.35,"Arizona, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 131008}}], 'TotalGpuMemoryInMiB': 131008}",2.35
+2x-RTX_3060-8,RTX3060,2,8,24.0,0.19,"Poland, PL","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.19
+2x-RTX_3070-8,RTX3070,2,8,16.0,0.15,"Italy, IT","{'Gpus': [{'Name': 'RTX3070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.15
+8x-RTX_A5000-96,RTXA5000,8,96,191.90625,3.52,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.52
+1x-RTX_3070-8,RTX3070,1,8,8.0,0.08,"Italy, IT","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.08
+2x-RTX_3060-128,RTX3060,2,128,24.0,0.21,"Texas, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.21
+3x-RTX_3090-24,RTX3090,3,24,72.0,1.00,"Alberta, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 73728}}], 'TotalGpuMemoryInMiB': 73728}",1.00
+1x-L4-64,L4,1,64,22.494140625,0.47,"Iceland, IS","{'Gpus': [{'Name': 'L4', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 23034}}], 'TotalGpuMemoryInMiB': 23034}",0.47
+1x-RTX_3090-12,RTX3090,1,12,24.0,0.41,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.41
+4x-RTX_A5000-16,RTXA5000,4,16,95.953125,1.23,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.23
+4x-Tesla_V100-32,V100,4,32,64.0,0.75,"The Netherlands, NL","{'Gpus': [{'Name': 'V100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 65536}}], 'TotalGpuMemoryInMiB': 65536}",0.75
+5x-L4-64,L4,5,64,112.470703125,2.33,"Iceland, IS","{'Gpus': [{'Name': 'L4', 'Count': 5, 'MemoryInfo': {'SizeInMiB': 115170}}], 'TotalGpuMemoryInMiB': 115170}",2.33
+1x-RTX_3080-32,RTX3080,1,32,12.0,0.25,"Iceland, IS","{'Gpus': [{'Name': 'RTX3080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.25
+1x-RTX_3060-6,RTX3060,1,6,12.0,0.09,"South Korea, KR","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.09
+4x-RTX_A5000-16,RTXA5000,4,16,95.953125,1.23,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.23
+4x-L4-64,L4,4,64,89.9765625,1.87,"Iceland, IS","{'Gpus': [{'Name': 'L4', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",1.87
+4x-RTX_A6000-16,RTXA6000,4,16,191.953125,2.19,"Sweden, SE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 196560}}], 'TotalGpuMemoryInMiB': 196560}",2.19
+2x-RTX_A5000-24,RTXA5000,2,24,47.9765625,0.45,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.45
+4x-RTX_A5000-16,RTXA5000,4,16,95.953125,0.96,"Washington, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",0.96
+1x-RTX_3060-128,RTX3060,1,128,12.0,0.11,"Texas, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.11
+1x-RTX_A6000-24,RTXA6000,1,24,47.98828125,0.53,"Germany, DE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 49140}}], 'TotalGpuMemoryInMiB': 49140}",0.53
+8x-RTX_3090-64,RTX3090,8,64,192.0,1.60,"New York, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196608}}], 'TotalGpuMemoryInMiB': 196608}",1.60
+4x-RTX_A5000-24,RTXA5000,4,24,95.953125,0.91,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",0.91
+2x-RTX_3060-12,RTX3060,2,12,24.0,0.20,"Michigan, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.20
+1x-RTX_3060-12,RTX3060,1,12,12.0,0.10,"Michigan, US","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.10
+4x-RTX_A5000-24,RTXA5000,4,24,95.953125,0.91,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",0.91
+8x-RTX_4090-256,RTX4090,8,256,191.90625,4.27,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",4.27
+1x-RTX_3060-96,RTX3060,1,96,12.0,0.14,"Japan, JP","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.14
+1x-RTX_2080_Ti-12,RTX2080,1,12,11.0,0.12,"British Columbia, CA","{'Gpus': [{'Name': 'RTX2080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 11264}}], 'TotalGpuMemoryInMiB': 11264}",0.12
+6x-RTX_A6000-48,RTXA6000,6,48,287.9296875,3.52,"Romania, RO","{'Gpus': [{'Name': 'RTXA6000', 'Count': 6, 'MemoryInfo': {'SizeInMiB': 294840}}], 'TotalGpuMemoryInMiB': 294840}",3.52
+1x-RTX_3060_Ti-16,RTX3060,1,16,8.0,0.07,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.07
+8x-RTX_4090-256,RTX4090,8,256,191.90625,4.27,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",4.27
+12x-RTX_4090-256,RTX4090,12,256,287.859375,5.60,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 12, 'MemoryInfo': {'SizeInMiB': 294768}}], 'TotalGpuMemoryInMiB': 294768}",5.60
+4x-RTX_4090-144,RTX4090,4,144,95.953125,1.66,"Delaware, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.66
+2x-RTX_3090-24,RTX3090,2,24,48.0,0.64,"California, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.64
+8x-RTX_A5000-24,RTXA5000,8,24,191.90625,1.81,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.81
+2x-RTX_3060-48,RTX3060,2,48,24.0,0.31,"Japan, JP","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.31
+4x-RTX_4060_Ti-96,RTX4060,4,96,63.984375,0.79,"Germany, DE","{'Gpus': [{'Name': 'RTX4060', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 65520}}], 'TotalGpuMemoryInMiB': 65520}",0.79
+1x-RTX_3060_Ti-12,RTX3060,1,12,8.0,0.09,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+2x-RTX_2080_Ti-32,RTX2080,2,32,22.0,0.25,"Missouri, US","{'Gpus': [{'Name': 'RTX2080', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 22528}}], 'TotalGpuMemoryInMiB': 22528}",0.25
+2x-RTX_2080_Ti-32,RTX2080,2,32,22.0,0.25,"Missouri, US","{'Gpus': [{'Name': 'RTX2080', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 22528}}], 'TotalGpuMemoryInMiB': 22528}",0.25
+2x-RTX_A6000-24,RTXA6000,2,24,95.9765625,1.07,"Germany, DE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98280}}], 'TotalGpuMemoryInMiB': 98280}",1.07
+8x-RTX_A5000-24,RTXA5000,8,24,191.90625,1.81,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.81
+8x-RTX_A5000-16,RTXA5000,8,16,191.90625,2.45,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",2.45
+1x-RTX_3060_Ti-16,RTX3060,1,16,8.0,0.09,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+8x-RTX_A5000-16,RTXA5000,8,16,191.90625,2.45,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",2.45
+1x-Q_RTX_8000-80,RTX8000,1,80,45.0,0.32,"Indiana, US","{'Gpus': [{'Name': 'RTX8000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46080}}], 'TotalGpuMemoryInMiB': 46080}",0.32
+10x-RTX_A5000-16,RTXA5000,10,16,239.8828125,3.07,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 10, 'MemoryInfo': {'SizeInMiB': 245640}}], 'TotalGpuMemoryInMiB': 245640}",3.07
+1x-RTX_3060_Ti-12,RTX3060,1,12,8.0,0.09,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+1x-RTX_2080_Ti-32,RTX2080,1,32,11.0,0.13,"Missouri, US","{'Gpus': [{'Name': 'RTX2080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 11264}}], 'TotalGpuMemoryInMiB': 11264}",0.13
+10x-RTX_A5000-16,RTXA5000,10,16,239.8828125,3.07,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 10, 'MemoryInfo': {'SizeInMiB': 245640}}], 'TotalGpuMemoryInMiB': 245640}",3.07
+1x-A40-256,A40,1,256,44.98828125,0.40,"Belgium, BE","{'Gpus': [{'Name': 'A40', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 46068}}], 'TotalGpuMemoryInMiB': 46068}",0.40
+8x-RTX_4090-64,RTX4090,8,64,191.90625,3.47,"New Jersey, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",3.47
+4x-RTX_4090-32,RTX4090,4,32,95.953125,1.87,"Iceland, IS","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.87
+8x-RTX_4060_Ti-96,RTX4060,8,96,127.96875,1.58,"Germany, DE","{'Gpus': [{'Name': 'RTX4060', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 131040}}], 'TotalGpuMemoryInMiB': 131040}",1.58
+12x-RTX_4090-256,RTX4090,12,256,287.859375,6.40,"Norway, NO","{'Gpus': [{'Name': 'RTX4090', 'Count': 12, 'MemoryInfo': {'SizeInMiB': 294768}}], 'TotalGpuMemoryInMiB': 294768}",6.40
+8x-A40-24,A40,8,24,359.90625,2.03,"Sweden, SE","{'Gpus': [{'Name': 'A40', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 368544}}], 'TotalGpuMemoryInMiB': 368544}",2.03
+1x-RTX_3060-2,RTX3060,1,2,12.0,0.11,"South Korea, KR","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.11
+1x-RTX_3070-12,RTX3070,1,12,8.0,0.17,"Blansko District, CZ","{'Gpus': [{'Name': 'RTX3070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.17
+2x-RTX_3070-12,RTX3070,2,12,16.0,0.33,"Blansko District, CZ","{'Gpus': [{'Name': 'RTX3070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.33
+1x-RTX_2080_Ti-16,RTX2080,1,16,11.0,0.15,"North Carolina, US","{'Gpus': [{'Name': 'RTX2080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 11264}}], 'TotalGpuMemoryInMiB': 11264}",0.15
+1x-RTX_3060_Ti-12,RTX3060,1,12,8.0,0.07,"British Columbia, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.07
+9x-RTX_4090-128,RTX4090,9,128,215.89453125,10.80,"Bulgaria, BG","{'Gpus': [{'Name': 'RTX4090', 'Count': 9, 'MemoryInfo': {'SizeInMiB': 221076}}], 'TotalGpuMemoryInMiB': 221076}",10.80
+2x-Q_RTX_6000-88,RTX6000,2,88,45.0,0.45,"Minnesota, US","{'Gpus': [{'Name': 'RTX6000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 46080}}], 'TotalGpuMemoryInMiB': 46080}",0.45
+1x-RTX_3090-192,RTX3090,1,192,24.0,1.07,"Norway, NO","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",1.07
+3x-RTX_3070-12,RTX3070,3,12,24.0,0.50,"Blansko District, CZ","{'Gpus': [{'Name': 'RTX3070', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.50
+1x-Q_RTX_6000-88,RTX6000,1,88,22.5,0.23,"Minnesota, US","{'Gpus': [{'Name': 'RTX6000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 23040}}], 'TotalGpuMemoryInMiB': 23040}",0.23
+10x-RTX_A6000-16,RTXA6000,10,16,479.8828125,5.47,"Sweden, SE","{'Gpus': [{'Name': 'RTXA6000', 'Count': 10, 'MemoryInfo': {'SizeInMiB': 491400}}], 'TotalGpuMemoryInMiB': 491400}",5.47
+8x-RTX_A5000-24,RTXA5000,8,24,191.90625,1.81,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.81
+4x-RTX_4090-64,RTX4090,4,64,95.953125,1.73,"New Jersey, US","{'Gpus': [{'Name': 'RTX4090', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98256}}], 'TotalGpuMemoryInMiB': 98256}",1.73
+4x-RTX_2080_Ti-32,RTX2080,4,32,44.0,0.53,"Ohio, US","{'Gpus': [{'Name': 'RTX2080', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 45056}}], 'TotalGpuMemoryInMiB': 45056}",0.53
+1x-RTX_4080S-384,RTX4080,1,384,15.9921875,1.33,"Norway, NO","{'Gpus': [{'Name': 'RTX4080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16376}}], 'TotalGpuMemoryInMiB': 16376}",1.33
+1x-Tesla_T4-56,T4,1,56,15.0,0.15,"Czechia, CZ","{'Gpus': [{'Name': 'T4', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 15360}}], 'TotalGpuMemoryInMiB': 15360}",0.15
+1x-RTX_3090-128,RTX3090,1,128,24.0,0.94,"Viken, NO","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",0.94
+2x-RTX_3090-384,RTX3090,2,384,48.0,2.64,"Indiana, US","{'Gpus': [{'Name': 'RTX3090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",2.64
+2x-Tesla_T4-56,T4,2,56,30.0,0.29,"Czechia, CZ","{'Gpus': [{'Name': 'T4', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 30720}}], 'TotalGpuMemoryInMiB': 30720}",0.29
+1x-Tesla_P100-80,P100,1,80,16.0,0.16,"Alberta, CA","{'Gpus': [{'Name': 'P100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.16
+8x-RTX_A5000-24,RTXA5000,8,24,191.90625,1.81,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.81
+8x-RTX_A5000-24,RTXA5000,8,24,191.90625,1.81,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.81
+1x-RTX_2060S-32,RTX2060,1,32,8.0,0.07,"Vietnam, VN","{'Gpus': [{'Name': 'RTX2060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.07
+1x-RTX_2060-8,RTX2060,1,8,12.0,0.14,"Quebec, CA","{'Gpus': [{'Name': 'RTX2060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.14
+1x-RTX_2080_Ti-16,RTX2080,1,16,11.0,0.20,"Ohio, US","{'Gpus': [{'Name': 'RTX2080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 11264}}], 'TotalGpuMemoryInMiB': 11264}",0.20
+1x-RTX_3090-384,RTX3090,1,384,24.0,1.87,"Spain, ES","{'Gpus': [{'Name': 'RTX3090', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",1.87
+8x-RTX_A5000-24,RTXA5000,8,24,191.90625,1.81,"Sweden, SE","{'Gpus': [{'Name': 'RTXA5000', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.81
+1x-RTX_3060-80,RTX3060,1,80,12.0,0.47,"Sweden, SE","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.47
+1x-RTX_3060-80,RTX3060,1,80,12.0,0.43,"Sweden, SE","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.43
+1x-RTX_2070-24,RTX2070,1,24,8.0,0.09,"Norway, NO","{'Gpus': [{'Name': 'RTX2070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+1x-GTX_1070-24,GTX1070,1,24,8.0,0.09,"Quebec, CA","{'Gpus': [{'Name': 'GTX1070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+1x-RTX_2080_Ti-40,RTX2080,1,40,11.0,0.27,"Ohio, US","{'Gpus': [{'Name': 'RTX2080', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 11264}}], 'TotalGpuMemoryInMiB': 11264}",0.27
+1x-GTX_1070_Ti-2,GTX1070,1,2,8.0,0.09,"South Korea, KR","{'Gpus': [{'Name': 'GTX1070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.09
+1x-GTX_1070-12,GTX1070,1,12,8.0,0.08,"South Korea, KR","{'Gpus': [{'Name': 'GTX1070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",0.08
+1x-RTX_4070-12,RTX4070,1,12,11.994140625,1.01,"New York, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12282}}], 'TotalGpuMemoryInMiB': 12282}",1.01
+1x-RTX_3060-56,RTX3060,1,56,12.0,0.87,"Alberta, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 12288}}], 'TotalGpuMemoryInMiB': 12288}",0.87
+4x-RTX_3080_Ti-16,RTX3080,4,16,48.0,0.56,"Kazakhstan, KZ","{'Gpus': [{'Name': 'RTX3080', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.56
+2x-RTX_3060-56,RTX3060,2,56,24.0,1.73,"Alberta, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",1.73
+8x-RTX_3080_Ti-16,RTX3080,8,16,96.0,1.12,"Kazakhstan, KZ","{'Gpus': [{'Name': 'RTX3080', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",1.12
+4x-RTX_3060-56,RTX3060,4,56,48.0,3.47,"Alberta, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",3.47
+6x-RTX_3060-56,RTX3060,6,56,72.0,5.20,"Alberta, CA","{'Gpus': [{'Name': 'RTX3060', 'Count': 6, 'MemoryInfo': {'SizeInMiB': 73728}}], 'TotalGpuMemoryInMiB': 73728}",5.20
+2x-RTX_4070-12,RTX4070,2,12,23.98828125,2.01,"New York, US","{'Gpus': [{'Name': 'RTX4070', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",2.01
+4x-RTX_3080_Ti-32,RTX3080,4,32,48.0,0.59,"Kazakhstan, KZ","{'Gpus': [{'Name': 'RTX3080', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 49152}",0.59
+8x-RTX_3080_Ti-32,RTX3080,8,32,96.0,1.17,"Kazakhstan, KZ","{'Gpus': [{'Name': 'RTX3080', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",1.17
+12x-RTX_A4000-2,RTXA4000,12,2,191.90625,1.60,"Japan, JP","{'Gpus': [{'Name': 'RTXA4000', 'Count': 12, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",1.60
+1x-RTX_A5000-48,RTXA5000,1,48,23.98828125,0.24,"Delaware, US","{'Gpus': [{'Name': 'RTXA5000', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 24564}",0.24
+2x-RTX_A4000-80,RTXA4000,2,80,31.984375,0.19,"Quebec, CA","{'Gpus': [{'Name': 'RTXA4000', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 32752}}], 'TotalGpuMemoryInMiB': 32752}",0.19
+1x-Tesla_T4-56,T4,1,56,15.0,0.15,"Czechia, CZ","{'Gpus': [{'Name': 'T4', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 15360}}], 'TotalGpuMemoryInMiB': 15360}",0.15
+8x-RTX_4090-256,RTX4090,8,256,191.90625,2.56,"Taiwan, TW","{'Gpus': [{'Name': 'RTX4090', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 196512}}], 'TotalGpuMemoryInMiB': 196512}",2.56
+2x-RTX_4090-256,RTX4090,2,256,47.9765625,0.64,"Taiwan, TW","{'Gpus': [{'Name': 'RTX4090', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 49128}}], 'TotalGpuMemoryInMiB': 49128}",0.64
+1x-A100_SXM4-32,A100,1,32,40.0,0.60,"Kansas, US","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 40960}",0.60
+1x-Tesla_V100-32,V100,1,32,16.0,0.19,"The Netherlands, NL","{'Gpus': [{'Name': 'V100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",0.19
+1x-A100_SXM4-96,A100,1,96,80.0,1.60,", US","{'Gpus': [{'Name': 'A100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",1.60
+2x-A40-256,A40,2,256,89.9765625,0.80,"Belgium, BE","{'Gpus': [{'Name': 'A40', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 92136}}], 'TotalGpuMemoryInMiB': 92136}",0.80
+2x-H100_NVL-32,H100,2,32,187.16796875,5.33,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 191660}}], 'TotalGpuMemoryInMiB': 191660}",5.33
+4x-H100_NVL-32,H100,4,32,374.3359375,10.67,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 383320}}], 'TotalGpuMemoryInMiB': 383320}",10.67
+1x-H100_NVL-32,H100,1,32,93.583984375,2.67,"California, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 95830}}], 'TotalGpuMemoryInMiB': 95830}",2.67
+2x-H200-192,H200,2,192,280.802734375,8.00,"France, FR","{'Gpus': [{'Name': 'H200', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 287542}}], 'TotalGpuMemoryInMiB': 287542}",8.00
+1x-H100_SXM-128,H100,1,128,79.6474609375,1.73,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",1.73
+2x-H100_SXM-128,H100,2,128,159.294921875,3.47,"Florida, US","{'Gpus': [{'Name': 'H100', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 163118}}], 'TotalGpuMemoryInMiB': 163118}",3.47
