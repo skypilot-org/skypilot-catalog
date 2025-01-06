@@ -1,0 +1,1026 @@
+InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,GpuInfo,Price,SpotPrice,Region,AvailabilityZone
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-amsterdam-1,eu-amsterdam-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-stockholm-1,EU-STOCKHOLM-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,me-abudhabi-1,ME-ABUDHABI-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-mumbai-1,AP-MUMBAI-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-paris-1,EU-PARIS-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-paris-1,EU-PARIS-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-paris-1,EU-PARIS-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-paris-1,EU-PARIS-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-paris-1,EU-PARIS-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-paris-1,EU-PARIS-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-paris-1,EU-PARIS-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-paris-1,EU-PARIS-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-paris-1,EU-PARIS-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-paris-1,EU-PARIS-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-paris-1,EU-PARIS-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-paris-1,EU-PARIS-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,uk-cardiff-1,UK-CARDIFF-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,me-dubai-1,ME-DUBAI-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,me-dubai-1,ME-DUBAI-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,me-dubai-1,ME-DUBAI-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,me-dubai-1,ME-DUBAI-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,me-dubai-1,ME-DUBAI-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,me-dubai-1,ME-DUBAI-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,me-dubai-1,ME-DUBAI-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,me-dubai-1,ME-DUBAI-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,me-dubai-1,ME-DUBAI-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,me-dubai-1,ME-DUBAI-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,me-dubai-1,ME-DUBAI-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,me-dubai-1,ME-DUBAI-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-frankfurt-1,EU-FRANKFURT-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-frankfurt-1,EU-FRANKFURT-1-AD-2
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-frankfurt-1,EU-FRANKFURT-1-AD-3
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,sa-saopaulo-1,SA-SAOPAULO-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-hyderabad-1,AP-HYDERABAD-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,us-ashburn-1,US-ASHBURN-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,us-ashburn-1,US-ASHBURN-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,us-ashburn-1,US-ASHBURN-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,us-ashburn-1,US-ASHBURN-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,us-ashburn-1,US-ASHBURN-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,us-ashburn-1,US-ASHBURN-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,us-ashburn-1,US-ASHBURN-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,us-ashburn-1,US-ASHBURN-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,us-ashburn-1,US-ASHBURN-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,us-ashburn-1,US-ASHBURN-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,us-ashburn-1,US-ASHBURN-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,us-ashburn-1,US-ASHBURN-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,us-ashburn-1,US-ASHBURN-AD-2
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,us-ashburn-1,US-ASHBURN-AD-2
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,us-ashburn-1,US-ASHBURN-AD-2
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,us-ashburn-1,US-ASHBURN-AD-2
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,us-ashburn-1,US-ASHBURN-AD-2
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,us-ashburn-1,US-ASHBURN-AD-2
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,us-ashburn-1,US-ASHBURN-AD-2
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,us-ashburn-1,US-ASHBURN-AD-2
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,us-ashburn-1,US-ASHBURN-AD-2
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,us-ashburn-1,US-ASHBURN-AD-2
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,us-ashburn-1,US-ASHBURN-AD-2
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,us-ashburn-1,US-ASHBURN-AD-2
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,us-ashburn-1,US-ASHBURN-AD-3
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,us-ashburn-1,US-ASHBURN-AD-3
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,us-ashburn-1,US-ASHBURN-AD-3
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,us-ashburn-1,US-ASHBURN-AD-3
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,us-ashburn-1,US-ASHBURN-AD-3
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,us-ashburn-1,US-ASHBURN-AD-3
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,us-ashburn-1,US-ASHBURN-AD-3
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,us-ashburn-1,US-ASHBURN-AD-3
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,us-ashburn-1,US-ASHBURN-AD-3
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,us-ashburn-1,US-ASHBURN-AD-3
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,us-ashburn-1,US-ASHBURN-AD-3
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,us-ashburn-1,US-ASHBURN-AD-3
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-seoul-1,AP-SEOUL-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-seoul-1,AP-SEOUL-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-seoul-1,AP-SEOUL-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-seoul-1,AP-SEOUL-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-seoul-1,AP-SEOUL-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-seoul-1,AP-SEOUL-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,me-jeddah-1,ME-JEDDAH-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,me-jeddah-1,ME-JEDDAH-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,me-jeddah-1,ME-JEDDAH-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,me-jeddah-1,ME-JEDDAH-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,me-jeddah-1,ME-JEDDAH-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,me-jeddah-1,ME-JEDDAH-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,af-johannesburg-1,AF-JOHANNESBURG-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-osaka-1,AP-OSAKA-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-osaka-1,AP-OSAKA-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-osaka-1,AP-OSAKA-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-osaka-1,AP-OSAKA-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-osaka-1,AP-OSAKA-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-osaka-1,AP-OSAKA-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,uk-london-1,UK-LONDON-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,uk-london-1,UK-LONDON-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,uk-london-1,UK-LONDON-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,uk-london-1,UK-LONDON-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,uk-london-1,UK-LONDON-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,uk-london-1,UK-LONDON-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,uk-london-1,UK-LONDON-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,uk-london-1,UK-LONDON-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,uk-london-1,UK-LONDON-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,uk-london-1,UK-LONDON-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,uk-london-1,UK-LONDON-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,uk-london-1,UK-LONDON-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,uk-london-1,UK-LONDON-1-AD-2
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,uk-london-1,UK-LONDON-1-AD-2
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,uk-london-1,UK-LONDON-1-AD-2
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,uk-london-1,UK-LONDON-1-AD-2
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,uk-london-1,UK-LONDON-1-AD-2
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,uk-london-1,UK-LONDON-1-AD-2
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,uk-london-1,UK-LONDON-1-AD-2
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,uk-london-1,UK-LONDON-1-AD-2
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,uk-london-1,UK-LONDON-1-AD-2
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,uk-london-1,UK-LONDON-1-AD-2
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,uk-london-1,UK-LONDON-1-AD-2
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,uk-london-1,UK-LONDON-1-AD-2
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,uk-london-1,UK-LONDON-1-AD-3
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,uk-london-1,UK-LONDON-1-AD-3
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,uk-london-1,UK-LONDON-1-AD-3
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,uk-london-1,UK-LONDON-1-AD-3
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,uk-london-1,UK-LONDON-1-AD-3
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,uk-london-1,UK-LONDON-1-AD-3
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,uk-london-1,UK-LONDON-1-AD-3
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,uk-london-1,UK-LONDON-1-AD-3
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,uk-london-1,UK-LONDON-1-AD-3
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,uk-london-1,UK-LONDON-1-AD-3
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,uk-london-1,UK-LONDON-1-AD-3
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,uk-london-1,UK-LONDON-1-AD-3
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-milan-1,EU-MILAN-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-milan-1,EU-MILAN-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-milan-1,EU-MILAN-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-milan-1,EU-MILAN-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-milan-1,EU-MILAN-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-milan-1,EU-MILAN-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-milan-1,EU-MILAN-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-milan-1,EU-MILAN-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-milan-1,EU-MILAN-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-milan-1,EU-MILAN-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-milan-1,EU-MILAN-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-milan-1,EU-MILAN-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-madrid-1,EU-MADRID-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-madrid-1,EU-MADRID-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-madrid-1,EU-MADRID-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-madrid-1,EU-MADRID-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-madrid-1,EU-MADRID-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-madrid-1,EU-MADRID-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-madrid-1,EU-MADRID-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-madrid-1,EU-MADRID-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-madrid-1,EU-MADRID-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-madrid-1,EU-MADRID-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-madrid-1,EU-MADRID-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-madrid-1,EU-MADRID-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-melbourne-1,AP-MELBOURNE-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-marseille-1,EU-MARSEILLE-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,il-jerusalem-1,IL-JERUSALEM-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-tokyo-1,AP-TOKYO-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-tokyo-1,AP-TOKYO-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-tokyo-1,AP-TOKYO-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-tokyo-1,AP-TOKYO-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-tokyo-1,AP-TOKYO-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-tokyo-1,AP-TOKYO-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,us-phoenix-1,PHX-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,us-phoenix-1,PHX-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,us-phoenix-1,PHX-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,us-phoenix-1,PHX-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,us-phoenix-1,PHX-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,us-phoenix-1,PHX-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,us-phoenix-1,PHX-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,us-phoenix-1,PHX-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,us-phoenix-1,PHX-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,us-phoenix-1,PHX-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,us-phoenix-1,PHX-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,us-phoenix-1,PHX-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,us-phoenix-1,PHX-AD-2
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,us-phoenix-1,PHX-AD-2
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,us-phoenix-1,PHX-AD-2
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,us-phoenix-1,PHX-AD-2
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,us-phoenix-1,PHX-AD-2
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,us-phoenix-1,PHX-AD-2
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,us-phoenix-1,PHX-AD-2
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,us-phoenix-1,PHX-AD-2
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,us-phoenix-1,PHX-AD-2
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,us-phoenix-1,PHX-AD-2
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,us-phoenix-1,PHX-AD-2
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,us-phoenix-1,PHX-AD-2
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,us-phoenix-1,PHX-AD-3
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,us-phoenix-1,PHX-AD-3
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,us-phoenix-1,PHX-AD-3
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,us-phoenix-1,PHX-AD-3
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,us-phoenix-1,PHX-AD-3
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,us-phoenix-1,PHX-AD-3
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,us-phoenix-1,PHX-AD-3
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,us-phoenix-1,PHX-AD-3
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,us-phoenix-1,PHX-AD-3
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,us-phoenix-1,PHX-AD-3
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,us-phoenix-1,PHX-AD-3
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,us-phoenix-1,PHX-AD-3
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,mx-queretaro-1,MX-QUERETARO-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,sa-santiago-1,SA-SANTIAGO-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-singapore-1,AP-SINGAPORE-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,us-sanjose-1,US-SANJOSE-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,us-sanjose-1,US-SANJOSE-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,us-sanjose-1,US-SANJOSE-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,us-sanjose-1,US-SANJOSE-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,us-sanjose-1,US-SANJOSE-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,us-sanjose-1,US-SANJOSE-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-sydney-1,AP-SYDNEY-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-sydney-1,AP-SYDNEY-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-sydney-1,AP-SYDNEY-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-sydney-1,AP-SYDNEY-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-sydney-1,AP-SYDNEY-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-sydney-1,AP-SYDNEY-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,sa-vinhedo-1,SA-VINHEDO-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ap-chuncheon-1,AP-CHUNCHEON-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ca-montreal-1,CA-MONTREAL-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ca-montreal-1,CA-MONTREAL-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ca-montreal-1,CA-MONTREAL-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ca-montreal-1,CA-MONTREAL-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ca-montreal-1,CA-MONTREAL-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ca-montreal-1,CA-MONTREAL-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,ca-toronto-1,CA-TORONTO-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,ca-toronto-1,CA-TORONTO-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,ca-toronto-1,CA-TORONTO-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,ca-toronto-1,CA-TORONTO-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,ca-toronto-1,CA-TORONTO-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,ca-toronto-1,CA-TORONTO-1-AD-1
+VM.Standard.E4.Flex$_2_8,,,2,8,,0.037,0.0185,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_2_16,,,2,16,,0.049,0.0245,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_4_16,,,4,16,,0.074,0.037,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_4_32,,,4,32,,0.098,0.049,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_8_32,,,8,32,,0.148,0.074,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_8_64,,,8,64,,0.196,0.098,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_16_64,,,16,64,,0.296,0.148,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_16_128,,,16,128,,0.392,0.196,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_32_128,,,32,128,,0.592,0.296,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_32_256,,,32,256,,0.784,0.392,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_64_256,,,64,256,,1.184,0.592,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_64_512,,,64,512,,1.568,0.784,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_128_512,,,128,512,,2.368,1.184,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.Standard.E4.Flex$_128_1024,,,128,1024,,3.316,1.568,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.GPU.A10.1,A10,1,30,240,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",2,,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.GPU.A10.2,A10,2,60,480,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",4,,eu-zurich-1,EU-ZURICH-1-AD-1
+BM.GPU.A10.4,A10,4,128,1024,"{'Gpus': [{'Name': 'A10', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",8,,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.GPU2.1,P100,1,24,72,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",1.275,,eu-zurich-1,EU-ZURICH-1-AD-1
+BM.GPU2.2,P100,2,56,256,"{'Gpus': [{'Name': 'P100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",2.55,,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.GPU3.1,V100,1,12,90,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 16384}",2.95,,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.GPU3.2,V100,2,24,180,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 32768}",5.9,,eu-zurich-1,EU-ZURICH-1-AD-1
+VM.GPU3.4,V100,4,48,360,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 65536}",11.8,,eu-zurich-1,EU-ZURICH-1-AD-1
+BM.GPU3.8,V100,8,104,768,"{'Gpus': [{'Name': 'V100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 16384}}], 'TotalGpuMemoryInMiB': 131072}",23.6,,eu-zurich-1,EU-ZURICH-1-AD-1
+BM.GPU.A100-v2.8,A100-80GB,8,256,2048,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",32,,eu-zurich-1,EU-ZURICH-1-AD-1
+BM.GPU4.8,A100,8,128,2048,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 40960}}], 'TotalGpuMemoryInMiB': 327680}",24.4,,eu-zurich-1,EU-ZURICH-1-AD-1
