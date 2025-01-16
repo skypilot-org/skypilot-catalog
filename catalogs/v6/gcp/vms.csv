@@ -242,7 +242,9 @@ a3-megagpu-8g,208.0,1872.0,,,,us-east5,us-east5-a,10.65487,4.26192
 a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-a,9.46006,3.78394
 a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-b,9.46006,3.78394
 a3-megagpu-8g,208.0,1872.0,,,,us-west4,us-west4-a,10.65487,4.26192
+a3-ultragpu-8g,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g,224.0,2952.0,,,,us-west1,us-west1-c,12.266,4.90618
+a3-ultragpu-8g-nolssd,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-west1,us-west1-c,12.266,4.90618
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-a,0.96709,0.25562
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-b,0.96709,0.25562
