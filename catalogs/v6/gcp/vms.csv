@@ -19096,6 +19096,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-east1,us-east1-d,2.7,1.89
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-east4,us-east4-a,2.7,1.89
+,,,tpu-v6e-1,1,tpu-v6e-1,us-east4,us-east4-b,2.7,1.89
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-east5,us-east5-b,2.7,1.89
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-east5,us-east5-c,2.7,1.89
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-south1,us-south1-a,2.7,1.89
@@ -19109,6 +19110,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-east1,us-east1-d,10.8,7.56
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-east4,us-east4-a,10.8,7.56
+,,,tpu-v6e-4,1,tpu-v6e-4,us-east4,us-east4-b,10.8,7.56
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-east5,us-east5-b,10.8,7.56
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-east5,us-east5-c,10.8,7.56
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-south1,us-south1-a,10.8,7.56
@@ -19122,6 +19124,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-east1,us-east1-d,21.6,15.12
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-east4,us-east4-a,21.6,15.12
+,,,tpu-v6e-8,1,tpu-v6e-8,us-east4,us-east4-b,21.6,15.12
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-east5,us-east5-b,21.6,15.12
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-east5,us-east5-c,21.6,15.12
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-south1,us-south1-a,21.6,15.12
@@ -19135,6 +19138,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-east1,us-east1-d,43.2,30.24
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-east4,us-east4-a,43.2,30.24
+,,,tpu-v6e-16,1,tpu-v6e-16,us-east4,us-east4-b,43.2,30.24
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-east5,us-east5-b,43.2,30.24
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-east5,us-east5-c,43.2,30.24
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-south1,us-south1-a,43.2,30.24
@@ -19148,6 +19152,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-east1,us-east1-d,86.4,60.48
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-east4,us-east4-a,86.4,60.48
+,,,tpu-v6e-32,1,tpu-v6e-32,us-east4,us-east4-b,86.4,60.48
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-east5,us-east5-b,86.4,60.48
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-east5,us-east5-c,86.4,60.48
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-south1,us-south1-a,86.4,60.48
@@ -19161,6 +19166,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-east1,us-east1-d,172.8,120.96
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-east4,us-east4-a,172.8,120.96
+,,,tpu-v6e-64,1,tpu-v6e-64,us-east4,us-east4-b,172.8,120.96
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-east5,us-east5-b,172.8,120.96
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-east5,us-east5-c,172.8,120.96
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-south1,us-south1-a,172.8,120.96
@@ -19174,6 +19180,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-east1,us-east1-d,345.6,241.92
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-east4,us-east4-a,345.6,241.92
+,,,tpu-v6e-128,1,tpu-v6e-128,us-east4,us-east4-b,345.6,241.92
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-east5,us-east5-b,345.6,241.92
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-east5,us-east5-c,345.6,241.92
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-south1,us-south1-a,345.6,241.92
@@ -19187,6 +19194,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0965
 ,,,tpu-v6e-256,1,tpu-v6e-256,us-central2,us-central2-b,0.0,
 ,,,tpu-v6e-256,1,tpu-v6e-256,us-east1,us-east1-d,691.2,483.84
 ,,,tpu-v6e-256,1,tpu-v6e-256,us-east4,us-east4-a,691.2,483.84
+,,,tpu-v6e-256,1,tpu-v6e-256,us-east4,us-east4-b,691.2,483.84
 ,,,tpu-v6e-256,1,tpu-v6e-256,us-east5,us-east5-b,691.2,483.84
 ,,,tpu-v6e-256,1,tpu-v6e-256,us-east5,us-east5-c,691.2,483.84
 ,,,tpu-v6e-256,1,tpu-v6e-256,us-south1,us-south1-a,691.2,483.84
