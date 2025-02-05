@@ -40,9 +40,7 @@ jobs:
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
-          python -m sky.clouds.service_catalog.data_fetchers.fetch_vast_cloud 
-        env:
-          LAMBDA_API_KEY: ${{ secrets.LAMBDA_API_KEY }}
+          python -m sky.clouds.service_catalog.data_fetchers.fetch_vast
 
       - name: Commit catalog
         run: |
@@ -51,7 +49,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m"[Bot] Update Lambda catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git commit -m"[Bot] Update Vast catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
           git rebase origin/master
           git push
