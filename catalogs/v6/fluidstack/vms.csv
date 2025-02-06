@@ -1,4 +1,5 @@
 InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,Price,Region,GpuInfo,SpotPrice
+H100_PCIE_80GB::1,H100,1,28,180.0,2.89,CANADA,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
 A100_PCIE_80GB::1,A100-80GB,1,28,120.0,1.8,NORTH_DAKOTA_USA,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",
 A100_PCIE_80GB::2,A100-80GB,2,60,240.0,3.6,NORTH_DAKOTA_USA,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 163840}",
 A100_PCIE_80GB::4,A100-80GB,4,124,480.0,7.2,NORTH_DAKOTA_USA,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 327680}",
