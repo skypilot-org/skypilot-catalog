@@ -60,6 +60,7 @@ jobs:
 
       - name: Commit catalog
         run: |
+          source ~/test-env/bin/activate
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
