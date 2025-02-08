@@ -34,6 +34,7 @@ jobs:
             uv venv --seed ~/test-env
             source ~/test-env/bin/activate
             cd sky
+            uv pip install --prerelease allow azure-cli
             uv pip install .[all]
       - name: Run accelerators aggregations
         run: |
