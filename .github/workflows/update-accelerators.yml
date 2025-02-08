@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_aws_catalog:
+  update_accelerators:
     runs-on: ubuntu-latest
     steps:
       - name: Clone SkyPilot repo
