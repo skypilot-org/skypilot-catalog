@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: skypilot-org/skypilot
-          path: sky
+          path: skypilot
       - name: Clone Catalog repo
         uses: actions/checkout@v3
         with:
@@ -33,7 +33,7 @@ jobs:
         run: |
             uv venv --seed ~/test-env
             source ~/test-env/bin/activate
-            cd sky
+            cd skypilot
             uv pip install --prerelease allow azure-cli
             uv pip install .[all]
       - name: Run accelerators aggregations
