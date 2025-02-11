@@ -7,6 +7,7 @@ A10G,['AWS']
 A40,"['Cudo', 'RunPod', 'Vast']"
 A4000,['Paperspace']
 A6000,['Lambda']
+GH200,['Lambda']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'DO', 'Fluidstack', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'Vast']"
 H100-MEGA,['GCP']
