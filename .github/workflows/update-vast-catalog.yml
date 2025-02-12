@@ -16,6 +16,7 @@ jobs:
       - name: Clone SkyPilot repo
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           repository: skypilot-org/skypilot
           path: sky
       - name: Clone Catalog repo
@@ -24,23 +25,26 @@ jobs:
           fetch-depth: 0
           path: catalogs
           token: ${{ secrets.GH_ACTION_PAT }}
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v5
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v4
         with:
-          python-version: '3.10'
-          cache: 'pip' # caching pip dependencies
+          version: "latest"
+          python-version: "3.10"
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
           cd sky
-          pip install ".[vast]"
-
+          uv pip install ".[vast]"
+          cd -
       - name: Run fetch_vast
         run: |
+          source ~/catalogs-venv/bin/activate
           version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
           python -m sky.clouds.service_catalog.data_fetchers.fetch_vast
+          cd -
 
       - name: Commit catalog
         run: |
