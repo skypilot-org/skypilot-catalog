@@ -1,8 +1,10 @@
 # SkyPilot Catalogs
 
-**Latest catalog schema version**: v5
+**Latest catalog schema version**: v6
 
-**Supported catalog schema versions**: v1, v2, v3, v4, v5
+**Supported catalog schema versions**: v1, v2, v3, v4, v5, v6
+
+**The versions that are still being updated periodically**: v5, v6
 
 ## Automatic Catalog Fetching
 
@@ -12,11 +14,9 @@ Catalogs are updated **every 7 hours**.
 
 
 
+## Schema V6
 
-
-## Schema V5
-
-The catalogs for each cloud in [v5](v5) include the following files:
+The catalogs for each cloud in [v6](v6) include the following files:
 1. `vms.csv`: the catalog for the VMs, including the instance and the accelerators.
 2. `images.csv`: the catalog for the images, which contains the mapping from the SkyPilot image tag to the image ID that can be used to find the image in the clouds. 
 
