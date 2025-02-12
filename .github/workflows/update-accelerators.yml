@@ -1,0 +1,72 @@
+name: "update-accelerators"
+on:
+  schedule:
+    - cron:  '30 */7 * * *'    # Every 7 hours (coprimes with 24)
+    # The frequency can be tuned for the trade-off between
+    # freshness of the price and github action cost/user downloading
+    # overhead of the update.
+    # _UPDATE_FREQUENCY_HOURS in `aws_catalog.py` need to be updated
+    # accordingly, if this is changed.
+  workflow_dispatch:
+
+jobs:
+  update_accelerators:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone SkyPilot repo
+        uses: actions/checkout@v3
+        with:
+          repository: skypilot-org/skypilot
+          path: skypilot
+      - name: Clone Catalog repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          path: catalogs
+          token: ${{ secrets.GH_ACTION_PAT }}
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+            uv venv --seed ~/test-env
+            source ~/test-env/bin/activate
+            cd skypilot
+            uv pip install --prerelease allow azure-cli
+            uv pip install .[all]
+      - name: Run accelerators aggregations
+        run: |
+          source ~/test-env/bin/activate
+          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          mkdir -p catalogs/catalogs/$version
+          cd catalogs/catalogs/$version
+          mkdir -p common
+          python -u -c "
+          from sky.clouds import service_catalog
+          import pandas as pd
+
+          acc_cloud = list(zip(*[
+              [k, sorted(list(set(info.cloud for info in infos)))]
+              for k, infos in service_catalog.list_accelerators().items()
+          ]))
+
+          pd.DataFrame({
+              'AcceleratorName': acc_cloud[0],
+              'Clouds': acc_cloud[1]
+          }).sort_values(by='AcceleratorName').to_csv('common/accelerators.csv', index=False)
+          "
+
+      - name: Commit catalog
+        run: |
+          source ~/test-env/bin/activate
+          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          cd catalogs
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m"[Bot] Update accelerators (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git fetch origin
+          git rebase origin/master
+          git push
