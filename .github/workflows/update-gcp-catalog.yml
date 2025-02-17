@@ -47,6 +47,12 @@ jobs:
           source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
+            # Skip v5 fetching for GCP as GCP has updated the API for TPUv6
+            # catalog fetching and in our v5 catalog fetching code, it is not
+            # supported.
+            if [ "$version" == "v5" ]; then
+              continue
+            fi
             commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
             cd sky
             echo "> Fetching catalog schema version $version with SkyPilot commit hash $commit_hash ..."
