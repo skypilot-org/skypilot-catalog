@@ -9,8 +9,9 @@ A4000,['Paperspace']
 A6000,['Lambda']
 GH200,['Lambda']
 Gaudi HL-205,['AWS']
-H100,"['AWS', 'Azure', 'DO', 'Fluidstack', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'Vast', 'nebius']"
+H100,"['AWS', 'Azure', 'DO', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'Vast', 'nebius']"
 H100-MEGA,['GCP']
+H100-NVLINK,['Fluidstack']
 H100-SXM,['RunPod']
 H200,"['AWS', 'OCI', 'nebius']"
 K80,"['AWS', 'Azure']"
