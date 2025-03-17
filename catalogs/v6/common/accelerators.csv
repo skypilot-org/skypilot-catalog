@@ -28,13 +28,12 @@ RTX3080,['Cudo']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4090,"['RunPod', 'Vast']"
-RTX5090,['Vast']
 RTX6000,"['Lambda', 'Vast']"
 RTX6000-Ada,"['RunPod', 'Vast']"
-RTXA4000,"['Cudo', 'RunPod']"
+RTXA4000,"['Cudo', 'RunPod', 'Vast']"
 RTXA4500,"['Cudo', 'RunPod']"
 RTXA5000,"['Cudo', 'RunPod']"
-RTXA6000,"['Cudo', 'Fluidstack', 'RunPod', 'Vast']"
+RTXA6000,"['Cudo', 'RunPod', 'Vast']"
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
