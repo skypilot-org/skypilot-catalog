@@ -33,7 +33,7 @@ RTX6000,"['Lambda', 'Vast']"
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTXA4000,"['Cudo', 'RunPod', 'Vast']"
 RTXA4500,"['Cudo', 'RunPod']"
-RTXA5000,"['Cudo', 'RunPod', 'Vast']"
+RTXA5000,"['Cudo', 'RunPod']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
