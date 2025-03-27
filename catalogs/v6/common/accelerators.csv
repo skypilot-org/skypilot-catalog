@@ -30,10 +30,10 @@ RTX4000-Ada,['RunPod']
 RTX4090,"['RunPod', 'Vast']"
 RTX5090,['Vast']
 RTX6000,['Lambda']
-RTX6000-Ada,"['RunPod', 'Vast']"
+RTX6000-Ada,['RunPod']
 RTXA4000,"['Cudo', 'RunPod']"
 RTXA4500,"['Cudo', 'RunPod']"
-RTXA5000,"['Cudo', 'RunPod', 'Vast']"
+RTXA5000,"['Cudo', 'RunPod']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
