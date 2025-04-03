@@ -1,6 +1,6 @@
 AcceleratorName,Clouds
 A10,"['Azure', 'Lambda', 'OCI']"
-A100,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI']"
+A100,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Vast']"
 A100-80GB,"['AWS', 'Azure', 'Fluidstack', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'scp']"
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
