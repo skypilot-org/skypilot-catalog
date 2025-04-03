@@ -17,7 +17,7 @@ H200,"['AWS', 'OCI', 'Vast', 'nebius']"
 K80,"['AWS', 'Azure']"
 L4,"['AWS', 'GCP', 'RunPod']"
 L40,['RunPod']
-L40S,"['AWS', 'OCI', 'Vast', 'nebius']"
+L40S,"['AWS', 'OCI', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
 P100,"['GCP', 'OCI']"
@@ -39,7 +39,7 @@ Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
-V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'Vast']"
+V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'scp']"
 tpu-v2,['GCP']
 tpu-v3,['GCP']
