@@ -5771,6 +5771,7 @@ m3-megamem-128,128.0,1952.0,,,,asia-northeast1,asia-northeast1-b,18.50481,2.9799
 m3-megamem-128,128.0,1952.0,,,,asia-northeast1,asia-northeast1-c,18.50481,2.9799
 m3-megamem-128,128.0,1952.0,,,,asia-northeast2,asia-northeast2-a,18.50481,3.91219
 m3-megamem-128,128.0,1952.0,,,,asia-northeast2,asia-northeast2-b,18.50481,3.91219
+m3-megamem-128,128.0,1952.0,,,,asia-northeast2,asia-northeast2-c,18.50481,3.91219
 m3-megamem-128,128.0,1952.0,,,,asia-northeast3,asia-northeast3-a,18.50481,3.91219
 m3-megamem-128,128.0,1952.0,,,,asia-northeast3,asia-northeast3-b,18.50481,3.91219
 m3-megamem-128,128.0,1952.0,,,,asia-northeast3,asia-northeast3-c,18.50481,3.91219
@@ -5839,6 +5840,7 @@ m3-megamem-64,64.0,976.0,,,,asia-northeast1,asia-northeast1-b,9.2524,1.48995
 m3-megamem-64,64.0,976.0,,,,asia-northeast1,asia-northeast1-c,9.2524,1.48995
 m3-megamem-64,64.0,976.0,,,,asia-northeast2,asia-northeast2-a,9.2524,1.95609
 m3-megamem-64,64.0,976.0,,,,asia-northeast2,asia-northeast2-b,9.2524,1.95609
+m3-megamem-64,64.0,976.0,,,,asia-northeast2,asia-northeast2-c,9.2524,1.95609
 m3-megamem-64,64.0,976.0,,,,asia-northeast3,asia-northeast3-a,9.2524,1.95609
 m3-megamem-64,64.0,976.0,,,,asia-northeast3,asia-northeast3-b,9.2524,1.95609
 m3-megamem-64,64.0,976.0,,,,asia-northeast3,asia-northeast3-c,9.2524,1.95609
@@ -5907,6 +5909,7 @@ m3-ultramem-128,128.0,3904.0,,,,asia-northeast1,asia-northeast1-b,31.28928,4.935
 m3-ultramem-128,128.0,3904.0,,,,asia-northeast1,asia-northeast1-c,31.28928,4.93581
 m3-ultramem-128,128.0,3904.0,,,,asia-northeast2,asia-northeast2-a,31.28928,6.61949
 m3-ultramem-128,128.0,3904.0,,,,asia-northeast2,asia-northeast2-b,31.28928,6.61949
+m3-ultramem-128,128.0,3904.0,,,,asia-northeast2,asia-northeast2-c,31.28928,6.61949
 m3-ultramem-128,128.0,3904.0,,,,asia-northeast3,asia-northeast3-a,31.28928,6.61949
 m3-ultramem-128,128.0,3904.0,,,,asia-northeast3,asia-northeast3-b,31.28928,6.61949
 m3-ultramem-128,128.0,3904.0,,,,asia-northeast3,asia-northeast3-c,31.28928,6.61949
@@ -5975,6 +5978,7 @@ m3-ultramem-32,32.0,976.0,,,,asia-northeast1,asia-northeast1-b,7.82232,1.23395
 m3-ultramem-32,32.0,976.0,,,,asia-northeast1,asia-northeast1-c,7.82232,1.23395
 m3-ultramem-32,32.0,976.0,,,,asia-northeast2,asia-northeast2-a,7.82232,1.65487
 m3-ultramem-32,32.0,976.0,,,,asia-northeast2,asia-northeast2-b,7.82232,1.65487
+m3-ultramem-32,32.0,976.0,,,,asia-northeast2,asia-northeast2-c,7.82232,1.65487
 m3-ultramem-32,32.0,976.0,,,,asia-northeast3,asia-northeast3-a,7.82232,1.65487
 m3-ultramem-32,32.0,976.0,,,,asia-northeast3,asia-northeast3-b,7.82232,1.65487
 m3-ultramem-32,32.0,976.0,,,,asia-northeast3,asia-northeast3-c,7.82232,1.65487
@@ -6043,6 +6047,7 @@ m3-ultramem-64,64.0,1952.0,,,,asia-northeast1,asia-northeast1-b,15.64464,2.4679
 m3-ultramem-64,64.0,1952.0,,,,asia-northeast1,asia-northeast1-c,15.64464,2.4679
 m3-ultramem-64,64.0,1952.0,,,,asia-northeast2,asia-northeast2-a,15.64464,3.30974
 m3-ultramem-64,64.0,1952.0,,,,asia-northeast2,asia-northeast2-b,15.64464,3.30974
+m3-ultramem-64,64.0,1952.0,,,,asia-northeast2,asia-northeast2-c,15.64464,3.30974
 m3-ultramem-64,64.0,1952.0,,,,asia-northeast3,asia-northeast3-a,15.64464,3.30974
 m3-ultramem-64,64.0,1952.0,,,,asia-northeast3,asia-northeast3-b,15.64464,3.30974
 m3-ultramem-64,64.0,1952.0,,,,asia-northeast3,asia-northeast3-c,15.64464,3.30974
