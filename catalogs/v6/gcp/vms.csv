@@ -18074,6 +18074,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v4-6016,1,tpu-v4-6016,us-central2,us-central2-b,9685.76,2771.872
 ,,,tpu-v4-6144,1,tpu-v4-6144,us-central2,us-central2-b,9891.84,2830.848
 ,,,tpu-v4-6144,1,tpu-v4-6144,us-central2,us-central2-b,9891.84,2830.848
+,,,tpu-v5litepod-1,1,tpu-v5litepod-1,asia-east1,asia-east1-a,1.38948,0.69474
 ,,,tpu-v5litepod-1,1,tpu-v5litepod-1,asia-southeast1,asia-southeast1-b,1.56,0.78
 ,,,tpu-v5litepod-1,1,tpu-v5litepod-1,europe-west1,europe-west1-b,1.32132,0.66066
 ,,,tpu-v5litepod-1,1,tpu-v5litepod-1,europe-west1,europe-west1-c,1.32132,0.66066
@@ -18088,6 +18089,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v5litepod-1,1,tpu-v5litepod-1,us-west1,us-west1-c,1.2,0.408
 ,,,tpu-v5litepod-1,1,tpu-v5litepod-1,us-west4,us-west4-a,1.2,0.48
 ,,,tpu-v5litepod-1,1,tpu-v5litepod-1,us-west4,us-west4-b,1.2,0.48
+,,,tpu-v5litepod-4,1,tpu-v5litepod-4,asia-east1,asia-east1-a,5.55792,2.77896
 ,,,tpu-v5litepod-4,1,tpu-v5litepod-4,asia-southeast1,asia-southeast1-b,6.24,3.12
 ,,,tpu-v5litepod-4,1,tpu-v5litepod-4,europe-west1,europe-west1-b,5.28528,2.64264
 ,,,tpu-v5litepod-4,1,tpu-v5litepod-4,europe-west1,europe-west1-c,5.28528,2.64264
@@ -18102,6 +18104,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v5litepod-4,1,tpu-v5litepod-4,us-west1,us-west1-c,4.8,1.632
 ,,,tpu-v5litepod-4,1,tpu-v5litepod-4,us-west4,us-west4-a,4.8,1.92
 ,,,tpu-v5litepod-4,1,tpu-v5litepod-4,us-west4,us-west4-b,4.8,1.92
+,,,tpu-v5litepod-8,1,tpu-v5litepod-8,asia-east1,asia-east1-a,11.11584,5.55792
 ,,,tpu-v5litepod-8,1,tpu-v5litepod-8,asia-southeast1,asia-southeast1-b,12.48,6.24
 ,,,tpu-v5litepod-8,1,tpu-v5litepod-8,europe-west1,europe-west1-b,10.57056,5.28528
 ,,,tpu-v5litepod-8,1,tpu-v5litepod-8,europe-west1,europe-west1-c,10.57056,5.28528
@@ -18116,6 +18119,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v5litepod-8,1,tpu-v5litepod-8,us-west1,us-west1-c,9.6,3.264
 ,,,tpu-v5litepod-8,1,tpu-v5litepod-8,us-west4,us-west4-a,9.6,3.84
 ,,,tpu-v5litepod-8,1,tpu-v5litepod-8,us-west4,us-west4-b,9.6,3.84
+,,,tpu-v5litepod-16,1,tpu-v5litepod-16,asia-east1,asia-east1-a,22.23168,11.11584
 ,,,tpu-v5litepod-16,1,tpu-v5litepod-16,asia-southeast1,asia-southeast1-b,24.96,12.48
 ,,,tpu-v5litepod-16,1,tpu-v5litepod-16,europe-west1,europe-west1-b,21.14112,10.57056
 ,,,tpu-v5litepod-16,1,tpu-v5litepod-16,europe-west1,europe-west1-c,21.14112,10.57056
@@ -18130,6 +18134,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v5litepod-16,1,tpu-v5litepod-16,us-west1,us-west1-c,19.2,6.528
 ,,,tpu-v5litepod-16,1,tpu-v5litepod-16,us-west4,us-west4-a,19.2,7.68
 ,,,tpu-v5litepod-16,1,tpu-v5litepod-16,us-west4,us-west4-b,19.2,7.68
+,,,tpu-v5litepod-32,1,tpu-v5litepod-32,asia-east1,asia-east1-a,44.46336,22.23168
 ,,,tpu-v5litepod-32,1,tpu-v5litepod-32,asia-southeast1,asia-southeast1-b,49.92,24.96
 ,,,tpu-v5litepod-32,1,tpu-v5litepod-32,europe-west1,europe-west1-b,42.28224,21.14112
 ,,,tpu-v5litepod-32,1,tpu-v5litepod-32,europe-west1,europe-west1-c,42.28224,21.14112
@@ -18144,6 +18149,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v5litepod-32,1,tpu-v5litepod-32,us-west1,us-west1-c,38.4,13.056
 ,,,tpu-v5litepod-32,1,tpu-v5litepod-32,us-west4,us-west4-a,38.4,15.36
 ,,,tpu-v5litepod-32,1,tpu-v5litepod-32,us-west4,us-west4-b,38.4,15.36
+,,,tpu-v5litepod-64,1,tpu-v5litepod-64,asia-east1,asia-east1-a,88.92672,44.46336
 ,,,tpu-v5litepod-64,1,tpu-v5litepod-64,asia-southeast1,asia-southeast1-b,99.84,49.92
 ,,,tpu-v5litepod-64,1,tpu-v5litepod-64,europe-west1,europe-west1-b,84.56448,42.28224
 ,,,tpu-v5litepod-64,1,tpu-v5litepod-64,europe-west1,europe-west1-c,84.56448,42.28224
@@ -18158,6 +18164,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v5litepod-64,1,tpu-v5litepod-64,us-west1,us-west1-c,76.8,26.112
 ,,,tpu-v5litepod-64,1,tpu-v5litepod-64,us-west4,us-west4-a,76.8,30.72
 ,,,tpu-v5litepod-64,1,tpu-v5litepod-64,us-west4,us-west4-b,76.8,30.72
+,,,tpu-v5litepod-128,1,tpu-v5litepod-128,asia-east1,asia-east1-a,177.85344,88.92672
 ,,,tpu-v5litepod-128,1,tpu-v5litepod-128,asia-southeast1,asia-southeast1-b,199.68,99.84
 ,,,tpu-v5litepod-128,1,tpu-v5litepod-128,europe-west1,europe-west1-b,169.12896,84.56448
 ,,,tpu-v5litepod-128,1,tpu-v5litepod-128,europe-west1,europe-west1-c,169.12896,84.56448
@@ -18172,6 +18179,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.06971
 ,,,tpu-v5litepod-128,1,tpu-v5litepod-128,us-west1,us-west1-c,153.6,52.224
 ,,,tpu-v5litepod-128,1,tpu-v5litepod-128,us-west4,us-west4-a,153.6,61.44
 ,,,tpu-v5litepod-128,1,tpu-v5litepod-128,us-west4,us-west4-b,153.6,61.44
+,,,tpu-v5litepod-256,1,tpu-v5litepod-256,asia-east1,asia-east1-a,355.70688,177.85344
 ,,,tpu-v5litepod-256,1,tpu-v5litepod-256,asia-southeast1,asia-southeast1-b,399.36,199.68
 ,,,tpu-v5litepod-256,1,tpu-v5litepod-256,europe-west1,europe-west1-b,338.25792,169.12896
 ,,,tpu-v5litepod-256,1,tpu-v5litepod-256,europe-west1,europe-west1-c,338.25792,169.12896
