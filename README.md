@@ -1,10 +1,10 @@
 # SkyPilot Catalogs
 
-**Latest catalog schema version**: v6
+**Latest catalog schema version**: v7
 
-**Supported catalog schema versions**: v1, v2, v3, v4, v5, v6
+**Supported catalog schema versions**: v1, v2, v3, v4, v5, v6, v7
 
-**The versions that are still being updated periodically**: v5, v6
+**The versions that are still being updated periodically**: v5, v6, v7
 
 ## Automatic Catalog Fetching
 
