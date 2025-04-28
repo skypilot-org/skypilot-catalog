@@ -264,11 +264,13 @@ a3-ultragpu-8g,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g,224.0,2952.0,,,,us-central1,us-central1-b,12.266,2.82111
 a3-ultragpu-8g,224.0,2952.0,,,,us-east4,us-east4-b,12.266,2.20896
 a3-ultragpu-8g,224.0,2952.0,,,,us-east5,us-east5-a,13.81519,2.48648
+a3-ultragpu-8g,224.0,2952.0,,,,us-south1,us-south1-b,14.47387,10.20849
 a3-ultragpu-8g,224.0,2952.0,,,,us-west1,us-west1-c,12.266,2.82111
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-central1,us-central1-b,12.266,2.82111
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-east4,us-east4-b,12.266,2.20896
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-east5,us-east5-a,13.81519,2.48648
+a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-south1,us-south1-b,14.47387,10.20849
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-west1,us-west1-c,12.266,2.82111
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-a,0.96709,0.24995
 c2-standard-16,16.0,64.0,,,,asia-east1,asia-east1-b,0.96709,0.24995
