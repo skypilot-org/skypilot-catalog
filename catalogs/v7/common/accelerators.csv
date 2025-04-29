@@ -1,6 +1,6 @@
 AcceleratorName,Clouds
 A10,"['Azure', 'Lambda', 'OCI']"
-A100,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI']"
+A100,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Vast']"
 A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'scp']"
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
@@ -26,7 +26,6 @@ MI300X,['RunPod']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
-RTX2080,['Vast']
 RTX3060,['Vast']
 RTX3080,['Cudo']
 RTX3090,"['RunPod', 'Vast']"
@@ -35,6 +34,7 @@ RTX4090,"['RunPod', 'Vast']"
 RTX5090,['Vast']
 RTX6000,['Lambda']
 RTX6000-Ada,['RunPod']
+RTXA2000,['Vast']
 RTXA4000,"['Cudo', 'RunPod']"
 RTXA4500,"['Cudo', 'RunPod']"
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
