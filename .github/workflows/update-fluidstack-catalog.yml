@@ -60,7 +60,7 @@ jobs:
           FLUIDSTACK_API_KEY: ${{ secrets.FLUIDSTACK_API_KEY }}
       - name: Commit catalog
         run: |
-          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]' | tr '\n' ', ')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
