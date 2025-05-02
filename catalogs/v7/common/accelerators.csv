@@ -15,7 +15,7 @@ H100-MEGA,['GCP']
 H100-NVL,['RunPod']
 H100-NVLINK,['Fluidstack']
 H100-SXM,['RunPod']
-H200,"['AWS', 'OCI', 'Vast', 'nebius']"
+H200,"['AWS', 'OCI', 'nebius']"
 K80,['Azure']
 L4,"['AWS', 'GCP', 'RunPod']"
 L40,['RunPod']
@@ -31,14 +31,14 @@ RTX3060,['Vast']
 RTX3080,"['Cudo', 'Vast']"
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
+RTX4060,['Vast']
 RTX4090,"['RunPod', 'Vast']"
 RTX5090,['Vast']
 RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
-RTXA2000,['Vast']
-RTXA4000,"['Cudo', 'RunPod']"
+RTXA4000,"['Cudo', 'RunPod', 'Vast']"
 RTXA4500,"['Cudo', 'RunPod']"
-RTXA5000,"['Cudo', 'RunPod', 'Vast']"
+RTXA5000,"['Cudo', 'RunPod']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
