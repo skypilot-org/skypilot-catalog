@@ -8,6 +8,7 @@ A40,"['Cudo', 'RunPod', 'Vast']"
 A4000,['Paperspace']
 A6000,['Lambda']
 B200,['RunPod']
+GH200,['Lambda']
 GTX1660S,['Vast']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'Vast', 'nebius']"
@@ -28,13 +29,14 @@ P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
 RTX3070,['Vast']
-RTX3080,['Cudo']
+RTX3080,"['Cudo', 'Vast']"
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4090,"['RunPod', 'Vast']"
+RTX5070,['Vast']
 RTX5090,['Vast']
 RTX6000,['Lambda']
-RTX6000-Ada,['RunPod']
+RTX6000-Ada,"['RunPod', 'Vast']"
 RTXA2000,['Vast']
 RTXA4000,"['Cudo', 'RunPod']"
 RTXA4500,"['Cudo', 'RunPod']"
