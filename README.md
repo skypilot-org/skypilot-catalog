@@ -14,9 +14,9 @@ Catalogs are updated **every 7 hours**.
 
 
 
-## Schema V6
+## Schema V7
 
-The catalogs for each cloud in [v6](v6) include the following files:
+The catalogs for each cloud in [v7](./catalogs/v7) include the following files:
 1. `vms.csv`: the catalog for the VMs, including the instance and the accelerators.
 2. `images.csv`: the catalog for the images, which contains the mapping from the SkyPilot image tag to the image ID that can be used to find the image in the clouds. 
 
