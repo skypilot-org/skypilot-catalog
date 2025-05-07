@@ -2089,6 +2089,7 @@ c3-highmem-176,176.0,1408.0,,,,us-east5,us-east5-b,11.6431,2.84733
 c3-highmem-176,176.0,1408.0,,,,us-east5,us-east5-c,11.6431,2.84733
 c3-highmem-176,176.0,1408.0,,,,us-south1,us-south1-b,13.73886,1.34182
 c3-highmem-176,176.0,1408.0,,,,us-west1,us-west1-a,11.6431,1.87018
+c3-highmem-176,176.0,1408.0,,,,us-west1,us-west1-b,11.6431,1.87018
 c3-highmem-176,176.0,1408.0,,,,us-west2,us-west2-b,13.99618,1.8385
 c3-highmem-176,176.0,1408.0,,,,us-west2,us-west2-c,13.99618,1.8385
 c3-highmem-176,176.0,1408.0,,,,us-west4,us-west4-a,13.11363,1.97155
@@ -2142,6 +2143,7 @@ c3-highmem-22,22.0,176.0,,,,us-east5,us-east5-b,1.45539,0.35592
 c3-highmem-22,22.0,176.0,,,,us-east5,us-east5-c,1.45539,0.35592
 c3-highmem-22,22.0,176.0,,,,us-south1,us-south1-b,1.71736,0.16773
 c3-highmem-22,22.0,176.0,,,,us-west1,us-west1-a,1.45539,0.23377
+c3-highmem-22,22.0,176.0,,,,us-west1,us-west1-b,1.45539,0.23377
 c3-highmem-22,22.0,176.0,,,,us-west2,us-west2-b,1.74952,0.22981
 c3-highmem-22,22.0,176.0,,,,us-west2,us-west2-c,1.74952,0.22981
 c3-highmem-22,22.0,176.0,,,,us-west4,us-west4-a,1.6392,0.24644
@@ -2177,6 +2179,7 @@ c3-highmem-4,4.0,32.0,,,,us-east5,us-east5-b,0.26462,0.06471
 c3-highmem-4,4.0,32.0,,,,us-east5,us-east5-c,0.26462,0.06471
 c3-highmem-4,4.0,32.0,,,,us-south1,us-south1-b,0.31225,0.0305
 c3-highmem-4,4.0,32.0,,,,us-west1,us-west1-a,0.26462,0.0425
+c3-highmem-4,4.0,32.0,,,,us-west1,us-west1-b,0.26462,0.0425
 c3-highmem-4,4.0,32.0,,,,us-west2,us-west2-b,0.31809,0.04178
 c3-highmem-4,4.0,32.0,,,,us-west2,us-west2-c,0.31809,0.04178
 c3-highmem-4,4.0,32.0,,,,us-west4,us-west4-a,0.29804,0.04481
@@ -2212,6 +2215,7 @@ c3-highmem-44,44.0,352.0,,,,us-east5,us-east5-b,2.91078,0.71183
 c3-highmem-44,44.0,352.0,,,,us-east5,us-east5-c,2.91078,0.71183
 c3-highmem-44,44.0,352.0,,,,us-south1,us-south1-b,3.43472,0.33546
 c3-highmem-44,44.0,352.0,,,,us-west1,us-west1-a,2.91078,0.46754
+c3-highmem-44,44.0,352.0,,,,us-west1,us-west1-b,2.91078,0.46754
 c3-highmem-44,44.0,352.0,,,,us-west2,us-west2-b,3.49904,0.45962
 c3-highmem-44,44.0,352.0,,,,us-west2,us-west2-c,3.49904,0.45962
 c3-highmem-44,44.0,352.0,,,,us-west4,us-west4-a,3.27841,0.49289
@@ -2247,6 +2251,7 @@ c3-highmem-8,8.0,64.0,,,,us-east5,us-east5-b,0.52923,0.12942
 c3-highmem-8,8.0,64.0,,,,us-east5,us-east5-c,0.52923,0.12942
 c3-highmem-8,8.0,64.0,,,,us-south1,us-south1-b,0.62449,0.06099
 c3-highmem-8,8.0,64.0,,,,us-west1,us-west1-a,0.52923,0.08501
+c3-highmem-8,8.0,64.0,,,,us-west1,us-west1-b,0.52923,0.08501
 c3-highmem-8,8.0,64.0,,,,us-west2,us-west2-b,0.63619,0.08357
 c3-highmem-8,8.0,64.0,,,,us-west2,us-west2-c,0.63619,0.08357
 c3-highmem-8,8.0,64.0,,,,us-west4,us-west4-a,0.59607,0.08962
@@ -2282,6 +2287,7 @@ c3-highmem-88,88.0,704.0,,,,us-east5,us-east5-b,5.82155,1.42366
 c3-highmem-88,88.0,704.0,,,,us-east5,us-east5-c,5.82155,1.42366
 c3-highmem-88,88.0,704.0,,,,us-south1,us-south1-b,6.86943,0.67091
 c3-highmem-88,88.0,704.0,,,,us-west1,us-west1-a,5.82155,0.93509
+c3-highmem-88,88.0,704.0,,,,us-west1,us-west1-b,5.82155,0.93509
 c3-highmem-88,88.0,704.0,,,,us-west2,us-west2-b,6.99809,0.91925
 c3-highmem-88,88.0,704.0,,,,us-west2,us-west2-c,6.99809,0.91925
 c3-highmem-88,88.0,704.0,,,,us-west4,us-west4-a,6.55681,0.98578
