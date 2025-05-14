@@ -260,6 +260,7 @@ a3-megagpu-8g,208.0,1872.0,,,,us-east5,us-east5-a,10.65487,1.91776
 a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-a,9.46006,2.17547
 a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-b,9.46006,2.17547
 a3-megagpu-8g,208.0,1872.0,,,,us-west4,us-west4-a,10.65487,1.91776
+a3-ultragpu-8g,224.0,2952.0,,,,asia-south1,asia-south1-b,12.75664,8.99732
 a3-ultragpu-8g,224.0,2952.0,,,,asia-south2,asia-south2-c,14.73269,10.39103
 a3-ultragpu-8g,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g,224.0,2952.0,,,,us-central1,us-central1-b,12.266,2.82111
@@ -267,6 +268,7 @@ a3-ultragpu-8g,224.0,2952.0,,,,us-east4,us-east4-b,12.266,2.20896
 a3-ultragpu-8g,224.0,2952.0,,,,us-east5,us-east5-a,13.81519,2.48648
 a3-ultragpu-8g,224.0,2952.0,,,,us-south1,us-south1-b,14.47387,10.20849
 a3-ultragpu-8g,224.0,2952.0,,,,us-west1,us-west1-c,12.266,2.82111
+a3-ultragpu-8g-nolssd,224.0,2952.0,,,,asia-south1,asia-south1-b,12.75664,8.99732
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,asia-south2,asia-south2-c,14.73269,10.39103
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-central1,us-central1-b,12.266,2.82111
@@ -2121,6 +2123,7 @@ c3-highmem-192-metal,192.0,1536.0,,,,asia-southeast1,asia-southeast1-a,15.66992,
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west1,europe-west1-b,13.98569,5.39366
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west1,europe-west1-c,13.98569,5.39366
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west3,europe-west3-a,14.98785,4.38029
+c3-highmem-192-metal,192.0,1536.0,,,,europe-west3,europe-west3-b,14.98785,4.38029
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west4,europe-west4-b,13.33665,5.33414
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west4,europe-west4-c,13.33665,5.33414
 c3-highmem-192-metal,192.0,1536.0,,,,me-central1,me-central1-a,15.43241,1.49066

@@ -260,6 +260,7 @@ a3-megagpu-8g,208.0,1872.0,,,,us-east5,us-east5-a,10.65487,1.91776
 a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-a,9.46006,2.17547
 a3-megagpu-8g,208.0,1872.0,,,,us-west1,us-west1-b,9.46006,2.17547
 a3-megagpu-8g,208.0,1872.0,,,,us-west4,us-west4-a,10.65487,1.91776
+a3-ultragpu-8g,224.0,2952.0,,,,asia-south1,asia-south1-b,12.75664,8.99732
 a3-ultragpu-8g,224.0,2952.0,,,,asia-south2,asia-south2-c,14.73269,10.39103
 a3-ultragpu-8g,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g,224.0,2952.0,,,,us-central1,us-central1-b,12.266,2.82111
@@ -267,6 +268,7 @@ a3-ultragpu-8g,224.0,2952.0,,,,us-east4,us-east4-b,12.266,2.20896
 a3-ultragpu-8g,224.0,2952.0,,,,us-east5,us-east5-a,13.81519,2.48648
 a3-ultragpu-8g,224.0,2952.0,,,,us-south1,us-south1-b,14.47387,10.20849
 a3-ultragpu-8g,224.0,2952.0,,,,us-west1,us-west1-c,12.266,2.82111
+a3-ultragpu-8g-nolssd,224.0,2952.0,,,,asia-south1,asia-south1-b,12.75664,8.99732
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,asia-south2,asia-south2-c,14.73269,10.39103
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,europe-west1,europe-west1-b,13.50609,5.40258
 a3-ultragpu-8g-nolssd,224.0,2952.0,,,,us-central1,us-central1-b,12.266,2.82111
@@ -2121,6 +2123,7 @@ c3-highmem-192-metal,192.0,1536.0,,,,asia-southeast1,asia-southeast1-a,15.66992,
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west1,europe-west1-b,13.98569,5.39366
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west1,europe-west1-c,13.98569,5.39366
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west3,europe-west3-a,14.98785,4.38029
+c3-highmem-192-metal,192.0,1536.0,,,,europe-west3,europe-west3-b,14.98785,4.38029
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west4,europe-west4-b,13.33665,5.33414
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west4,europe-west4-c,13.33665,5.33414
 c3-highmem-192-metal,192.0,1536.0,,,,me-central1,me-central1-a,15.43241,1.49066
@@ -17518,6 +17521,9 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.05926
 ,,,A100-80GB,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-central1,us-central1-c,14.76958,12.5696
 ,,,A100-80GB,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east4,us-east4-c,16.63498,14.1576
 ,,,A100-80GB,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east5,us-east5-b,35.39358,11.832
+,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-central1,us-central1-b,90.216,
+,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-east4,us-east4-b,90.216,
+,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-west3,us-west3-b,90.216,
 ,,,H100,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-east1,asia-east1-c,11.34343,8.0005
 ,,,H100,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast1,asia-northeast1-b,6.67635,10.01876
 ,,,H100,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast3,asia-northeast3-a,12.58073,2.2645
@@ -17626,26 +17632,38 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.05926
 ,,,H100,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west1,us-west1-a,36.56073,18.024
 ,,,H100,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west1,us-west1-b,36.56073,18.024
 ,,,H100,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west4,us-west4-a,41.48727,15.8848
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast1,asia-northeast1-b,106.27296,19.1312
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-southeast1,asia-southeast1-b,107.58048,19.3648
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-southeast1,asia-southeast1-c,107.58048,19.3648
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast1,asia-northeast1-b,49.94829,19.1312
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast3,asia-northeast3-a,49.94829,
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast3,asia-northeast3-c,49.94829,
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-south1,asia-south1-c,40.45027,
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-southeast1,asia-southeast1-b,50.56282,19.3648
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-southeast1,asia-southeast1-c,50.56282,19.3648
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},australia-southeast1,australia-southeast1-c,103.44272,18.6264
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west1,europe-west1-b,91.12064,16.3992
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west1,europe-west1-c,91.12064,16.3992
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west3,europe-west3-a,97.65,17.5744
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west3,europe-west3-c,97.65,17.5744
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west1,europe-west1-b,42.8267,16.3992
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west1,europe-west1-c,42.8267,16.3992
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west3,europe-west3-a,45.8955,17.5744
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west3,europe-west3-c,45.8955,17.5744
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west4,europe-west4-b,107.58048,19.3648
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},europe-west4,europe-west4-c,107.58048,19.3648
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},northamerica-northeast2,northamerica-northeast2-c,42.8267,
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-central1,us-central1-a,82.75421,19.0328
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-central1,us-central1-b,82.75421,19.0328
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-central1,us-central1-c,82.75421,19.0328
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east4,us-east4-a,82.75424,14.8952
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east4,us-east4-b,82.75424,14.8952
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east4,us-east4-c,82.75424,14.8952
-,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east5,us-east5-a,82.75424,14.8952
+,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east5,us-east5-a,38.8945,14.8952
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west1,us-west1-a,82.75421,19.0328
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west1,us-west1-b,82.75421,19.0328
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west4,us-west4-a,93.20608,16.7768
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},asia-south1,asia-south1-b,36.41263,
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},asia-south2,asia-south2-c,36.60258,
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},europe-west1,europe-west1-b,36.60258,32.81016
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-central1,us-central1-b,74.49392,29.7976
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-east4,us-east4-b,74.49392,29.7976
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-east5,us-east5-a,36.60258,
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-south1,us-south1-b,36.60258,35.1612
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-west1,us-west1-c,74.49392,29.7976
 ,,,L4,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},asia-east1,asia-east1-a,0.64847,0.2118
 ,,,L4,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},asia-east1,asia-east1-b,0.64847,0.2118
 ,,,L4,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 24576}}]},asia-east1,asia-east1-c,0.64847,0.2118
