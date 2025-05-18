@@ -52,7 +52,7 @@ jobs:
             # supported.
             # Skip v6 as well, since we need some additional handling for request timeout
             # during catalog fetching, which is not supported in v6.
-            if [ "$version" == "v5" or "$version" == "v6" ]; then
+            if [[ "$version" == "v5" || "$version" == "v6" ]]; then
               continue
             fi
             commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
