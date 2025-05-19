@@ -30,7 +30,7 @@ jobs:
       - name: Upload catalog to S3
         run: |
           # Upload to temporary path
-          aws s3 sync catalogs/ s3://${{ secrets.S3_BUCKET_NAME }}/catalogs-new/ --delete --force
+          aws s3 sync catalogs/ s3://skypilot-catalog/catalogs-new/ --delete --force
           
           # Atomically move from temp to final path
-          aws s3 mv s3://${{ secrets.S3_BUCKET_NAME }}/catalogs-new/ s3://${{ secrets.S3_BUCKET_NAME }}/catalogs/ --recursive --force
+          aws s3 mv s3://skypilot-catalog/catalogs-new/ s3://skypilot-catalog/catalogs/ --recursive --force
