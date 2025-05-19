@@ -27,6 +27,10 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
 
+      - name: Create S3 bucket if not exists
+        run: |
+          aws s3api head-bucket --bucket skypilot-catalog 2>/dev/null || aws s3api create-bucket --bucket skypilot-catalog --region ${{ secrets.AWS_REGION }}
+
       - name: Upload catalog to S3
         run: |
           # Upload to temporary path
