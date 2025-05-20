@@ -1,7 +1,7 @@
 name: "upload-catalog-to-s3"
 on:
   schedule:
-    - cron: '30 */7 * * *'    # Every 7 hours at minute 30
+    - cron: '50 */7 * * *'    # Every 7 hours at minute 50
   workflow_dispatch:
 
 jobs:
@@ -27,41 +27,6 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
 
-      - name: Create and configure public S3 bucket
-        run: |
-          # Try to create bucket and capture if it was created
-          if ! aws s3api head-bucket --bucket skypilot-catalog 2>/dev/null; then
-            echo "Bucket does not exist, creating it..."
-            aws s3api create-bucket --bucket skypilot-catalog --region ${{ secrets.AWS_REGION }}
-            
-            # Only set public access if bucket was just created
-            echo "Configuring public access for new bucket..."
-            aws s3api put-public-access-block \
-              --bucket skypilot-catalog \
-              --public-access-block-configuration "BlockPublicAcls=false,IgnorePublicAcls=false,BlockPublicPolicy=false,RestrictPublicBuckets=false"
-            
-            aws s3api put-bucket-policy \
-              --bucket skypilot-catalog \
-              --policy '{
-                "Version": "2012-10-17",
-                "Statement": [
-                  {
-                    "Sid": "PublicReadGetObject",
-                    "Effect": "Allow",
-                    "Principal": "*",
-                    "Action": "s3:GetObject",
-                    "Resource": "arn:aws:s3:::skypilot-catalog/*"
-                  }
-                ]
-              }'
-          else
-            echo "Bucket already exists, skipping public access configuration"
-          fi
-
       - name: Upload catalog to S3
         run: |
-          # Upload to temporary path
-          aws s3 sync catalogs/ s3://skypilot-catalog/catalogs-new/ --delete --force
-          
-          # Atomically move from temp to final path
-          aws s3 mv s3://skypilot-catalog/catalogs-new/ s3://skypilot-catalog/catalogs/ --recursive --force
+          aws s3 sync catalogs/ s3://skypilot-catalog/catalogs/ --delete --force
