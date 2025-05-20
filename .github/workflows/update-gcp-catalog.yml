@@ -50,7 +50,9 @@ jobs:
             # Skip v5 fetching for GCP as GCP has updated the API for TPUv6
             # catalog fetching and in our v5 catalog fetching code, it is not
             # supported.
-            if [ "$version" == "v5" ]; then
+            # Skip v6 as well, since we need some additional handling for request timeout
+            # during catalog fetching, which is not supported in v6.
+            if [[ "$version" == "v5" || "$version" == "v6" ]]; then
               continue
             fi
             commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
