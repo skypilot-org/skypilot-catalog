@@ -1,0 +1,32 @@
+name: "upload-catalog-to-s3"
+on:
+  schedule:
+    - cron: '50 */7 * * *'    # Every 7 hours at minute 50
+  workflow_dispatch:
+
+jobs:
+  upload_to_s3:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install AWS CLI
+        run: |
+          curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+          unzip awscliv2.zip
+          sudo ./aws/install --update
+          aws --version
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID_FOR_HOSTED_CATALOG_MIRROR }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY_FOR_HOSTED_CATALOG_MIRROR }}
+          aws-region: ${{ secrets.AWS_REGION_FOR_HOSTED_CATALOG_MIRROR }}
+
+      - name: Upload catalog to S3
+        run: |
+          aws s3 sync catalogs/ s3://skypilot-catalog/catalogs/ --delete --force
