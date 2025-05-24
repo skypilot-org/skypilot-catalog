@@ -31,6 +31,7 @@ RTX3060,['Vast']
 RTX3080,"['Cudo', 'Vast']"
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
+RTX4070,['Vast']
 RTX4090,"['RunPod', 'Vast']"
 RTX5070,['Vast']
 RTX5080,['Vast']
@@ -39,7 +40,7 @@ RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTX8000,['Vast']
 RTXA2000,['Vast']
-RTXA4000,"['Cudo', 'RunPod', 'Vast']"
+RTXA4000,"['Cudo', 'RunPod']"
 RTXA4500,"['Cudo', 'RunPod']"
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
