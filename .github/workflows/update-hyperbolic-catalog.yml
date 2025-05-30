@@ -70,8 +70,8 @@ jobs:
             cd -
             
             # Create version directory if it doesn't exist
-            mkdir -p catalogs/$version/hyperbolic
-            cd catalogs/$version/hyperbolic
+            mkdir -p catalogs/catalogs/$version/hyperbolic
+            cd catalogs/catalogs/$version/hyperbolic
             
             # Run the fetcher
             echo "Running fetch_hyperbolic for version $version"
