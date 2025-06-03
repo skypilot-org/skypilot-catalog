@@ -40,16 +40,16 @@ jobs:
       - name: Run fetch_vast
         run: |
           source ~/catalogs-venv/bin/activate
-          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          version=$(python -c 'import sky; print(sky.catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
-          python -m sky.clouds.service_catalog.data_fetchers.fetch_vast
+          python -m sky.catalog.data_fetchers.fetch_vast
           cd -
 
       - name: Commit catalog
         run: |
           source ~/catalogs-venv/bin/activate
-          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          version=$(python -c 'import sky; print(sky.catalog.constants.CATALOG_SCHEMA_VERSION)')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'

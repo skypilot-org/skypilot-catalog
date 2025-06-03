@@ -67,7 +67,7 @@ jobs:
             mkdir -p catalogs/catalogs/$version
             cd catalogs/catalogs/$version
             echo "> Fetching GCP catalog ..."
-            python -u -m sky.clouds.service_catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
+            python -u -m sky.catalog.data_fetchers.fetch_gcp --all-regions --single-threaded
             cd -
           done
         env:
