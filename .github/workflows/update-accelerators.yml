@@ -39,7 +39,7 @@ jobs:
       - name: Run accelerators aggregations
         run: |
           source ~/test-env/bin/activate
-          version=$(python -c 'import sky; print(sky.catalog.constants.CATALOG_SCHEMA_VERSION)')
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
           mkdir -p common
@@ -61,7 +61,7 @@ jobs:
       - name: Commit catalog
         run: |
           source ~/test-env/bin/activate
-          version=$(python -c 'import sky; print(sky.catalog.constants.CATALOG_SCHEMA_VERSION)')
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
