@@ -1,10 +1,7 @@
 # Mapping between version and SkyPilot commit. The CI will update the catalogs
 # for all versions listed here. We keep older versions for backward
 # compatibility.
-# TODO(zhwu): Remove v5 support after 0.10.0 release.
 version_commit:
   # This commit should be fixed, as any newer commit will be fetching v6
   # catalogs
-  v5: 1ed40e3174646ba835423b9308d8d6489f83b6bc
-  v6: 2ddce828680edc02254b1ed76c756913aab3979a
   v7: latest

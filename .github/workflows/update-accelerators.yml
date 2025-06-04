@@ -39,17 +39,17 @@ jobs:
       - name: Run accelerators aggregations
         run: |
           source ~/test-env/bin/activate
-          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          version=$(python -c 'import sky; print(sky.catalog.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
           mkdir -p common
           python -u -c "
-          from sky.clouds import service_catalog
+          from sky import catalog
           import pandas as pd
 
           acc_cloud = list(zip(*[
               [k, sorted(list(set(info.cloud for info in infos)))]
-              for k, infos in service_catalog.list_accelerators().items()
+              for k, infos in catalog.list_accelerators().items()
           ]))
 
           pd.DataFrame({
@@ -61,7 +61,7 @@ jobs:
       - name: Commit catalog
         run: |
           source ~/test-env/bin/activate
-          version=$(python -c 'import sky; print(sky.clouds.service_catalog.constants.CATALOG_SCHEMA_VERSION)')
+          version=$(python -c 'import sky; print(sky.catalog.constants.CATALOG_SCHEMA_VERSION)')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'

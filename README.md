@@ -4,11 +4,11 @@
 
 **Supported catalog schema versions**: v1, v2, v3, v4, v5, v6, v7
 
-**The versions that are still being updated periodically**: v5, v6, v7
+**The versions that are still being updated periodically**: v7
 
 ## Automatic Catalog Fetching
 
-Catalogs for AWS, GCP, and Lambda are automatically fetched & refreshed from the cloud provider, implemented as GitHub Actions. Other clouds can implement [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/clouds/service_catalog/data_fetchers) and a corresponding [Action](./.github/workflows/) to add auto-refresh.
+Catalogs for AWS, GCP, and Lambda are automatically fetched & refreshed from the cloud provider, implemented as GitHub Actions. Other clouds can implement [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/catalog/data_fetchers) and a corresponding [Action](./.github/workflows/) to add auto-refresh.
 
 Catalogs are updated **every 7 hours**.
 
@@ -50,7 +50,7 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 
 #### Update Images
 
-For AWS, the images are automatically updated by the catalog fetcher. To update those images, please update the [fetch_aws.py](https://github.com/skypilot-org/skypilot/blob/master/sky/clouds/service_catalog/data_fetchers/fetch_aws.py) in SkyPilot repository.
+For AWS, the images are automatically updated by the catalog fetcher. To update those images, please update the [fetch_aws.py](https://github.com/skypilot-org/skypilot/blob/master/sky/catalog/data_fetchers/fetch_aws.py) in SkyPilot repository.
 
 For GCP, the images are updated manually. To check the latest images, please run the following command:
 ```bash
