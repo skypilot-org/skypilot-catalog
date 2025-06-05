@@ -17664,6 +17664,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.0504
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-east1,us-east1-b,90.216,
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-east4,us-east4-b,90.216,
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-west3,us-west3-b,90.216,
+,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-west3,us-west3-c,90.216,
 ,,,H100,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-east1,asia-east1-c,11.34343,2.0418
 ,,,H100,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast1,asia-northeast1-b,4.20076,10.01876
 ,,,H100,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},asia-northeast3,asia-northeast3-a,12.58073,2.2645
