@@ -1,4 +1,4 @@
-InstanceType,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GPUInfo,Region,AvailabilityZone,Price,SpotPrice
+InstanceType,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,AvailabilityZone,Price,SpotPrice
 runpod__A100_80GB,8.0,117.0,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",,,1.6567999999999998,
 runpod__A100_80GB,16.0,125.0,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",,,1.9067999999999998,
 runpod__A100_80GB,12.0,125.0,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",,,1.2067999999999999,
