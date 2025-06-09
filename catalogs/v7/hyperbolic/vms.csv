@@ -1,2 +1,10 @@
 InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,StorageGiB,Price,Region,GpuInfo,SpotPrice
-1x-T4-4-17,T4,1,4,17,20,0.12,default,"{'Gpus': [{'Name': 'Tesla-T4', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 15360}}], 'TotalGpuMemoryInMiB': 15360}",
+8x-A100-80GB-SXM-192-2164,A100-80GB-SXM,8,192,2164,240,1,default,"{'Gpus': [{'Name': 'NVIDIA-A100-SXM4-80GB', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",
+8x-H100-SXM-224-2165,H100-SXM,8,224,2165,2400,0.99,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 652472}",
+6x-H100-SXM-224-2165,H100-SXM,6,224,2165,2400,1.5,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 6, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 489354}",
+1x-RTX3070-32-1070,RTX3070,1,32,1070,80,0.16,default,"{'Gpus': [{'Name': 'NVIDIA-GeForce-RTX-3070', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 8192}}], 'TotalGpuMemoryInMiB': 8192}",
+8x-RTX4090-64-271,RTX4090,8,64,271,1600,0.28,default,"{'Gpus': [{'Name': 'NVIDIA-GeForce-RTX-4090', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 196512}",
+1x-RTX3080-32-676,RTX3080,1,32,676,80,0.2,default,"{'Gpus': [{'Name': 'NVIDIA-GeForce-RTX-3080', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 10240}}], 'TotalGpuMemoryInMiB': 10240}",
+1x-T4-4-17,T4,1,4,17,80,0.4,default,"{'Gpus': [{'Name': 'Tesla-T4', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 15360}}], 'TotalGpuMemoryInMiB': 15360}",
+8x-H100-SXM-224-1623,H100-SXM,8,224,1623,6300,0.99,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 652472}",
+8x-RTX4090-128-271,RTX4090,8,128,271,1600,0.3,default,"{'Gpus': [{'Name': 'NVIDIA-GeForce-RTX-4090', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 24564}}], 'TotalGpuMemoryInMiB': 196512}",
