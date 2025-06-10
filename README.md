@@ -1,10 +1,10 @@
 # SkyPilot Catalogs
 
-**Latest catalog schema version**: v7
+**Latest catalog schema version**: v8
 
-**Supported catalog schema versions**: v1, v2, v3, v4, v5, v6, v7
+**Supported catalog schema versions**: v1, v2, v3, v4, v5, v6, v7, v8
 
-**The versions that are still being updated periodically**: v7
+**The versions that are still being updated periodically**: v8
 
 ## Automatic Catalog Fetching
 
@@ -21,6 +21,8 @@ The catalogs for each cloud in [v7](./catalogs/v7) include the following files:
 2. `images.csv`: the catalog for the images, which contains the mapping from the SkyPilot image tag to the image ID that can be used to find the image in the clouds. 
 
 To supply your own custom pricing or custom regions/zones, you can update vms.csv according to the schema below.
+
+Additionally, `common/accelerators.csv` contains GPU memory and manufactorer for each GPU as well as what clouds it is suppoerted on.
 
 ### vms.csv
 
@@ -47,6 +49,13 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `ImageId` | string | The ID of the image that is used to launch the instance in the cloud. |
 | `CreationDate` | string | The creation date of the image (mainly for tracking purpose). |
 
+### accelerators.csv
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+| `AcceleratorName` | string | The name of the accelerator (GPU/TPU). |
+| `Clouds` | string | A comma-separated list of clouds where this accelerator is available. |
+| `MemoryGB` | float | The amount of memory in GB for the accelerator (if applicable). |
+| `Manufacturer` | string | The manufacturer of the accelerator (e.g., nvidia, amd, intel, google). |
 
 #### Update Images
 
