@@ -30,7 +30,6 @@ P4,['GCP']
 P4000,['Paperspace']
 RTX2060,['Vast']
 RTX3060,['Vast']
-RTX3070,['Vast']
 RTX3080,['Cudo']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
