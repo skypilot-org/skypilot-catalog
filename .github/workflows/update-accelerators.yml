@@ -89,7 +89,11 @@ jobs:
               'T4': 16,
               'T4g': 16,
               'V100': 16,
-              'V100-32GB': 32
+              'V100-32GB': 32,
+              'Gaudi HL-205': 32,
+              'MI300X': 192,
+              'Radeon MI25': 16,
+              'Radeon Pro V520': 8
           }
 
           gpu_manufacturer = {
