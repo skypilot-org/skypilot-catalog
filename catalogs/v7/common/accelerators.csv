@@ -1,14 +1,16 @@
 AcceleratorName,Clouds
-A10,"['Azure', 'OCI']"
-A100,"['AWS', 'Azure', 'GCP', 'OCI', 'Vast']"
-A100-80GB,"['AWS', 'Azure', 'GCP', 'OCI', 'Paperspace', 'RunPod', 'scp']"
+A10,"['Azure', 'Lambda', 'OCI']"
+A100,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Vast']"
+A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'scp']"
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
 A40,"['Cudo', 'RunPod', 'Vast']"
 A4000,['Paperspace']
+A6000,['Lambda']
 B200,['RunPod']
+GH200,['Lambda']
 Gaudi HL-205,['AWS']
-H100,"['AWS', 'Azure', 'DO', 'GCP', 'OCI', 'Paperspace', 'RunPod', 'Vast', 'nebius']"
+H100,"['AWS', 'Azure', 'DO', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'Vast', 'nebius']"
 H100-MEGA,['GCP']
 H100-NVL,['RunPod']
 H100-NVLINK,['Fluidstack']
@@ -33,6 +35,7 @@ RTX4000-Ada,['RunPod']
 RTX4090,"['RunPod', 'Vast']"
 RTX5060,['Vast']
 RTX5090,['Vast']
+RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTX8000,['Vast']
 RTXA4000,"['Cudo', 'RunPod', 'Vast']"
@@ -43,7 +46,7 @@ Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
-V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'OCI', 'Paperspace', 'Vast']"
+V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'Vast']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'scp']"
 tpu-v2,['GCP']
 tpu-v3,['GCP']
