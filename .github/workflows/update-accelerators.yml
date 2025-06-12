@@ -47,124 +47,15 @@ jobs:
           from sky import catalog
           import pandas as pd
 
-          gpu_memory = {
-              'A10': 24,
-              'A100': 40,
-              'A100-80GB': 80,
-              'A100-80GB-SXM': 80,
-              'A10G': 24,
-              'A40': 48,
-              'A4000': 16,
-              'A6000': 48,
-              'B200': 80,
-              'GH200': 80,
-              'H100': 80,
-              'H100-MEGA': 80,
-              'H100-NVL': 80,
-              'H100-NVLINK': 80,
-              'H100-SXM': 80,
-              'H200': 80,
-              'H200-SXM': 80,
-              'K80': 12,
-              'L4': 24,
-              'L40': 48,
-              'L40S': 48,
-              'M4000': 8,
-              'M60': 8,
-              'P100': 16,
-              'P4': 8,
-              'P4000': 8,
-              'RTX3060': 12,
-              'RTX3080': 10,
-              'RTX3090': 24,
-              'RTX4000-Ada': 20,
-              'RTX4090': 24,
-              'RTX6000': 24,
-              'RTX6000-Ada': 48,
-              'RTX8000': 48,
-              'RTXA4000': 16,
-              'RTXA4500': 20,
-              'RTXA5000': 24,
-              'RTXA6000': 48,
-              'T4': 16,
-              'T4g': 16,
-              'V100': 16,
-              'V100-32GB': 32,
-              'Gaudi HL-205': 32,
-              'MI300X': 192,
-              'Radeon MI25': 16,
-              'Radeon Pro V520': 8
-          }
-
-          gpu_manufacturer = {
-              'A10': 'nvidia',
-              'A100': 'nvidia',
-              'A100-80GB': 'nvidia',
-              'A100-80GB-SXM': 'nvidia',
-              'A10G': 'nvidia',
-              'A40': 'nvidia',
-              'A4000': 'nvidia',
-              'A6000': 'nvidia',
-              'B200': 'nvidia',
-              'GH200': 'nvidia',
-              'H100': 'nvidia',
-              'H100-MEGA': 'nvidia',
-              'H100-NVL': 'nvidia',
-              'H100-NVLINK': 'nvidia',
-              'H100-SXM': 'nvidia',
-              'H200': 'nvidia',
-              'H200-SXM': 'nvidia',
-              'K80': 'nvidia',
-              'L4': 'nvidia',
-              'L40': 'nvidia',
-              'L40S': 'nvidia',
-              'M4000': 'nvidia',
-              'M60': 'nvidia',
-              'P100': 'nvidia',
-              'P4': 'nvidia',
-              'P4000': 'nvidia',
-              'RTX3060': 'nvidia',
-              'RTX3080': 'nvidia',
-              'RTX3090': 'nvidia',
-              'RTX4000-Ada': 'nvidia',
-              'RTX4090': 'nvidia',
-              'RTX6000': 'nvidia',
-              'RTX6000-Ada': 'nvidia',
-              'RTX8000': 'nvidia',
-              'RTXA4000': 'nvidia',
-              'RTXA4500': 'nvidia',
-              'RTXA5000': 'nvidia',
-              'RTXA6000': 'nvidia',
-              'T4': 'nvidia',
-              'T4g': 'nvidia',
-              'V100': 'nvidia',
-              'V100-32GB': 'nvidia',
-              'Gaudi HL-205': 'intel',
-              'MI300X': 'amd',
-              'Radeon MI25': 'amd',
-              'Radeon Pro V520': 'amd',
-              'tpu-v2': 'google',
-              'tpu-v3': 'google',
-              'tpu-v4': 'google',
-              'tpu-v5litepod': 'google',
-              'tpu-v5p': 'google',
-              'tpu-v6e': 'google'
-          }
-
           acc_cloud = list(zip(*[
               [k, sorted(list(set(info.cloud for info in infos)))]
               for k, infos in catalog.list_accelerators().items()
           ]))
 
-          df = pd.DataFrame({
+          pd.DataFrame({
               'AcceleratorName': acc_cloud[0],
               'Clouds': acc_cloud[1]
-          })
-          
-          df['MemoryGB'] = df['AcceleratorName'].map(gpu_memory)
-          df['Manufacturer'] = df['AcceleratorName'].map(gpu_manufacturer)
-          
-          df.sort_values(by='AcceleratorName').to_csv('common/accelerators.csv', index=False)
+          }).sort_values(by='AcceleratorName').to_csv('common/accelerators.csv', index=False)
           "
 
       - name: Commit catalog
