@@ -1,3 +1,4 @@
+GPU,MemoryGB,Manufacturer
 A10,24,nvidia
 A100,40,nvidia
 A100-80GB,80,nvidia
