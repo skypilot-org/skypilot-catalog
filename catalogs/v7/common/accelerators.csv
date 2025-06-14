@@ -33,7 +33,6 @@ RTX3070,"['Hyperbolic', 'Vast']"
 RTX3080,"['Cudo', 'Hyperbolic', 'Vast']"
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4080,['Vast']
 RTX4090,"['Hyperbolic', 'RunPod', 'Vast']"
 RTX5090,['Vast']
 RTX6000,['Lambda']
