@@ -1,0 +1,47 @@
+GPU,MemoryGB,Manufacturer
+A10,24,nvidia
+A100,40,nvidia
+A100-80GB,80,nvidia
+A100-80GB-SXM,80,nvidia
+A10G,24,nvidia
+A40,48,nvidia
+A4000,16,nvidia
+A6000,48,nvidia
+B200,80,nvidia
+GH200,80,nvidia
+H100,80,nvidia
+H100-MEGA,80,nvidia
+H100-NVL,80,nvidia
+H100-NVLINK,80,nvidia
+H100-SXM,80,nvidia
+H200,80,nvidia
+H200-SXM,80,nvidia
+K80,12,nvidia
+L4,24,nvidia
+L40,48,nvidia
+L40S,48,nvidia
+M4000,8,nvidia
+M60,8,nvidia
+P100,16,nvidia
+P4,8,nvidia
+P4000,8,nvidia
+RTX3060,12,nvidia
+RTX3080,10,nvidia
+RTX3090,24,nvidia
+RTX4000-Ada,20,nvidia
+RTX4090,24,nvidia
+RTX6000,24,nvidia
+RTX6000-Ada,48,nvidia
+RTX8000,48,nvidia
+RTXA4000,16,nvidia
+RTXA4500,20,nvidia
+RTXA5000,24,nvidia
+RTXA6000,48,nvidia
+T4,16,nvidia
+T4g,16,nvidia
+V100,16,nvidia
+V100-32GB,32,nvidia
+Gaudi HL-205,32,intel
+MI300X,192,amd
+Radeon MI25,16,amd
+Radeon Pro V520,8,amd
