@@ -29,7 +29,7 @@ P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
-RTX3070,['Hyperbolic']
+RTX3070,"['Hyperbolic', 'Vast']"
 RTX3080,"['Cudo', 'Hyperbolic', 'Vast']"
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
