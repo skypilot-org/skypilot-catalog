@@ -28,20 +28,18 @@ NVIDIA,['AWS']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
-RTX2060,['Vast']
 RTX3060,['Vast']
 RTX3070,['Vast']
 RTX3080,['Cudo']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4090,"['Hyperbolic', 'RunPod', 'Vast']"
-RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTXA4000,"['Cudo', 'RunPod', 'Vast']"
 RTXA4500,"['Cudo', 'RunPod']"
-RTXA5000,"['Cudo', 'RunPod', 'Vast']"
+RTXA5000,"['Cudo', 'RunPod']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
