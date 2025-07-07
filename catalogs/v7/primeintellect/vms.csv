@@ -1,390 +1,266 @@
-InstanceType,UpstreamCloudId,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,Price,SpotPrice
-runpod__1xA100_80GB__8__117,NVIDIA A100 80GB PCIe,8.0,117,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,1.6567999999999998,99999999
-runpod__1xA100_80GB__16__125,NVIDIA A100-SXM4-80GB,16.0,125,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,1.7568,99999999
-runpod__1xA100_80GB__8__117,NVIDIA A100 80GB PCIe,8.0,117,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,1.2067999999999999,99999999
-runpod__1xA100_80GB__16__125,NVIDIA A100-SXM4-80GB,16.0,125,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,1.4067999999999998,99999999
-runpod__2xA100_80GB__16__250,NVIDIA A100 80GB PCIe,16.0,250,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,3.2967999999999997,99999999
-runpod__2xA100_80GB__32__250,NVIDIA A100-SXM4-80GB,32.0,250,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,3.4968,99999999
-runpod__2xA100_80GB__16__250,NVIDIA A100 80GB PCIe,16.0,250,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,2.3968,99999999
-runpod__2xA100_80GB__32__250,NVIDIA A100-SXM4-80GB,32.0,250,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,2.7967999999999997,99999999
-runpod__3xA100_80GB__24__375,NVIDIA A100 80GB PCIe,24.0,375,A100,3.0,"{""Gpus"":[{""Name"":""A100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,4.9368,99999999
-runpod__3xA100_80GB__96__753,NVIDIA A100-SXM4-80GB,96.0,753,A100,3.0,"{""Gpus"":[{""Name"":""A100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,5.2368,99999999
-runpod__3xA100_80GB__24__375,NVIDIA A100 80GB PCIe,24.0,375,A100,3.0,"{""Gpus"":[{""Name"":""A100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,3.5867999999999998,99999999
-runpod__3xA100_80GB__96__375,NVIDIA A100-SXM4-80GB,96.0,375,A100,3.0,"{""Gpus"":[{""Name"":""A100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,4.1868,99999999
-runpod__4xA100_80GB__32__500,NVIDIA A100 80GB PCIe,32.0,500,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",UNSPECIFIED,6.5767999999999995,99999999
-runpod__4xA100_80GB__128__1004,NVIDIA A100-SXM4-80GB,128.0,1004,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",UNSPECIFIED,6.9768,99999999
-runpod__4xA100_80GB__32__500,NVIDIA A100 80GB PCIe,32.0,500,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",UNSPECIFIED,4.7768,99999999
-runpod__4xA100_80GB__128__500,NVIDIA A100-SXM4-80GB,128.0,500,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",UNSPECIFIED,5.5767999999999995,99999999
-runpod__5xA100_80GB__120__625,NVIDIA A100 80GB PCIe,120.0,625,A100,5.0,"{""Gpus"":[{""Name"":""A100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",UNSPECIFIED,8.2168,99999999
-runpod__5xA100_80GB__160__1255,NVIDIA A100-SXM4-80GB,160.0,1255,A100,5.0,"{""Gpus"":[{""Name"":""A100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",UNSPECIFIED,8.7168,99999999
-runpod__5xA100_80GB__40__625,NVIDIA A100 80GB PCIe,40.0,625,A100,5.0,"{""Gpus"":[{""Name"":""A100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",UNSPECIFIED,5.9668,99999999
-runpod__5xA100_80GB__160__625,NVIDIA A100-SXM4-80GB,160.0,625,A100,5.0,"{""Gpus"":[{""Name"":""A100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",UNSPECIFIED,6.9668,99999999
-runpod__6xA100_80GB__186__702,NVIDIA A100 80GB PCIe,186.0,702,A100,6.0,"{""Gpus"":[{""Name"":""A100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,9.8568,99999999
-runpod__6xA100_80GB__192__1506,NVIDIA A100-SXM4-80GB,192.0,1506,A100,6.0,"{""Gpus"":[{""Name"":""A100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,10.4568,99999999
-runpod__6xA100_80GB__48__750,NVIDIA A100 80GB PCIe,48.0,750,A100,6.0,"{""Gpus"":[{""Name"":""A100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,7.1568,99999999
-runpod__6xA100_80GB__192__1506,NVIDIA A100-SXM4-80GB,192.0,1506,A100,6.0,"{""Gpus"":[{""Name"":""A100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,8.3568,99999999
-runpod__7xA100_80GB__217__819,NVIDIA A100 80GB PCIe,217.0,819,A100,7.0,"{""Gpus"":[{""Name"":""A100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",UNSPECIFIED,11.4968,99999999
-runpod__7xA100_80GB__112__1750,NVIDIA A100-SXM4-80GB,112.0,1750,A100,7.0,"{""Gpus"":[{""Name"":""A100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",UNSPECIFIED,12.1968,99999999
-runpod__7xA100_80GB__56__875,NVIDIA A100 80GB PCIe,56.0,875,A100,7.0,"{""Gpus"":[{""Name"":""A100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",UNSPECIFIED,8.3468,99999999
-runpod__7xA100_80GB__224__1757,NVIDIA A100-SXM4-80GB,224.0,1757,A100,7.0,"{""Gpus"":[{""Name"":""A100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",UNSPECIFIED,9.7468,99999999
-runpod__8xA100_80GB__248__936,NVIDIA A100 80GB PCIe,248.0,936,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",UNSPECIFIED,13.1368,99999999
-runpod__8xA100_80GB__256__2000,NVIDIA A100-SXM4-80GB,256.0,2000,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",UNSPECIFIED,13.9368,99999999
-runpod__8xA100_80GB__64__1000,NVIDIA A100 80GB PCIe,64.0,1000,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",UNSPECIFIED,9.5368,99999999
-runpod__8xA100_80GB__256__2008,NVIDIA A100-SXM4-80GB,256.0,2008,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",UNSPECIFIED,11.1368,99999999
-lambdalabs__8xA100_80GB__240__1800,gpu_8x_a100_80gb_sxm4,240.0,1800,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - us-midwest-1,14.32,99999999
-lambdalabs__8xA100_80GB__240__1800,gpu_8x_a100_80gb_sxm4,240.0,1800,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",AU - australia-east-1,14.32,99999999
-hyperstack__1xA100_80GB__28__120,n3-A100x1,28.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA - CANADA-1,1.35,99999999
-hyperstack__2xA100_80GB__60__240,n3-A100x2,60.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA - CANADA-1,2.7,99999999
-hyperstack__8xA100_80GB__252__1920,n3-A100x8-NVLink,252.0,1920,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA - CANADA-1,11.2,99999999
-oblivus__8xA100_80GB__252__1920,A100_NVLINK_80GB,252.0,1920,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA - MON1,12.5655,99999999
-oblivus__1xA100_80GB__28__120,A100_PCIE_80GB,28.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA - MON1,1.4755,99999999
-oblivus__2xA100_80GB__60__240,A100_PCIE_80GB,60.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA - MON1,2.9455,99999999
-oblivus__4xA100_80GB__124__480,A100_PCIE_80GB,124.0,480,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA - MON1,5.8854999999999995,99999999
-oblivus__8xA100_80GB__252__1440,A100_PCIE_80GB,252.0,1440,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA - MON1,11.7655,99999999
-datacrunch__1xA100_80GB__22__120,1A100.22V,22.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",FI - FIN-01,1.12,99999999
-datacrunch__2xA100_80GB__44__240,2A100.44V,44.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",FI - FIN-01,2.23,99999999
-datacrunch__4xA100_80GB__88__480,4A100.88V,88.0,480,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",FI - FIN-01,4.46,99999999
-datacrunch__8xA100_80GB__176__960,8A100.176V,176.0,960,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",FI - FIN-01,8.92,99999999
-datacrunch__8xA100_80GB__176__960,8A100.176V,176.0,960,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",FI - FIN-02,8.92,99999999
-crusoecloud__8xA100_80GB__96__960,a100-80gb-sxm-ib.8x,96.0,960,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - us-east1-a,15.6,99999999
-runpod__1xA40_48GB__9__50,NVIDIA A40,9.0,50,A40,1.0,"{""Gpus"":[{""Name"":""A40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,0.4168,99999999
-runpod__2xA40_48GB__18__100,NVIDIA A40,18.0,100,A40,2.0,"{""Gpus"":[{""Name"":""A40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",UNSPECIFIED,0.8168000000000001,99999999
-runpod__3xA40_48GB__27__150,NVIDIA A40,27.0,150,A40,3.0,"{""Gpus"":[{""Name"":""A40"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",UNSPECIFIED,1.2167999999999999,99999999
-runpod__4xA40_48GB__36__200,NVIDIA A40,36.0,200,A40,4.0,"{""Gpus"":[{""Name"":""A40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",UNSPECIFIED,1.6168,99999999
-runpod__5xA40_48GB__45__250,NVIDIA A40,45.0,250,A40,5.0,"{""Gpus"":[{""Name"":""A40"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",UNSPECIFIED,2.0168,99999999
-runpod__6xA40_48GB__54__300,NVIDIA A40,54.0,300,A40,6.0,"{""Gpus"":[{""Name"":""A40"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",UNSPECIFIED,2.4168,99999999
-runpod__7xA40_48GB__63__350,NVIDIA A40,63.0,350,A40,7.0,"{""Gpus"":[{""Name"":""A40"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",UNSPECIFIED,2.8167999999999997,99999999
-runpod__8xA40_48GB__72__400,NVIDIA A40,72.0,400,A40,8.0,"{""Gpus"":[{""Name"":""A40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",UNSPECIFIED,3.2168,99999999
-runpod__9xA40_48GB__81__450,NVIDIA A40,81.0,450,A40,9.0,"{""Gpus"":[{""Name"":""A40"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":442368}}],""TotalGpuMemoryInMiB"":3981312}",UNSPECIFIED,3.6168,99999999
-runpod__10xA40_48GB__90__500,NVIDIA A40,90.0,500,A40,10.0,"{""Gpus"":[{""Name"":""A40"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":4915200}",UNSPECIFIED,4.0168,99999999
-runpod__1xB200_180GB__28__283,NVIDIA B200,28.0,283,B200,1.0,"{""Gpus"":[{""Name"":""B200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":184320}}],""TotalGpuMemoryInMiB"":184320}",UNSPECIFIED,6.4068,99999999
-runpod__2xB200_180GB__56__566,NVIDIA B200,56.0,566,B200,2.0,"{""Gpus"":[{""Name"":""B200"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":368640}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,12.7968,99999999
-runpod__3xB200_180GB__84__849,NVIDIA B200,84.0,849,B200,3.0,"{""Gpus"":[{""Name"":""B200"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":552960}}],""TotalGpuMemoryInMiB"":1658880}",UNSPECIFIED,19.1868,99999999
-runpod__4xB200_180GB__112__1132,NVIDIA B200,112.0,1132,B200,4.0,"{""Gpus"":[{""Name"":""B200"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":737280}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,25.5768,99999999
-runpod__8xB200_180GB__224__2264,NVIDIA B200,224.0,2264,B200,8.0,"{""Gpus"":[{""Name"":""B200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1474560}}],""TotalGpuMemoryInMiB"":11796480}",UNSPECIFIED,51.1368,99999999
-runpod__1xRTX3090_24GB__16__125,NVIDIA GeForce RTX 3090,16.0,125,RTX3090,1.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",UNSPECIFIED,0.4768,99999999
-runpod__1xRTX3090_24GB__4__24,NVIDIA GeForce RTX 3090,4.0,24,RTX3090,1.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",UNSPECIFIED,0.2368,99999999
-runpod__2xRTX3090_24GB__64__250,NVIDIA GeForce RTX 3090,64.0,250,RTX3090,2.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":98304}",UNSPECIFIED,0.9368000000000001,99999999
-runpod__2xRTX3090_24GB__8__52,NVIDIA GeForce RTX 3090,8.0,52,RTX3090,2.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":98304}",UNSPECIFIED,0.4568,99999999
-runpod__3xRTX3090_24GB__24__78,NVIDIA GeForce RTX 3090,24.0,78,RTX3090,3.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":73728}}],""TotalGpuMemoryInMiB"":221184}",UNSPECIFIED,0.6768000000000001,99999999
-runpod__4xRTX3090_24GB__32__96,NVIDIA GeForce RTX 3090,32.0,96,RTX3090,4.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":393216}",UNSPECIFIED,0.8968,99999999
-runpod__5xRTX3090_24GB__40__120,NVIDIA GeForce RTX 3090,40.0,120,RTX3090,5.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":122880}}],""TotalGpuMemoryInMiB"":614400}",UNSPECIFIED,1.1168,99999999
-runpod__6xRTX3090_24GB__48__144,NVIDIA GeForce RTX 3090,48.0,144,RTX3090,6.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":884736}",UNSPECIFIED,1.3368,99999999
-runpod__7xRTX3090_24GB__56__168,NVIDIA GeForce RTX 3090,56.0,168,RTX3090,7.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":172032}}],""TotalGpuMemoryInMiB"":1204224}",UNSPECIFIED,1.5568,99999999
-runpod__8xRTX3090_24GB__64__192,NVIDIA GeForce RTX 3090,64.0,192,RTX3090,8.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":1572864}",UNSPECIFIED,1.7768,99999999
-runpod__9xRTX3090_24GB__72__216,NVIDIA GeForce RTX 3090,72.0,216,RTX3090,9.0,"{""Gpus"":[{""Name"":""RTX3090"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":221184}}],""TotalGpuMemoryInMiB"":1990656}",UNSPECIFIED,1.9968,99999999
-runpod__1xRTX4090_24GB__6__41,NVIDIA GeForce RTX 4090,6.0,41,RTX4090,1.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",UNSPECIFIED,0.7068,99999999
-runpod__1xRTX4090_24GB__8__31,NVIDIA GeForce RTX 4090,8.0,31,RTX4090,1.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",UNSPECIFIED,0.3568,99999999
-runpod__2xRTX4090_24GB__12__172,NVIDIA GeForce RTX 4090,12.0,172,RTX4090,2.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":98304}",UNSPECIFIED,1.3967999999999998,99999999
-runpod__2xRTX4090_24GB__20__62,NVIDIA GeForce RTX 4090,20.0,62,RTX4090,2.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":98304}",UNSPECIFIED,0.6968000000000001,99999999
-runpod__3xRTX4090_24GB__45__258,NVIDIA GeForce RTX 4090,45.0,258,RTX4090,3.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":73728}}],""TotalGpuMemoryInMiB"":221184}",UNSPECIFIED,2.0867999999999998,99999999
-runpod__3xRTX4090_24GB__30__249,NVIDIA GeForce RTX 4090,30.0,249,RTX4090,3.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":73728}}],""TotalGpuMemoryInMiB"":221184}",UNSPECIFIED,1.0368,99999999
-runpod__4xRTX4090_24GB__60__344,NVIDIA GeForce RTX 4090,60.0,344,RTX4090,4.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":393216}",UNSPECIFIED,2.7767999999999997,99999999
-runpod__4xRTX4090_24GB__40__332,NVIDIA GeForce RTX 4090,40.0,332,RTX4090,4.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":393216}",UNSPECIFIED,1.3768,99999999
-runpod__5xRTX4090_24GB__75__430,NVIDIA GeForce RTX 4090,75.0,430,RTX4090,5.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":122880}}],""TotalGpuMemoryInMiB"":614400}",UNSPECIFIED,3.4668,99999999
-runpod__5xRTX4090_24GB__50__415,NVIDIA GeForce RTX 4090,50.0,415,RTX4090,5.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":122880}}],""TotalGpuMemoryInMiB"":614400}",UNSPECIFIED,1.7167999999999999,99999999
-runpod__6xRTX4090_24GB__90__516,NVIDIA GeForce RTX 4090,90.0,516,RTX4090,6.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":884736}",UNSPECIFIED,4.1568,99999999
-runpod__6xRTX4090_24GB__60__498,NVIDIA GeForce RTX 4090,60.0,498,RTX4090,6.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":884736}",UNSPECIFIED,2.0568,99999999
-runpod__7xRTX4090_24GB__105__602,NVIDIA GeForce RTX 4090,105.0,602,RTX4090,7.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":172032}}],""TotalGpuMemoryInMiB"":1204224}",UNSPECIFIED,4.8468,99999999
-runpod__7xRTX4090_24GB__70__581,NVIDIA GeForce RTX 4090,70.0,581,RTX4090,7.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":172032}}],""TotalGpuMemoryInMiB"":1204224}",UNSPECIFIED,2.3968,99999999
-runpod__8xRTX4090_24GB__128__992,NVIDIA GeForce RTX 4090,128.0,992,RTX4090,8.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":1572864}",UNSPECIFIED,5.5367999999999995,99999999
-runpod__8xRTX4090_24GB__80__664,NVIDIA GeForce RTX 4090,80.0,664,RTX4090,8.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":1572864}",UNSPECIFIED,2.7368,99999999
-runpod__9xRTX4090_24GB__90__747,NVIDIA GeForce RTX 4090,90.0,747,RTX4090,9.0,"{""Gpus"":[{""Name"":""RTX4090"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":221184}}],""TotalGpuMemoryInMiB"":1990656}",UNSPECIFIED,3.0768,99999999
-runpod__1xRTX5090_32GB__16__92,NVIDIA GeForce RTX 5090,16.0,92,RTX5090,1.0,"{""Gpus"":[{""Name"":""RTX5090"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":32768}",UNSPECIFIED,0.9568,99999999
-runpod__1xRTX5090_32GB__12__60,NVIDIA GeForce RTX 5090,12.0,60,RTX5090,1.0,"{""Gpus"":[{""Name"":""RTX5090"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":32768}",UNSPECIFIED,0.7068,99999999
-runpod__2xRTX5090_32GB__32__186,NVIDIA GeForce RTX 5090,32.0,186,RTX5090,2.0,"{""Gpus"":[{""Name"":""RTX5090"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":131072}",UNSPECIFIED,1.8967999999999998,99999999
-runpod__2xRTX5090_32GB__32__124,NVIDIA GeForce RTX 5090,32.0,124,RTX5090,2.0,"{""Gpus"":[{""Name"":""RTX5090"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":131072}",UNSPECIFIED,1.3967999999999998,99999999
-runpod__3xRTX5090_32GB__48__279,NVIDIA GeForce RTX 5090,48.0,279,RTX5090,3.0,"{""Gpus"":[{""Name"":""RTX5090"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":294912}",UNSPECIFIED,2.8367999999999998,99999999
-runpod__3xRTX5090_32GB__96__282,NVIDIA GeForce RTX 5090,96.0,282,RTX5090,3.0,"{""Gpus"":[{""Name"":""RTX5090"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":294912}",UNSPECIFIED,2.0867999999999998,99999999
-runpod__4xRTX5090_32GB__64__372,NVIDIA GeForce RTX 5090,64.0,372,RTX5090,4.0,"{""Gpus"":[{""Name"":""RTX5090"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":131072}}],""TotalGpuMemoryInMiB"":524288}",UNSPECIFIED,3.7767999999999997,99999999
-runpod__1xH100_80GB__20__125,NVIDIA H100 80GB HBM3,20.0,125,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,3.0068,99999999
-runpod__1xH100_80GB__16__188,NVIDIA H100 PCIe,16.0,188,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,2.2068,99999999
-runpod__1xH100_80GB__24__251,NVIDIA H100 80GB HBM3,24.0,251,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,2.7068,99999999
-runpod__2xH100_80GB__52__502,NVIDIA H100 80GB HBM3,52.0,502,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,5.9968,99999999
-runpod__2xH100_80GB__48__376,NVIDIA H100 PCIe,48.0,376,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,4.3968,99999999
-runpod__2xH100_80GB__48__502,NVIDIA H100 80GB HBM3,48.0,502,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,5.3968,99999999
-runpod__3xH100_80GB__78__753,NVIDIA H100 80GB HBM3,78.0,753,H100,3.0,"{""Gpus"":[{""Name"":""H100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,8.9868,99999999
-runpod__3xH100_80GB__72__564,NVIDIA H100 PCIe,72.0,564,H100,3.0,"{""Gpus"":[{""Name"":""H100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,6.5868,99999999
-runpod__3xH100_80GB__72__753,NVIDIA H100 80GB HBM3,72.0,753,H100,3.0,"{""Gpus"":[{""Name"":""H100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,8.0868,99999999
-runpod__4xH100_80GB__80__752,NVIDIA H100 80GB HBM3,80.0,752,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",UNSPECIFIED,11.9768,99999999
-runpod__4xH100_80GB__96__752,NVIDIA H100 PCIe,96.0,752,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",UNSPECIFIED,8.7768,99999999
-runpod__4xH100_80GB__96__1004,NVIDIA H100 80GB HBM3,96.0,1004,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",UNSPECIFIED,10.7768,99999999
-runpod__5xH100_80GB__100__940,NVIDIA H100 80GB HBM3,100.0,940,H100,5.0,"{""Gpus"":[{""Name"":""H100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",UNSPECIFIED,14.9668,99999999
-runpod__5xH100_80GB__120__940,NVIDIA H100 PCIe,120.0,940,H100,5.0,"{""Gpus"":[{""Name"":""H100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",UNSPECIFIED,10.9668,99999999
-runpod__5xH100_80GB__120__1255,NVIDIA H100 80GB HBM3,120.0,1255,H100,5.0,"{""Gpus"":[{""Name"":""H100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",UNSPECIFIED,13.4668,99999999
-runpod__6xH100_80GB__120__1128,NVIDIA H100 80GB HBM3,120.0,1128,H100,6.0,"{""Gpus"":[{""Name"":""H100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,17.9568,99999999
-runpod__6xH100_80GB__144__1128,NVIDIA H100 PCIe,144.0,1128,H100,6.0,"{""Gpus"":[{""Name"":""H100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,13.1568,99999999
-runpod__6xH100_80GB__144__1506,NVIDIA H100 80GB HBM3,144.0,1506,H100,6.0,"{""Gpus"":[{""Name"":""H100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",UNSPECIFIED,16.1568,99999999
-runpod__7xH100_80GB__140__1316,NVIDIA H100 80GB HBM3,140.0,1316,H100,7.0,"{""Gpus"":[{""Name"":""H100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",UNSPECIFIED,20.9468,99999999
-runpod__7xH100_80GB__168__1316,NVIDIA H100 PCIe,168.0,1316,H100,7.0,"{""Gpus"":[{""Name"":""H100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",UNSPECIFIED,15.3468,99999999
-runpod__7xH100_80GB__168__1757,NVIDIA H100 80GB HBM3,168.0,1757,H100,7.0,"{""Gpus"":[{""Name"":""H100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",UNSPECIFIED,18.846799999999998,99999999
-runpod__8xH100_80GB__160__1504,NVIDIA H100 80GB HBM3,160.0,1504,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",UNSPECIFIED,23.9368,99999999
-runpod__8xH100_80GB__192__1504,NVIDIA H100 PCIe,192.0,1504,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",UNSPECIFIED,17.5368,99999999
-runpod__8xH100_80GB__192__2008,NVIDIA H100 80GB HBM3,192.0,2008,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",UNSPECIFIED,21.5368,99999999
-lambdalabs__8xH100_80GB__208__1800,gpu_8x_h100_sxm5,208.0,1800,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - us-west-3,23.92,99999999
-lambdalabs__4xH100_80GB__104__900,gpu_4x_h100_sxm5,104.0,900,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",US - us-south-2,12.36,99999999
-lambdalabs__1xH100_80GB__26__225,gpu_1x_h100_sxm5,26.0,225,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US - us-south-2,3.29,99999999
-lambdalabs__1xH100_80GB__26__200,gpu_1x_h100_pcie,26.0,200,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US - us-west-3,2.49,99999999
-hyperstack__1xH100_80GB__28__180,n3-H100x1,28.0,180,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA - CANADA-1,1.9,99999999
-hyperstack__2xH100_80GB__60__360,n3-H100x2,60.0,360,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA - CANADA-1,3.8,99999999
-hyperstack__4xH100_80GB__124__720,n3-H100x4,124.0,720,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA - CANADA-1,7.6,99999999
-hyperstack__8xH100_80GB__252__1440,n3-H100x8-NVLink,252.0,1440,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA - CANADA-1,15.6,99999999
-massedcompute__1xH100_80GB__20__128,gpu_1x_h100,20.0,128,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US - us-central-3,1.89,99999999
-massedcompute__2xH100_80GB__40__256,gpu_2x_h100,40.0,256,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",US - us-central-3,3.78,99999999
-massedcompute__4xH100_80GB__64__512,gpu_4x_h100,64.0,512,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",US - us-central-3,7.56,99999999
-primecompute__8xH100_80GB__104__752,NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - US,20.0,99999999
-primecompute__8xH100_80GB__104__752,NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - US,20.0,99999999
-primecompute__8xH100_80GB__104__752,SPOT_NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - US,8.0,99999999
-primecompute__8xH100_80GB__104__752,NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - US,20.0,99999999
-primecompute__8xH100_80GB__104__752,SPOT_NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - US,8.0,99999999
-primecompute__8xH100_80GB__104__752,NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - US,20.0,99999999
-primecompute__8xH100_80GB__104__752,SPOT_NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - US,8.0,99999999
-dc_roan__8xH100_80GB__104__1024,h100-sxm5-80gb_eth,104.0,1024,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US - a3111bd4-550a-47d0-838a-0a52bff2ae3f,15.92,99999999
-nebius__1xH100_80GB__16__200,gpu-h100-sxm_1gpu-16vcpu-200gb,16.0,200,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",FI - eu-north1,2.118,99999999
-nebius__8xH100_80GB__128__1600,gpu-h100-sxm_8gpu-128vcpu-1600gb,128.0,1600,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",FI - eu-north1,16.944,99999999
-runpod__1xH200_141GB__12__188,NVIDIA H200,12.0,188,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",UNSPECIFIED,4.0068,99999999
-runpod__1xH200_141GB__24__251,NVIDIA H200,24.0,251,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",UNSPECIFIED,3.6068,99999999
-runpod__2xH200_141GB__44__442,NVIDIA H200,44.0,442,H200,2.0,"{""Gpus"":[{""Name"":""H200"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":288768}}],""TotalGpuMemoryInMiB"":577536}",UNSPECIFIED,7.9968,99999999
-runpod__2xH200_141GB__48__502,NVIDIA H200,48.0,502,H200,2.0,"{""Gpus"":[{""Name"":""H200"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":288768}}],""TotalGpuMemoryInMiB"":577536}",UNSPECIFIED,7.1968,99999999
-runpod__3xH200_141GB__66__663,NVIDIA H200,66.0,663,H200,3.0,"{""Gpus"":[{""Name"":""H200"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":433152}}],""TotalGpuMemoryInMiB"":1299456}",UNSPECIFIED,11.9868,99999999
-runpod__3xH200_141GB__72__753,NVIDIA H200,72.0,753,H200,3.0,"{""Gpus"":[{""Name"":""H200"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":433152}}],""TotalGpuMemoryInMiB"":1299456}",UNSPECIFIED,10.7868,99999999
-runpod__4xH200_141GB__88__884,NVIDIA H200,88.0,884,H200,4.0,"{""Gpus"":[{""Name"":""H200"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":577536}}],""TotalGpuMemoryInMiB"":2310144}",UNSPECIFIED,15.9768,99999999
-runpod__4xH200_141GB__96__1004,NVIDIA H200,96.0,1004,H200,4.0,"{""Gpus"":[{""Name"":""H200"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":577536}}],""TotalGpuMemoryInMiB"":2310144}",UNSPECIFIED,14.3768,99999999
-runpod__5xH200_141GB__110__1105,NVIDIA H200,110.0,1105,H200,5.0,"{""Gpus"":[{""Name"":""H200"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":721920}}],""TotalGpuMemoryInMiB"":3609600}",UNSPECIFIED,19.9668,99999999
-runpod__5xH200_141GB__120__1255,NVIDIA H200,120.0,1255,H200,5.0,"{""Gpus"":[{""Name"":""H200"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":721920}}],""TotalGpuMemoryInMiB"":3609600}",UNSPECIFIED,17.9668,99999999
-runpod__6xH200_141GB__132__1326,NVIDIA H200,132.0,1326,H200,6.0,"{""Gpus"":[{""Name"":""H200"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":866304}}],""TotalGpuMemoryInMiB"":5197824}",UNSPECIFIED,23.9568,99999999
-runpod__6xH200_141GB__144__1506,NVIDIA H200,144.0,1506,H200,6.0,"{""Gpus"":[{""Name"":""H200"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":866304}}],""TotalGpuMemoryInMiB"":5197824}",UNSPECIFIED,21.5568,99999999
-runpod__7xH200_141GB__154__1547,NVIDIA H200,154.0,1547,H200,7.0,"{""Gpus"":[{""Name"":""H200"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":1010688}}],""TotalGpuMemoryInMiB"":7074816}",UNSPECIFIED,27.9468,99999999
-runpod__7xH200_141GB__168__1757,NVIDIA H200,168.0,1757,H200,7.0,"{""Gpus"":[{""Name"":""H200"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":1010688}}],""TotalGpuMemoryInMiB"":7074816}",UNSPECIFIED,25.1468,99999999
-runpod__8xH200_141GB__176__1768,NVIDIA H200,176.0,1768,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",UNSPECIFIED,31.9368,99999999
-runpod__8xH200_141GB__192__2008,NVIDIA H200,192.0,2008,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",UNSPECIFIED,28.7368,99999999
-datacrunch__1xH200_141GB__44__182,1H200.141S.44V,44.0,182,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",FI - FIN-02,3.13,99999999
-datacrunch__1xH200_141GB__44__182,1H200.141S.44V,44.0,182,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",IS - ICE-01,3.13,99999999
-datacrunch__2xH200_141GB__88__370,2H200.141S.88V,88.0,370,H200,2.0,"{""Gpus"":[{""Name"":""H200"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":288768}}],""TotalGpuMemoryInMiB"":577536}",FI - FIN-02,6.27,99999999
-datacrunch__4xH200_141GB__176__740,4H200.141S.176V,176.0,740,H200,4.0,"{""Gpus"":[{""Name"":""H200"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":577536}}],""TotalGpuMemoryInMiB"":2310144}",IS - ICE-01,12.54,99999999
-datacrunch__8xH200_141GB__176__1450,8H200.141S.176V,176.0,1450,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",IS - ICE-01,25.07,99999999
-nebius__1xH200_141GB__16__200,gpu-h200-sxm_1gpu-16vcpu-200gb,16.0,200,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",US - us-central1,2.668,99999999
-nebius__8xH200_141GB__128__1600,gpu-h200-sxm_8gpu-128vcpu-1600gb,128.0,1600,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",US - us-central1,21.344,99999999
-nebius__1xH200_141GB__16__200,gpu-h200-sxm_1gpu-16vcpu-200gb,16.0,200,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",FR - eu-west1,2.668,99999999
-nebius__8xH200_141GB__128__1600,gpu-h200-sxm_8gpu-128vcpu-1600gb,128.0,1600,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",FR - eu-west1,21.344,99999999
-nebius__1xH200_141GB__16__200,gpu-h200-sxm_1gpu-16vcpu-200gb,16.0,200,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",FI - eu-north1,2.668,99999999
-nebius__8xH200_141GB__128__1600,gpu-h200-sxm_8gpu-128vcpu-1600gb,128.0,1600,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",FI - eu-north1,21.344,99999999
-dc_wildebeest__1xH200_141GB__16__200,gpu-h200-sxm_1gpu-16vcpu-200gb,16.0,200,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",US - us-central1,2.99,99999999
-dc_wildebeest__8xH200_141GB__128__1600,gpu-h200-sxm_8gpu-128vcpu-1600gb,128.0,1600,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",US - us-central1,23.92,99999999
-dc_wildebeest__1xH200_141GB__16__200,gpu-h200-sxm_1gpu-16vcpu-200gb,16.0,200,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",FR - eu-west1,2.99,99999999
-dc_wildebeest__8xH200_141GB__128__1600,gpu-h200-sxm_8gpu-128vcpu-1600gb,128.0,1600,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",FR - eu-west1,23.92,99999999
-dc_wildebeest__1xH200_141GB__16__200,gpu-h200-sxm_1gpu-16vcpu-200gb,16.0,200,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",FI - eu-north1,2.99,99999999
-dc_wildebeest__8xH200_141GB__128__1600,gpu-h200-sxm_8gpu-128vcpu-1600gb,128.0,1600,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",FI - eu-north1,23.92,99999999
-runpod__1xL4_24GB__12__50,NVIDIA L4,12.0,50,L4,1.0,"{""Gpus"":[{""Name"":""L4"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",UNSPECIFIED,0.4468,99999999
-runpod__2xL4_24GB__24__100,NVIDIA L4,24.0,100,L4,2.0,"{""Gpus"":[{""Name"":""L4"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":98304}",UNSPECIFIED,0.8768,99999999
-runpod__3xL4_24GB__36__150,NVIDIA L4,36.0,150,L4,3.0,"{""Gpus"":[{""Name"":""L4"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":73728}}],""TotalGpuMemoryInMiB"":221184}",UNSPECIFIED,1.3068,99999999
-runpod__4xL4_24GB__48__200,NVIDIA L4,48.0,200,L4,4.0,"{""Gpus"":[{""Name"":""L4"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":393216}",UNSPECIFIED,1.7368,99999999
-runpod__5xL4_24GB__60__250,NVIDIA L4,60.0,250,L4,5.0,"{""Gpus"":[{""Name"":""L4"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":122880}}],""TotalGpuMemoryInMiB"":614400}",UNSPECIFIED,2.1668,99999999
-runpod__6xL4_24GB__96__372,NVIDIA L4,96.0,372,L4,6.0,"{""Gpus"":[{""Name"":""L4"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":884736}",UNSPECIFIED,2.5968,99999999
-runpod__1xL40_48GB__8__94,NVIDIA L40,8.0,94,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,1.0068,99999999
-runpod__1xL40_48GB__9__125,NVIDIA L40,9.0,125,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,0.7068,99999999
-runpod__2xL40_48GB__16__188,NVIDIA L40,16.0,188,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",UNSPECIFIED,1.9968,99999999
-runpod__2xL40_48GB__18__302,NVIDIA L40,18.0,302,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",UNSPECIFIED,1.3967999999999998,99999999
-runpod__3xL40_48GB__24__282,NVIDIA L40,24.0,282,L40,3.0,"{""Gpus"":[{""Name"":""L40"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",UNSPECIFIED,2.9868,99999999
-runpod__3xL40_48GB__27__453,NVIDIA L40,27.0,453,L40,3.0,"{""Gpus"":[{""Name"":""L40"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",UNSPECIFIED,2.0867999999999998,99999999
-runpod__4xL40_48GB__32__376,NVIDIA L40,32.0,376,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",UNSPECIFIED,3.9768,99999999
-runpod__5xL40_48GB__40__470,NVIDIA L40,40.0,470,L40,5.0,"{""Gpus"":[{""Name"":""L40"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",UNSPECIFIED,4.9668,99999999
-runpod__6xL40_48GB__48__564,NVIDIA L40,48.0,564,L40,6.0,"{""Gpus"":[{""Name"":""L40"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",UNSPECIFIED,5.9568,99999999
-runpod__7xL40_48GB__56__658,NVIDIA L40,56.0,658,L40,7.0,"{""Gpus"":[{""Name"":""L40"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",UNSPECIFIED,6.9468,99999999
-runpod__8xL40_48GB__64__752,NVIDIA L40,64.0,752,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",UNSPECIFIED,7.9368,99999999
-hyperstack__1xL40_48GB__28__58,n3-L40x1,28.0,58,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA - CANADA-1,1.0,99999999
-hyperstack__2xL40_48GB__60__116,n3-L40x2,60.0,116,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA - CANADA-1,2.0,99999999
-hyperstack__4xL40_48GB__124__232,n3-L40x4,124.0,232,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA - CANADA-1,4.0,99999999
-oblivus__1xL40_48GB__28__58,L40,28.0,58,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA - MON1,1.0555,99999999
-oblivus__2xL40_48GB__60__116,L40,60.0,116,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA - MON1,2.1055,99999999
-oblivus__4xL40_48GB__124__232,L40,124.0,232,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA - MON1,4.2055,99999999
-oblivus__8xL40_48GB__252__464,L40,252.0,464,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA - MON1,8.4055,99999999
-massedcompute__1xL40_48GB__14__128,gpu_1x_l40,14.0,128,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US - us-central-3,0.71,99999999
-massedcompute__2xL40_48GB__26__256,gpu_2x_l40,26.0,256,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US - us-central-3,1.42,99999999
-massedcompute__4xL40_48GB__50__512,gpu_4x_l40,50.0,512,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US - us-central-3,2.85,99999999
-runpod__1xL40S_48GB__16__62,NVIDIA L40S,16.0,62,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,0.8768,99999999
-runpod__2xL40S_48GB__32__250,NVIDIA L40S,32.0,250,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",UNSPECIFIED,1.7368,99999999
-runpod__3xL40S_48GB__48__564,NVIDIA L40S,48.0,564,L40S,3.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",UNSPECIFIED,2.5968,99999999
-runpod__4xL40S_48GB__64__752,NVIDIA L40S,64.0,752,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",UNSPECIFIED,3.4568,99999999
-runpod__5xL40S_48GB__80__940,NVIDIA L40S,80.0,940,L40S,5.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",UNSPECIFIED,4.3168,99999999
-runpod__6xL40S_48GB__96__1128,NVIDIA L40S,96.0,1128,L40S,6.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",UNSPECIFIED,5.1768,99999999
-runpod__7xL40S_48GB__112__1316,NVIDIA L40S,112.0,1316,L40S,7.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",UNSPECIFIED,6.0367999999999995,99999999
-runpod__8xL40S_48GB__128__1504,NVIDIA L40S,128.0,1504,L40S,8.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",UNSPECIFIED,6.8968,99999999
-massedcompute__1xL40S_48GB__12__128,gpu_1x_l40s,12.0,128,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US - us-central-3,0.65,99999999
-crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US - us-east1-a,1.0,99999999
-crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US - us-southcentral1-a,1.0,99999999
-crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US - us-southcentral1-a,1.0,99999999
-crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US - us-east1-a,1.0,99999999
-crusoecloud__2xL40S_48GB__16__294,l40s-48gb.2x,16.0,294,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US - us-east1-a,2.0,99999999
-crusoecloud__2xL40S_48GB__16__294,l40s-48gb.2x,16.0,294,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US - us-southcentral1-a,2.0,99999999
-crusoecloud__2xL40S_48GB__16__294,l40s-48gb.2x,16.0,294,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US - us-east1-a,2.0,99999999
-crusoecloud__2xL40S_48GB__16__294,l40s-48gb.2x,16.0,294,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US - us-southcentral1-a,2.0,99999999
-crusoecloud__4xL40S_48GB__32__588,l40s-48gb.4x,32.0,588,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US - us-east1-a,4.0,99999999
-crusoecloud__4xL40S_48GB__32__588,l40s-48gb.4x,32.0,588,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US - us-southcentral1-a,4.0,99999999
-crusoecloud__4xL40S_48GB__32__588,l40s-48gb.4x,32.0,588,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US - us-east1-a,4.0,99999999
-crusoecloud__4xL40S_48GB__32__588,l40s-48gb.4x,32.0,588,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US - us-southcentral1-a,4.0,99999999
-crusoecloud__8xL40S_48GB__64__1176,l40s-48gb.8x,64.0,1176,L40S,8.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",US - us-east1-a,8.0,99999999
-crusoecloud__8xL40S_48GB__64__1176,l40s-48gb.8x,64.0,1176,L40S,8.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",US - us-southcentral1-a,8.0,99999999
-crusoecloud__8xL40S_48GB__64__1176,l40s-48gb.8x,64.0,1176,L40S,8.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",US - us-east1-a,8.0,99999999
-crusoecloud__8xL40S_48GB__64__1176,l40s-48gb.8x,64.0,1176,L40S,8.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",US - us-southcentral1-a,8.0,99999999
-crusoecloud__10xL40S_48GB__80__1470,l40s-48gb.10x,80.0,1470,L40S,10.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":4915200}",US - us-east1-a,10.0,99999999
-crusoecloud__10xL40S_48GB__80__1470,l40s-48gb.10x,80.0,1470,L40S,10.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":4915200}",US - us-southcentral1-a,10.0,99999999
-crusoecloud__10xL40S_48GB__80__1470,l40s-48gb.10x,80.0,1470,L40S,10.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":4915200}",US - us-east1-a,10.0,99999999
-crusoecloud__10xL40S_48GB__80__1470,l40s-48gb.10x,80.0,1470,L40S,10.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":4915200}",US - us-southcentral1-a,10.0,99999999
-runpod__1xRTX2000Ada_16GB__6__31,NVIDIA RTX 2000 Ada Generation,6.0,31,RTX2000Ada,1.0,"{""Gpus"":[{""Name"":""RTX2000Ada"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",UNSPECIFIED,0.24680000000000002,99999999
-runpod__2xRTX2000Ada_16GB__12__62,NVIDIA RTX 2000 Ada Generation,12.0,62,RTX2000Ada,2.0,"{""Gpus"":[{""Name"":""RTX2000Ada"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",UNSPECIFIED,0.4768,99999999
-runpod__3xRTX2000Ada_16GB__18__93,NVIDIA RTX 2000 Ada Generation,18.0,93,RTX2000Ada,3.0,"{""Gpus"":[{""Name"":""RTX2000Ada"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",UNSPECIFIED,0.7068,99999999
-runpod__4xRTX2000Ada_16GB__24__124,NVIDIA RTX 2000 Ada Generation,24.0,124,RTX2000Ada,4.0,"{""Gpus"":[{""Name"":""RTX2000Ada"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",UNSPECIFIED,0.9368000000000001,99999999
-runpod__5xRTX2000Ada_16GB__30__155,NVIDIA RTX 2000 Ada Generation,30.0,155,RTX2000Ada,5.0,"{""Gpus"":[{""Name"":""RTX2000Ada"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":409600}",UNSPECIFIED,1.1667999999999998,99999999
-runpod__1xRTX4000Ada_20GB__8__47,NVIDIA RTX 4000 Ada Generation,8.0,47,RTX4000Ada,1.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":20480}}],""TotalGpuMemoryInMiB"":20480}",UNSPECIFIED,0.2768,99999999
-runpod__1xRTX4000Ada_20GB__4__31,NVIDIA RTX 4000 Ada Generation,4.0,31,RTX4000Ada,1.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":20480}}],""TotalGpuMemoryInMiB"":20480}",UNSPECIFIED,0.21680000000000002,99999999
-runpod__2xRTX4000Ada_20GB__16__124,NVIDIA RTX 4000 Ada Generation,16.0,124,RTX4000Ada,2.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,0.5368,99999999
-runpod__2xRTX4000Ada_20GB__12__62,NVIDIA RTX 4000 Ada Generation,12.0,62,RTX4000Ada,2.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,0.4168,99999999
-runpod__3xRTX4000Ada_20GB__48__186,NVIDIA RTX 4000 Ada Generation,48.0,186,RTX4000Ada,3.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":61440}}],""TotalGpuMemoryInMiB"":184320}",UNSPECIFIED,0.7968000000000001,99999999
-runpod__3xRTX4000Ada_20GB__18__93,NVIDIA RTX 4000 Ada Generation,18.0,93,RTX4000Ada,3.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":61440}}],""TotalGpuMemoryInMiB"":184320}",UNSPECIFIED,0.6168,99999999
-runpod__4xRTX4000Ada_20GB__64__248,NVIDIA RTX 4000 Ada Generation,64.0,248,RTX4000Ada,4.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,1.0568,99999999
-runpod__4xRTX4000Ada_20GB__24__124,NVIDIA RTX 4000 Ada Generation,24.0,124,RTX4000Ada,4.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,0.8168000000000001,99999999
-runpod__5xRTX4000Ada_20GB__80__310,NVIDIA RTX 4000 Ada Generation,80.0,310,RTX4000Ada,5.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":102400}}],""TotalGpuMemoryInMiB"":512000}",UNSPECIFIED,1.3168,99999999
-runpod__5xRTX4000Ada_20GB__30__155,NVIDIA RTX 4000 Ada Generation,30.0,155,RTX4000Ada,5.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":102400}}],""TotalGpuMemoryInMiB"":512000}",UNSPECIFIED,1.0168,99999999
-runpod__6xRTX4000Ada_20GB__96__372,NVIDIA RTX 4000 Ada Generation,96.0,372,RTX4000Ada,6.0,"{""Gpus"":[{""Name"":""RTX4000Ada"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":122880}}],""TotalGpuMemoryInMiB"":737280}",UNSPECIFIED,1.5768,99999999
-runpod__1xRTX6000Ada_48GB__14__62,NVIDIA RTX 6000 Ada Generation,14.0,62,RTX6000Ada,1.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,0.7868,99999999
-runpod__1xRTX6000Ada_48GB__10__167,NVIDIA RTX 6000 Ada Generation,10.0,167,RTX6000Ada,1.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,0.7568,99999999
-runpod__2xRTX6000Ada_48GB__28__188,NVIDIA RTX 6000 Ada Generation,28.0,188,RTX6000Ada,2.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",UNSPECIFIED,1.5568,99999999
-runpod__2xRTX6000Ada_48GB__32__376,NVIDIA RTX 6000 Ada Generation,32.0,376,RTX6000Ada,2.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",UNSPECIFIED,1.4968,99999999
-runpod__3xRTX6000Ada_48GB__48__564,NVIDIA RTX 6000 Ada Generation,48.0,564,RTX6000Ada,3.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",UNSPECIFIED,2.3268,99999999
-runpod__3xRTX6000Ada_48GB__48__564,NVIDIA RTX 6000 Ada Generation,48.0,564,RTX6000Ada,3.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",UNSPECIFIED,2.2368,99999999
-runpod__4xRTX6000Ada_48GB__64__752,NVIDIA RTX 6000 Ada Generation,64.0,752,RTX6000Ada,4.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",UNSPECIFIED,3.0968,99999999
-runpod__4xRTX6000Ada_48GB__84__1004,NVIDIA RTX 6000 Ada Generation,84.0,1004,RTX6000Ada,4.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",UNSPECIFIED,2.9768,99999999
-runpod__5xRTX6000Ada_48GB__80__940,NVIDIA RTX 6000 Ada Generation,80.0,940,RTX6000Ada,5.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",UNSPECIFIED,3.8668,99999999
-runpod__6xRTX6000Ada_48GB__96__1128,NVIDIA RTX 6000 Ada Generation,96.0,1128,RTX6000Ada,6.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",UNSPECIFIED,4.6368,99999999
-runpod__7xRTX6000Ada_48GB__112__658,NVIDIA RTX 6000 Ada Generation,112.0,658,RTX6000Ada,7.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",UNSPECIFIED,5.4068,99999999
-datacrunch__1xRTX6000Ada_48GB__10__60,1RTX6000ADA.10V,10.0,60,RTX6000Ada,1.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI - FIN-01,1.02,99999999
-datacrunch__4xRTX6000Ada_48GB__40__240,4RTX6000ADA.40V,40.0,240,RTX6000Ada,4.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",FI - FIN-01,4.08,99999999
-datacrunch__8xRTX6000Ada_48GB__80__480,8RTX6000ADA.80V,80.0,480,RTX6000Ada,8.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",FI - FIN-02,8.16,99999999
-runpod__1xA4000_16GB__5__31,NVIDIA RTX A4000,5.0,31,A4000,1.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",UNSPECIFIED,0.2568,99999999
-runpod__1xA4000_16GB__4__31,NVIDIA RTX A4000,4.0,31,A4000,1.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",UNSPECIFIED,0.18680000000000002,99999999
-runpod__2xA4000_16GB__32__124,NVIDIA RTX A4000,32.0,124,A4000,2.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",UNSPECIFIED,0.49679999999999996,99999999
-runpod__2xA4000_16GB__12__124,NVIDIA RTX A4000,12.0,124,A4000,2.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",UNSPECIFIED,0.3568,99999999
-runpod__3xA4000_16GB__48__186,NVIDIA RTX A4000,48.0,186,A4000,3.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",UNSPECIFIED,0.7368,99999999
-runpod__3xA4000_16GB__42__186,NVIDIA RTX A4000,42.0,186,A4000,3.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",UNSPECIFIED,0.5268,99999999
-runpod__4xA4000_16GB__56__248,NVIDIA RTX A4000,56.0,248,A4000,4.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",UNSPECIFIED,0.6968000000000001,99999999
-runpod__5xA4000_16GB__70__310,NVIDIA RTX A4000,70.0,310,A4000,5.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":409600}",UNSPECIFIED,0.8668,99999999
-runpod__6xA4000_16GB__84__372,NVIDIA RTX A4000,84.0,372,A4000,6.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":589824}",UNSPECIFIED,1.0368,99999999
-runpod__7xA4000_16GB__98__434,NVIDIA RTX A4000,98.0,434,A4000,7.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":114688}}],""TotalGpuMemoryInMiB"":802816}",UNSPECIFIED,1.2067999999999999,99999999
-runpod__8xA4000_16GB__112__496,NVIDIA RTX A4000,112.0,496,A4000,8.0,"{""Gpus"":[{""Name"":""A4000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":131072}}],""TotalGpuMemoryInMiB"":1048576}",UNSPECIFIED,1.3768,99999999
-runpod__1xA4500_20GB__12__62,NVIDIA RTX A4500,12.0,62,A4500,1.0,"{""Gpus"":[{""Name"":""A4500"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":20480}}],""TotalGpuMemoryInMiB"":20480}",UNSPECIFIED,0.2668,99999999
-runpod__1xA4500_20GB__7__30,NVIDIA RTX A4500,7.0,30,A4500,1.0,"{""Gpus"":[{""Name"":""A4500"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":20480}}],""TotalGpuMemoryInMiB"":20480}",UNSPECIFIED,0.2068,99999999
-runpod__2xA4500_20GB__24__124,NVIDIA RTX A4500,24.0,124,A4500,2.0,"{""Gpus"":[{""Name"":""A4500"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,0.5168,99999999
-runpod__2xA4500_20GB__16__62,NVIDIA RTX A4500,16.0,62,A4500,2.0,"{""Gpus"":[{""Name"":""A4500"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":81920}",UNSPECIFIED,0.3968,99999999
-runpod__3xA4500_20GB__36__186,NVIDIA RTX A4500,36.0,186,A4500,3.0,"{""Gpus"":[{""Name"":""A4500"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":61440}}],""TotalGpuMemoryInMiB"":184320}",UNSPECIFIED,0.7668,99999999
-runpod__4xA4500_20GB__48__248,NVIDIA RTX A4500,48.0,248,A4500,4.0,"{""Gpus"":[{""Name"":""A4500"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":327680}",UNSPECIFIED,1.0168,99999999
-runpod__1xA5000_24GB__9__25,NVIDIA RTX A5000,9.0,25,A5000,1.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",UNSPECIFIED,0.2768,99999999
-runpod__1xA5000_24GB__10__33,NVIDIA RTX A5000,10.0,33,A5000,1.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",UNSPECIFIED,0.1768,99999999
-runpod__2xA5000_24GB__18__100,NVIDIA RTX A5000,18.0,100,A5000,2.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":98304}",UNSPECIFIED,0.5368,99999999
-runpod__3xA5000_24GB__27__150,NVIDIA RTX A5000,27.0,150,A5000,3.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":73728}}],""TotalGpuMemoryInMiB"":221184}",UNSPECIFIED,0.7968000000000001,99999999
-runpod__4xA5000_24GB__36__200,NVIDIA RTX A5000,36.0,200,A5000,4.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":393216}",UNSPECIFIED,1.0568,99999999
-runpod__5xA5000_24GB__45__250,NVIDIA RTX A5000,45.0,250,A5000,5.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":122880}}],""TotalGpuMemoryInMiB"":614400}",UNSPECIFIED,1.3168,99999999
-runpod__6xA5000_24GB__54__300,NVIDIA RTX A5000,54.0,300,A5000,6.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":884736}",UNSPECIFIED,1.5768,99999999
-runpod__7xA5000_24GB__63__350,NVIDIA RTX A5000,63.0,350,A5000,7.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":172032}}],""TotalGpuMemoryInMiB"":1204224}",UNSPECIFIED,1.8368,99999999
-runpod__8xA5000_24GB__72__400,NVIDIA RTX A5000,72.0,400,A5000,8.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":1572864}",UNSPECIFIED,2.0968,99999999
-runpod__9xA5000_24GB__81__450,NVIDIA RTX A5000,81.0,450,A5000,9.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":221184}}],""TotalGpuMemoryInMiB"":1990656}",UNSPECIFIED,2.3568,99999999
-runpod__10xA5000_24GB__90__500,NVIDIA RTX A5000,90.0,500,A5000,10.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":2457600}",UNSPECIFIED,2.6168,99999999
-runpod__1xA6000_48GB__9__50,NVIDIA RTX A6000,9.0,50,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,0.5068,99999999
-runpod__1xA6000_48GB__8__58,NVIDIA RTX A6000,8.0,58,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",UNSPECIFIED,0.3468,99999999
-runpod__2xA6000_48GB__18__100,NVIDIA RTX A6000,18.0,100,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",UNSPECIFIED,0.9968,99999999
-runpod__3xA6000_48GB__27__150,NVIDIA RTX A6000,27.0,150,A6000,3.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",UNSPECIFIED,1.4868,99999999
-runpod__4xA6000_48GB__36__200,NVIDIA RTX A6000,36.0,200,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",UNSPECIFIED,1.9768,99999999
-runpod__5xA6000_48GB__45__250,NVIDIA RTX A6000,45.0,250,A6000,5.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",UNSPECIFIED,2.4668,99999999
-runpod__6xA6000_48GB__54__300,NVIDIA RTX A6000,54.0,300,A6000,6.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",UNSPECIFIED,2.9568,99999999
-runpod__7xA6000_48GB__63__350,NVIDIA RTX A6000,63.0,350,A6000,7.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",UNSPECIFIED,3.4468,99999999
-runpod__8xA6000_48GB__72__400,NVIDIA RTX A6000,72.0,400,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",UNSPECIFIED,3.9368,99999999
-runpod__9xA6000_48GB__81__450,NVIDIA RTX A6000,81.0,450,A6000,9.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":442368}}],""TotalGpuMemoryInMiB"":3981312}",UNSPECIFIED,4.4268,99999999
-hyperstack__1xA6000_48GB__28__58,n3-RTX-A6000x1,28.0,58,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA - CANADA-1,0.5,99999999
-hyperstack__2xA6000_48GB__60__116,n3-RTX-A6000x2,60.0,116,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA - CANADA-1,1.0,99999999
-hyperstack__4xA6000_48GB__124__232,n3-RTX-A6000x4,124.0,232,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA - CANADA-1,2.0,99999999
-hyperstack__8xA6000_48GB__252__464,n3-RTX-A6000x8,252.0,464,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA - CANADA-1,4.0,99999999
-oblivus__1xA6000_48GB__28__58,RTX_A6000,28.0,58,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA - MON1,0.5555,99999999
-oblivus__2xA6000_48GB__60__116,RTX_A6000,60.0,116,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA - MON1,1.1055000000000001,99999999
-oblivus__4xA6000_48GB__124__232,RTX_A6000,124.0,232,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA - MON1,2.2055000000000002,99999999
-oblivus__8xA6000_48GB__252__464,RTX_A6000,252.0,464,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA - MON1,4.4055,99999999
-datacrunch__1xA6000_48GB__10__60,1A6000.10V,10.0,60,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI - FIN-01,0.58,99999999
-datacrunch__4xA6000_48GB__40__240,4A6000.40V,40.0,240,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",FI - FIN-01,2.33,99999999
-datacrunch__8xA6000_48GB__80__480,8A6000.80V,80.0,480,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",FI - FIN-02,4.65,99999999
-massedcompute__1xA6000_48GB__6__48,gpu_1x_a6000,6.0,48,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US - us-central-2,0.4,99999999
-massedcompute__2xA6000_48GB__14__96,gpu_2x_a6000,14.0,96,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US - us-central-2,0.81,99999999
-massedcompute__4xA6000_48GB__30__192,gpu_4x_a6000,30.0,192,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US - us-central-2,1.62,99999999
-runpod__1xRTX3070_8GB__16__31,NVIDIA GeForce RTX 3070,16.0,31,RTX3070,1.0,"{""Gpus"":[{""Name"":""RTX3070"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":8192}}],""TotalGpuMemoryInMiB"":8192}",UNSPECIFIED,0.1468,99999999
-runpod__2xRTX3070_8GB__32__62,NVIDIA GeForce RTX 3070,32.0,62,RTX3070,2.0,"{""Gpus"":[{""Name"":""RTX3070"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":32768}",UNSPECIFIED,0.2768,99999999
-runpod__3xRTX3070_8GB__48__93,NVIDIA GeForce RTX 3070,48.0,93,RTX3070,3.0,"{""Gpus"":[{""Name"":""RTX3070"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":73728}",UNSPECIFIED,0.4068,99999999
-runpod__1xRTX3080_10GB__12__14,NVIDIA GeForce RTX 3080,12.0,14,RTX3080,1.0,"{""Gpus"":[{""Name"":""RTX3080"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":10240}}],""TotalGpuMemoryInMiB"":10240}",UNSPECIFIED,0.18680000000000002,99999999
-runpod__1xRTX3080Ti_12GB__8__21,NVIDIA GeForce RTX 3080 Ti,8.0,21,RTX3080Ti,1.0,"{""Gpus"":[{""Name"":""RTX3080Ti"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":12288}}],""TotalGpuMemoryInMiB"":12288}",UNSPECIFIED,0.1968,99999999
-runpod__1xV100_16GB__6__31,Tesla V100-FHHL-16GB,6.0,31,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",UNSPECIFIED,0.2068,99999999
-runpod__1xV100_16GB__10__62,Tesla V100-SXM2-16GB,10.0,62,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",UNSPECIFIED,0.24680000000000002,99999999
-runpod__2xV100_16GB__12__62,Tesla V100-FHHL-16GB,12.0,62,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",UNSPECIFIED,0.3968,99999999
-runpod__2xV100_16GB__20__124,Tesla V100-SXM2-16GB,20.0,124,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",UNSPECIFIED,0.4768,99999999
-runpod__3xV100_16GB__18__93,Tesla V100-FHHL-16GB,18.0,93,V100,3.0,"{""Gpus"":[{""Name"":""V100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",UNSPECIFIED,0.5868,99999999
-runpod__3xV100_16GB__30__186,Tesla V100-SXM2-16GB,30.0,186,V100,3.0,"{""Gpus"":[{""Name"":""V100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",UNSPECIFIED,0.7068,99999999
-runpod__4xV100_16GB__24__124,Tesla V100-FHHL-16GB,24.0,124,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",UNSPECIFIED,0.7768,99999999
-runpod__4xV100_16GB__40__248,Tesla V100-SXM2-16GB,40.0,248,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",UNSPECIFIED,0.9368000000000001,99999999
-runpod__5xV100_16GB__30__155,Tesla V100-FHHL-16GB,30.0,155,V100,5.0,"{""Gpus"":[{""Name"":""V100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":409600}",UNSPECIFIED,0.9668,99999999
-runpod__5xV100_16GB__50__310,Tesla V100-SXM2-16GB,50.0,310,V100,5.0,"{""Gpus"":[{""Name"":""V100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":409600}",UNSPECIFIED,1.1667999999999998,99999999
-runpod__6xV100_16GB__36__186,Tesla V100-FHHL-16GB,36.0,186,V100,6.0,"{""Gpus"":[{""Name"":""V100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":589824}",UNSPECIFIED,1.1567999999999998,99999999
-runpod__6xV100_16GB__60__372,Tesla V100-SXM2-16GB,60.0,372,V100,6.0,"{""Gpus"":[{""Name"":""V100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":589824}",UNSPECIFIED,1.3967999999999998,99999999
-runpod__7xV100_16GB__42__217,Tesla V100-FHHL-16GB,42.0,217,V100,7.0,"{""Gpus"":[{""Name"":""V100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":114688}}],""TotalGpuMemoryInMiB"":802816}",UNSPECIFIED,1.3468,99999999
-lambdalabs__8xV100_16GB__92__448,gpu_8x_v100,92.0,448,V100,8.0,"{""Gpus"":[{""Name"":""V100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":131072}}],""TotalGpuMemoryInMiB"":1048576}",US - us-south-1,4.4,99999999
-datacrunch__1xV100_16GB__6__23,1V100.6V,6.0,23,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",FI - FIN-01,0.15,99999999
-datacrunch__2xV100_16GB__10__45,2V100.10V,10.0,45,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",FI - FIN-01,0.31,99999999
-datacrunch__4xV100_16GB__20__90,4V100.20V,20.0,90,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",FI - FIN-01,0.61,99999999
-runpod__1xV100_32GB__20__93,Tesla V100-SXM2-32GB,20.0,93,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":32768}",UNSPECIFIED,0.3468,99999999
-runpod__2xV100_32GB__40__186,Tesla V100-SXM2-32GB,40.0,186,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":131072}",UNSPECIFIED,0.6768000000000001,99999999
-runpod__3xV100_32GB__60__279,Tesla V100-SXM2-32GB,60.0,279,V100,3.0,"{""Gpus"":[{""Name"":""V100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":294912}",UNSPECIFIED,1.0068,99999999
-runpod__4xV100_32GB__80__372,Tesla V100-SXM2-32GB,80.0,372,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":131072}}],""TotalGpuMemoryInMiB"":524288}",UNSPECIFIED,1.3368,99999999
-lambdalabs__1xA100_40GB__30__200,gpu_1x_a100,30.0,200,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":40960}",US - us-south-1,1.29,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,IS - eu-iceland1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-east1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US - us-southcentral1-a,0.1,99999999
-crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,IS - eu-iceland1-a,0.1,99999999
+InstanceType,UpstreamCloudId,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,AvailabilityZone,Price,SpotPrice
+lambdalabs__8xA100_80GB__240__1800,gpu_8x_a100_80gb_sxm4,240.0,1800,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US,us-midwest-1,14.32,99999999
+lambdalabs__8xA100_80GB__240__1800,gpu_8x_a100_80gb_sxm4,240.0,1800,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",AU,australia-east-1,14.32,99999999
+hyperstack__1xA100_80GB__28__120,n3-A100x1,28.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA,CANADA-1,1.35,99999999
+hyperstack__2xA100_80GB__60__240,n3-A100x2,60.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA,CANADA-1,2.7,99999999
+hyperstack__4xA100_80GB__124__480,n3-A100x4,124.0,480,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA,CANADA-1,5.4,99999999
+hyperstack__8xA100_80GB__252__1440,n3-A100x8,252.0,1440,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,10.8,99999999
+hyperstack__8xA100_80GB__252__1920,n3-A100x8-NVLink,252.0,1920,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,11.2,99999999
+dc_impala__1xA100_80GB__120__120,n3-A100x1,120.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA,CANADA-1,1.4850000000000003,99999999
+dc_impala__2xA100_80GB__240__240,n3-A100x2,240.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA,CANADA-1,2.9700000000000006,99999999
+dc_impala__4xA100_80GB__480__480,n3-A100x4,480.0,480,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA,CANADA-1,5.940000000000001,99999999
+dc_impala__8xA100_80GB__1440__1440,n3-A100x8,1440.0,1440,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,11.880000000000003,99999999
+dc_impala__8xA100_80GB__1920__1920,n3-A100x8-NVLink,1920.0,1920,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,12.32,99999999
+oblivus__8xA100_80GB__252__1920,A100_NVLINK_80GB,252.0,1920,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,MON1,12.5655,99999999
+oblivus__1xA100_80GB__28__120,A100_PCIE_80GB,28.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA,MON1,1.4755,99999999
+oblivus__2xA100_80GB__60__240,A100_PCIE_80GB,60.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA,MON1,2.9455,99999999
+oblivus__4xA100_80GB__124__480,A100_PCIE_80GB,124.0,480,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA,MON1,5.8854999999999995,99999999
+oblivus__8xA100_80GB__252__1440,A100_PCIE_80GB,252.0,1440,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,MON1,11.7655,99999999
+cudocompute__1xA100_80GB__10__40,intel-ice-lake-a100-pci,10.0,40,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US,us-carlsbad-1,1.5485,99999999
+cudocompute__2xA100_80GB__20__80,intel-ice-lake-a100-pci,20.0,80,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",US,us-carlsbad-1,3.0934999999999997,99999999
+cudocompute__3xA100_80GB__30__120,intel-ice-lake-a100-pci,30.0,120,A100,3.0,"{""Gpus"":[{""Name"":""A100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",US,us-carlsbad-1,4.6385000000000005,99999999
+datacrunch__1xA100_80GB__22__120,1A100.22V,22.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",FI,FIN-01,1.12,99999999
+datacrunch__2xA100_80GB__44__240,2A100.44V,44.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",FI,FIN-01,2.23,99999999
+datacrunch__4xA100_80GB__88__480,4A100.88V,88.0,480,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",FI,FIN-02,4.46,99999999
+datacrunch__8xA100_80GB__176__960,8A100.176V,176.0,960,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",FI,FIN-01,8.92,99999999
+massedcompute__1xA100_80GB__16__96,gpu_1x_a100,16.0,96,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US,us-central-2,0.99,99999999
+massedcompute__2xA100_80GB__30__150,gpu_2x_a100,30.0,150,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",US,us-central-2,1.98,99999999
+massedcompute__4xA100_80GB__60__300,gpu_4x_a100,60.0,300,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",US,us-central-2,3.96,99999999
+crusoecloud__1xA100_80GB__12__120,a100-80gb.1x,12.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US,us-east1-a,1.65,99999999
+crusoecloud__2xA100_80GB__24__240,a100-80gb.2x,24.0,240,A100,2.0,"{""Gpus"":[{""Name"":""A100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",US,us-east1-a,3.3,99999999
+crusoecloud__4xA100_80GB__48__480,a100-80gb.4x,48.0,480,A100,4.0,"{""Gpus"":[{""Name"":""A100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",US,us-east1-a,6.6,99999999
+crusoecloud__8xA100_80GB__96__960,a100-80gb.8x,96.0,960,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US,us-east1-a,13.2,99999999
+cudocompute__1xA40_48GB__10__40,ice-lake-a40-compute,10.0,40,A40,1.0,"{""Gpus"":[{""Name"":""A40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA,ca-montreal-3,0.5245,99999999
+cudocompute__2xA40_48GB__20__80,ice-lake-a40-compute,20.0,80,A40,2.0,"{""Gpus"":[{""Name"":""A40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,ca-montreal-3,1.0455,99999999
+cudocompute__3xA40_48GB__30__120,ice-lake-a40-compute,30.0,120,A40,3.0,"{""Gpus"":[{""Name"":""A40"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",CA,ca-montreal-3,1.5664999999999998,99999999
+cudocompute__4xA40_48GB__40__160,ice-lake-a40-compute,40.0,160,A40,4.0,"{""Gpus"":[{""Name"":""A40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,ca-montreal-3,2.0875,99999999
+cudocompute__5xA40_48GB__50__200,ice-lake-a40-compute,50.0,200,A40,5.0,"{""Gpus"":[{""Name"":""A40"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",CA,ca-montreal-3,2.6085,99999999
+cudocompute__6xA40_48GB__60__240,ice-lake-a40-compute,60.0,240,A40,6.0,"{""Gpus"":[{""Name"":""A40"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",CA,ca-montreal-3,3.1294999999999993,99999999
+cudocompute__7xA40_48GB__70__280,ice-lake-a40-compute,70.0,280,A40,7.0,"{""Gpus"":[{""Name"":""A40"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",CA,ca-montreal-3,3.6504999999999996,99999999
+cudocompute__8xA40_48GB__80__320,ice-lake-a40-compute,80.0,320,A40,8.0,"{""Gpus"":[{""Name"":""A40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,ca-montreal-3,4.1715,99999999
+cudocompute__9xA40_48GB__90__360,ice-lake-a40-compute,90.0,360,A40,9.0,"{""Gpus"":[{""Name"":""A40"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":442368}}],""TotalGpuMemoryInMiB"":3981312}",CA,ca-montreal-3,4.6925,99999999
+cudocompute__1xA40_48GB__10__40,ice-lake-a40-compute,10.0,40,A40,1.0,"{""Gpus"":[{""Name"":""A40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",SE,se-stockholm-1,0.5245,99999999
+cudocompute__2xA40_48GB__20__80,ice-lake-a40-compute,20.0,80,A40,2.0,"{""Gpus"":[{""Name"":""A40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",SE,se-stockholm-1,1.0455,99999999
+cudocompute__3xA40_48GB__30__120,ice-lake-a40-compute,30.0,120,A40,3.0,"{""Gpus"":[{""Name"":""A40"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",SE,se-stockholm-1,1.5664999999999998,99999999
+cudocompute__4xA40_48GB__40__160,ice-lake-a40-compute,40.0,160,A40,4.0,"{""Gpus"":[{""Name"":""A40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",SE,se-stockholm-1,2.0875,99999999
+cudocompute__5xA40_48GB__50__200,ice-lake-a40-compute,50.0,200,A40,5.0,"{""Gpus"":[{""Name"":""A40"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",SE,se-stockholm-1,2.6085,99999999
+cudocompute__6xA40_48GB__60__240,ice-lake-a40-compute,60.0,240,A40,6.0,"{""Gpus"":[{""Name"":""A40"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",SE,se-stockholm-1,3.1294999999999993,99999999
+cudocompute__7xA40_48GB__70__280,ice-lake-a40-compute,70.0,280,A40,7.0,"{""Gpus"":[{""Name"":""A40"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",SE,se-stockholm-1,3.6504999999999996,99999999
+cudocompute__8xA40_48GB__80__320,ice-lake-a40-compute,80.0,320,A40,8.0,"{""Gpus"":[{""Name"":""A40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",SE,se-stockholm-1,4.1715,99999999
+cudocompute__9xA40_48GB__90__360,ice-lake-a40-compute,90.0,360,A40,9.0,"{""Gpus"":[{""Name"":""A40"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":442368}}],""TotalGpuMemoryInMiB"":3981312}",SE,se-stockholm-1,4.6925,99999999
+datacrunch__1xB200_180GB__31__250,1B200.31V,31.0,250,B200,1.0,"{""Gpus"":[{""Name"":""B200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":184320}}],""TotalGpuMemoryInMiB"":184320}",FI,FIN-03,4.49,99999999
+datacrunch__2xB200_180GB__62__500,2B200.62V,62.0,500,B200,2.0,"{""Gpus"":[{""Name"":""B200"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":368640}}],""TotalGpuMemoryInMiB"":737280}",FI,FIN-03,8.98,99999999
+datacrunch__8xB200_180GB__248__2000,8B200.248V,248.0,2000,B200,8.0,"{""Gpus"":[{""Name"":""B200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1474560}}],""TotalGpuMemoryInMiB"":11796480}",FI,FIN-03,35.92,99999999
+lambdalabs__4xH100_80GB__104__900,gpu_4x_h100_sxm5,104.0,900,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",US,us-south-2,12.36,99999999
+lambdalabs__2xH100_80GB__52__450,gpu_2x_h100_sxm5,52.0,450,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",US,us-south-2,6.38,99999999
+lambdalabs__1xH100_80GB__26__225,gpu_1x_h100_sxm5,26.0,225,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US,us-south-2,3.29,99999999
+hyperstack__1xH100_80GB__28__180,n3-H100x1,28.0,180,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA,CANADA-1,1.9,99999999
+hyperstack__2xH100_80GB__60__360,n3-H100x2,60.0,360,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA,CANADA-1,3.8,99999999
+hyperstack__4xH100_80GB__124__720,n3-H100x4,124.0,720,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA,CANADA-1,7.6,99999999
+hyperstack__8xH100_80GB__252__1440,n3-H100x8,252.0,1440,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,15.2,99999999
+hyperstack__8xH100_80GB__252__1440,n3-H100x8-NVLink,252.0,1440,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,15.6,99999999
+dc_impala__1xH100_80GB__180__180,n3-H100x1,180.0,180,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA,CANADA-1,2.09,99999999
+dc_impala__2xH100_80GB__360__360,n3-H100x2,360.0,360,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA,CANADA-1,4.18,99999999
+dc_impala__4xH100_80GB__720__720,n3-H100x4,720.0,720,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA,CANADA-1,8.36,99999999
+dc_impala__8xH100_80GB__1440__1440,n3-H100x8,1440.0,1440,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,16.72,99999999
+dc_impala__8xH100_80GB__1440__1440,n3-H100x8-NVLink,1440.0,1440,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",CA,CANADA-1,17.16,99999999
+cudocompute__1xH100_80GB__10__40,sapphire-rapids-h100,10.0,40,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",CA,ca-montreal-3,2.7984999999999998,99999999
+cudocompute__2xH100_80GB__20__80,sapphire-rapids-h100,20.0,80,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",CA,ca-montreal-3,5.5935,99999999
+cudocompute__3xH100_80GB__30__120,sapphire-rapids-h100,30.0,120,H100,3.0,"{""Gpus"":[{""Name"":""H100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",CA,ca-montreal-3,8.3885,99999999
+cudocompute__4xH100_80GB__40__160,sapphire-rapids-h100,40.0,160,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",CA,ca-montreal-3,11.1835,99999999
+cudocompute__5xH100_80GB__50__200,sapphire-rapids-h100,50.0,200,H100,5.0,"{""Gpus"":[{""Name"":""H100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":409600}}],""TotalGpuMemoryInMiB"":2048000}",CA,ca-montreal-3,13.9785,99999999
+cudocompute__6xH100_80GB__60__240,sapphire-rapids-h100,60.0,240,H100,6.0,"{""Gpus"":[{""Name"":""H100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":2949120}",CA,ca-montreal-3,16.7735,99999999
+cudocompute__7xH100_80GB__70__280,sapphire-rapids-h100,70.0,280,H100,7.0,"{""Gpus"":[{""Name"":""H100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":573440}}],""TotalGpuMemoryInMiB"":4014080}",CA,ca-montreal-3,19.5685,99999999
+cudocompute__1xH100_80GB__10__40,sapphire-rapids-h100,10.0,40,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",NO,no-kristiansand-1,2.5085,99999999
+cudocompute__2xH100_80GB__20__80,sapphire-rapids-h100,20.0,80,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",NO,no-kristiansand-1,5.0135000000000005,99999999
+cudocompute__3xH100_80GB__30__120,sapphire-rapids-h100,30.0,120,H100,3.0,"{""Gpus"":[{""Name"":""H100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":737280}",NO,no-kristiansand-1,7.5184999999999995,99999999
+cudocompute__4xH100_80GB__40__160,sapphire-rapids-h100,40.0,160,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",NO,no-kristiansand-1,10.023500000000002,99999999
+datacrunch__1xH100_80GB__30__120,1H100.80S.30V,30.0,120,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",FI,FIN-01,2.19,99999999
+datacrunch__1xH100_80GB__30__120,1H100.80S.30V,30.0,120,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",FI,FIN-02,2.19,99999999
+datacrunch__8xH100_80GB__176__1480,8H100.80S.176V,176.0,1480,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",FI,FIN-02,17.52,99999999
+massedcompute__1xH100_80GB__20__128,gpu_1x_h100,20.0,128,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US,us-central-3,1.89,99999999
+massedcompute__2xH100_80GB__40__256,gpu_2x_h100,40.0,256,H100,2.0,"{""Gpus"":[{""Name"":""H100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":163840}}],""TotalGpuMemoryInMiB"":327680}",US,us-central-3,3.78,99999999
+latitude__8xH100_80GB__128__1536,g3-h100-large,128.0,1536,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US,DAL,14.34,99999999
+latitude__4xH100_80GB__128__768,g3-h100-medium,128.0,768,H100,4.0,"{""Gpus"":[{""Name"":""H100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":1310720}",US,DAL,7.97,99999999
+latitude__1xH100_80GB__16__192,g3-h100-small,16.0,192,H100,1.0,"{""Gpus"":[{""Name"":""H100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":81920}",US,DAL,1.99,99999999
+primecompute__8xH100_80GB__104__752,NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US,US,20.0,99999999
+primecompute__8xH100_80GB__104__752__SPOT,SPOT_NVIDIA H100 80GB HBM3_8,104.0,752,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US,US,99999999,8.0
+dc_roan__8xH100_80GB__104__1024,h100-sxm5-80gb_eth,104.0,1024,H100,8.0,"{""Gpus"":[{""Name"":""H100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":655360}}],""TotalGpuMemoryInMiB"":5242880}",US,a3111bd4-550a-47d0-838a-0a52bff2ae3f,15.92,99999999
+datacrunch__1xH200_141GB__44__182,1H200.141S.44V,44.0,182,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",FI,FIN-02,2.9,99999999
+datacrunch__1xH200_141GB__44__182,1H200.141S.44V,44.0,182,H200,1.0,"{""Gpus"":[{""Name"":""H200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":144384}}],""TotalGpuMemoryInMiB"":144384}",IS,ICE-01,2.9,99999999
+datacrunch__2xH200_141GB__88__370,2H200.141S.88V,88.0,370,H200,2.0,"{""Gpus"":[{""Name"":""H200"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":288768}}],""TotalGpuMemoryInMiB"":577536}",FI,FIN-02,5.8,99999999
+datacrunch__4xH200_141GB__176__740,4H200.141S.176V,176.0,740,H200,4.0,"{""Gpus"":[{""Name"":""H200"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":577536}}],""TotalGpuMemoryInMiB"":2310144}",IS,ICE-01,11.59,99999999
+datacrunch__8xH200_141GB__176__1450,8H200.141S.176V,176.0,1450,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",FI,FIN-02,23.18,99999999
+datacrunch__8xH200_141GB__176__1450,8H200.141S.176V,176.0,1450,H200,8.0,"{""Gpus"":[{""Name"":""H200"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":1155072}}],""TotalGpuMemoryInMiB"":9240576}",IS,ICE-01,23.18,99999999
+hyperstack__1xL40_48GB__28__58,n3-L40x1,28.0,58,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA,CANADA-1,1.0,99999999
+hyperstack__2xL40_48GB__60__116,n3-L40x2,60.0,116,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,CANADA-1,2.0,99999999
+hyperstack__4xL40_48GB__124__232,n3-L40x4,124.0,232,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,CANADA-1,4.0,99999999
+hyperstack__8xL40_48GB__252__464,n3-L40x8,252.0,464,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,CANADA-1,8.0,99999999
+dc_impala__1xL40_48GB__58__58,n3-L40x1,58.0,58,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA,CANADA-1,1.1,99999999
+dc_impala__2xL40_48GB__116__116,n3-L40x2,116.0,116,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,CANADA-1,2.2,99999999
+dc_impala__4xL40_48GB__232__232,n3-L40x4,232.0,232,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,CANADA-1,4.4,99999999
+dc_impala__8xL40_48GB__464__464,n3-L40x8,464.0,464,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,CANADA-1,8.8,99999999
+oblivus__1xL40_48GB__28__58,L40,28.0,58,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA,MON1,1.0555,99999999
+oblivus__2xL40_48GB__60__116,L40,60.0,116,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,MON1,2.1055,99999999
+oblivus__4xL40_48GB__124__232,L40,124.0,232,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,MON1,4.2055,99999999
+oblivus__8xL40_48GB__252__464,L40,252.0,464,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,MON1,8.4055,99999999
+massedcompute__1xL40_48GB__14__128,gpu_1x_l40,14.0,128,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-central-3,0.71,99999999
+massedcompute__2xL40_48GB__26__256,gpu_2x_l40,26.0,256,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-central-3,1.42,99999999
+massedcompute__4xL40_48GB__50__512,gpu_4x_l40,50.0,512,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US,us-central-3,2.85,99999999
+latitude__8xL40_48GB__128__1536,g3-l40s-large,128.0,1536,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",US,DAL,6.97,99999999
+latitude__8xL40_48GB__128__1536,g3-l40s-large,128.0,1536,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",DE,FRA2,6.97,99999999
+cudocompute__1xL40S_48GB__10__40,epyc-genoa-l40s-compute,10.0,40,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",AU,au-melbourne-1,1.1185,99999999
+cudocompute__2xL40S_48GB__20__80,epyc-genoa-l40s-compute,20.0,80,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",AU,au-melbourne-1,2.2335,99999999
+cudocompute__3xL40S_48GB__30__120,epyc-genoa-l40s-compute,30.0,120,L40S,3.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",AU,au-melbourne-1,3.3484999999999996,99999999
+cudocompute__4xL40S_48GB__40__160,epyc-genoa-l40s-compute,40.0,160,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",AU,au-melbourne-1,4.4635,99999999
+cudocompute__5xL40S_48GB__50__200,epyc-genoa-l40s-compute,50.0,200,L40S,5.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",AU,au-melbourne-1,5.578499999999999,99999999
+cudocompute__6xL40S_48GB__60__240,epyc-genoa-l40s-compute,60.0,240,L40S,6.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",AU,au-melbourne-1,6.693499999999999,99999999
+cudocompute__7xL40S_48GB__70__280,epyc-genoa-l40s-compute,70.0,280,L40S,7.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",AU,au-melbourne-1,7.8084999999999996,99999999
+cudocompute__1xL40S_48GB__10__40,epyc-milan-rtx-l40s-compute,10.0,40,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",ZA,za-centurion-1,1.1285,99999999
+cudocompute__2xL40S_48GB__20__80,epyc-milan-rtx-l40s-compute,20.0,80,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",ZA,za-centurion-1,2.2535,99999999
+cudocompute__3xL40S_48GB__30__120,epyc-milan-rtx-l40s-compute,30.0,120,L40S,3.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",ZA,za-centurion-1,3.3785,99999999
+cudocompute__4xL40S_48GB__40__160,epyc-milan-rtx-l40s-compute,40.0,160,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",ZA,za-centurion-1,4.5035,99999999
+cudocompute__5xL40S_48GB__50__200,epyc-milan-rtx-l40s-compute,50.0,200,L40S,5.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",ZA,za-centurion-1,5.6285,99999999
+cudocompute__6xL40S_48GB__60__240,epyc-milan-rtx-l40s-compute,60.0,240,L40S,6.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",ZA,za-centurion-1,6.7535,99999999
+cudocompute__7xL40S_48GB__70__280,epyc-milan-rtx-l40s-compute,70.0,280,L40S,7.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",ZA,za-centurion-1,7.8785,99999999
+datacrunch__1xL40S_48GB__20__60,1L40S.20V,20.0,60,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI,FIN-02,0.91,99999999
+crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-east1-a,1.0,99999999
+crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-southcentral1-a,1.0,99999999
+crusoecloud__2xL40S_48GB__16__294,l40s-48gb.2x,16.0,294,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-east1-a,2.0,99999999
+crusoecloud__2xL40S_48GB__16__294,l40s-48gb.2x,16.0,294,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-southcentral1-a,2.0,99999999
+crusoecloud__4xL40S_48GB__32__588,l40s-48gb.4x,32.0,588,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US,us-east1-a,4.0,99999999
+crusoecloud__4xL40S_48GB__32__588,l40s-48gb.4x,32.0,588,L40S,4.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US,us-southcentral1-a,4.0,99999999
+crusoecloud__8xL40S_48GB__64__1176,l40s-48gb.8x,64.0,1176,L40S,8.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",US,us-east1-a,8.0,99999999
+crusoecloud__8xL40S_48GB__64__1176,l40s-48gb.8x,64.0,1176,L40S,8.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",US,us-southcentral1-a,8.0,99999999
+crusoecloud__10xL40S_48GB__80__1470,l40s-48gb.10x,80.0,1470,L40S,10.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":4915200}",US,us-east1-a,10.0,99999999
+crusoecloud__10xL40S_48GB__80__1470,l40s-48gb.10x,80.0,1470,L40S,10.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":10,""MemoryInfo"":{""SizeInMiB"":491520}}],""TotalGpuMemoryInMiB"":4915200}",US,us-southcentral1-a,10.0,99999999
+datacrunch__1xRTX6000Ada_48GB__10__60,1RTX6000ADA.10V,10.0,60,RTX6000Ada,1.0,"{""Gpus"":[{""Name"":""RTX6000Ada"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI,FIN-01,0.83,99999999
+cudocompute__1xA5000_24GB__10__40,ice-lake-rtx-a5000,10.0,40,A5000,1.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",CA,ca-montreal-3,0.46449999999999997,99999999
+cudocompute__2xA5000_24GB__20__80,ice-lake-rtx-a5000,20.0,80,A5000,2.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":98304}",CA,ca-montreal-3,0.9254999999999999,99999999
+cudocompute__3xA5000_24GB__30__120,ice-lake-rtx-a5000,30.0,120,A5000,3.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":73728}}],""TotalGpuMemoryInMiB"":221184}",CA,ca-montreal-3,1.3864999999999998,99999999
+cudocompute__4xA5000_24GB__40__160,ice-lake-rtx-a5000,40.0,160,A5000,4.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":393216}",CA,ca-montreal-3,1.8475,99999999
+cudocompute__5xA5000_24GB__50__200,ice-lake-rtx-a5000,50.0,200,A5000,5.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":122880}}],""TotalGpuMemoryInMiB"":614400}",CA,ca-montreal-3,2.3084999999999996,99999999
+cudocompute__6xA5000_24GB__60__240,ice-lake-rtx-a5000,60.0,240,A5000,6.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":884736}",CA,ca-montreal-3,2.7694999999999994,99999999
+cudocompute__7xA5000_24GB__70__280,ice-lake-rtx-a5000,70.0,280,A5000,7.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":172032}}],""TotalGpuMemoryInMiB"":1204224}",CA,ca-montreal-3,3.2304999999999997,99999999
+cudocompute__8xA5000_24GB__80__320,ice-lake-rtx-a5000,80.0,320,A5000,8.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":1572864}",CA,ca-montreal-3,3.6914999999999996,99999999
+cudocompute__9xA5000_24GB__90__360,ice-lake-rtx-a5000,90.0,360,A5000,9.0,"{""Gpus"":[{""Name"":""A5000"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":221184}}],""TotalGpuMemoryInMiB"":1990656}",CA,ca-montreal-3,4.1525,99999999
+lambdalabs__4xA6000_48GB__56__400,gpu_4x_a6000,56.0,400,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US,us-south-1,3.2,99999999
+hyperstack__1xA6000_48GB__28__58,n3-RTX-A6000x1,28.0,58,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA,CANADA-1,0.5,99999999
+hyperstack__2xA6000_48GB__60__116,n3-RTX-A6000x2,60.0,116,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,CANADA-1,1.0,99999999
+hyperstack__4xA6000_48GB__124__232,n3-RTX-A6000x4,124.0,232,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,CANADA-1,2.0,99999999
+hyperstack__8xA6000_48GB__252__464,n3-RTX-A6000x8,252.0,464,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,CANADA-1,4.0,99999999
+dc_impala__1xA6000_48GB__58__58,n3-RTX-A6000x1,58.0,58,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA,CANADA-1,0.55,99999999
+dc_impala__2xA6000_48GB__116__116,n3-RTX-A6000x2,116.0,116,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,CANADA-1,1.1,99999999
+dc_impala__4xA6000_48GB__232__232,n3-RTX-A6000x4,232.0,232,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,CANADA-1,2.2,99999999
+dc_impala__8xA6000_48GB__464__464,n3-RTX-A6000x8,464.0,464,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,CANADA-1,4.4,99999999
+oblivus__1xA6000_48GB__28__58,RTX_A6000,28.0,58,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",CA,MON1,0.5555,99999999
+oblivus__2xA6000_48GB__60__116,RTX_A6000,60.0,116,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,MON1,1.1055000000000001,99999999
+oblivus__4xA6000_48GB__124__232,RTX_A6000,124.0,232,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,MON1,2.2055000000000002,99999999
+oblivus__8xA6000_48GB__252__464,RTX_A6000,252.0,464,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,MON1,4.4055,99999999
+cudocompute__1xA6000_48GB__10__40,ice-lake-rtx-a6000,10.0,40,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",SE,se-stockholm-1,0.6244999999999999,99999999
+cudocompute__2xA6000_48GB__20__80,ice-lake-rtx-a6000,20.0,80,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",SE,se-stockholm-1,1.2455,99999999
+cudocompute__3xA6000_48GB__30__120,ice-lake-rtx-a6000,30.0,120,A6000,3.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":147456}}],""TotalGpuMemoryInMiB"":442368}",SE,se-stockholm-1,1.8665,99999999
+cudocompute__4xA6000_48GB__40__160,ice-lake-rtx-a6000,40.0,160,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",SE,se-stockholm-1,2.4875,99999999
+cudocompute__5xA6000_48GB__50__200,ice-lake-rtx-a6000,50.0,200,A6000,5.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":245760}}],""TotalGpuMemoryInMiB"":1228800}",SE,se-stockholm-1,3.1084999999999994,99999999
+cudocompute__6xA6000_48GB__60__240,ice-lake-rtx-a6000,60.0,240,A6000,6.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":294912}}],""TotalGpuMemoryInMiB"":1769472}",SE,se-stockholm-1,3.7295,99999999
+cudocompute__7xA6000_48GB__70__280,ice-lake-rtx-a6000,70.0,280,A6000,7.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":344064}}],""TotalGpuMemoryInMiB"":2408448}",SE,se-stockholm-1,4.350499999999999,99999999
+cudocompute__8xA6000_48GB__80__320,ice-lake-rtx-a6000,80.0,320,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",SE,se-stockholm-1,4.9715,99999999
+cudocompute__9xA6000_48GB__90__360,ice-lake-rtx-a6000,90.0,360,A6000,9.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":9,""MemoryInfo"":{""SizeInMiB"":442368}}],""TotalGpuMemoryInMiB"":3981312}",SE,se-stockholm-1,5.5925,99999999
+datacrunch__1xA6000_48GB__10__60,1A6000.10V,10.0,60,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI,FIN-01,0.52,99999999
+datacrunch__8xA6000_48GB__80__480,8A6000.80V,80.0,480,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",FI,FIN-01,4.19,99999999
+datacrunch__8xA6000_48GB__80__480,8A6000.80V,80.0,480,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",FI,FIN-02,4.19,99999999
+massedcompute__1xA6000_48GB__6__48,gpu_1x_a6000,6.0,48,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-central-1,0.4,99999999
+massedcompute__2xA6000_48GB__14__96,gpu_2x_a6000,14.0,96,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-central-2,0.81,99999999
+lambdalabs__8xV100_16GB__92__448,gpu_8x_v100,92.0,448,V100,8.0,"{""Gpus"":[{""Name"":""V100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":131072}}],""TotalGpuMemoryInMiB"":1048576}",US,us-south-1,4.4,99999999
+cudocompute__1xV100_16GB__10__40,intel-broadwell-v100,10.0,40,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",US,us-losangeles-1,0.5555,99999999
+cudocompute__2xV100_16GB__20__80,intel-broadwell-v100,20.0,80,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",US,us-losangeles-1,1.1075000000000002,99999999
+cudocompute__3xV100_16GB__30__120,intel-broadwell-v100,30.0,120,V100,3.0,"{""Gpus"":[{""Name"":""V100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",US,us-losangeles-1,1.6595,99999999
+cudocompute__4xV100_16GB__40__160,intel-broadwell-v100,40.0,160,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",US,us-losangeles-1,2.2115,99999999
+cudocompute__5xV100_16GB__50__200,intel-broadwell-v100,50.0,200,V100,5.0,"{""Gpus"":[{""Name"":""V100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":409600}",US,us-losangeles-1,2.7635,99999999
+cudocompute__6xV100_16GB__60__240,intel-broadwell-v100,60.0,240,V100,6.0,"{""Gpus"":[{""Name"":""V100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":589824}",US,us-losangeles-1,3.3154999999999997,99999999
+cudocompute__7xV100_16GB__70__280,intel-broadwell-v100,70.0,280,V100,7.0,"{""Gpus"":[{""Name"":""V100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":114688}}],""TotalGpuMemoryInMiB"":802816}",US,us-losangeles-1,3.8674999999999997,99999999
+cudocompute__1xV100_16GB__10__40,intel-broadwell-v100,10.0,40,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",US,us-newyork-1,0.5695,99999999
+cudocompute__2xV100_16GB__20__80,intel-broadwell-v100,20.0,80,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",US,us-newyork-1,1.1355000000000002,99999999
+cudocompute__3xV100_16GB__30__120,intel-broadwell-v100,30.0,120,V100,3.0,"{""Gpus"":[{""Name"":""V100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",US,us-newyork-1,1.7015,99999999
+cudocompute__4xV100_16GB__40__160,intel-broadwell-v100,40.0,160,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",US,us-newyork-1,2.2675,99999999
+cudocompute__5xV100_16GB__50__200,intel-broadwell-v100,50.0,200,V100,5.0,"{""Gpus"":[{""Name"":""V100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":409600}",US,us-newyork-1,2.8335,99999999
+cudocompute__6xV100_16GB__60__240,intel-broadwell-v100,60.0,240,V100,6.0,"{""Gpus"":[{""Name"":""V100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":589824}",US,us-newyork-1,3.3994999999999997,99999999
+cudocompute__1xV100_16GB__10__40,intel-broadwell-v100,10.0,40,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",US,us-santaclara-1,0.5555,99999999
+cudocompute__2xV100_16GB__20__80,intel-broadwell-v100,20.0,80,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",US,us-santaclara-1,1.1075000000000002,99999999
+cudocompute__3xV100_16GB__30__120,intel-broadwell-v100,30.0,120,V100,3.0,"{""Gpus"":[{""Name"":""V100"",""Count"":3,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":147456}",US,us-santaclara-1,1.6595,99999999
+cudocompute__4xV100_16GB__40__160,intel-broadwell-v100,40.0,160,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",US,us-santaclara-1,2.2115,99999999
+cudocompute__5xV100_16GB__50__200,intel-broadwell-v100,50.0,200,V100,5.0,"{""Gpus"":[{""Name"":""V100"",""Count"":5,""MemoryInfo"":{""SizeInMiB"":81920}}],""TotalGpuMemoryInMiB"":409600}",US,us-santaclara-1,2.7635,99999999
+cudocompute__6xV100_16GB__60__240,intel-broadwell-v100,60.0,240,V100,6.0,"{""Gpus"":[{""Name"":""V100"",""Count"":6,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":589824}",US,us-santaclara-1,3.3154999999999997,99999999
+cudocompute__7xV100_16GB__70__280,intel-broadwell-v100,70.0,280,V100,7.0,"{""Gpus"":[{""Name"":""V100"",""Count"":7,""MemoryInfo"":{""SizeInMiB"":114688}}],""TotalGpuMemoryInMiB"":802816}",US,us-santaclara-1,3.8674999999999997,99999999
+datacrunch__1xV100_16GB__6__23,1V100.6V,6.0,23,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",FI,FIN-01,0.14,99999999
+datacrunch__2xV100_16GB__10__45,2V100.10V,10.0,45,V100,2.0,"{""Gpus"":[{""Name"":""V100"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":32768}}],""TotalGpuMemoryInMiB"":65536}",FI,FIN-01,0.28,99999999
+datacrunch__4xV100_16GB__20__90,4V100.20V,20.0,90,V100,4.0,"{""Gpus"":[{""Name"":""V100"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":65536}}],""TotalGpuMemoryInMiB"":262144}",FI,FIN-01,0.55,99999999
+lambdalabs__1xGH200_96GB__64__432,gpu_1x_gh200,64.0,432,GH200,1.0,"{""Gpus"":[{""Name"":""GH200"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":98304}",US,us-east-3,1.49,99999999
+lambdalabs__1xA10_24GB__30__200,gpu_1x_a10,30.0,200,A10,1.0,"{""Gpus"":[{""Name"":""A10"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":24576}}],""TotalGpuMemoryInMiB"":24576}",US,us-east-1,0.75,99999999
+lambdalabs__1xA100_40GB__30__200,gpu_1x_a100_sxm4,30.0,200,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":40960}",US,us-east-1,1.29,99999999
+lambdalabs__1xA100_40GB__30__200,gpu_1x_a100_sxm4,30.0,200,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":40960}",IN,asia-south-1,1.29,99999999
+datacrunch__1xA100_40GB__22__120,1A100.40S.22V,22.0,120,A100,1.0,"{""Gpus"":[{""Name"":""A100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":40960}}],""TotalGpuMemoryInMiB"":40960}",FI,FIN-01,0.72,99999999
+datacrunch__8xA100_40GB__176__960,8A100.40S.176V,176.0,960,A100,8.0,"{""Gpus"":[{""Name"":""A100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":327680}}],""TotalGpuMemoryInMiB"":2621440}",FI,FIN-02,5.77,99999999
+latitude__CPU_NODE__4__32,c2-small-x86,4.0,32,,0.0,,BR,SAO,0.18,99999999
+latitude__CPU_NODE__4__32,c2-small-x86,4.0,32,,0.0,,US,NYC,0.18,99999999
+latitude__CPU_NODE__4__32,c2-small-x86,4.0,32,,0.0,,AU,SYD,0.18,99999999
+latitude__CPU_NODE__4__32,c2-small-x86,4.0,32,,0.0,,JP,TYO3,0.18,99999999
+latitude__CPU_NODE__4__32,c2-small-x86,4.0,32,,0.0,,MX,MEX2,0.18,99999999
+latitude__CPU_NODE__4__32,c2-small-x86,4.0,32,,0.0,,GB,LON,0.18,99999999
+latitude__CPU_NODE__4__32,c2-small-x86,4.0,32,,0.0,,SG,SGP,0.18,99999999
+latitude__CPU_NODE__40__128,c2-large-x86,40.0,128,,0.0,,BR,SAO,0.39,99999999
+latitude__CPU_NODE__40__128,c2-large-x86,40.0,128,,0.0,,US,DAL,0.39,99999999
+latitude__CPU_NODE__24__512,s3-large-x86,24.0,512,,0.0,,BR,SAO,1.87,99999999
+latitude__CPU_NODE__24__512,s3-large-x86,24.0,512,,0.0,,US,DAL,1.87,99999999
+latitude__CPU_NODE__24__512,s3-large-x86,24.0,512,,0.0,,JP,TYO3,1.87,99999999
+latitude__CPU_NODE__24__512,s3-large-x86,24.0,512,,0.0,,GB,LON,1.87,99999999
+latitude__CPU_NODE__24__512,s3-large-x86,24.0,512,,0.0,,DE,FRA,1.87,99999999
+latitude__CPU_NODE__32__1024,m3-large-x86,32.0,1024,,0.0,,US,NYC,1.84,99999999
+latitude__CPU_NODE__32__1024,m3-large-x86,32.0,1024,,0.0,,JP,TYO3,1.84,99999999
+latitude__CPU_NODE__32__1024,m3-large-x86,32.0,1024,,0.0,,GB,LON,1.84,99999999
+latitude__CPU_NODE__24__256,c3-large-x86,24.0,256,,0.0,,BR,SAO,1.19,99999999
+latitude__CPU_NODE__24__256,c3-large-x86,24.0,256,,0.0,,US,NYC,1.19,99999999
+latitude__CPU_NODE__24__256,c3-large-x86,24.0,256,,0.0,,MX,MEX2,1.19,99999999
+latitude__CPU_NODE__24__256,c3-large-x86,24.0,256,,0.0,,GB,LON,1.19,99999999
+latitude__CPU_NODE__24__256,c3-large-x86,24.0,256,,0.0,,AR,BUE,1.19,99999999
+latitude__CPU_NODE__6__32,s2-small-x86,6.0,32,,0.0,,US,DAL,0.29,99999999
+latitude__CPU_NODE__6__32,s2-small-x86,6.0,32,,0.0,,AU,SYD,0.29,99999999
+latitude__CPU_NODE__6__32,s2-small-x86,6.0,32,,0.0,,GB,LON2,0.29,99999999
+latitude__CPU_NODE__16__128,m4-metal-medium,16.0,128,,0.0,,BR,SAO2,1.13,99999999
+latitude__CPU_NODE__16__128,m4-metal-medium,16.0,128,,0.0,,US,DAL,1.13,99999999
+latitude__CPU_NODE__16__128,m4-metal-medium,16.0,128,,0.0,,AU,SYD2,1.13,99999999
+latitude__CPU_NODE__16__128,m4-metal-medium,16.0,128,,0.0,,MX,MEX2,1.13,99999999
+latitude__CPU_NODE__16__128,m4-metal-medium,16.0,128,,0.0,,GB,LON2,1.13,99999999
+latitude__CPU_NODE__16__128,m4-metal-medium,16.0,128,,0.0,,AR,BUE,1.13,99999999
+latitude__CPU_NODE__16__128,m4-metal-medium,16.0,128,,0.0,,CO,BGT,1.13,99999999
+latitude__CPU_NODE__24__384,m4-metal-large,24.0,384,,0.0,,BR,SAO2,1.91,99999999
+latitude__CPU_NODE__24__384,m4-metal-large,24.0,384,,0.0,,US,DAL,1.91,99999999
+latitude__CPU_NODE__24__384,m4-metal-large,24.0,384,,0.0,,JP,TYO3,1.91,99999999
+latitude__CPU_NODE__24__384,m4-metal-large,24.0,384,,0.0,,GB,LON2,1.91,99999999
+latitude__CPU_NODE__24__384,m4-metal-large,24.0,384,,0.0,,AR,BUE,1.91,99999999
+latitude__CPU_NODE__24__384,m4-metal-large,24.0,384,,0.0,,DE,FRA2,1.91,99999999
+latitude__CPU_NODE__24__384,m4-metal-large,24.0,384,,0.0,,SG,SGP,1.91,99999999
+latitude__CPU_NODE__32__768,rs4-metal-large,32.0,768,,0.0,,US,DAL,3.77,99999999
+latitude__CPU_NODE__32__768,rs4-metal-large,32.0,768,,0.0,,GB,LON2,3.77,99999999
+latitude__CPU_NODE__32__768,rs4-metal-large,32.0,768,,0.0,,DE,FRA,3.77,99999999
+latitude__CPU_NODE__32__768,rs4-metal-large,32.0,768,,0.0,,SG,SGP,3.77,99999999
+latitude__CPU_NODE__64__1536,rs4-metal-xlarge,64.0,1536,,0.0,,US,DAL,4.94,99999999
+latitude__CPU_NODE__64__1536,rs4-metal-xlarge,64.0,1536,,0.0,,GB,LON2,4.94,99999999
+latitude__CPU_NODE__64__1536,rs4-metal-xlarge,64.0,1536,,0.0,,DE,FRA2,4.94,99999999
+latitude__CPU_NODE__64__1536,rs4-metal-xlarge,64.0,1536,,0.0,,SG,SGP,4.94,99999999
+latitude__CPU_NODE__16__192,f4-metal-medium,16.0,192,,0.0,,US,DAL,1.09,99999999
+latitude__CPU_NODE__16__192,f4-metal-medium,16.0,192,,0.0,,GB,LON2,1.09,99999999
+latitude__CPU_NODE__16__192,f4-metal-medium,16.0,192,,0.0,,DE,FRA2,1.09,99999999
+latitude__CPU_NODE__16__192,f4-metal-medium,16.0,192,,0.0,,SG,SGP,1.09,99999999
+crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US,us-east1-a,0.1,99999999
+crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,IS,eu-iceland1-a,0.1,99999999
+crusoecloud__CPU_NODE__2__8,c1a.2x,2.0,8,,0.0,,US,us-southcentral1-a,0.1,99999999
+crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US,us-east1-a,0.1,99999999
+crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,IS,eu-iceland1-a,0.1,99999999
+crusoecloud__CPU_NODE__4__16,c1a.4x,4.0,16,,0.0,,US,us-southcentral1-a,0.1,99999999
+crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US,us-east1-a,0.1,99999999
+crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,IS,eu-iceland1-a,0.1,99999999
+crusoecloud__CPU_NODE__8__32,c1a.8x,8.0,32,,0.0,,US,us-southcentral1-a,0.1,99999999
+crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US,us-east1-a,0.1,99999999
+crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,IS,eu-iceland1-a,0.1,99999999
+crusoecloud__CPU_NODE__16__64,c1a.16x,16.0,64,,0.0,,US,us-southcentral1-a,0.1,99999999
