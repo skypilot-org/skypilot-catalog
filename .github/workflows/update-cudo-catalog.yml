@@ -36,7 +36,7 @@ jobs:
         id: fetch_catalogs
         run: |
           mkdir -p ~/.config/cudo
-          echo ${{ secrets.CUDO_CREDENTIAL_CONFIG }} > ~/.config/cudo/cudo.yml
+          echo "${{ secrets.CUDO_CREDENTIAL_CONFIG }}" > ~/.config/cudo/cudo.yml
           source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
