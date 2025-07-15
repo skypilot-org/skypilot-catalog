@@ -5748,7 +5748,6 @@ m1-ultramem-160,160.0,3844.0,,,,australia-southeast1,australia-southeast1-a,34.1
 m1-ultramem-160,160.0,3844.0,,,,australia-southeast1,australia-southeast1-b,34.10765,5.41687
 m1-ultramem-160,160.0,3844.0,,,,australia-southeast1,australia-southeast1-c,34.10765,5.41687
 m1-ultramem-160,160.0,3844.0,,,,australia-southeast2,australia-southeast2-b,35.74481,6.42858
-m1-ultramem-160,160.0,3844.0,,,,australia-southeast2,australia-southeast2-c,35.74481,6.42858
 m1-ultramem-160,160.0,3844.0,,,,europe-central2,europe-central2-a,30.94179,4.57779
 m1-ultramem-160,160.0,3844.0,,,,europe-central2,europe-central2-b,30.94179,4.57779
 m1-ultramem-160,160.0,3844.0,,,,europe-southwest1,europe-southwest1-a,29.70343,4.49453
@@ -5817,7 +5816,6 @@ m1-ultramem-40,40.0,961.0,,,,australia-southeast1,australia-southeast1-a,8.52691
 m1-ultramem-40,40.0,961.0,,,,australia-southeast1,australia-southeast1-b,8.52691,1.35422
 m1-ultramem-40,40.0,961.0,,,,australia-southeast1,australia-southeast1-c,8.52691,1.35422
 m1-ultramem-40,40.0,961.0,,,,australia-southeast2,australia-southeast2-b,8.9362,1.60714
-m1-ultramem-40,40.0,961.0,,,,australia-southeast2,australia-southeast2-c,8.9362,1.60714
 m1-ultramem-40,40.0,961.0,,,,europe-central2,europe-central2-a,7.73545,1.14445
 m1-ultramem-40,40.0,961.0,,,,europe-central2,europe-central2-b,7.73545,1.14445
 m1-ultramem-40,40.0,961.0,,,,europe-southwest1,europe-southwest1-a,7.42586,1.12363
@@ -5886,7 +5884,6 @@ m1-ultramem-80,80.0,1922.0,,,,australia-southeast1,australia-southeast1-a,17.053
 m1-ultramem-80,80.0,1922.0,,,,australia-southeast1,australia-southeast1-b,17.05382,2.70843
 m1-ultramem-80,80.0,1922.0,,,,australia-southeast1,australia-southeast1-c,17.05382,2.70843
 m1-ultramem-80,80.0,1922.0,,,,australia-southeast2,australia-southeast2-b,17.8724,3.21429
-m1-ultramem-80,80.0,1922.0,,,,australia-southeast2,australia-southeast2-c,17.8724,3.21429
 m1-ultramem-80,80.0,1922.0,,,,europe-central2,europe-central2-a,15.47089,2.28889
 m1-ultramem-80,80.0,1922.0,,,,europe-central2,europe-central2-b,15.47089,2.28889
 m1-ultramem-80,80.0,1922.0,,,,europe-southwest1,europe-southwest1-a,14.85172,2.24726
@@ -8457,7 +8454,6 @@ n1-ultramem-160,160.0,3844.0,,,,australia-southeast1,australia-southeast1-a,30.2
 n1-ultramem-160,160.0,3844.0,,,,australia-southeast1,australia-southeast1-b,30.28324,9.6932
 n1-ultramem-160,160.0,3844.0,,,,australia-southeast1,australia-southeast1-c,30.28324,9.6932
 n1-ultramem-160,160.0,3844.0,,,,australia-southeast2,australia-southeast2-b,30.28324,8.02589
-n1-ultramem-160,160.0,3844.0,,,,australia-southeast2,australia-southeast2-c,30.28324,8.02589
 n1-ultramem-160,160.0,3844.0,,,,europe-central2,europe-central2-a,27.49735,3.67652
 n1-ultramem-160,160.0,3844.0,,,,europe-central2,europe-central2-b,27.49735,3.67652
 n1-ultramem-160,160.0,3844.0,,,,europe-southwest1,europe-southwest1-a,25.18685,5.3025
@@ -8526,7 +8522,6 @@ n1-ultramem-40,40.0,961.0,,,,australia-southeast1,australia-southeast1-a,7.57081
 n1-ultramem-40,40.0,961.0,,,,australia-southeast1,australia-southeast1-b,7.57081,2.4233
 n1-ultramem-40,40.0,961.0,,,,australia-southeast1,australia-southeast1-c,7.57081,2.4233
 n1-ultramem-40,40.0,961.0,,,,australia-southeast2,australia-southeast2-b,7.57081,2.00647
-n1-ultramem-40,40.0,961.0,,,,australia-southeast2,australia-southeast2-c,7.57081,2.00647
 n1-ultramem-40,40.0,961.0,,,,europe-central2,europe-central2-a,6.87434,0.91913
 n1-ultramem-40,40.0,961.0,,,,europe-central2,europe-central2-b,6.87434,0.91913
 n1-ultramem-40,40.0,961.0,,,,europe-southwest1,europe-southwest1-a,6.29671,1.32563
@@ -8595,7 +8590,6 @@ n1-ultramem-80,80.0,1922.0,,,,australia-southeast1,australia-southeast1-a,15.141
 n1-ultramem-80,80.0,1922.0,,,,australia-southeast1,australia-southeast1-b,15.14162,4.8466
 n1-ultramem-80,80.0,1922.0,,,,australia-southeast1,australia-southeast1-c,15.14162,4.8466
 n1-ultramem-80,80.0,1922.0,,,,australia-southeast2,australia-southeast2-b,15.14162,4.01295
-n1-ultramem-80,80.0,1922.0,,,,australia-southeast2,australia-southeast2-c,15.14162,4.01295
 n1-ultramem-80,80.0,1922.0,,,,europe-central2,europe-central2-a,13.74868,1.83826
 n1-ultramem-80,80.0,1922.0,,,,europe-central2,europe-central2-b,13.74868,1.83826
 n1-ultramem-80,80.0,1922.0,,,,europe-southwest1,europe-southwest1-a,12.59342,2.65125
