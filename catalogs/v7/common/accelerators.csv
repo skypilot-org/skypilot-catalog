@@ -8,7 +8,7 @@ A40,"['Cudo', 'RunPod', 'Vast']"
 A4000,['Paperspace']
 A6000,['Lambda']
 A800,['Cudo']
-B200,['RunPod']
+B200,"['AWS', 'RunPod']"
 GH200,['Lambda']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'Cudo', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'Vast', 'nebius']"
