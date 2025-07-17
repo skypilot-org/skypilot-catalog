@@ -40,7 +40,7 @@ jobs:
       - name: Run fetch_nebius
         run: |
           mkdir -p ~/.nebius
-          echo "${{ secrets.NEBIUS_CREDENTIALS }}" > ~/.nebius/credentials.json
+          printf '%s\n' "${{ secrets.NEBIUS_CREDENTIALS }}" > ~/.nebius/credentials.json
           source ~/catalogs-venv/bin/activate
           version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version
