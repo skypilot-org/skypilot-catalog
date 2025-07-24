@@ -19694,10 +19694,10 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.04282
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west1,us-west1-a,82.75421,19.0328
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west1,us-west1-b,82.75421,19.0328
 ,,,H100-MEGA,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-west4,us-west4-a,93.20608,16.7768
-,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},asia-south1,asia-south1-b,36.41263,30.98952
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},asia-south1,asia-south1-b,36.60258,30.98952
 ,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},asia-south2,asia-south2-c,36.60258,
 ,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},europe-west1,europe-west1-b,36.60258,32.81016
-,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},europe-west4,europe-west4-a,36.76276,31.28752
+,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},europe-west4,europe-west4-a,36.60258,31.28752
 ,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-central1,us-central1-b,74.49392,29.7976
 ,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-east4,us-east4-b,74.49392,25.328
 ,,,H200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 144384}}]},us-east5,us-east5-a,36.60258,
