@@ -21,7 +21,7 @@ H200-SXM,['RunPod']
 K80,['Azure']
 L4,"['AWS', 'GCP', 'RunPod']"
 L40,['RunPod']
-L40S,"['AWS', 'Cudo', 'OCI', 'RunPod', 'Vast', 'nebius']"
+L40S,"['AWS', 'Cudo', 'OCI', 'RunPod', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
@@ -29,11 +29,12 @@ P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
+RTX3070,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4060,['Vast']
+RTX4080,['Vast']
 RTX4090,"['Hyperbolic', 'RunPod', 'Vast']"
-RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
