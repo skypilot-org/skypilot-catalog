@@ -31,11 +31,12 @@ P4000,['Paperspace']
 RTX3060,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
+RTX4060,['Vast']
 RTX4090,"['Hyperbolic', 'RunPod', 'Vast']"
 RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,['Lambda']
-RTX6000-Ada,['RunPod']
+RTX6000-Ada,"['RunPod', 'Vast']"
 RTXA4000,"['RunPod', 'Vast']"
 RTXA4500,['RunPod']
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
