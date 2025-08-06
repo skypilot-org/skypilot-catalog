@@ -68,14 +68,9 @@ oblivus__1xL40_48GB__28__58,L40,28.0,58,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""
 oblivus__2xL40_48GB__60__116,L40,60.0,116,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",CA,MON1,2.1055,
 oblivus__4xL40_48GB__124__232,L40,124.0,232,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",CA,MON1,4.2055,
 oblivus__8xL40_48GB__252__464,L40,252.0,464,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",CA,MON1,8.4055,
-massedcompute__1xL40_48GB__14__128,gpu_1x_l40,14.0,128,L40,1.0,"{""Gpus"":[{""Name"":""L40"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-central-3,0.71,
-massedcompute__2xL40_48GB__26__256,gpu_2x_l40,26.0,256,L40,2.0,"{""Gpus"":[{""Name"":""L40"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-central-3,1.42,
-massedcompute__4xL40_48GB__50__512,gpu_4x_l40,50.0,512,L40,4.0,"{""Gpus"":[{""Name"":""L40"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US,us-central-3,2.85,
 latitude__8xL40_48GB__128__1536,g3-l40s-large,128.0,1536,L40,8.0,"{""Gpus"":[{""Name"":""L40"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",DE,FRA2,6.97,
 datacrunch__1xL40S_48GB__20__60,1L40S.20V,20.0,60,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI,FIN-02,0.91,
 datacrunch__1xL40S_48GB__20__60__SPOT,1L40S.20V_SPOT,20.0,60,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI,FIN-02,,0.26
-massedcompute__1xL40S_48GB__12__128,gpu_1x_l40s,12.0,128,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-central-3,0.65,
-massedcompute__2xL40S_48GB__24__256,gpu_2x_l40s,24.0,256,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-central-3,1.3,
 crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-east1-a,1.0,
 crusoecloud__1xL40S_48GB__8__147,l40s-48gb.1x,8.0,147,L40S,1.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-southcentral1-a,1.0,
 crusoecloud__2xL40S_48GB__16__294,l40s-48gb.2x,16.0,294,L40S,2.0,"{""Gpus"":[{""Name"":""L40S"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-east1-a,2.0,
@@ -106,9 +101,6 @@ datacrunch__1xA6000_48GB__10__60,1A6000.10V,10.0,60,A6000,1.0,"{""Gpus"":[{""Nam
 datacrunch__1xA6000_48GB__10__60__SPOT,1A6000.10V_SPOT,10.0,60,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",FI,FIN-01,,0.12
 datacrunch__8xA6000_48GB__80__480,8A6000.80V,80.0,480,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",FI,FIN-01,3.77,
 datacrunch__8xA6000_48GB__80__480,8A6000.80V,80.0,480,A6000,8.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":393216}}],""TotalGpuMemoryInMiB"":3145728}",FI,FIN-02,3.77,
-massedcompute__1xA6000_48GB__6__48,gpu_1x_a6000,6.0,48,A6000,1.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":49152}}],""TotalGpuMemoryInMiB"":49152}",US,us-central-2,0.4,
-massedcompute__2xA6000_48GB__14__96,gpu_2x_a6000,14.0,96,A6000,2.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":2,""MemoryInfo"":{""SizeInMiB"":98304}}],""TotalGpuMemoryInMiB"":196608}",US,us-central-2,0.81,
-massedcompute__4xA6000_48GB__30__192,gpu_4x_a6000,30.0,192,A6000,4.0,"{""Gpus"":[{""Name"":""A6000"",""Count"":4,""MemoryInfo"":{""SizeInMiB"":196608}}],""TotalGpuMemoryInMiB"":786432}",US,us-central-2,1.62,
 lambdalabs__8xV100_16GB__92__448,gpu_8x_v100,92.0,448,V100,8.0,"{""Gpus"":[{""Name"":""V100"",""Count"":8,""MemoryInfo"":{""SizeInMiB"":131072}}],""TotalGpuMemoryInMiB"":1048576}",US,us-south-1,4.4,
 datacrunch__1xV100_16GB__6__23,1V100.6V,6.0,23,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",FI,FIN-01,0.14,
 datacrunch__1xV100_16GB__6__23__SPOT,1V100.6V_SPOT,6.0,23,V100,1.0,"{""Gpus"":[{""Name"":""V100"",""Count"":1,""MemoryInfo"":{""SizeInMiB"":16384}}],""TotalGpuMemoryInMiB"":16384}",FI,FIN-01,,0.05
