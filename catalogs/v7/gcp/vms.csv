@@ -17594,8 +17594,10 @@ n4-highmem-4,4.0,32.0,,,,us-west3,us-west3-b,0.29905,0.1175
 n4-highmem-4,4.0,32.0,,,,us-west3,us-west3-c,0.29905,0.1175
 n4-highmem-4,4.0,32.0,,,,us-west4,us-west4-a,0.2802,0.11208
 n4-highmem-4,4.0,32.0,,,,us-west4,us-west4-b,0.2802,0.11208
+n4-highmem-48,48.0,384.0,,,,africa-south1,africa-south1-a,3.90479,1.56192
 n4-highmem-48,48.0,384.0,,,,africa-south1,africa-south1-b,3.90479,1.56192
 n4-highmem-48,48.0,384.0,,,,africa-south1,africa-south1-c,3.90479,1.56192
+n4-highmem-48,48.0,384.0,,,,asia-east1,asia-east1-a,3.45669,1.38268
 n4-highmem-48,48.0,384.0,,,,asia-east1,asia-east1-c,3.45669,1.38268
 n4-highmem-48,48.0,384.0,,,,asia-east2,asia-east2-a,4.17615,1.67046
 n4-highmem-48,48.0,384.0,,,,asia-east2,asia-east2-c,4.17615,1.67046
@@ -17633,6 +17635,7 @@ n4-highmem-48,48.0,384.0,,,,europe-west4,europe-west4-c,3.13458,0.86602
 n4-highmem-48,48.0,384.0,,,,europe-west6,europe-west6-b,4.17615,1.67046
 n4-highmem-48,48.0,384.0,,,,europe-west6,europe-west6-c,4.17615,1.67046
 n4-highmem-48,48.0,384.0,,,,europe-west9,europe-west9-b,3.46296,1.06867
+n4-highmem-48,48.0,384.0,,,,me-central2,me-central2-a,4.7765,1.49626
 n4-highmem-48,48.0,384.0,,,,me-central2,me-central2-c,4.7765,1.49626
 n4-highmem-48,48.0,384.0,,,,northamerica-northeast2,northamerica-northeast2-b,3.28713,1.31485
 n4-highmem-48,48.0,384.0,,,,northamerica-northeast2,northamerica-northeast2-c,3.28713,1.31485
@@ -17663,8 +17666,10 @@ n4-highmem-48,48.0,384.0,,,,us-west3,us-west3-b,3.58864,1.40995
 n4-highmem-48,48.0,384.0,,,,us-west3,us-west3-c,3.58864,1.40995
 n4-highmem-48,48.0,384.0,,,,us-west4,us-west4-a,3.36236,1.34494
 n4-highmem-48,48.0,384.0,,,,us-west4,us-west4-b,3.36236,1.34494
+n4-highmem-64,64.0,512.0,,,,africa-south1,africa-south1-a,5.20638,2.08255
 n4-highmem-64,64.0,512.0,,,,africa-south1,africa-south1-b,5.20638,2.08255
 n4-highmem-64,64.0,512.0,,,,africa-south1,africa-south1-c,5.20638,2.08255
+n4-highmem-64,64.0,512.0,,,,asia-east1,asia-east1-a,4.60892,1.84357
 n4-highmem-64,64.0,512.0,,,,asia-east1,asia-east1-c,4.60892,1.84357
 n4-highmem-64,64.0,512.0,,,,asia-east2,asia-east2-a,5.5682,2.22728
 n4-highmem-64,64.0,512.0,,,,asia-east2,asia-east2-c,5.5682,2.22728
@@ -17702,6 +17707,7 @@ n4-highmem-64,64.0,512.0,,,,europe-west4,europe-west4-c,4.17944,1.15469
 n4-highmem-64,64.0,512.0,,,,europe-west6,europe-west6-b,5.5682,2.22728
 n4-highmem-64,64.0,512.0,,,,europe-west6,europe-west6-c,5.5682,2.22728
 n4-highmem-64,64.0,512.0,,,,europe-west9,europe-west9-b,4.61728,1.4249
+n4-highmem-64,64.0,512.0,,,,me-central2,me-central2-a,6.36867,1.99501
 n4-highmem-64,64.0,512.0,,,,me-central2,me-central2-c,6.36867,1.99501
 n4-highmem-64,64.0,512.0,,,,northamerica-northeast2,northamerica-northeast2-b,4.38284,1.75313
 n4-highmem-64,64.0,512.0,,,,northamerica-northeast2,northamerica-northeast2-c,4.38284,1.75313
@@ -17812,8 +17818,10 @@ n4-highmem-8,8.0,64.0,,,,us-west3,us-west3-b,0.59811,0.23499
 n4-highmem-8,8.0,64.0,,,,us-west3,us-west3-c,0.59811,0.23499
 n4-highmem-8,8.0,64.0,,,,us-west4,us-west4-a,0.56039,0.22416
 n4-highmem-8,8.0,64.0,,,,us-west4,us-west4-b,0.56039,0.22416
+n4-highmem-80,80.0,640.0,,,,africa-south1,africa-south1-a,6.50798,2.60319
 n4-highmem-80,80.0,640.0,,,,africa-south1,africa-south1-b,6.50798,2.60319
 n4-highmem-80,80.0,640.0,,,,africa-south1,africa-south1-c,6.50798,2.60319
+n4-highmem-80,80.0,640.0,,,,asia-east1,asia-east1-a,5.76116,2.30446
 n4-highmem-80,80.0,640.0,,,,asia-east1,asia-east1-c,5.76116,2.30446
 n4-highmem-80,80.0,640.0,,,,asia-east2,asia-east2-a,6.96025,2.7841
 n4-highmem-80,80.0,640.0,,,,asia-east2,asia-east2-c,6.96025,2.7841
@@ -17851,6 +17859,7 @@ n4-highmem-80,80.0,640.0,,,,europe-west4,europe-west4-c,5.2243,1.44336
 n4-highmem-80,80.0,640.0,,,,europe-west6,europe-west6-b,6.96025,2.7841
 n4-highmem-80,80.0,640.0,,,,europe-west6,europe-west6-c,6.96025,2.7841
 n4-highmem-80,80.0,640.0,,,,europe-west9,europe-west9-b,5.7716,1.78112
+n4-highmem-80,80.0,640.0,,,,me-central2,me-central2-a,7.96083,2.49376
 n4-highmem-80,80.0,640.0,,,,me-central2,me-central2-c,7.96083,2.49376
 n4-highmem-80,80.0,640.0,,,,northamerica-northeast2,northamerica-northeast2-b,5.47855,2.19142
 n4-highmem-80,80.0,640.0,,,,northamerica-northeast2,northamerica-northeast2-c,5.47855,2.19142
