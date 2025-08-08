@@ -29,9 +29,12 @@ P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
+RTX3070,['Vast']
+RTX3080,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4090,"['Hyperbolic', 'RunPod', 'Vast']"
+RTX4090,"['RunPod', 'Vast']"
+RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
