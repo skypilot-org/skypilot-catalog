@@ -8,7 +8,3 @@ InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,StorageGiB,Price,R
 7x-H100-196-1894,H100,7,196,1894,2100,10.43,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 7, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 570913}",
 8x-H100-224-2165,H100,8,224,2165,2400,11.92,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 652472}",
 1x-H100-224-2165,H100,1,224,2165,2400,0.99,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",
-1x-H100-56-541,H100,1,56,541,600,1.29,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",
-2x-H100-112-1083,H100,2,112,1083,1200,2.58,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 163118}",
-3x-H100-168-1624,H100,3,168,1624,1800,3.87,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 3, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 244677}",
-4x-H100-224-2165,H100,4,224,2165,2400,5.16,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 326236}",
