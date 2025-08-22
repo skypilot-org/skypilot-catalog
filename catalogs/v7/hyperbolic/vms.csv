@@ -1,2 +1,2 @@
 InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,StorageGiB,Price,Region,GpuInfo,SpotPrice
-1x-H100-224-2165,H100,1,224,2165,2400,1.29,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",
+1x-H100-224-2165,H100,1,224,2165,2400,0.99,default,"{'Gpus': [{'Name': 'NVIDIA-H100-80GB-HBM3', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81559}}], 'TotalGpuMemoryInMiB': 81559}",
