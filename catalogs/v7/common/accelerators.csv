@@ -8,7 +8,7 @@ A40,"['Cudo', 'RunPod', 'Vast']"
 A4000,['Paperspace']
 A6000,['Lambda']
 A800,['Cudo']
-B200,"['AWS', 'RunPod', 'nebius']"
+B200,"['AWS', 'Lambda', 'RunPod', 'nebius']"
 GH200,['Lambda']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'Cudo', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'OCI', 'Paperspace', 'RunPod', 'Vast', 'nebius']"
@@ -36,11 +36,10 @@ RTX4090,"['RunPod', 'Vast']"
 RTX5090,['Vast']
 RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
-RTXA4000,"['RunPod', 'Vast']"
+RTXA4000,['RunPod']
 RTXA4500,['RunPod']
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
-RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
