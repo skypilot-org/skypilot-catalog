@@ -6,7 +6,6 @@ A100-80GB-SXM,['RunPod']
 A10G,['AWS']
 A40,"['Cudo', 'RunPod', 'Vast']"
 A4000,['Paperspace']
-A6000,['Lambda']
 A800,['Cudo']
 B200,"['AWS', 'Lambda', 'RunPod', 'nebius']"
 GH200,['Lambda']
@@ -35,9 +34,9 @@ RTX4000-Ada,['RunPod']
 RTX4080,['Vast']
 RTX4090,"['RunPod', 'Vast']"
 RTX5090,['Vast']
-RTX6000,['Lambda']
+RTX6000,['Vast']
 RTX6000-Ada,"['RunPod', 'Vast']"
-RTXA4000,['RunPod']
+RTXA4000,"['RunPod', 'Vast']"
 RTXA4500,['RunPod']
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
@@ -46,7 +45,7 @@ Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
-V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace']"
+V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'OCI', 'Paperspace']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'scp']"
 tpu-v2,['GCP']
 tpu-v3,['GCP']
