@@ -24,6 +24,7 @@ jobs:
           fetch-depth: 0
           repository: skypilot-org/skypilot
           path: sky
+          token: ${{ secrets.GH_ACTION_PAT }}
           
       - name: Clone Catalog repo
         uses: actions/checkout@v4
