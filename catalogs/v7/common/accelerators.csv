@@ -29,7 +29,6 @@ P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
-RTX3070,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4060,['Vast']
@@ -42,7 +41,7 @@ RTX6000,['Lambda']
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTXA4000,"['RunPod', 'Vast']"
 RTXA4500,['RunPod']
-RTXA5000,"['Cudo', 'RunPod']"
+RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Vast']"
 RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
