@@ -48,7 +48,7 @@ excesssupply_RTX4090x2,RTX4090,2.0,24.0,140,1.2,oslo-norway-3,"{'Gpus': [{'Name'
 excesssupply_RTX4090x4,RTX4090,4.0,60.0,352,2.4,oslo-norway-3,"{'Gpus': [{'Name': 'RTX4090', 'Manufacturer': 'NVIDIA', 'Count': 4.0}]}",
 excesssupply_RTX4090x8,RTX4090,8.0,120.0,706,4.8,oslo-norway-3,"{'Gpus': [{'Name': 'RTX4090', 'Manufacturer': 'NVIDIA', 'Count': 8.0}]}",
 hyperstack_H100-sxm5x8,H100,8.0,192.0,960,19.2,houston-usa-3,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0}]}",
-latitude_H100x8-NVLINk,H100,8.0,128.0,1536,14.34,dallas-usa-1,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0}]}",
+latitude_H100x8-NVLINK,H100,8.0,128.0,1536,14.34,dallas-usa-1,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'NVIDIA', 'Count': 8.0}]}",
 denvr_A100-sxm4x8,A100,8.0,120.0,940,10.0,calgary-canada-1,"{'Gpus': [{'Name': 'A100', 'Manufacturer': 'NVIDIA', 'Count': 8.0}]}",
 massedcompute_L40,L40,1.0,26.0,192,0.99,desmoines-usa-1,"{'Gpus': [{'Name': 'L40', 'Manufacturer': 'NVIDIA', 'Count': 1.0}]}",
 crusoe_A100-80G,A100-80G,1.0,12.0,120,1.65,culpeper-usa-1,"{'Gpus': [{'Name': 'A100-80G', 'Manufacturer': 'NVIDIA', 'Count': 1.0}]}",
