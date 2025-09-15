@@ -41,11 +41,12 @@ RTX4090,"['RunPod', 'Vast']"
 RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
-RTX6000-Ada,['RunPod']
+RTX6000-Ada,"['RunPod', 'Vast']"
 RTXA4000,['RunPod']
 RTXA4500,['RunPod']
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
+RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
