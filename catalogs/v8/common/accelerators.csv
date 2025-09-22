@@ -5,7 +5,7 @@ A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellec
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
 A30,['Seeweb']
-A40,"['Cudo', 'RunPod']"
+A40,"['Cudo', 'RunPod', 'Vast']"
 A4000,"['Paperspace', 'PrimeIntellect']"
 A6000,"['Lambda', 'PrimeIntellect']"
 A800,['Cudo']
@@ -29,11 +29,9 @@ MI300X,['RunPod']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
-RTX3060,['Vast']
 RTX3070,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4070,['Vast']
 RTX4090,"['RunPod', 'Vast']"
 RTX5060,['Vast']
 RTX5090,['Vast']
@@ -45,6 +43,7 @@ RTXA4000,['RunPod']
 RTXA4500,['RunPod']
 RTXA5000,"['Cudo', 'RunPod']"
 RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
+RTXPRO6000S,['Vast']
 RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
