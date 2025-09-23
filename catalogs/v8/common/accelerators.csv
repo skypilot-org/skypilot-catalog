@@ -33,7 +33,6 @@ RTX3060,['Vast']
 RTX3080,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4070,['Vast']
 RTX4090,"['RunPod', 'Vast']"
 RTX5090,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
@@ -45,7 +44,6 @@ RTXA4500,['RunPod']
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
 RTXPRO6000S,['Vast']
-RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
