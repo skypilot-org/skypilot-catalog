@@ -30,11 +30,11 @@ P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
+RTX3070,['Vast']
 RTX3080,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4090,"['RunPod', 'Vast']"
-RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
 RTX6000-Ada,"['RunPod', 'Vast']"
@@ -44,11 +44,13 @@ RTXA4000,['RunPod']
 RTXA4500,['RunPod']
 RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
+RTXPRO6000S,['Vast']
+RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
-V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'Vast']"
+V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'scp']"
 tpu-v2,['GCP']
 tpu-v3,['GCP']
