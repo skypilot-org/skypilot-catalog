@@ -34,6 +34,7 @@ RTX3080,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4090,"['RunPod', 'Vast']"
+RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
 RTX6000-Ada,"['RunPod', 'Vast']"
