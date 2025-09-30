@@ -31,17 +31,17 @@ P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
 RTX3070,['Vast']
+RTX3080,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4090,"['RunPod', 'Vast']"
-RTX5060,['Vast']
 RTX5090,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTX6000Ada,['PrimeIntellect']
 RTXA4000,['RunPod']
 RTXA4500,['RunPod']
-RTXA5000,"['Cudo', 'RunPod']"
+RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
 RTXPRO6000S,['Vast']
 RTXPRO6000WS,['Vast']
