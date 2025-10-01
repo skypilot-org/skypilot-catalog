@@ -57,6 +57,6 @@ gpu-l40s-d_4gpu-128vcpu-768gb,L40S,4,128,768,9.1376,eu-north1,"{'Gpus': [{'Name'
 gpu-l40s-d_4gpu-192vcpu-1152gb,L40S,4,192,1152,11.0064,eu-north1,"{'Gpus': [{'Name': 'L40S', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 49152}}], 'TotalGpuMemoryInMiB': 196608}",
 gpu-h200-sxm_1gpu-16vcpu-200gb,H200,1,16,200,3.50,eu-west1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 144384}",1.45
 gpu-h200-sxm_8gpu-128vcpu-1600gb,H200,8,128,1600,28.00,eu-west1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 1155072}",11.60
-gpu-b200-sxm_8gpu-160vcpu-1792gb,B200,8,160,1792,44.00,us-central1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 184320}}], 'TotalGpuMemoryInMiB': 1474560}",
+gpu-b200-sxm_8gpu-160vcpu-1792gb,B200,8,160,1792,44.00,us-central1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 184320}}], 'TotalGpuMemoryInMiB': 1474560}",23.20
 gpu-h200-sxm_1gpu-16vcpu-200gb,H200,1,16,200,3.50,us-central1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 144384}",1.45
 gpu-h200-sxm_8gpu-128vcpu-1600gb,H200,8,128,1600,28.00,us-central1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 1155072}",11.60
