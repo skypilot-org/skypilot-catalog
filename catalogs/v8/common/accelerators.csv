@@ -11,6 +11,7 @@ A6000,"['Lambda', 'PrimeIntellect']"
 A800,['Cudo']
 B200,"['AWS', 'Lambda', 'PrimeIntellect', 'RunPod', 'Vast', 'nebius']"
 GH200,['Lambda']
+GTX1660S,['Vast']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Vast', 'nebius']"
 H100-MEGA,['GCP']
@@ -31,9 +32,11 @@ P4,['GCP']
 P4000,['Paperspace']
 RTX3060,['Vast']
 RTX3070,['Vast']
+RTX3080,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4070,['Vast']
+RTX4060,['Vast']
+RTX4080,['Vast']
 RTX4090,"['RunPod', 'Vast']"
 RTX5060,['Vast']
 RTX5090,['Vast']
@@ -50,7 +53,7 @@ Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
-V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'Vast']"
+V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'scp']"
 tpu-v2,['GCP']
 tpu-v3,['GCP']
