@@ -22202,6 +22202,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v5p-12288,1,tpu-v5p-12288,us-south1,us-south1-b,29362.176,14717.3376
 ,,,tpu-v5p-12288,1,tpu-v5p-12288,us-south1,us-south1-c,29362.176,14717.3376
 ,,,tpu-v6e-1,1,tpu-v6e-1,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-1,1,tpu-v6e-1,asia-northeast1,asia-northeast1-b,3.24,1.13066
 ,,,tpu-v6e-1,1,tpu-v6e-1,asia-south1,asia-south1-b,3.24,2.27
 ,,,tpu-v6e-1,1,tpu-v6e-1,asia-south1,asia-south1-c,3.24,2.27
 ,,,tpu-v6e-1,1,tpu-v6e-1,asia-southeast1,asia-southeast1-b,2.97,0.62014
@@ -22221,6 +22222,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-south1,us-south1-c,2.7,1.89
 ,,,tpu-v6e-1,1,tpu-v6e-1,us-west1,us-west1-c,2.7,0.68075
 ,,,tpu-v6e-4,1,tpu-v6e-4,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-4,1,tpu-v6e-4,asia-northeast1,asia-northeast1-b,12.96,4.52262
 ,,,tpu-v6e-4,1,tpu-v6e-4,asia-south1,asia-south1-b,12.96,9.08
 ,,,tpu-v6e-4,1,tpu-v6e-4,asia-south1,asia-south1-c,12.96,9.08
 ,,,tpu-v6e-4,1,tpu-v6e-4,asia-southeast1,asia-southeast1-b,11.88,2.48057
@@ -22240,6 +22242,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-south1,us-south1-c,10.8,7.56
 ,,,tpu-v6e-4,1,tpu-v6e-4,us-west1,us-west1-c,10.8,2.723
 ,,,tpu-v6e-8,1,tpu-v6e-8,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-8,1,tpu-v6e-8,asia-northeast1,asia-northeast1-b,25.92,9.04524
 ,,,tpu-v6e-8,1,tpu-v6e-8,asia-south1,asia-south1-b,25.92,18.16
 ,,,tpu-v6e-8,1,tpu-v6e-8,asia-south1,asia-south1-c,25.92,18.16
 ,,,tpu-v6e-8,1,tpu-v6e-8,asia-southeast1,asia-southeast1-b,23.76,4.96114
@@ -22259,6 +22262,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-south1,us-south1-c,21.6,15.12
 ,,,tpu-v6e-8,1,tpu-v6e-8,us-west1,us-west1-c,21.6,5.44599
 ,,,tpu-v6e-16,1,tpu-v6e-16,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-16,1,tpu-v6e-16,asia-northeast1,asia-northeast1-b,51.84,18.09048
 ,,,tpu-v6e-16,1,tpu-v6e-16,asia-south1,asia-south1-b,51.84,36.32
 ,,,tpu-v6e-16,1,tpu-v6e-16,asia-south1,asia-south1-c,51.84,36.32
 ,,,tpu-v6e-16,1,tpu-v6e-16,asia-southeast1,asia-southeast1-b,47.52,9.92229
@@ -22278,6 +22282,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-south1,us-south1-c,43.2,30.24
 ,,,tpu-v6e-16,1,tpu-v6e-16,us-west1,us-west1-c,43.2,10.89198
 ,,,tpu-v6e-32,1,tpu-v6e-32,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-32,1,tpu-v6e-32,asia-northeast1,asia-northeast1-b,103.68,36.18096
 ,,,tpu-v6e-32,1,tpu-v6e-32,asia-south1,asia-south1-b,103.68,72.64
 ,,,tpu-v6e-32,1,tpu-v6e-32,asia-south1,asia-south1-c,103.68,72.64
 ,,,tpu-v6e-32,1,tpu-v6e-32,asia-southeast1,asia-southeast1-b,95.04,19.84458
@@ -22297,6 +22302,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-south1,us-south1-c,86.4,60.48
 ,,,tpu-v6e-32,1,tpu-v6e-32,us-west1,us-west1-c,86.4,21.78397
 ,,,tpu-v6e-64,1,tpu-v6e-64,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-64,1,tpu-v6e-64,asia-northeast1,asia-northeast1-b,207.36,72.36192
 ,,,tpu-v6e-64,1,tpu-v6e-64,asia-south1,asia-south1-b,207.36,145.28
 ,,,tpu-v6e-64,1,tpu-v6e-64,asia-south1,asia-south1-c,207.36,145.28
 ,,,tpu-v6e-64,1,tpu-v6e-64,asia-southeast1,asia-southeast1-b,190.08,39.68915
@@ -22316,6 +22322,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-south1,us-south1-c,172.8,120.96
 ,,,tpu-v6e-64,1,tpu-v6e-64,us-west1,us-west1-c,172.8,43.56794
 ,,,tpu-v6e-128,1,tpu-v6e-128,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-128,1,tpu-v6e-128,asia-northeast1,asia-northeast1-b,414.72,144.72384
 ,,,tpu-v6e-128,1,tpu-v6e-128,asia-south1,asia-south1-b,414.72,290.56
 ,,,tpu-v6e-128,1,tpu-v6e-128,asia-south1,asia-south1-c,414.72,290.56
 ,,,tpu-v6e-128,1,tpu-v6e-128,asia-southeast1,asia-southeast1-b,380.16,79.3783
@@ -22335,6 +22342,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.03432
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-south1,us-south1-c,345.6,241.92
 ,,,tpu-v6e-128,1,tpu-v6e-128,us-west1,us-west1-c,345.6,87.13587
 ,,,tpu-v6e-256,1,tpu-v6e-256,asia-east1,asia-east1-c,700.0,700.0
+,,,tpu-v6e-256,1,tpu-v6e-256,asia-northeast1,asia-northeast1-b,829.44,289.44768
 ,,,tpu-v6e-256,1,tpu-v6e-256,asia-south1,asia-south1-b,829.44,581.12
 ,,,tpu-v6e-256,1,tpu-v6e-256,asia-south1,asia-south1-c,829.44,581.12
 ,,,tpu-v6e-256,1,tpu-v6e-256,asia-southeast1,asia-southeast1-b,760.32,158.75661
