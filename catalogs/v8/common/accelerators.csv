@@ -38,8 +38,6 @@ RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4000Ada,['Shadeform']
 RTX4060,['Vast']
-RTX4070,['Vast']
-RTX4080,['Vast']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5060,['Vast']
 RTX5090,"['Shadeform', 'Vast']"
