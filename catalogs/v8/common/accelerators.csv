@@ -39,6 +39,7 @@ RTX4000Ada,['Shadeform']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5060,['Vast']
 RTX5090,"['Shadeform', 'Vast']"
+RTX5880-Ada,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTX6000Ada,"['PrimeIntellect', 'Shadeform']"
