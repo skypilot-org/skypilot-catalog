@@ -31,8 +31,8 @@ MI300X,['RunPod']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
-QuadroP4000,['Vast']
 RTX3060,['Vast']
+RTX3070,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4000Ada,['Shadeform']
