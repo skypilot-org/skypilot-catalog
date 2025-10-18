@@ -44,9 +44,8 @@ RTX6000-Ada,"['RunPod', 'Vast']"
 RTX6000Ada,"['PrimeIntellect', 'Shadeform']"
 RTXA4000,"['RunPod', 'Vast']"
 RTXA4500,['RunPod']
-RTXA5000,"['Cudo', 'RunPod']"
+RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
-RTXPRO6000S,['Vast']
 RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
