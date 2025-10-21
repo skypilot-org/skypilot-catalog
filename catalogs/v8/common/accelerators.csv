@@ -38,12 +38,13 @@ RTX4000-Ada,['RunPod']
 RTX4000Ada,['Shadeform']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5090,"['Shadeform', 'Vast']"
+RTX5880-Ada,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
-RTX6000-Ada,['RunPod']
+RTX6000-Ada,"['RunPod', 'Vast']"
 RTX6000Ada,"['PrimeIntellect', 'Shadeform']"
 RTXA4000,['RunPod']
 RTXA4500,['RunPod']
-RTXA5000,"['Cudo', 'RunPod']"
+RTXA5000,"['Cudo', 'RunPod', 'Vast']"
 RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
 RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
