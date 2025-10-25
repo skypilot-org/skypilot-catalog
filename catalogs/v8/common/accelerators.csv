@@ -6,7 +6,7 @@ A100-80GB-SXM,['RunPod']
 A10G,['AWS']
 A16,['Shadeform']
 A30,['Seeweb']
-A40,"['Cudo', 'RunPod', 'Shadeform', 'Vast']"
+A40,"['Cudo', 'RunPod', 'Shadeform']"
 A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
@@ -36,9 +36,7 @@ RTX3070,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
 RTX4000Ada,['Shadeform']
-RTX4070,['Vast']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
-RTX5060,['Vast']
 RTX5090,"['Shadeform', 'Vast']"
 RTX5880-Ada,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
