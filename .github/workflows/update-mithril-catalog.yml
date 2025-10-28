@@ -1,0 +1,102 @@
+name: "update-mithril-catalog"
+on:
+  schedule:
+    - cron: "00 */7 * * *" # Every 7 hours (coprimes with 24)
+    # The frequency can be tuned for the trade-off between
+    # freshness of the price and github action cost/user downloading
+    # overhead of the update.
+  workflow_dispatch:
+
+jobs:
+  update_mithril_catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone SkyPilot repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          repository: skypilot-org/skypilot
+          path: sky
+      - name: Clone Catalog repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          path: catalogs
+          token: ${{ secrets.GH_ACTION_PAT }}
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
+          cd sky
+          uv pip install ".[mithril]"
+
+      - name: Run fetch_mithril
+        id: fetch_catalogs
+        run: |
+          set -e  # Exit on error
+          source ~/catalogs-venv/bin/activate
+
+          # Check if .metadata.yml exists
+          if [ ! -f "catalogs/.metadata.yml" ]; then
+            echo "Error: .metadata.yml not found"
+            exit 1
+          fi
+
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
+          if [ -z "$versions" ]; then
+            echo "Error: No versions found in .metadata.yml"
+            exit 1
+          fi
+
+          for version in $versions; do
+            echo "Processing version: $version"
+            commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
+            if [ -z "$commit_hash" ]; then
+              echo "Error: No commit hash found for version $version"
+              exit 1
+            fi
+            
+            cd sky
+            if [ "$commit_hash" == "latest" ]; then
+              commit_hash=$(git rev-parse origin/master)
+            fi
+            git checkout $commit_hash
+            uv pip install ".[mithril]"
+            cd -
+            
+            # Create version directory if it doesn't exist
+            mkdir -p catalogs/catalogs/$version/mithril
+            cd catalogs/catalogs/$version/mithril
+            
+            # Run the fetcher
+            echo "Running fetch_mithril for version $version"
+            python -m sky.catalog.data_fetchers.fetch_mithril --api-key ${MITHRIL_API_KEY}
+            
+            # Verify the output file exists
+            if [ ! -f "vms.csv" ]; then
+              echo "Error: vms.csv was not created for version $version"
+              exit 1
+            fi
+            
+            cd -
+          done
+        env:
+          MITHRIL_API_KEY: ${{ secrets.MITHRIL_API_KEY }}
+
+      - name: Commit catalog
+        run: |
+          set -e  # Exit on error
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]' | tr '\n' ', ')
+          cd catalogs
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m"[Bot] Update Mithril catalog $versions (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git fetch origin
+          git rebase origin/master
+          git push
