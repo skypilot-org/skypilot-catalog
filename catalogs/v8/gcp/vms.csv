@@ -16737,6 +16737,7 @@ n4-highcpu-16,16.0,32.0,,,,asia-southeast2,asia-southeast2-a,0.86022,0.34409
 n4-highcpu-16,16.0,32.0,,,,asia-southeast2,asia-southeast2-b,0.86022,0.34409
 n4-highcpu-16,16.0,32.0,,,,asia-southeast2,asia-southeast2-c,0.86022,0.34409
 n4-highcpu-16,16.0,32.0,,,,australia-southeast1,australia-southeast1-b,0.79964,
+n4-highcpu-16,16.0,32.0,,,,australia-southeast1,australia-southeast1-c,0.79964,
 n4-highcpu-16,16.0,32.0,,,,australia-southeast2,australia-southeast2-a,0.83163,0.33265
 n4-highcpu-16,16.0,32.0,,,,australia-southeast2,australia-southeast2-b,0.83163,0.33265
 n4-highcpu-16,16.0,32.0,,,,australia-southeast2,australia-southeast2-c,0.83163,0.33265
@@ -16838,6 +16839,7 @@ n4-highcpu-2,2.0,4.0,,,,asia-southeast2,asia-southeast2-a,0.10753,0.04301
 n4-highcpu-2,2.0,4.0,,,,asia-southeast2,asia-southeast2-b,0.10753,0.04301
 n4-highcpu-2,2.0,4.0,,,,asia-southeast2,asia-southeast2-c,0.10753,0.04301
 n4-highcpu-2,2.0,4.0,,,,australia-southeast1,australia-southeast1-b,0.09996,
+n4-highcpu-2,2.0,4.0,,,,australia-southeast1,australia-southeast1-c,0.09996,
 n4-highcpu-2,2.0,4.0,,,,australia-southeast2,australia-southeast2-a,0.10395,0.04158
 n4-highcpu-2,2.0,4.0,,,,australia-southeast2,australia-southeast2-b,0.10395,0.04158
 n4-highcpu-2,2.0,4.0,,,,australia-southeast2,australia-southeast2-c,0.10395,0.04158
@@ -16939,6 +16941,7 @@ n4-highcpu-32,32.0,64.0,,,,asia-southeast2,asia-southeast2-a,1.72044,0.68818
 n4-highcpu-32,32.0,64.0,,,,asia-southeast2,asia-southeast2-b,1.72044,0.68818
 n4-highcpu-32,32.0,64.0,,,,asia-southeast2,asia-southeast2-c,1.72044,0.68818
 n4-highcpu-32,32.0,64.0,,,,australia-southeast1,australia-southeast1-b,1.59928,
+n4-highcpu-32,32.0,64.0,,,,australia-southeast1,australia-southeast1-c,1.59928,
 n4-highcpu-32,32.0,64.0,,,,australia-southeast2,australia-southeast2-a,1.66325,0.6653
 n4-highcpu-32,32.0,64.0,,,,australia-southeast2,australia-southeast2-b,1.66325,0.6653
 n4-highcpu-32,32.0,64.0,,,,australia-southeast2,australia-southeast2-c,1.66325,0.6653
@@ -17040,6 +17043,7 @@ n4-highcpu-4,4.0,8.0,,,,asia-southeast2,asia-southeast2-a,0.21506,0.08602
 n4-highcpu-4,4.0,8.0,,,,asia-southeast2,asia-southeast2-b,0.21506,0.08602
 n4-highcpu-4,4.0,8.0,,,,asia-southeast2,asia-southeast2-c,0.21506,0.08602
 n4-highcpu-4,4.0,8.0,,,,australia-southeast1,australia-southeast1-b,0.19991,
+n4-highcpu-4,4.0,8.0,,,,australia-southeast1,australia-southeast1-c,0.19991,
 n4-highcpu-4,4.0,8.0,,,,australia-southeast2,australia-southeast2-a,0.20791,0.08316
 n4-highcpu-4,4.0,8.0,,,,australia-southeast2,australia-southeast2-b,0.20791,0.08316
 n4-highcpu-4,4.0,8.0,,,,australia-southeast2,australia-southeast2-c,0.20791,0.08316
@@ -17141,6 +17145,7 @@ n4-highcpu-48,48.0,96.0,,,,asia-southeast2,asia-southeast2-a,2.58066,1.03226
 n4-highcpu-48,48.0,96.0,,,,asia-southeast2,asia-southeast2-b,2.58066,1.03226
 n4-highcpu-48,48.0,96.0,,,,asia-southeast2,asia-southeast2-c,2.58066,1.03226
 n4-highcpu-48,48.0,96.0,,,,australia-southeast1,australia-southeast1-b,2.39892,
+n4-highcpu-48,48.0,96.0,,,,australia-southeast1,australia-southeast1-c,2.39892,
 n4-highcpu-48,48.0,96.0,,,,australia-southeast2,australia-southeast2-a,2.49488,0.99795
 n4-highcpu-48,48.0,96.0,,,,australia-southeast2,australia-southeast2-b,2.49488,0.99795
 n4-highcpu-48,48.0,96.0,,,,australia-southeast2,australia-southeast2-c,2.49488,0.99795
@@ -17242,6 +17247,7 @@ n4-highcpu-64,64.0,128.0,,,,asia-southeast2,asia-southeast2-a,3.44088,1.37635
 n4-highcpu-64,64.0,128.0,,,,asia-southeast2,asia-southeast2-b,3.44088,1.37635
 n4-highcpu-64,64.0,128.0,,,,asia-southeast2,asia-southeast2-c,3.44088,1.37635
 n4-highcpu-64,64.0,128.0,,,,australia-southeast1,australia-southeast1-b,3.19856,
+n4-highcpu-64,64.0,128.0,,,,australia-southeast1,australia-southeast1-c,3.19856,
 n4-highcpu-64,64.0,128.0,,,,australia-southeast2,australia-southeast2-a,3.3265,1.3306
 n4-highcpu-64,64.0,128.0,,,,australia-southeast2,australia-southeast2-b,3.3265,1.3306
 n4-highcpu-64,64.0,128.0,,,,australia-southeast2,australia-southeast2-c,3.3265,1.3306
@@ -17343,6 +17349,7 @@ n4-highcpu-8,8.0,16.0,,,,asia-southeast2,asia-southeast2-a,0.43011,0.17204
 n4-highcpu-8,8.0,16.0,,,,asia-southeast2,asia-southeast2-b,0.43011,0.17204
 n4-highcpu-8,8.0,16.0,,,,asia-southeast2,asia-southeast2-c,0.43011,0.17204
 n4-highcpu-8,8.0,16.0,,,,australia-southeast1,australia-southeast1-b,0.39982,
+n4-highcpu-8,8.0,16.0,,,,australia-southeast1,australia-southeast1-c,0.39982,
 n4-highcpu-8,8.0,16.0,,,,australia-southeast2,australia-southeast2-a,0.41581,0.16633
 n4-highcpu-8,8.0,16.0,,,,australia-southeast2,australia-southeast2-b,0.41581,0.16633
 n4-highcpu-8,8.0,16.0,,,,australia-southeast2,australia-southeast2-c,0.41581,0.16633
@@ -17444,6 +17451,7 @@ n4-highcpu-80,80.0,160.0,,,,asia-southeast2,asia-southeast2-a,4.3011,1.72044
 n4-highcpu-80,80.0,160.0,,,,asia-southeast2,asia-southeast2-b,4.3011,1.72044
 n4-highcpu-80,80.0,160.0,,,,asia-southeast2,asia-southeast2-c,4.3011,1.72044
 n4-highcpu-80,80.0,160.0,,,,australia-southeast1,australia-southeast1-b,3.9982,
+n4-highcpu-80,80.0,160.0,,,,australia-southeast1,australia-southeast1-c,3.9982,
 n4-highcpu-80,80.0,160.0,,,,australia-southeast2,australia-southeast2-a,4.15813,1.66325
 n4-highcpu-80,80.0,160.0,,,,australia-southeast2,australia-southeast2-b,4.15813,1.66325
 n4-highcpu-80,80.0,160.0,,,,australia-southeast2,australia-southeast2-c,4.15813,1.66325
@@ -17545,6 +17553,7 @@ n4-highmem-16,16.0,128.0,,,,asia-southeast2,asia-southeast2-a,1.33812,0.53525
 n4-highmem-16,16.0,128.0,,,,asia-southeast2,asia-southeast2-b,1.33812,0.53525
 n4-highmem-16,16.0,128.0,,,,asia-southeast2,asia-southeast2-c,1.33812,0.53525
 n4-highmem-16,16.0,128.0,,,,australia-southeast1,australia-southeast1-b,1.24388,
+n4-highmem-16,16.0,128.0,,,,australia-southeast1,australia-southeast1-c,1.24388,
 n4-highmem-16,16.0,128.0,,,,australia-southeast2,australia-southeast2-a,1.29364,0.51745
 n4-highmem-16,16.0,128.0,,,,australia-southeast2,australia-southeast2-b,1.29364,0.51745
 n4-highmem-16,16.0,128.0,,,,australia-southeast2,australia-southeast2-c,1.29364,0.51745
@@ -17646,6 +17655,7 @@ n4-highmem-2,2.0,16.0,,,,asia-southeast2,asia-southeast2-a,0.16726,0.06691
 n4-highmem-2,2.0,16.0,,,,asia-southeast2,asia-southeast2-b,0.16726,0.06691
 n4-highmem-2,2.0,16.0,,,,asia-southeast2,asia-southeast2-c,0.16726,0.06691
 n4-highmem-2,2.0,16.0,,,,australia-southeast1,australia-southeast1-b,0.15548,
+n4-highmem-2,2.0,16.0,,,,australia-southeast1,australia-southeast1-c,0.15548,
 n4-highmem-2,2.0,16.0,,,,australia-southeast2,australia-southeast2-a,0.1617,0.06468
 n4-highmem-2,2.0,16.0,,,,australia-southeast2,australia-southeast2-b,0.1617,0.06468
 n4-highmem-2,2.0,16.0,,,,australia-southeast2,australia-southeast2-c,0.1617,0.06468
@@ -17747,6 +17757,7 @@ n4-highmem-32,32.0,256.0,,,,asia-southeast2,asia-southeast2-a,2.67623,1.07049
 n4-highmem-32,32.0,256.0,,,,asia-southeast2,asia-southeast2-b,2.67623,1.07049
 n4-highmem-32,32.0,256.0,,,,asia-southeast2,asia-southeast2-c,2.67623,1.07049
 n4-highmem-32,32.0,256.0,,,,australia-southeast1,australia-southeast1-b,2.48776,
+n4-highmem-32,32.0,256.0,,,,australia-southeast1,australia-southeast1-c,2.48776,
 n4-highmem-32,32.0,256.0,,,,australia-southeast2,australia-southeast2-a,2.58727,1.03491
 n4-highmem-32,32.0,256.0,,,,australia-southeast2,australia-southeast2-b,2.58727,1.03491
 n4-highmem-32,32.0,256.0,,,,australia-southeast2,australia-southeast2-c,2.58727,1.03491
@@ -17848,6 +17859,7 @@ n4-highmem-4,4.0,32.0,,,,asia-southeast2,asia-southeast2-a,0.33453,0.13381
 n4-highmem-4,4.0,32.0,,,,asia-southeast2,asia-southeast2-b,0.33453,0.13381
 n4-highmem-4,4.0,32.0,,,,asia-southeast2,asia-southeast2-c,0.33453,0.13381
 n4-highmem-4,4.0,32.0,,,,australia-southeast1,australia-southeast1-b,0.31097,
+n4-highmem-4,4.0,32.0,,,,australia-southeast1,australia-southeast1-c,0.31097,
 n4-highmem-4,4.0,32.0,,,,australia-southeast2,australia-southeast2-a,0.32341,0.12936
 n4-highmem-4,4.0,32.0,,,,australia-southeast2,australia-southeast2-b,0.32341,0.12936
 n4-highmem-4,4.0,32.0,,,,australia-southeast2,australia-southeast2-c,0.32341,0.12936
@@ -17949,6 +17961,7 @@ n4-highmem-48,48.0,384.0,,,,asia-southeast2,asia-southeast2-a,4.01435,1.60574
 n4-highmem-48,48.0,384.0,,,,asia-southeast2,asia-southeast2-b,4.01435,1.60574
 n4-highmem-48,48.0,384.0,,,,asia-southeast2,asia-southeast2-c,4.01435,1.60574
 n4-highmem-48,48.0,384.0,,,,australia-southeast1,australia-southeast1-b,3.73164,
+n4-highmem-48,48.0,384.0,,,,australia-southeast1,australia-southeast1-c,3.73164,
 n4-highmem-48,48.0,384.0,,,,australia-southeast2,australia-southeast2-a,3.88091,1.55236
 n4-highmem-48,48.0,384.0,,,,australia-southeast2,australia-southeast2-b,3.88091,1.55236
 n4-highmem-48,48.0,384.0,,,,australia-southeast2,australia-southeast2-c,3.88091,1.55236
@@ -18050,6 +18063,7 @@ n4-highmem-64,64.0,512.0,,,,asia-southeast2,asia-southeast2-a,5.35247,2.14099
 n4-highmem-64,64.0,512.0,,,,asia-southeast2,asia-southeast2-b,5.35247,2.14099
 n4-highmem-64,64.0,512.0,,,,asia-southeast2,asia-southeast2-c,5.35247,2.14099
 n4-highmem-64,64.0,512.0,,,,australia-southeast1,australia-southeast1-b,4.97552,
+n4-highmem-64,64.0,512.0,,,,australia-southeast1,australia-southeast1-c,4.97552,
 n4-highmem-64,64.0,512.0,,,,australia-southeast2,australia-southeast2-a,5.17454,2.06982
 n4-highmem-64,64.0,512.0,,,,australia-southeast2,australia-southeast2-b,5.17454,2.06982
 n4-highmem-64,64.0,512.0,,,,australia-southeast2,australia-southeast2-c,5.17454,2.06982
@@ -18151,6 +18165,7 @@ n4-highmem-8,8.0,64.0,,,,asia-southeast2,asia-southeast2-a,0.66906,0.26762
 n4-highmem-8,8.0,64.0,,,,asia-southeast2,asia-southeast2-b,0.66906,0.26762
 n4-highmem-8,8.0,64.0,,,,asia-southeast2,asia-southeast2-c,0.66906,0.26762
 n4-highmem-8,8.0,64.0,,,,australia-southeast1,australia-southeast1-b,0.62194,
+n4-highmem-8,8.0,64.0,,,,australia-southeast1,australia-southeast1-c,0.62194,
 n4-highmem-8,8.0,64.0,,,,australia-southeast2,australia-southeast2-a,0.64682,0.25873
 n4-highmem-8,8.0,64.0,,,,australia-southeast2,australia-southeast2-b,0.64682,0.25873
 n4-highmem-8,8.0,64.0,,,,australia-southeast2,australia-southeast2-c,0.64682,0.25873
@@ -18252,6 +18267,7 @@ n4-highmem-80,80.0,640.0,,,,asia-southeast2,asia-southeast2-a,6.69058,2.67623
 n4-highmem-80,80.0,640.0,,,,asia-southeast2,asia-southeast2-b,6.69058,2.67623
 n4-highmem-80,80.0,640.0,,,,asia-southeast2,asia-southeast2-c,6.69058,2.67623
 n4-highmem-80,80.0,640.0,,,,australia-southeast1,australia-southeast1-b,6.2194,
+n4-highmem-80,80.0,640.0,,,,australia-southeast1,australia-southeast1-c,6.2194,
 n4-highmem-80,80.0,640.0,,,,australia-southeast2,australia-southeast2-a,6.46818,2.58727
 n4-highmem-80,80.0,640.0,,,,australia-southeast2,australia-southeast2-b,6.46818,2.58727
 n4-highmem-80,80.0,640.0,,,,australia-southeast2,australia-southeast2-c,6.46818,2.58727
@@ -18353,6 +18369,7 @@ n4-standard-16,16.0,64.0,,,,asia-southeast2,asia-southeast2-a,1.01952,0.40781
 n4-standard-16,16.0,64.0,,,,asia-southeast2,asia-southeast2-b,1.01952,0.40781
 n4-standard-16,16.0,64.0,,,,asia-southeast2,asia-southeast2-c,1.01952,0.40781
 n4-standard-16,16.0,64.0,,,,australia-southeast1,australia-southeast1-b,0.94772,
+n4-standard-16,16.0,64.0,,,,australia-southeast1,australia-southeast1-c,0.94772,
 n4-standard-16,16.0,64.0,,,,australia-southeast2,australia-southeast2-a,0.98563,0.39425
 n4-standard-16,16.0,64.0,,,,australia-southeast2,australia-southeast2-b,0.98563,0.39425
 n4-standard-16,16.0,64.0,,,,australia-southeast2,australia-southeast2-c,0.98563,0.39425
@@ -18454,6 +18471,7 @@ n4-standard-2,2.0,8.0,,,,asia-southeast2,asia-southeast2-a,0.12744,0.05098
 n4-standard-2,2.0,8.0,,,,asia-southeast2,asia-southeast2-b,0.12744,0.05098
 n4-standard-2,2.0,8.0,,,,asia-southeast2,asia-southeast2-c,0.12744,0.05098
 n4-standard-2,2.0,8.0,,,,australia-southeast1,australia-southeast1-b,0.11846,
+n4-standard-2,2.0,8.0,,,,australia-southeast1,australia-southeast1-c,0.11846,
 n4-standard-2,2.0,8.0,,,,australia-southeast2,australia-southeast2-a,0.1232,0.04928
 n4-standard-2,2.0,8.0,,,,australia-southeast2,australia-southeast2-b,0.1232,0.04928
 n4-standard-2,2.0,8.0,,,,australia-southeast2,australia-southeast2-c,0.1232,0.04928
@@ -18555,6 +18573,7 @@ n4-standard-32,32.0,128.0,,,,asia-southeast2,asia-southeast2-a,2.03904,0.81562
 n4-standard-32,32.0,128.0,,,,asia-southeast2,asia-southeast2-b,2.03904,0.81562
 n4-standard-32,32.0,128.0,,,,asia-southeast2,asia-southeast2-c,2.03904,0.81562
 n4-standard-32,32.0,128.0,,,,australia-southeast1,australia-southeast1-b,1.89544,
+n4-standard-32,32.0,128.0,,,,australia-southeast1,australia-southeast1-c,1.89544,
 n4-standard-32,32.0,128.0,,,,australia-southeast2,australia-southeast2-a,1.97126,0.7885
 n4-standard-32,32.0,128.0,,,,australia-southeast2,australia-southeast2-b,1.97126,0.7885
 n4-standard-32,32.0,128.0,,,,australia-southeast2,australia-southeast2-c,1.97126,0.7885
@@ -18656,6 +18675,7 @@ n4-standard-4,4.0,16.0,,,,asia-southeast2,asia-southeast2-a,0.25488,0.10195
 n4-standard-4,4.0,16.0,,,,asia-southeast2,asia-southeast2-b,0.25488,0.10195
 n4-standard-4,4.0,16.0,,,,asia-southeast2,asia-southeast2-c,0.25488,0.10195
 n4-standard-4,4.0,16.0,,,,australia-southeast1,australia-southeast1-b,0.23693,
+n4-standard-4,4.0,16.0,,,,australia-southeast1,australia-southeast1-c,0.23693,
 n4-standard-4,4.0,16.0,,,,australia-southeast2,australia-southeast2-a,0.24641,0.09856
 n4-standard-4,4.0,16.0,,,,australia-southeast2,australia-southeast2-b,0.24641,0.09856
 n4-standard-4,4.0,16.0,,,,australia-southeast2,australia-southeast2-c,0.24641,0.09856
@@ -18757,6 +18777,7 @@ n4-standard-48,48.0,192.0,,,,asia-southeast2,asia-southeast2-a,3.05856,1.22342
 n4-standard-48,48.0,192.0,,,,asia-southeast2,asia-southeast2-b,3.05856,1.22342
 n4-standard-48,48.0,192.0,,,,asia-southeast2,asia-southeast2-c,3.05856,1.22342
 n4-standard-48,48.0,192.0,,,,australia-southeast1,australia-southeast1-b,2.84316,
+n4-standard-48,48.0,192.0,,,,australia-southeast1,australia-southeast1-c,2.84316,
 n4-standard-48,48.0,192.0,,,,australia-southeast2,australia-southeast2-a,2.95689,1.18275
 n4-standard-48,48.0,192.0,,,,australia-southeast2,australia-southeast2-b,2.95689,1.18275
 n4-standard-48,48.0,192.0,,,,australia-southeast2,australia-southeast2-c,2.95689,1.18275
@@ -18858,6 +18879,7 @@ n4-standard-64,64.0,256.0,,,,asia-southeast2,asia-southeast2-a,4.07808,1.63123
 n4-standard-64,64.0,256.0,,,,asia-southeast2,asia-southeast2-b,4.07808,1.63123
 n4-standard-64,64.0,256.0,,,,asia-southeast2,asia-southeast2-c,4.07808,1.63123
 n4-standard-64,64.0,256.0,,,,australia-southeast1,australia-southeast1-b,3.79088,
+n4-standard-64,64.0,256.0,,,,australia-southeast1,australia-southeast1-c,3.79088,
 n4-standard-64,64.0,256.0,,,,australia-southeast2,australia-southeast2-a,3.94252,1.57701
 n4-standard-64,64.0,256.0,,,,australia-southeast2,australia-southeast2-b,3.94252,1.57701
 n4-standard-64,64.0,256.0,,,,australia-southeast2,australia-southeast2-c,3.94252,1.57701
@@ -18959,6 +18981,7 @@ n4-standard-8,8.0,32.0,,,,asia-southeast2,asia-southeast2-a,0.50976,0.2039
 n4-standard-8,8.0,32.0,,,,asia-southeast2,asia-southeast2-b,0.50976,0.2039
 n4-standard-8,8.0,32.0,,,,asia-southeast2,asia-southeast2-c,0.50976,0.2039
 n4-standard-8,8.0,32.0,,,,australia-southeast1,australia-southeast1-b,0.47386,
+n4-standard-8,8.0,32.0,,,,australia-southeast1,australia-southeast1-c,0.47386,
 n4-standard-8,8.0,32.0,,,,australia-southeast2,australia-southeast2-a,0.49281,0.19713
 n4-standard-8,8.0,32.0,,,,australia-southeast2,australia-southeast2-b,0.49281,0.19713
 n4-standard-8,8.0,32.0,,,,australia-southeast2,australia-southeast2-c,0.49281,0.19713
@@ -19060,6 +19083,7 @@ n4-standard-80,80.0,320.0,,,,asia-southeast2,asia-southeast2-a,5.0976,2.03904
 n4-standard-80,80.0,320.0,,,,asia-southeast2,asia-southeast2-b,5.0976,2.03904
 n4-standard-80,80.0,320.0,,,,asia-southeast2,asia-southeast2-c,5.0976,2.03904
 n4-standard-80,80.0,320.0,,,,australia-southeast1,australia-southeast1-b,4.7386,
+n4-standard-80,80.0,320.0,,,,australia-southeast1,australia-southeast1-c,4.7386,
 n4-standard-80,80.0,320.0,,,,australia-southeast2,australia-southeast2-a,4.92814,1.97126
 n4-standard-80,80.0,320.0,,,,australia-southeast2,australia-southeast2-b,4.92814,1.97126
 n4-standard-80,80.0,320.0,,,,australia-southeast2,australia-southeast2-c,4.92814,1.97126
