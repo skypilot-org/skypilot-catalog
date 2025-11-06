@@ -1,10 +1,12 @@
-name: Update RunPod Catalog
+name: "update-runpod-catalog"
 on:
   schedule:
-    - cron: '00 */7 * * *' # Every 7 hours (coprimes with 24)
+    - cron: '15 */7 * * *'    # Every 7 hours (coprimes with 24)
     # The frequency can be tuned for the trade-off between
     # freshness of the price and github action cost/user downloading
     # overhead of the update.
+    # _UPDATE_FREQUENCY_HOURS in `runpod_catalog.py` need to be updated
+    # accordingly, if this is changed.
   workflow_dispatch:
 
 jobs:
@@ -26,48 +28,35 @@ jobs:
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v4
         with:
-          version: 'latest'
-          python-version: '3.10'
-      - name: Run fetch_runpod
-        id: fetch_catalogs
+          version: "latest"
+          python-version: "3.10"
+      - name: Install dependencies
         run: |
           uv venv --seed ~/catalogs-venv
           source ~/catalogs-venv/bin/activate
-          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
-          # Loop over all versions and commit hashes
-          for version in $versions; do
-            # Find commit hash for the version
-            commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
-            cd sky
-            if [ "$commit_hash" == "latest" ]; then
-              # Find the latest commit of the remote SkyPilot repo
-              commit_hash=$(git rev-parse origin/master)
-            fi
-            git checkout $commit_hash
-            uv pip install ".[runpod]"
-            cd -
-            echo "Fetching RunPod catalog for version $version, SkyPilot commit hash $commit_hash"
-            mkdir -p catalogs/catalogs/$version
-            cd catalogs/catalogs/$version
-            # Run the fetch script and verify the output file exists and is not empty
-            python -m sky.catalog.data_fetchers.fetch_runpod
-            if [ ! -f "runpod/vms.csv" ] || [ ! -s "runpod/vms.csv" ]; then
-              echo "Error: RunPod catalog file is missing or empty"
-              exit 1
-            fi
-            cd -
-          done
+          cd sky
+          uv pip install ".[runpod]"
+          cd -
+      - name: Run fetch_runpod
+        run: |
+          source ~/catalogs-venv/bin/activate
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
+          mkdir -p catalogs/catalogs/$version
+          cd catalogs/catalogs/$version
+          python -m sky.catalog.data_fetchers.fetch_runpod
+          cd -
         env:
           RUNPOD_API_KEY: ${{ secrets.RUNPOD_API_KEY }}
 
       - name: Commit catalog
         run: |
-          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]' | tr '\n' ', ')
+          source ~/catalogs-venv/bin/activate
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m"[Bot] Update RunPod catalog $versions (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git commit -m"[Bot] Update Runpod catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
           git fetch origin
           git rebase origin/master
           git push
