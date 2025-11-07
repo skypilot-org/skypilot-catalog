@@ -1,0 +1,69 @@
+name: "update-shadeform-catalog"
+on:
+  schedule:
+    - cron: '0 */1 * * *'    # Every 1 hour
+  workflow_dispatch:
+
+jobs:
+  update_shadeform_catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone SkyPilot repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          repository: skypilot-org/skypilot
+          path: sky
+      - name: Clone Catalog repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          path: catalogs
+          token: ${{ secrets.GH_ACTION_PAT }}
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
+          cd sky
+          uv pip install requests
+      - name: Run fetch_shadeform
+        id: fetch_catalogs
+        run: |
+          source ~/catalogs-venv/bin/activate
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
+          for version in $versions; do
+            if [[ "$version" == "v7" ]]; then
+                continue  # skip, as shadeform was not added by the version
+            fi
+            commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
+            cd sky
+            if [ "$commit_hash" == "latest" ]; then
+              commit_hash=$(git rev-parse origin/master)
+            fi
+            git checkout $commit_hash
+            cd -
+            mkdir -p catalogs/catalogs/$version
+            cd catalogs/catalogs/$version
+            mkdir -p ~/.shadeform
+            echo "$SHADEFORM_API_KEY" > ~/.shadeform/api_key
+            python sky/sky/clouds/service_catalog/data_fetchers/fetch_shadeform.py
+            cd -
+          done
+        env:
+          SHADEFORM_API_KEY: ${{ secrets.SHADEFORM_API_KEY }}
+      - name: Commit catalog
+        run: |
+          versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]' | tr '\n' ', ')
+          cd catalogs
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m"[Bot] Update Shadeform catalog $versions (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git fetch origin
+          git rebase origin/master
+          git push
