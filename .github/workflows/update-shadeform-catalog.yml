@@ -51,7 +51,7 @@ jobs:
             cd catalogs/catalogs/$version
             mkdir -p ~/.shadeform
             echo "$SHADEFORM_API_KEY" > ~/.shadeform/api_key
-            python sky/sky/clouds/service_catalog/data_fetchers/fetch_shadeform.py
+            python ../../../sky/sky/clouds/service_catalog/data_fetchers/fetch_shadeform.py
             cd -
           done
         env:
