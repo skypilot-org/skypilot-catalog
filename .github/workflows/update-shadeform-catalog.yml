@@ -34,6 +34,7 @@ jobs:
       - name: Run fetch_shadeform
         id: fetch_catalogs
         run: |
+          uv venv --seed ~/catalogs-venv
           source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
