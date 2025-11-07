@@ -46,12 +46,11 @@ jobs:
               commit_hash=$(git rev-parse origin/master)
             fi
             git checkout $commit_hash
+            uv pip install ".[shadeform]"
             cd -
             mkdir -p catalogs/catalogs/$version
             cd catalogs/catalogs/$version
-            mkdir -p ~/.shadeform
-            echo "$SHADEFORM_API_KEY" > ~/.shadeform/api_key
-            python ../../../sky/sky/clouds/service_catalog/data_fetchers/fetch_shadeform.py
+            python -m sky.catalog.data_fetchers.fetch_shadeform --api-key ${SHADEFORM_API_KEY}
             cd -
           done
         env:
