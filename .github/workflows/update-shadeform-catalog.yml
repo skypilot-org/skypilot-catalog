@@ -37,6 +37,9 @@ jobs:
           source ~/catalogs-venv/bin/activate
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]')
           for version in $versions; do
+            if [[ "$version" == "v7" ]]; then
+                continue  # skip, as shadeform was not added by the version
+            fi
             commit_hash=$(cat catalogs/.metadata.yml | yq -r ".version_commit.$version")
             cd sky
             if [ "$commit_hash" == "latest" ]; then
