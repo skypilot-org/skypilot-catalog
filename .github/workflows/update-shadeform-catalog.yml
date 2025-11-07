@@ -1,7 +1,7 @@
 name: "update-shadeform-catalog"
 on:
   schedule:
-    - cron: '0 */1 * * *'    # Every 1 hour
+    - cron: '25 */7 * * *'    # Every 7 hour
   workflow_dispatch:
 
 jobs:
