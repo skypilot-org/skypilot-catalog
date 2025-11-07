@@ -1,5 +1,5 @@
 AcceleratorName,Clouds
-A10,"['Azure', 'Lambda', 'OCI']"
+A10,"['Azure', 'Lambda', 'OCI', 'Shadeform']"
 A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast']"
 A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'scp']"
 A100-80GB-SXM,['RunPod']
@@ -12,6 +12,7 @@ A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 A800,['Cudo']
 B200,"['AWS', 'Lambda', 'PrimeIntellect', 'RunPod', 'Shadeform', 'nebius']"
+GAUDI2,['Shadeform']
 GH200,"['Lambda', 'Shadeform']"
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
@@ -53,6 +54,7 @@ RTXA6000,"['Cudo', 'RunPod', 'Seeweb', 'Vast']"
 RTXPRO6000,['RunPod']
 RTXPRO6000-WK,['RunPod']
 RTXPRO6000WS,['Vast']
+RTXPro6000,['Shadeform']
 Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
