@@ -43,20 +43,7 @@ jobs:
           mkdir -p catalogs/catalogs/$version
           cd catalogs/catalogs/$version
           mkdir -p common
-          python -u -c "
-          from sky import catalog
-          import pandas as pd
-
-          acc_cloud = list(zip(*[
-              [k, sorted(list(set(info.cloud for info in infos)))]
-              for k, infos in catalog.list_accelerators().items()
-          ]))
-
-          pd.DataFrame({
-              'AcceleratorName': acc_cloud[0],
-              'Clouds': acc_cloud[1]
-          }).sort_values(by='AcceleratorName').to_csv('common/accelerators.csv', index=False)
-          "
+          python -u catalogs/.github/scripts/aggregate_accelerators.py
 
       - name: Commit catalog
         run: |
