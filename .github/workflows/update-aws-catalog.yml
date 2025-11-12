@@ -18,6 +18,7 @@ jobs:
         with:
           fetch-depth: 0
           repository: skypilot-org/skypilot
+          ref: cata0
           path: sky
       - name: Clone Catalog repo
         uses: actions/checkout@v4
