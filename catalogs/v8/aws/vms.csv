@@ -12949,8 +12949,8 @@ g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', '
 g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 2861}",0.26264,0.066200,ap-southeast-2,apse2-az2,x86_64
 g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 2861}",0.22429,0.040000,ca-central-1,cac1-az1,x86_64
 g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 2861}",0.22429,0.042700,ca-central-1,cac1-az2,x86_64
-g6f.large,L4,0.0,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 0}",0.25261,0.066500,eu-central-1,euc1-az2,x86_64
-g6f.large,L4,0.0,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 0}",0.25261,0.052200,eu-central-1,euc1-az3,x86_64
+g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 0}",0.25261,0.066500,eu-central-1,euc1-az2,x86_64
+g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 0}",0.25261,0.052200,eu-central-1,euc1-az3,x86_64
 g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 2861}",0.21424,0.040500,eu-north-1,eun1-az1,x86_64
 g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 2861}",0.21424,0.150100,eu-north-1,eun1-az2,x86_64
 g6f.large,L4,0.125,2.0,8.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 2861}}], 'TotalGpuMemoryInMiB': 2861}",0.22725,,eu-south-2,eus2-az1,x86_64
@@ -13075,8 +13075,8 @@ gr6f.4xlarge,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA
 gr6f.4xlarge,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 11444}",1.38597,0.351100,ap-southeast-2,apse2-az2,x86_64
 gr6f.4xlarge,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 11444}",1.1836,0.447600,ca-central-1,cac1-az1,x86_64
 gr6f.4xlarge,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 11444}",1.1836,0.469700,ca-central-1,cac1-az2,x86_64
-gr6f.4xlarge,L4,0.0,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 0}",1.33305,0.387600,eu-central-1,euc1-az2,x86_64
-gr6f.4xlarge,L4,0.0,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 0}",1.33305,0.417000,eu-central-1,euc1-az3,x86_64
+gr6f.large,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 0}",1.33305,0.387600,eu-central-1,euc1-az2,x86_64
+gr6f.large,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 0}",1.33305,0.417000,eu-central-1,euc1-az3,x86_64
 gr6f.4xlarge,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 11444}",1.13069,0.281500,eu-north-1,eun1-az1,x86_64
 gr6f.4xlarge,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 11444}",1.13069,0.976900,eu-north-1,eun1-az2,x86_64
 gr6f.4xlarge,L4,0.5,16.0,128.0,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'NVIDIA', 'Count': 0, 'MemoryInfo': {'SizeInMiB': 11444}}], 'TotalGpuMemoryInMiB': 11444}",1.19925,,eu-south-2,eus2-az1,x86_64
