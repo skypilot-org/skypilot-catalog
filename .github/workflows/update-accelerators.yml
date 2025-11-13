@@ -40,10 +40,13 @@ jobs:
         run: |
           source ~/test-env/bin/activate
           version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
-          mkdir -p catalogs/catalogs/$version
-          cd catalogs/catalogs/$version
-          mkdir -p common
-          python -u catalogs/.github/scripts/aggregate_accelerators.py
+          cd catalogs
+          mkdir -p catalogs/$version/common
+          mkdir -p ~/.sky/catalogs
+          cp -r catalogs/$version ~/.sky/catalogs/
+
+          cd catalogs/$version
+          python -u ../../.github/scripts/aggregate_accelerators.py
 
       - name: Commit catalog
         run: |
