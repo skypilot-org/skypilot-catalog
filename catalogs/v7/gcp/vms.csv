@@ -2440,6 +2440,7 @@ c3-standard-176,176.0,704.0,,,,asia-southeast1,asia-southeast1-c,10.94385,4.3774
 c3-standard-176,176.0,704.0,,,,australia-southeast1,australia-southeast1-a,11.08844,2.90928
 c3-standard-176,176.0,704.0,,,,australia-southeast1,australia-southeast1-b,11.08844,2.90928
 c3-standard-176,176.0,704.0,,,,australia-southeast2,australia-southeast2-b,11.53198,2.99141
+c3-standard-176,176.0,704.0,,,,europe-north1,europe-north1-b,9.76758,2.07856
 c3-standard-176,176.0,704.0,,,,europe-west1,europe-west1-b,9.76758,2.9392
 c3-standard-176,176.0,704.0,,,,europe-west1,europe-west1-c,9.76758,2.9392
 c3-standard-176,176.0,704.0,,,,europe-west1,europe-west1-d,9.76758,2.9392
@@ -2562,6 +2563,7 @@ c3-standard-22,22.0,88.0,,,,asia-southeast1,asia-southeast1-c,1.36798,0.54718
 c3-standard-22,22.0,88.0,,,,australia-southeast1,australia-southeast1-a,1.38605,0.36366
 c3-standard-22,22.0,88.0,,,,australia-southeast1,australia-southeast1-b,1.38605,0.36366
 c3-standard-22,22.0,88.0,,,,australia-southeast2,australia-southeast2-b,1.4415,0.37393
+c3-standard-22,22.0,88.0,,,,europe-north1,europe-north1-b,1.22095,0.25982
 c3-standard-22,22.0,88.0,,,,europe-west1,europe-west1-b,1.22095,0.3674
 c3-standard-22,22.0,88.0,,,,europe-west1,europe-west1-c,1.22095,0.3674
 c3-standard-22,22.0,88.0,,,,europe-west1,europe-west1-d,1.22095,0.3674
@@ -2668,6 +2670,7 @@ c3-standard-4,4.0,16.0,,,,asia-southeast1,asia-southeast1-c,0.24872,0.09949
 c3-standard-4,4.0,16.0,,,,australia-southeast1,australia-southeast1-a,0.25201,0.06612
 c3-standard-4,4.0,16.0,,,,australia-southeast1,australia-southeast1-b,0.25201,0.06612
 c3-standard-4,4.0,16.0,,,,australia-southeast2,australia-southeast2-b,0.26209,0.06799
+c3-standard-4,4.0,16.0,,,,europe-north1,europe-north1-b,0.22199,0.04724
 c3-standard-4,4.0,16.0,,,,europe-west1,europe-west1-b,0.22199,0.0668
 c3-standard-4,4.0,16.0,,,,europe-west1,europe-west1-c,0.22199,0.0668
 c3-standard-4,4.0,16.0,,,,europe-west1,europe-west1-d,0.22199,0.0668
@@ -2774,6 +2777,7 @@ c3-standard-44,44.0,176.0,,,,asia-southeast1,asia-southeast1-c,2.73596,1.09437
 c3-standard-44,44.0,176.0,,,,australia-southeast1,australia-southeast1-a,2.77211,0.72732
 c3-standard-44,44.0,176.0,,,,australia-southeast1,australia-southeast1-b,2.77211,0.72732
 c3-standard-44,44.0,176.0,,,,australia-southeast2,australia-southeast2-b,2.88299,0.74785
+c3-standard-44,44.0,176.0,,,,europe-north1,europe-north1-b,2.4419,0.51964
 c3-standard-44,44.0,176.0,,,,europe-west1,europe-west1-b,2.4419,0.7348
 c3-standard-44,44.0,176.0,,,,europe-west1,europe-west1-c,2.4419,0.7348
 c3-standard-44,44.0,176.0,,,,europe-west1,europe-west1-d,2.4419,0.7348
@@ -2880,6 +2884,7 @@ c3-standard-8,8.0,32.0,,,,asia-southeast1,asia-southeast1-c,0.49745,0.19898
 c3-standard-8,8.0,32.0,,,,australia-southeast1,australia-southeast1-a,0.50402,0.13224
 c3-standard-8,8.0,32.0,,,,australia-southeast1,australia-southeast1-b,0.50402,0.13224
 c3-standard-8,8.0,32.0,,,,australia-southeast2,australia-southeast2-b,0.52418,0.13597
+c3-standard-8,8.0,32.0,,,,europe-north1,europe-north1-b,0.44398,0.09448
 c3-standard-8,8.0,32.0,,,,europe-west1,europe-west1-b,0.44398,0.1336
 c3-standard-8,8.0,32.0,,,,europe-west1,europe-west1-c,0.44398,0.1336
 c3-standard-8,8.0,32.0,,,,europe-west1,europe-west1-d,0.44398,0.1336
@@ -2986,6 +2991,7 @@ c3-standard-88,88.0,352.0,,,,asia-southeast1,asia-southeast1-c,5.47192,2.18874
 c3-standard-88,88.0,352.0,,,,australia-southeast1,australia-southeast1-a,5.54422,1.45464
 c3-standard-88,88.0,352.0,,,,australia-southeast1,australia-southeast1-b,5.54422,1.45464
 c3-standard-88,88.0,352.0,,,,australia-southeast2,australia-southeast2-b,5.76599,1.49571
+c3-standard-88,88.0,352.0,,,,europe-north1,europe-north1-b,4.88379,1.03928
 c3-standard-88,88.0,352.0,,,,europe-west1,europe-west1-b,4.88379,1.4696
 c3-standard-88,88.0,352.0,,,,europe-west1,europe-west1-c,4.88379,1.4696
 c3-standard-88,88.0,352.0,,,,europe-west1,europe-west1-d,4.88379,1.4696
