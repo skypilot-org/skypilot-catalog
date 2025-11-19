@@ -13,6 +13,7 @@ A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 A800,['Cudo']
 B200,"['AWS', 'Lambda', 'PrimeIntellect', 'RunPod', 'Shadeform', 'nebius']"
 B300,"['AWS', 'Shadeform']"
+GAUDI2,['Shadeform']
 GH200,['Lambda']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
@@ -37,7 +38,6 @@ RTX2000-Ada,['RunPod']
 RTX3060,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4000Ada,['Shadeform']
 RTX4060,['Vast']
 RTX4070,['Vast']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
