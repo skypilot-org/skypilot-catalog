@@ -23,6 +23,8 @@ H100-NVLINK,['Fluidstack']
 H100-SXM,"['Cudo', 'RunPod']"
 H200,"['AWS', 'GCP', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
 H200-SXM,['RunPod']
+Inferentia,['AWS']
+Inferentia2,['AWS']
 K80,['Azure']
 L4,"['AWS', 'GCP', 'RunPod', 'Seeweb', 'Shadeform']"
 L40,"['PrimeIntellect', 'RunPod', 'Shadeform']"
@@ -58,6 +60,8 @@ Radeon MI25,['Azure']
 Radeon Pro V520,['AWS']
 T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
+Trainium,['AWS']
+Trainium2,['AWS']
 V100,"['AWS', 'Azure', 'Cudo', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'Shadeform', 'Vast']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'Shadeform', 'scp']"
 tpu-v2,['GCP']
