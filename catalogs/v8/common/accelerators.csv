@@ -1,11 +1,11 @@
 AcceleratorName,Clouds
-A10,"['Azure', 'Lambda', 'OCI', 'Shadeform']"
+A10,"['Azure', 'Lambda', 'OCI']"
 A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast']"
 A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'scp']"
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
 A16,['Shadeform']
-A30,['Seeweb']
+A30,"['Seeweb', 'Shadeform']"
 A40,"['Cudo', 'RunPod', 'Shadeform']"
 A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
@@ -44,7 +44,7 @@ RTX4090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5070,['Vast']
 RTX5090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5880-Ada,['Vast']
-RTX6000,"['Lambda', 'Seeweb']"
+RTX6000,"['Lambda', 'Seeweb', 'Shadeform']"
 RTX6000-Ada,"['RunPod', 'Vast']"
 RTX6000Ada,"['PrimeIntellect', 'Shadeform']"
 RTXA4000,['RunPod']
