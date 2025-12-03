@@ -47,7 +47,7 @@ jobs:
           source ~/catalogs-venv/bin/activate
           version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
           mkdir -p catalogs/catalogs/$version/verda
-          python -m sky.catalog.data_fetchers.fetch_verda catalogs/catalogs/$version/verda
+          python -m sky.catalog.data_fetchers.fetch_verda catalogs/catalogs/$version/verda/vms.csv
         env:
           VERDA_CLIENT_ID: ${{ secrets.VERDA_CLIENT_ID }}
           VERDA_CLIENT_SECRET: ${{ secrets.VERDA_CLIENT_SECRET }}
