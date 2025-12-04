@@ -1,11 +1,11 @@
 name: "update-verda-catalog"
 on:
   # Disabled for now 
-  # schedule:
-  #   - cron:  '15 */7 * * *'    # Every 2 hours 
-  workflow_dispatch:
-  pull_request:
-    types: [opened, synchronize]
+  schedule:
+     - cron:  '15 */3 * * *'    # Every 3 hours 
+#  workflow_dispatch:
+#  pull_request:
+#    types: [opened, synchronize]
 
 jobs:
   update_verda_catalog:
