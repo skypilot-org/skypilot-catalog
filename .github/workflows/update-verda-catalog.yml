@@ -1,0 +1,68 @@
+name: "update-verda-catalog"
+on:
+  # Disabled for now 
+  schedule:
+     - cron:  '15 */3 * * *'    # Every 3 hours 
+#  workflow_dispatch:
+#  pull_request:
+#    types: [opened, synchronize]
+
+jobs:
+  update_verda_catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone SkyPilot repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # FIXME: temporarily use my fork of SkyPilot repo, in order for main
+          # PR to succeed in building
+          repository: huksley/skypilot
+          ref: feat/fetch-verda
+          path: sky
+      - name: Clone Catalog repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          path: catalogs
+          ref: master
+          token: ${{ secrets.GH_ACTION_PAT }}
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
+          cd sky
+          uv pip install ".[verda]"
+          cd -
+      - name: Run fetch_verda
+        run: |
+          source ~/catalogs-venv/bin/activate
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
+          mkdir -p catalogs/catalogs/$version/verda
+          python -m sky.catalog.data_fetchers.fetch_verda catalogs/catalogs/$version/verda/vms.csv
+        env:
+          VERDA_CLIENT_ID: ${{ secrets.VERDA_CLIENT_ID }}
+          VERDA_CLIENT_SECRET: ${{ secrets.VERDA_CLIENT_SECRET }}
+      - name: Add artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: verda-catalog
+          path: catalogs/catalogs/*/verda/*.csv
+      - name: Commit catalog
+        run: |
+          source ~/catalogs-venv/bin/activate
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
+          cd catalogs
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m"[Bot] Update Verda catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git fetch origin
+          git rebase origin/master
+          git push origin HEAD:master
+          
