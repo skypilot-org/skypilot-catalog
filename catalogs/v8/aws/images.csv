@@ -193,6 +193,7 @@ skypilot:neuron-ubuntu-2204,ap-northeast-3,ubuntu,22.04,ami-084e6ff34b75d6f53,20
 skypilot:neuron-ubuntu-2204,ap-south-1,ubuntu,22.04,ami-0a977533e8a81c03d,20251029,
 skypilot:neuron-ubuntu-2204,ap-southeast-1,ubuntu,22.04,ami-059c25dc83e2a52e9,20251029,
 skypilot:neuron-ubuntu-2204,ap-southeast-2,ubuntu,22.04,ami-05493c6283642fb32,20251029,
+skypilot:neuron-ubuntu-2204,ap-southeast-4,ubuntu,22.04,ami-0a65840dc9a69a669,20251029,
 skypilot:neuron-ubuntu-2204,ca-central-1,ubuntu,22.04,ami-0b4e281cebc79b825,20251029,
 skypilot:neuron-ubuntu-2204,eu-central-1,ubuntu,22.04,ami-05247dc47da78436f,20251029,
 skypilot:neuron-ubuntu-2204,eu-north-1,ubuntu,22.04,ami-03864a3d1fcfef078,20251029,
