@@ -3452,6 +3452,7 @@ c3d-highmem-16,16.0,128.0,,,,europe-west4,europe-west4-a,1.02875,0.41146
 c3d-highmem-16,16.0,128.0,,,,europe-west4,europe-west4-b,1.02875,0.41146
 c3d-highmem-16,16.0,128.0,,,,europe-west4,europe-west4-c,1.02875,0.41146
 c3d-highmem-16,16.0,128.0,,,,me-central2,me-central2-a,1.56762,0.57844
+c3d-highmem-16,16.0,128.0,,,,me-central2,me-central2-c,1.56762,0.57844
 c3d-highmem-16,16.0,128.0,,,,northamerica-south1,northamerica-south1-b,1.06794,0.3962
 c3d-highmem-16,16.0,128.0,,,,us-central1,us-central1-a,0.97976,0.16522
 c3d-highmem-16,16.0,128.0,,,,us-central1,us-central1-b,0.97976,0.16522
@@ -3499,6 +3500,7 @@ c3d-highmem-180,180.0,1440.0,,,,europe-west4,europe-west4-a,11.57342,4.62888
 c3d-highmem-180,180.0,1440.0,,,,europe-west4,europe-west4-b,11.57342,4.62888
 c3d-highmem-180,180.0,1440.0,,,,europe-west4,europe-west4-c,11.57342,4.62888
 c3d-highmem-180,180.0,1440.0,,,,me-central2,me-central2-a,17.63568,6.50742
+c3d-highmem-180,180.0,1440.0,,,,me-central2,me-central2-c,17.63568,6.50742
 c3d-highmem-180,180.0,1440.0,,,,northamerica-south1,northamerica-south1-b,12.01431,4.45725
 c3d-highmem-180,180.0,1440.0,,,,us-central1,us-central1-a,11.0223,1.85868
 c3d-highmem-180,180.0,1440.0,,,,us-central1,us-central1-b,11.0223,1.85868
@@ -3546,6 +3548,7 @@ c3d-highmem-30,30.0,240.0,,,,europe-west4,europe-west4-a,1.9289,0.77148
 c3d-highmem-30,30.0,240.0,,,,europe-west4,europe-west4-b,1.9289,0.77148
 c3d-highmem-30,30.0,240.0,,,,europe-west4,europe-west4-c,1.9289,0.77148
 c3d-highmem-30,30.0,240.0,,,,me-central2,me-central2-a,2.93928,1.08457
+c3d-highmem-30,30.0,240.0,,,,me-central2,me-central2-c,2.93928,1.08457
 c3d-highmem-30,30.0,240.0,,,,northamerica-south1,northamerica-south1-b,2.00238,0.74287
 c3d-highmem-30,30.0,240.0,,,,us-central1,us-central1-a,1.83705,0.30978
 c3d-highmem-30,30.0,240.0,,,,us-central1,us-central1-b,1.83705,0.30978
@@ -3593,6 +3596,7 @@ c3d-highmem-360,360.0,2880.0,,,,europe-west4,europe-west4-a,23.14683,9.25776
 c3d-highmem-360,360.0,2880.0,,,,europe-west4,europe-west4-b,23.14683,9.25776
 c3d-highmem-360,360.0,2880.0,,,,europe-west4,europe-west4-c,23.14683,9.25776
 c3d-highmem-360,360.0,2880.0,,,,me-central2,me-central2-a,35.27136,13.01484
+c3d-highmem-360,360.0,2880.0,,,,me-central2,me-central2-c,35.27136,13.01484
 c3d-highmem-360,360.0,2880.0,,,,northamerica-south1,northamerica-south1-b,24.02861,8.91449
 c3d-highmem-360,360.0,2880.0,,,,us-central1,us-central1-a,22.0446,3.71736
 c3d-highmem-360,360.0,2880.0,,,,us-central1,us-central1-b,22.0446,3.71736
@@ -3640,6 +3644,7 @@ c3d-highmem-4,4.0,32.0,,,,europe-west4,europe-west4-a,0.25719,0.10286
 c3d-highmem-4,4.0,32.0,,,,europe-west4,europe-west4-b,0.25719,0.10286
 c3d-highmem-4,4.0,32.0,,,,europe-west4,europe-west4-c,0.25719,0.10286
 c3d-highmem-4,4.0,32.0,,,,me-central2,me-central2-a,0.3919,0.14461
+c3d-highmem-4,4.0,32.0,,,,me-central2,me-central2-c,0.3919,0.14461
 c3d-highmem-4,4.0,32.0,,,,northamerica-south1,northamerica-south1-b,0.26698,0.09905
 c3d-highmem-4,4.0,32.0,,,,us-central1,us-central1-a,0.24494,0.0413
 c3d-highmem-4,4.0,32.0,,,,us-central1,us-central1-b,0.24494,0.0413
@@ -3677,6 +3682,7 @@ c3d-highmem-60,60.0,480.0,,,,europe-west4,europe-west4-a,3.8578,1.54296
 c3d-highmem-60,60.0,480.0,,,,europe-west4,europe-west4-b,3.8578,1.54296
 c3d-highmem-60,60.0,480.0,,,,europe-west4,europe-west4-c,3.8578,1.54296
 c3d-highmem-60,60.0,480.0,,,,me-central2,me-central2-a,5.87856,2.16914
+c3d-highmem-60,60.0,480.0,,,,me-central2,me-central2-c,5.87856,2.16914
 c3d-highmem-60,60.0,480.0,,,,northamerica-south1,northamerica-south1-b,4.00477,1.48575
 c3d-highmem-60,60.0,480.0,,,,us-central1,us-central1-a,3.6741,0.61956
 c3d-highmem-60,60.0,480.0,,,,us-central1,us-central1-b,3.6741,0.61956
@@ -3724,6 +3730,7 @@ c3d-highmem-8,8.0,64.0,,,,europe-west4,europe-west4-a,0.51437,0.20573
 c3d-highmem-8,8.0,64.0,,,,europe-west4,europe-west4-b,0.51437,0.20573
 c3d-highmem-8,8.0,64.0,,,,europe-west4,europe-west4-c,0.51437,0.20573
 c3d-highmem-8,8.0,64.0,,,,me-central2,me-central2-a,0.78381,0.28922
+c3d-highmem-8,8.0,64.0,,,,me-central2,me-central2-c,0.78381,0.28922
 c3d-highmem-8,8.0,64.0,,,,northamerica-south1,northamerica-south1-b,0.53397,0.1981
 c3d-highmem-8,8.0,64.0,,,,us-central1,us-central1-a,0.48988,0.08261
 c3d-highmem-8,8.0,64.0,,,,us-central1,us-central1-b,0.48988,0.08261
@@ -3771,6 +3778,7 @@ c3d-highmem-90,90.0,720.0,,,,europe-west4,europe-west4-a,5.78671,2.31444
 c3d-highmem-90,90.0,720.0,,,,europe-west4,europe-west4-b,5.78671,2.31444
 c3d-highmem-90,90.0,720.0,,,,europe-west4,europe-west4-c,5.78671,2.31444
 c3d-highmem-90,90.0,720.0,,,,me-central2,me-central2-a,8.81784,3.25371
+c3d-highmem-90,90.0,720.0,,,,me-central2,me-central2-c,8.81784,3.25371
 c3d-highmem-90,90.0,720.0,,,,northamerica-south1,northamerica-south1-b,6.00715,2.22862
 c3d-highmem-90,90.0,720.0,,,,us-central1,us-central1-a,5.51115,0.92934
 c3d-highmem-90,90.0,720.0,,,,us-central1,us-central1-b,5.51115,0.92934
