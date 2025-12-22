@@ -27,6 +27,12 @@ cpu-d3_160vcpu-640gb,,0,160,640,3.968,eu-west1,,
 cpu-d3_192vcpu-768gb,,0,192,768,4.7616,eu-west1,,
 cpu-d3_224vcpu-896gb,,0,224,896,5.5552,eu-west1,,
 cpu-d3_256vcpu-1024gb,,0,256,1024,6.3488,eu-west1,,
+cpu-d3_4vcpu-16gb,,0,4,16,0.0992,me-west1,,
+cpu-d3_8vcpu-32gb,,0,8,32,0.1984,me-west1,,
+cpu-d3_16vcpu-64gb,,0,16,64,0.3968,me-west1,,
+cpu-d3_32vcpu-128gb,,0,32,128,0.7936,me-west1,,
+cpu-d3_48vcpu-192gb,,0,48,192,1.1904,me-west1,,
+cpu-d3_64vcpu-256gb,,0,64,256,1.5872,me-west1,,
 cpu-d3_4vcpu-16gb,,0,4,16,0.0992,us-central1,,
 cpu-d3_8vcpu-32gb,,0,8,32,0.1984,us-central1,,
 cpu-d3_16vcpu-64gb,,0,16,64,0.3968,us-central1,,
@@ -57,6 +63,7 @@ gpu-l40s-d_4gpu-128vcpu-768gb,L40S,4,128,768,9.1376,eu-north1,"{'Gpus': [{'Name'
 gpu-l40s-d_4gpu-192vcpu-1152gb,L40S,4,192,1152,11.0064,eu-north1,"{'Gpus': [{'Name': 'L40S', 'Manufacturer': 'NVIDIA', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",
 gpu-h200-sxm_1gpu-16vcpu-200gb,H200,1,16,200,3.50,eu-west1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",1.45
 gpu-h200-sxm_8gpu-128vcpu-1600gb,H200,8,128,1600,28.00,eu-west1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",11.60
+gpu-b200-sxm-a_8gpu-160vcpu-1792gb,B200,8,160,1792,44.00,me-west1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",23.20
 gpu-b200-sxm_8gpu-160vcpu-1792gb,B200,8,160,1792,44.00,us-central1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",23.20
 gpu-h200-sxm_1gpu-16vcpu-200gb,H200,1,16,200,3.50,us-central1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",1.45
 gpu-h200-sxm_8gpu-128vcpu-1600gb,H200,8,128,1600,28.00,us-central1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",11.60
