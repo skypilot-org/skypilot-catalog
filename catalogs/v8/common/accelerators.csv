@@ -5,7 +5,7 @@ A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellec
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
 A16,['Shadeform']
-A30,['Seeweb']
+A30,"['Seeweb', 'Shadeform']"
 A40,"['Cudo', 'RunPod', 'Shadeform']"
 A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
@@ -41,7 +41,7 @@ RTX4000-Ada,['RunPod']
 RTX4000Ada,['Shadeform']
 RTX4060,['Vast']
 RTX4070,['Vast']
-RTX4090,"['RunPod', 'Shadeform', 'Vast']"
+RTX4090,"['RunPod', 'Vast']"
 RTX5070,['Vast']
 RTX5090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5880-Ada,['Vast']
