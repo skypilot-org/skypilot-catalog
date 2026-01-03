@@ -5,7 +5,7 @@ A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellec
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
 A16,['Shadeform']
-A30,['Seeweb']
+A30,"['Seeweb', 'Shadeform']"
 A40,"['Cudo', 'RunPod', 'Shadeform']"
 A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
@@ -31,7 +31,6 @@ L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
-NVIDIA-H200-NVL,['RunPod']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
