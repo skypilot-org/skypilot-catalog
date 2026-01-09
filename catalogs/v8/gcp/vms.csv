@@ -7158,6 +7158,7 @@ c4-standard-16,16.0,60.0,,,,me-central1,me-central1-c,0.96068,0.32658
 c4-standard-16,16.0,60.0,,,,me-central2,me-central2-a,1.26509,0.4732
 c4-standard-16,16.0,60.0,,,,me-central2,me-central2-c,1.26509,0.4732
 c4-standard-16,16.0,60.0,,,,me-west1,me-west1-b,0.86975,0.2383
+c4-standard-16,16.0,60.0,,,,northamerica-northeast1,northamerica-northeast1-b,0.87062,0.33262
 c4-standard-16,16.0,60.0,,,,northamerica-northeast2,northamerica-northeast2-b,0.87062,0.34823
 c4-standard-16,16.0,60.0,,,,northamerica-northeast2,northamerica-northeast2-c,0.87062,0.34823
 c4-standard-16,16.0,60.0,,,,northamerica-south1,northamerica-south1-a,0.86184,0.34472
@@ -7478,6 +7479,7 @@ c4-standard-2,2.0,7.0,,,,me-central1,me-central1-c,0.11769,0.04001
 c4-standard-2,2.0,7.0,,,,me-central2,me-central2-a,0.15499,0.05797
 c4-standard-2,2.0,7.0,,,,me-central2,me-central2-c,0.15499,0.05797
 c4-standard-2,2.0,7.0,,,,me-west1,me-west1-b,0.10655,0.02905
+c4-standard-2,2.0,7.0,,,,northamerica-northeast1,northamerica-northeast1-b,0.10666,0.04084
 c4-standard-2,2.0,7.0,,,,northamerica-northeast2,northamerica-northeast2-b,0.10666,0.04266
 c4-standard-2,2.0,7.0,,,,northamerica-northeast2,northamerica-northeast2-c,0.10666,0.04266
 c4-standard-2,2.0,7.0,,,,northamerica-south1,northamerica-south1-a,0.10558,0.04223
@@ -7573,6 +7575,7 @@ c4-standard-24,24.0,90.0,,,,me-central1,me-central1-c,1.44101,0.48987
 c4-standard-24,24.0,90.0,,,,me-central2,me-central2-a,1.89763,0.7098
 c4-standard-24,24.0,90.0,,,,me-central2,me-central2-c,1.89763,0.7098
 c4-standard-24,24.0,90.0,,,,me-west1,me-west1-b,1.30462,0.35745
+c4-standard-24,24.0,90.0,,,,northamerica-northeast1,northamerica-northeast1-b,1.30593,0.49893
 c4-standard-24,24.0,90.0,,,,northamerica-northeast2,northamerica-northeast2-b,1.30593,0.52235
 c4-standard-24,24.0,90.0,,,,northamerica-northeast2,northamerica-northeast2-c,1.30593,0.52235
 c4-standard-24,24.0,90.0,,,,northamerica-south1,northamerica-south1-a,1.29276,0.51709
@@ -7914,6 +7917,7 @@ c4-standard-32,32.0,120.0,,,,me-central1,me-central1-c,1.92135,0.65316
 c4-standard-32,32.0,120.0,,,,me-central2,me-central2-a,2.53018,0.9464
 c4-standard-32,32.0,120.0,,,,me-central2,me-central2-c,2.53018,0.9464
 c4-standard-32,32.0,120.0,,,,me-west1,me-west1-b,1.7395,0.4766
+c4-standard-32,32.0,120.0,,,,northamerica-northeast1,northamerica-northeast1-b,1.74124,0.66524
 c4-standard-32,32.0,120.0,,,,northamerica-northeast2,northamerica-northeast2-b,1.74124,0.69647
 c4-standard-32,32.0,120.0,,,,northamerica-northeast2,northamerica-northeast2-c,1.74124,0.69647
 c4-standard-32,32.0,120.0,,,,northamerica-south1,northamerica-south1-a,1.72368,0.68945
@@ -8076,6 +8080,7 @@ c4-standard-4,4.0,15.0,,,,me-central1,me-central1-c,0.24017,0.08164
 c4-standard-4,4.0,15.0,,,,me-central2,me-central2-a,0.31627,0.1183
 c4-standard-4,4.0,15.0,,,,me-central2,me-central2-c,0.31627,0.1183
 c4-standard-4,4.0,15.0,,,,me-west1,me-west1-b,0.21744,0.05958
+c4-standard-4,4.0,15.0,,,,northamerica-northeast1,northamerica-northeast1-b,0.21765,0.08316
 c4-standard-4,4.0,15.0,,,,northamerica-northeast2,northamerica-northeast2-b,0.21765,0.08706
 c4-standard-4,4.0,15.0,,,,northamerica-northeast2,northamerica-northeast2-c,0.21765,0.08706
 c4-standard-4,4.0,15.0,,,,northamerica-south1,northamerica-south1-a,0.21546,0.08618
@@ -8238,6 +8243,7 @@ c4-standard-48,48.0,180.0,,,,me-central1,me-central1-c,2.88203,0.97974
 c4-standard-48,48.0,180.0,,,,me-central2,me-central2-a,3.79526,1.4196
 c4-standard-48,48.0,180.0,,,,me-central2,me-central2-c,3.79526,1.4196
 c4-standard-48,48.0,180.0,,,,me-west1,me-west1-b,2.60924,0.7149
+c4-standard-48,48.0,180.0,,,,northamerica-northeast1,northamerica-northeast1-b,2.61185,0.99786
 c4-standard-48,48.0,180.0,,,,northamerica-northeast2,northamerica-northeast2-b,2.61185,1.0447
 c4-standard-48,48.0,180.0,,,,northamerica-northeast2,northamerica-northeast2-c,2.61185,1.0447
 c4-standard-48,48.0,180.0,,,,northamerica-south1,northamerica-south1-a,2.58552,1.03417
@@ -8400,6 +8406,7 @@ c4-standard-8,8.0,30.0,,,,me-central1,me-central1-c,0.48034,0.16329
 c4-standard-8,8.0,30.0,,,,me-central2,me-central2-a,0.63254,0.2366
 c4-standard-8,8.0,30.0,,,,me-central2,me-central2-c,0.63254,0.2366
 c4-standard-8,8.0,30.0,,,,me-west1,me-west1-b,0.43487,0.11915
+c4-standard-8,8.0,30.0,,,,northamerica-northeast1,northamerica-northeast1-b,0.43531,0.16631
 c4-standard-8,8.0,30.0,,,,northamerica-northeast2,northamerica-northeast2-b,0.43531,0.17412
 c4-standard-8,8.0,30.0,,,,northamerica-northeast2,northamerica-northeast2-c,0.43531,0.17412
 c4-standard-8,8.0,30.0,,,,northamerica-south1,northamerica-south1-a,0.43092,0.17236
