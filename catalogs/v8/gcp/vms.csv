@@ -6550,6 +6550,7 @@ c4-highmem-48,48.0,372.0,,,,europe-west9,europe-west9-b,3.62864,1.45137
 c4-highmem-48,48.0,372.0,,,,europe-west9,europe-west9-c,3.62864,1.45137
 c4-highmem-48,48.0,372.0,,,,me-central1,me-central1-b,3.80069,1.29212
 c4-highmem-48,48.0,372.0,,,,me-central1,me-central1-c,3.80069,1.29212
+c4-highmem-48,48.0,372.0,,,,me-central2,me-central2-c,5.00502,1.87195
 c4-highmem-48,48.0,372.0,,,,me-west1,me-west1-a,3.44095,0.99772
 c4-highmem-48,48.0,372.0,,,,me-west1,me-west1-b,3.44095,0.99772
 c4-highmem-48,48.0,372.0,,,,northamerica-northeast1,northamerica-northeast1-b,3.44439,1.28087
@@ -6863,6 +6864,7 @@ c4-highmem-96,96.0,744.0,,,,europe-west9,europe-west9-b,7.25728,2.90274
 c4-highmem-96,96.0,744.0,,,,europe-west9,europe-west9-c,7.25728,2.90274
 c4-highmem-96,96.0,744.0,,,,me-central1,me-central1-b,7.60137,2.58425
 c4-highmem-96,96.0,744.0,,,,me-central1,me-central1-c,7.60137,2.58425
+c4-highmem-96,96.0,744.0,,,,me-central2,me-central2-c,10.01004,3.7439
 c4-highmem-96,96.0,744.0,,,,me-west1,me-west1-a,6.8819,1.99543
 c4-highmem-96,96.0,744.0,,,,me-west1,me-west1-b,6.8819,1.99543
 c4-highmem-96,96.0,744.0,,,,northamerica-northeast1,northamerica-northeast1-b,6.88878,2.56174
