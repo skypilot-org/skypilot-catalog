@@ -1,6 +1,5 @@
 name: "update-verda-catalog"
 on:
-  # Disabled for now 
   schedule:
      - cron:  '15 */3 * * *'    # Every 3 hours 
   workflow_dispatch:
