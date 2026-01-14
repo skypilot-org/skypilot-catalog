@@ -4785,6 +4785,7 @@ c4-highcpu-288,288.0,576.0,,,,asia-south2,asia-south2-c,12.73779,5.88405
 c4-highcpu-288,288.0,576.0,,,,asia-southeast1,asia-southeast1-a,15.10973,6.04375
 c4-highcpu-288,288.0,576.0,,,,asia-southeast1,asia-southeast1-b,15.10973,6.04375
 c4-highcpu-288,288.0,576.0,,,,asia-southeast1,asia-southeast1-c,15.10973,6.04375
+c4-highcpu-288,288.0,576.0,,,,australia-southeast1,australia-southeast1-c,15.30936,4.42483
 c4-highcpu-288,288.0,576.0,,,,australia-southeast2,australia-southeast2-b,15.92173,5.4144
 c4-highcpu-288,288.0,576.0,,,,australia-southeast2,australia-southeast2-c,15.92173,5.4144
 c4-highcpu-288,288.0,576.0,,,,europe-north2,europe-north2-a,12.85986,5.65862
@@ -5313,6 +5314,7 @@ c4-highmem-144,144.0,1116.0,,,,asia-south2,asia-south2-c,9.76009,4.50838
 c4-highmem-144,144.0,1116.0,,,,asia-southeast1,asia-southeast1-a,11.57755,4.63074
 c4-highmem-144,144.0,1116.0,,,,asia-southeast1,asia-southeast1-b,11.57755,4.63074
 c4-highmem-144,144.0,1116.0,,,,asia-southeast1,asia-southeast1-c,11.57755,4.63074
+c4-highmem-144,144.0,1116.0,,,,australia-southeast1,australia-southeast1-c,11.73051,3.38983
 c4-highmem-144,144.0,1116.0,,,,australia-southeast2,australia-southeast2-b,12.19973,4.14792
 c4-highmem-144,144.0,1116.0,,,,australia-southeast2,australia-southeast2-c,12.19973,4.14792
 c4-highmem-144,144.0,1116.0,,,,europe-north2,europe-north2-a,9.85363,4.33544
@@ -5612,6 +5614,7 @@ c4-highmem-192,192.0,1488.0,,,,asia-southeast1,asia-southeast1-b,15.43673,6.1743
 c4-highmem-192,192.0,1488.0,,,,asia-southeast1,asia-southeast1-c,15.43673,6.17432
 c4-highmem-192,192.0,1488.0,,,,asia-southeast2,asia-southeast2-a,16.82562,4.86096
 c4-highmem-192,192.0,1488.0,,,,asia-southeast2,asia-southeast2-b,16.82562,4.86096
+c4-highmem-192,192.0,1488.0,,,,australia-southeast1,australia-southeast1-c,15.64068,4.51978
 c4-highmem-192,192.0,1488.0,,,,australia-southeast2,australia-southeast2-a,16.26631,5.53056
 c4-highmem-192,192.0,1488.0,,,,australia-southeast2,australia-southeast2-b,16.26631,5.53056
 c4-highmem-192,192.0,1488.0,,,,australia-southeast2,australia-southeast2-c,16.26631,5.53056
@@ -6010,6 +6013,7 @@ c4-highmem-288,288.0,2232.0,,,,asia-south2,asia-south2-c,19.52018,9.01676
 c4-highmem-288,288.0,2232.0,,,,asia-southeast1,asia-southeast1-a,23.15509,9.26149
 c4-highmem-288,288.0,2232.0,,,,asia-southeast1,asia-southeast1-b,23.15509,9.26149
 c4-highmem-288,288.0,2232.0,,,,asia-southeast1,asia-southeast1-c,23.15509,9.26149
+c4-highmem-288,288.0,2232.0,,,,australia-southeast1,australia-southeast1-c,23.46102,6.77966
 c4-highmem-288,288.0,2232.0,,,,australia-southeast2,australia-southeast2-b,24.39946,8.29584
 c4-highmem-288,288.0,2232.0,,,,australia-southeast2,australia-southeast2-c,24.39946,8.29584
 c4-highmem-288,288.0,2232.0,,,,europe-north2,europe-north2-a,19.70726,8.67089
@@ -6519,6 +6523,7 @@ c4-highmem-48,48.0,372.0,,,,asia-southeast1,asia-southeast1-b,3.85918,1.54358
 c4-highmem-48,48.0,372.0,,,,asia-southeast1,asia-southeast1-c,3.85918,1.54358
 c4-highmem-48,48.0,372.0,,,,asia-southeast2,asia-southeast2-a,4.2064,1.21524
 c4-highmem-48,48.0,372.0,,,,asia-southeast2,asia-southeast2-b,4.2064,1.21524
+c4-highmem-48,48.0,372.0,,,,australia-southeast1,australia-southeast1-c,3.91017,1.12994
 c4-highmem-48,48.0,372.0,,,,australia-southeast2,australia-southeast2-a,4.06658,1.38264
 c4-highmem-48,48.0,372.0,,,,australia-southeast2,australia-southeast2-b,4.06658,1.38264
 c4-highmem-48,48.0,372.0,,,,australia-southeast2,australia-southeast2-c,4.06658,1.38264
@@ -6834,6 +6839,7 @@ c4-highmem-96,96.0,744.0,,,,asia-southeast1,asia-southeast1-b,7.71836,3.08716
 c4-highmem-96,96.0,744.0,,,,asia-southeast1,asia-southeast1-c,7.71836,3.08716
 c4-highmem-96,96.0,744.0,,,,asia-southeast2,asia-southeast2-a,8.41281,2.43048
 c4-highmem-96,96.0,744.0,,,,asia-southeast2,asia-southeast2-b,8.41281,2.43048
+c4-highmem-96,96.0,744.0,,,,australia-southeast1,australia-southeast1-c,7.82034,2.25989
 c4-highmem-96,96.0,744.0,,,,australia-southeast2,australia-southeast2-a,8.13315,2.76528
 c4-highmem-96,96.0,744.0,,,,australia-southeast2,australia-southeast2-b,8.13315,2.76528
 c4-highmem-96,96.0,744.0,,,,australia-southeast2,australia-southeast2-c,8.13315,2.76528
@@ -6985,6 +6991,7 @@ c4-standard-144,144.0,540.0,,,,asia-south2,asia-south2-c,7.401,3.41874
 c4-standard-144,144.0,540.0,,,,asia-southeast1,asia-southeast1-a,8.77916,3.51153
 c4-standard-144,144.0,540.0,,,,asia-southeast1,asia-southeast1-b,8.77916,3.51153
 c4-standard-144,144.0,540.0,,,,asia-southeast1,asia-southeast1-c,8.77916,3.51153
+c4-standard-144,144.0,540.0,,,,australia-southeast1,australia-southeast1-c,8.89515,2.57076
 c4-standard-144,144.0,540.0,,,,australia-southeast2,australia-southeast2-b,9.25096,3.14568
 c4-standard-144,144.0,540.0,,,,australia-southeast2,australia-southeast2-c,9.25096,3.14568
 c4-standard-144,144.0,540.0,,,,europe-north2,europe-north2-a,7.47193,3.2877
@@ -7289,6 +7296,7 @@ c4-standard-192,192.0,720.0,,,,asia-southeast1,asia-southeast1-b,11.70554,4.6820
 c4-standard-192,192.0,720.0,,,,asia-southeast1,asia-southeast1-c,11.70554,4.68204
 c4-standard-192,192.0,720.0,,,,asia-southeast2,asia-southeast2-a,12.75873,3.68592
 c4-standard-192,192.0,720.0,,,,asia-southeast2,asia-southeast2-b,12.75873,3.68592
+c4-standard-192,192.0,720.0,,,,australia-southeast1,australia-southeast1-c,11.8602,3.42768
 c4-standard-192,192.0,720.0,,,,australia-southeast2,australia-southeast2-a,12.33461,4.19424
 c4-standard-192,192.0,720.0,,,,australia-southeast2,australia-southeast2-b,12.33461,4.19424
 c4-standard-192,192.0,720.0,,,,australia-southeast2,australia-southeast2-c,12.33461,4.19424
@@ -7700,6 +7708,7 @@ c4-standard-288,288.0,1080.0,,,,asia-south2,asia-south2-c,14.80199,6.83748
 c4-standard-288,288.0,1080.0,,,,asia-southeast1,asia-southeast1-a,17.55832,7.02306
 c4-standard-288,288.0,1080.0,,,,asia-southeast1,asia-southeast1-b,17.55832,7.02306
 c4-standard-288,288.0,1080.0,,,,asia-southeast1,asia-southeast1-c,17.55832,7.02306
+c4-standard-288,288.0,1080.0,,,,australia-southeast1,australia-southeast1-c,17.7903,5.14152
 c4-standard-288,288.0,1080.0,,,,australia-southeast2,australia-southeast2-b,18.50191,6.29136
 c4-standard-288,288.0,1080.0,,,,australia-southeast2,australia-southeast2-c,18.50191,6.29136
 c4-standard-288,288.0,1080.0,,,,europe-north2,europe-north2-a,14.94385,6.5754
@@ -8537,6 +8546,7 @@ c4-standard-96,96.0,360.0,,,,asia-southeast1,asia-southeast1-b,5.85277,2.34102
 c4-standard-96,96.0,360.0,,,,asia-southeast1,asia-southeast1-c,5.85277,2.34102
 c4-standard-96,96.0,360.0,,,,asia-southeast2,asia-southeast2-a,6.37936,1.84296
 c4-standard-96,96.0,360.0,,,,asia-southeast2,asia-southeast2-b,6.37936,1.84296
+c4-standard-96,96.0,360.0,,,,australia-southeast1,australia-southeast1-c,5.9301,1.71384
 c4-standard-96,96.0,360.0,,,,australia-southeast2,australia-southeast2-a,6.1673,2.09712
 c4-standard-96,96.0,360.0,,,,australia-southeast2,australia-southeast2-b,6.1673,2.09712
 c4-standard-96,96.0,360.0,,,,australia-southeast2,australia-southeast2-c,6.1673,2.09712
