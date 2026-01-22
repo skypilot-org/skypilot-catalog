@@ -4,5 +4,6 @@
 version_commit:
   # This commit should be fixed, as any newer commit will be fetching v6
   # catalogs
-  v8: latest
+  v9: latest
+  v8: a65a9903bab079b7437e7760feeedf885395bafd
   v7: 6a9fed7b515c4c7dc0942da1c35c15f430a14e8e

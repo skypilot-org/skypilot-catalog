@@ -1,16 +1,48 @@
 # SkyPilot Catalogs
 
-**Latest catalog schema version**: v8
+**Latest catalog schema version**: v9
 
-**Supported catalog schema versions**: v1, v2, v3, v4, v5, v6, v7, v8
+**Supported catalog schema versions**: v1, v2, v3, v4, v5, v6, v7, v8, v9
 
-**The versions that are still being updated periodically**: v7, v8
+**The versions that are still being updated periodically**: v7, v8, v9
 
 ## Automatic Catalog Fetching
 
 Catalogs for AWS, GCP, and Lambda are automatically fetched & refreshed from the cloud provider, implemented as GitHub Actions. Other clouds can implement [catalog fetchers](https://github.com/skypilot-org/skypilot/tree/master/sky/catalog/data_fetchers) and a corresponding [Action](./.github/workflows/) to add auto-refresh.
 
 Catalogs are updated **every 7 hours**.
+
+## Schema V8
+
+The catalogs for each cloud in [v9](./catalogs/v9) include the following files:
+1. `vms.csv`: the catalog for the VMs, including the instance and the accelerators.
+2. `images.csv`: the catalog for the images, which contains the mapping from the SkyPilot image tag to the image ID that can be used to find the image in the clouds. 
+
+To supply your own custom pricing or custom regions/zones, you can update vms.csv according to the schema below.
+
+### vms.csv
+
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+| `InstanceType` | string | The type of instance. |
+| `vCPUs` | float | The number of virtual CPUs. |
+| `MemoryGiB` | float | The amount of memory in GiB. |
+| `AcceleratorName` | string | The name of accelerators (GPU/TPU). |
+| `AcceleratorCount` | float | The number of accelerators (GPU/TPU). |
+| `GPUInfo` | string | The human readable information of the GPU (used for, e.g., parsing device memory). |
+| `Region` | string | The region of the resource. |
+| `AvailabilityZone` | string | The availability zone of the resource (can be empty if not supported in the cloud). |
+| `Price` | float | The price of the resource. |
+| `SpotPrice` | float | The spot price of the resource. |
+| `Arch` | string | The processor architecture of instance type. |
+| `LocalDiskSupported` | bool | Whether local disks are supported for the instance type. |
+| `LocalDiskType` | string | Type of local disk (SSD, HDD). |
+| `NVMeSupported` | bool | Whether NVMe is supported for local disk. |
+| `LocalDiskSize` | float | Size of local disk in GBs. |
+| `LocalDiskCount` | float | Number of local disk on the instance type. |
+
+### images.csv
+Same as [v7](#imagescsv-1) version.
 
 ## Schema V8
 
@@ -29,7 +61,7 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `MemoryGiB` | float | The amount of memory in GiB. |
 | `AcceleratorName` | string | The name of accelerators (GPU/TPU). |
 | `AcceleratorCount` | float | The number of accelerators (GPU/TPU). |
-| `GPUInfo` | string | The human readable inforomation of the GPU (used for, e.g., parsing device memory). |
+| `GPUInfo` | string | The human readable information of the GPU (used for, e.g., parsing device memory). |
 | `Region` | string | The region of the resource. |
 | `AvailabilityZone` | string | The availability zone of the resource (can be empty if not supported in the cloud). |
 | `Price` | float | The price of the resource. |
@@ -56,7 +88,7 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `MemoryGiB` | float | The amount of memory in GiB. |
 | `AcceleratorName` | string | The name of accelerators (GPU/TPU). |
 | `AcceleratorCount` | float | The number of accelerators (GPU/TPU). |
-| `GPUInfo` | string | The human readable inforomation of the GPU (used for, e.g., parsing device memory). |
+| `GPUInfo` | string | The human readable information of the GPU (used for, e.g., parsing device memory). |
 | `Region` | string | The region of the resource. |
 | `AvailabilityZone` | string | The availability zone of the resource (can be empty if not supported in the cloud). |
 | `Price` | float | The price of the resource. |
