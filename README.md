@@ -35,8 +35,7 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `Price` | float | The price of the resource. |
 | `SpotPrice` | float | The spot price of the resource. |
 | `Arch` | string | The processor architecture of instance type. |
-| `LocalDiskSupported` | bool | Whether local disks are supported for the instance type. |
-| `LocalDiskType` | string | Type of local disk (SSD, HDD). |
+| `LocalDiskType` | string | Type of local disk (SSD, HDD). Wil be null if local disk is not supported. |
 | `NVMeSupported` | bool | Whether NVMe is supported for local disk. |
 | `LocalDiskSize` | float | Size of local disk in GBs. |
 | `LocalDiskCount` | float | Number of local disk on the instance type. |
