@@ -12,7 +12,7 @@ Catalogs for AWS, GCP, and Lambda are automatically fetched & refreshed from the
 
 Catalogs are updated **every 7 hours**.
 
-## Schema V8
+## Schema V9
 
 The catalogs for each cloud in [v9](./catalogs/v9) include the following files:
 1. `vms.csv`: the catalog for the VMs, including the instance and the accelerators.
