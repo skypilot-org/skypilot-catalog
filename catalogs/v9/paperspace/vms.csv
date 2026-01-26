@@ -1,0 +1,20 @@
+InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,GpuInfo,Region,SpotPrice,Price
+H100,H100,1.0,15.0,80.0,H100,East Coast (NY2),,5.95
+H100x8,H100,8.0,128.0,640.0,H100,East Coast (NY2),,47.60
+A100-80Gx8,A100-80GB,8.0,96,640.0,A100-80GB,East Coast (NY2),,25.44
+A100-80G,A100-80GB,1.0,12,80.0,A100-80GB,East Coast (NY2),,3.18
+V100-32Gx4,V100-32GB,4.0,32,128.0,V100-32GB,East Coast (NY2),,9.20
+V100-32Gx2,V100-32GB,2.0,16,64.0,V100-32GB,East Coast (NY2),,4.60
+V100-32G,V100-32GB,1.0,8,32.0,V100-32GB,East Coast (NY2),,2.30
+V100,V100,1.0,8,32.0,V100,East Coast (NY2),,2.29
+GPU+,M4000,1.0,8,32.0,M4000,East Coast (NY2),,0.45
+P4000,P4000,1.0,8,32.0,P4000,East Coast (NY2),,0.51
+P4000x2,P4000,2.0,16,64.0,P4000,East Coast (NY2),,1.02
+A4000,A4000,1.0,8,32.0,A4000,East Coast (NY2),,0.76
+A4000x2,A4000,2.0,16,92.0,A4000,East Coast (NY2),,1.52
+A4000x4,A4000,4.0,32,193.0,A4000,East Coast (NY2),,3.04
+C5,,,4,8.59,,East Coast (NY2),,0.08
+C6,,,8,17.2,,East Coast (NY2),,0.16
+C7,,,12,32.2,,East Coast (NY2),,0.30
+C8,,,16,64.4,,East Coast (NY2),,0.60
+C9,,,24,129,,East Coast (NY2),,0.90
