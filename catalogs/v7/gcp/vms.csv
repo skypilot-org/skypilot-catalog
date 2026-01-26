@@ -2202,6 +2202,7 @@ c3-highmem-176,176.0,1408.0,,,,us-east5,us-east5-a,11.6431,2.84733
 c3-highmem-176,176.0,1408.0,,,,us-east5,us-east5-b,11.6431,2.84733
 c3-highmem-176,176.0,1408.0,,,,us-east5,us-east5-c,11.6431,2.84733
 c3-highmem-176,176.0,1408.0,,,,us-south1,us-south1-a,13.73886,1.34182
+c3-highmem-176,176.0,1408.0,,,,us-south1,us-south1-ai1b,13.73886,1.34182
 c3-highmem-176,176.0,1408.0,,,,us-south1,us-south1-b,13.73886,1.34182
 c3-highmem-176,176.0,1408.0,,,,us-west1,us-west1-a,11.6431,1.87018
 c3-highmem-176,176.0,1408.0,,,,us-west1,us-west1-b,11.6431,1.87018
@@ -2269,6 +2270,7 @@ c3-highmem-22,22.0,176.0,,,,us-east5,us-east5-a,1.45539,0.35592
 c3-highmem-22,22.0,176.0,,,,us-east5,us-east5-b,1.45539,0.35592
 c3-highmem-22,22.0,176.0,,,,us-east5,us-east5-c,1.45539,0.35592
 c3-highmem-22,22.0,176.0,,,,us-south1,us-south1-a,1.71736,0.16773
+c3-highmem-22,22.0,176.0,,,,us-south1,us-south1-ai1b,1.71736,0.16773
 c3-highmem-22,22.0,176.0,,,,us-south1,us-south1-b,1.71736,0.16773
 c3-highmem-22,22.0,176.0,,,,us-west1,us-west1-a,1.45539,0.23377
 c3-highmem-22,22.0,176.0,,,,us-west1,us-west1-b,1.45539,0.23377
@@ -2316,6 +2318,7 @@ c3-highmem-4,4.0,32.0,,,,us-east5,us-east5-a,0.26462,0.06471
 c3-highmem-4,4.0,32.0,,,,us-east5,us-east5-b,0.26462,0.06471
 c3-highmem-4,4.0,32.0,,,,us-east5,us-east5-c,0.26462,0.06471
 c3-highmem-4,4.0,32.0,,,,us-south1,us-south1-a,0.31225,0.0305
+c3-highmem-4,4.0,32.0,,,,us-south1,us-south1-ai1b,0.31225,0.0305
 c3-highmem-4,4.0,32.0,,,,us-south1,us-south1-b,0.31225,0.0305
 c3-highmem-4,4.0,32.0,,,,us-west1,us-west1-a,0.26462,0.0425
 c3-highmem-4,4.0,32.0,,,,us-west1,us-west1-b,0.26462,0.0425
@@ -2363,6 +2366,7 @@ c3-highmem-44,44.0,352.0,,,,us-east5,us-east5-a,2.91078,0.71183
 c3-highmem-44,44.0,352.0,,,,us-east5,us-east5-b,2.91078,0.71183
 c3-highmem-44,44.0,352.0,,,,us-east5,us-east5-c,2.91078,0.71183
 c3-highmem-44,44.0,352.0,,,,us-south1,us-south1-a,3.43472,0.33546
+c3-highmem-44,44.0,352.0,,,,us-south1,us-south1-ai1b,3.43472,0.33546
 c3-highmem-44,44.0,352.0,,,,us-south1,us-south1-b,3.43472,0.33546
 c3-highmem-44,44.0,352.0,,,,us-west1,us-west1-a,2.91078,0.46754
 c3-highmem-44,44.0,352.0,,,,us-west1,us-west1-b,2.91078,0.46754
@@ -2410,6 +2414,7 @@ c3-highmem-8,8.0,64.0,,,,us-east5,us-east5-a,0.52923,0.12942
 c3-highmem-8,8.0,64.0,,,,us-east5,us-east5-b,0.52923,0.12942
 c3-highmem-8,8.0,64.0,,,,us-east5,us-east5-c,0.52923,0.12942
 c3-highmem-8,8.0,64.0,,,,us-south1,us-south1-a,0.62449,0.06099
+c3-highmem-8,8.0,64.0,,,,us-south1,us-south1-ai1b,0.62449,0.06099
 c3-highmem-8,8.0,64.0,,,,us-south1,us-south1-b,0.62449,0.06099
 c3-highmem-8,8.0,64.0,,,,us-west1,us-west1-a,0.52923,0.08501
 c3-highmem-8,8.0,64.0,,,,us-west1,us-west1-b,0.52923,0.08501
@@ -2457,6 +2462,7 @@ c3-highmem-88,88.0,704.0,,,,us-east5,us-east5-a,5.82155,1.42366
 c3-highmem-88,88.0,704.0,,,,us-east5,us-east5-b,5.82155,1.42366
 c3-highmem-88,88.0,704.0,,,,us-east5,us-east5-c,5.82155,1.42366
 c3-highmem-88,88.0,704.0,,,,us-south1,us-south1-a,6.86943,0.67091
+c3-highmem-88,88.0,704.0,,,,us-south1,us-south1-ai1b,6.86943,0.67091
 c3-highmem-88,88.0,704.0,,,,us-south1,us-south1-b,6.86943,0.67091
 c3-highmem-88,88.0,704.0,,,,us-west1,us-west1-a,5.82155,0.93509
 c3-highmem-88,88.0,704.0,,,,us-west1,us-west1-b,5.82155,0.93509
@@ -12453,6 +12459,7 @@ n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-east5,us-east5-a,3.78794,0.60045
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-east5,us-east5-b,3.78794,0.60045
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-east5,us-east5-c,3.78794,0.60045
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-south1,us-south1-a,4.46976,0.75114
+n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-south1,us-south1-ai1b,4.46976,0.75114
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-south1,us-south1-b,4.46976,0.75114
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-south1,us-south1-c,4.46976,0.75114
 n2d-192-112-v5lite-tpu,112.0,192.0,,,,us-west1,us-west1-a,3.78794,0.78621
@@ -12574,6 +12581,7 @@ n2d-356-96-tpu,96.0,340.0,,,,us-east5,us-east5-a,3.89343,0.61712
 n2d-356-96-tpu,96.0,340.0,,,,us-east5,us-east5-b,3.89343,0.61712
 n2d-356-96-tpu,96.0,340.0,,,,us-east5,us-east5-c,3.89343,0.61712
 n2d-356-96-tpu,96.0,340.0,,,,us-south1,us-south1-a,4.59425,0.77242
+n2d-356-96-tpu,96.0,340.0,,,,us-south1,us-south1-ai1b,4.59425,0.77242
 n2d-356-96-tpu,96.0,340.0,,,,us-south1,us-south1-b,4.59425,0.77242
 n2d-356-96-tpu,96.0,340.0,,,,us-south1,us-south1-c,4.59425,0.77242
 n2d-356-96-tpu,96.0,340.0,,,,us-west1,us-west1-a,3.89343,0.80792
@@ -12695,6 +12703,7 @@ n2d-384-224-tpu,224.0,384.0,,,,us-east5,us-east5-a,7.57587,1.2009
 n2d-384-224-tpu,224.0,384.0,,,,us-east5,us-east5-b,7.57587,1.2009
 n2d-384-224-tpu,224.0,384.0,,,,us-east5,us-east5-c,7.57587,1.2009
 n2d-384-224-tpu,224.0,384.0,,,,us-south1,us-south1-a,8.93953,1.50227
+n2d-384-224-tpu,224.0,384.0,,,,us-south1,us-south1-ai1b,8.93953,1.50227
 n2d-384-224-tpu,224.0,384.0,,,,us-south1,us-south1-b,8.93953,1.50227
 n2d-384-224-tpu,224.0,384.0,,,,us-south1,us-south1-c,8.93953,1.50227
 n2d-384-224-tpu,224.0,384.0,,,,us-west1,us-west1-a,7.57587,1.57242
@@ -12816,6 +12825,7 @@ n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-east5,us-east5-a,7.57587,1.2009
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-east5,us-east5-b,7.57587,1.2009
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-east5,us-east5-c,7.57587,1.2009
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-south1,us-south1-a,8.93953,1.50227
+n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-south1,us-south1-ai1b,8.93953,1.50227
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-south1,us-south1-b,8.93953,1.50227
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-south1,us-south1-c,8.93953,1.50227
 n2d-384-224-v5lite-tpu,224.0,384.0,,,,us-west1,us-west1-a,7.57587,1.57242
@@ -12937,6 +12947,7 @@ n2d-407-240-tpu,240.0,407.0,,,,us-east5,us-east5-a,8.10068,1.28409
 n2d-407-240-tpu,240.0,407.0,,,,us-east5,us-east5-b,8.10068,1.28409
 n2d-407-240-tpu,240.0,407.0,,,,us-east5,us-east5-c,8.10068,1.28409
 n2d-407-240-tpu,240.0,407.0,,,,us-south1,us-south1-a,9.5588,1.60633
+n2d-407-240-tpu,240.0,407.0,,,,us-south1,us-south1-ai1b,9.5588,1.60633
 n2d-407-240-tpu,240.0,407.0,,,,us-south1,us-south1-b,9.5588,1.60633
 n2d-407-240-tpu,240.0,407.0,,,,us-south1,us-south1-c,9.5588,1.60633
 n2d-407-240-tpu,240.0,407.0,,,,us-west1,us-west1-a,8.10068,1.68135
@@ -13058,6 +13069,7 @@ n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-east5,us-east5-a,0.83698,0.13267
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-east5,us-east5-b,0.83698,0.13267
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-east5,us-east5-c,0.83698,0.13267
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-south1,us-south1-a,0.98763,0.16598
+n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-south1,us-south1-ai1b,0.98763,0.16598
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-south1,us-south1-b,0.98763,0.16598
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-south1,us-south1-c,0.98763,0.16598
 n2d-48-24-v5lite-tpu,24.0,48.0,,,,us-west1,us-west1-a,0.83698,0.17371
@@ -13179,6 +13191,7 @@ n2d-highcpu-128,128.0,128.0,,,,us-east5,us-east5-a,3.99206,0.63283
 n2d-highcpu-128,128.0,128.0,,,,us-east5,us-east5-b,3.99206,0.63283
 n2d-highcpu-128,128.0,128.0,,,,us-east5,us-east5-c,3.99206,0.63283
 n2d-highcpu-128,128.0,128.0,,,,us-south1,us-south1-a,4.71064,0.79142
+n2d-highcpu-128,128.0,128.0,,,,us-south1,us-south1-ai1b,4.71064,0.79142
 n2d-highcpu-128,128.0,128.0,,,,us-south1,us-south1-b,4.71064,0.79142
 n2d-highcpu-128,128.0,128.0,,,,us-south1,us-south1-c,4.71064,0.79142
 n2d-highcpu-128,128.0,128.0,,,,us-west1,us-west1-a,3.99206,0.82867
@@ -13300,6 +13313,7 @@ n2d-highcpu-16,16.0,16.0,,,,us-east5,us-east5-a,0.49901,0.0791
 n2d-highcpu-16,16.0,16.0,,,,us-east5,us-east5-b,0.49901,0.0791
 n2d-highcpu-16,16.0,16.0,,,,us-east5,us-east5-c,0.49901,0.0791
 n2d-highcpu-16,16.0,16.0,,,,us-south1,us-south1-a,0.58883,0.09893
+n2d-highcpu-16,16.0,16.0,,,,us-south1,us-south1-ai1b,0.58883,0.09893
 n2d-highcpu-16,16.0,16.0,,,,us-south1,us-south1-b,0.58883,0.09893
 n2d-highcpu-16,16.0,16.0,,,,us-south1,us-south1-c,0.58883,0.09893
 n2d-highcpu-16,16.0,16.0,,,,us-west1,us-west1-a,0.49901,0.10358
@@ -13421,6 +13435,7 @@ n2d-highcpu-2,2.0,2.0,,,,us-east5,us-east5-a,0.06238,0.00989
 n2d-highcpu-2,2.0,2.0,,,,us-east5,us-east5-b,0.06238,0.00989
 n2d-highcpu-2,2.0,2.0,,,,us-east5,us-east5-c,0.06238,0.00989
 n2d-highcpu-2,2.0,2.0,,,,us-south1,us-south1-a,0.0736,0.01237
+n2d-highcpu-2,2.0,2.0,,,,us-south1,us-south1-ai1b,0.0736,0.01237
 n2d-highcpu-2,2.0,2.0,,,,us-south1,us-south1-b,0.0736,0.01237
 n2d-highcpu-2,2.0,2.0,,,,us-south1,us-south1-c,0.0736,0.01237
 n2d-highcpu-2,2.0,2.0,,,,us-west1,us-west1-a,0.06238,0.01295
@@ -13542,6 +13557,7 @@ n2d-highcpu-224,224.0,224.0,,,,us-east5,us-east5-a,6.98611,1.10746
 n2d-highcpu-224,224.0,224.0,,,,us-east5,us-east5-b,6.98611,1.10746
 n2d-highcpu-224,224.0,224.0,,,,us-east5,us-east5-c,6.98611,1.10746
 n2d-highcpu-224,224.0,224.0,,,,us-south1,us-south1-a,8.24361,1.38499
+n2d-highcpu-224,224.0,224.0,,,,us-south1,us-south1-ai1b,8.24361,1.38499
 n2d-highcpu-224,224.0,224.0,,,,us-south1,us-south1-b,8.24361,1.38499
 n2d-highcpu-224,224.0,224.0,,,,us-south1,us-south1-c,8.24361,1.38499
 n2d-highcpu-224,224.0,224.0,,,,us-west1,us-west1-a,6.98611,1.45018
@@ -13663,6 +13679,7 @@ n2d-highcpu-32,32.0,32.0,,,,us-east5,us-east5-a,0.99802,0.15821
 n2d-highcpu-32,32.0,32.0,,,,us-east5,us-east5-b,0.99802,0.15821
 n2d-highcpu-32,32.0,32.0,,,,us-east5,us-east5-c,0.99802,0.15821
 n2d-highcpu-32,32.0,32.0,,,,us-south1,us-south1-a,1.17766,0.19786
+n2d-highcpu-32,32.0,32.0,,,,us-south1,us-south1-ai1b,1.17766,0.19786
 n2d-highcpu-32,32.0,32.0,,,,us-south1,us-south1-b,1.17766,0.19786
 n2d-highcpu-32,32.0,32.0,,,,us-south1,us-south1-c,1.17766,0.19786
 n2d-highcpu-32,32.0,32.0,,,,us-west1,us-west1-a,0.99802,0.20717
@@ -13784,6 +13801,7 @@ n2d-highcpu-4,4.0,4.0,,,,us-east5,us-east5-a,0.12475,0.01978
 n2d-highcpu-4,4.0,4.0,,,,us-east5,us-east5-b,0.12475,0.01978
 n2d-highcpu-4,4.0,4.0,,,,us-east5,us-east5-c,0.12475,0.01978
 n2d-highcpu-4,4.0,4.0,,,,us-south1,us-south1-a,0.14721,0.02473
+n2d-highcpu-4,4.0,4.0,,,,us-south1,us-south1-ai1b,0.14721,0.02473
 n2d-highcpu-4,4.0,4.0,,,,us-south1,us-south1-b,0.14721,0.02473
 n2d-highcpu-4,4.0,4.0,,,,us-south1,us-south1-c,0.14721,0.02473
 n2d-highcpu-4,4.0,4.0,,,,us-west1,us-west1-a,0.12475,0.0259
@@ -13905,6 +13923,7 @@ n2d-highcpu-48,48.0,48.0,,,,us-east5,us-east5-a,1.49702,0.23731
 n2d-highcpu-48,48.0,48.0,,,,us-east5,us-east5-b,1.49702,0.23731
 n2d-highcpu-48,48.0,48.0,,,,us-east5,us-east5-c,1.49702,0.23731
 n2d-highcpu-48,48.0,48.0,,,,us-south1,us-south1-a,1.76649,0.29678
+n2d-highcpu-48,48.0,48.0,,,,us-south1,us-south1-ai1b,1.76649,0.29678
 n2d-highcpu-48,48.0,48.0,,,,us-south1,us-south1-b,1.76649,0.29678
 n2d-highcpu-48,48.0,48.0,,,,us-south1,us-south1-c,1.76649,0.29678
 n2d-highcpu-48,48.0,48.0,,,,us-west1,us-west1-a,1.49702,0.31075
@@ -14026,6 +14045,7 @@ n2d-highcpu-64,64.0,64.0,,,,us-east5,us-east5-a,1.99603,0.31642
 n2d-highcpu-64,64.0,64.0,,,,us-east5,us-east5-b,1.99603,0.31642
 n2d-highcpu-64,64.0,64.0,,,,us-east5,us-east5-c,1.99603,0.31642
 n2d-highcpu-64,64.0,64.0,,,,us-south1,us-south1-a,2.35532,0.39571
+n2d-highcpu-64,64.0,64.0,,,,us-south1,us-south1-ai1b,2.35532,0.39571
 n2d-highcpu-64,64.0,64.0,,,,us-south1,us-south1-b,2.35532,0.39571
 n2d-highcpu-64,64.0,64.0,,,,us-south1,us-south1-c,2.35532,0.39571
 n2d-highcpu-64,64.0,64.0,,,,us-west1,us-west1-a,1.99603,0.41434
@@ -14147,6 +14167,7 @@ n2d-highcpu-8,8.0,8.0,,,,us-east5,us-east5-a,0.2495,0.03955
 n2d-highcpu-8,8.0,8.0,,,,us-east5,us-east5-b,0.2495,0.03955
 n2d-highcpu-8,8.0,8.0,,,,us-east5,us-east5-c,0.2495,0.03955
 n2d-highcpu-8,8.0,8.0,,,,us-south1,us-south1-a,0.29441,0.04946
+n2d-highcpu-8,8.0,8.0,,,,us-south1,us-south1-ai1b,0.29441,0.04946
 n2d-highcpu-8,8.0,8.0,,,,us-south1,us-south1-b,0.29441,0.04946
 n2d-highcpu-8,8.0,8.0,,,,us-south1,us-south1-c,0.29441,0.04946
 n2d-highcpu-8,8.0,8.0,,,,us-west1,us-west1-a,0.2495,0.05179
@@ -14268,6 +14289,7 @@ n2d-highcpu-80,80.0,80.0,,,,us-east5,us-east5-a,2.49504,0.39552
 n2d-highcpu-80,80.0,80.0,,,,us-east5,us-east5-b,2.49504,0.39552
 n2d-highcpu-80,80.0,80.0,,,,us-east5,us-east5-c,2.49504,0.39552
 n2d-highcpu-80,80.0,80.0,,,,us-south1,us-south1-a,2.94415,0.49464
+n2d-highcpu-80,80.0,80.0,,,,us-south1,us-south1-ai1b,2.94415,0.49464
 n2d-highcpu-80,80.0,80.0,,,,us-south1,us-south1-b,2.94415,0.49464
 n2d-highcpu-80,80.0,80.0,,,,us-south1,us-south1-c,2.94415,0.49464
 n2d-highcpu-80,80.0,80.0,,,,us-west1,us-west1-a,2.49504,0.51792
@@ -14389,6 +14411,7 @@ n2d-highcpu-96,96.0,96.0,,,,us-east5,us-east5-a,2.99405,0.47462
 n2d-highcpu-96,96.0,96.0,,,,us-east5,us-east5-b,2.99405,0.47462
 n2d-highcpu-96,96.0,96.0,,,,us-east5,us-east5-c,2.99405,0.47462
 n2d-highcpu-96,96.0,96.0,,,,us-south1,us-south1-a,3.53298,0.59357
+n2d-highcpu-96,96.0,96.0,,,,us-south1,us-south1-ai1b,3.53298,0.59357
 n2d-highcpu-96,96.0,96.0,,,,us-south1,us-south1-b,3.53298,0.59357
 n2d-highcpu-96,96.0,96.0,,,,us-south1,us-south1-c,3.53298,0.59357
 n2d-highcpu-96,96.0,96.0,,,,us-west1,us-west1-a,2.99405,0.6215
@@ -14510,6 +14533,7 @@ n2d-highmem-16,16.0,128.0,,,,us-east5,us-east5-a,0.91184,0.14451
 n2d-highmem-16,16.0,128.0,,,,us-east5,us-east5-b,0.91184,0.14451
 n2d-highmem-16,16.0,128.0,,,,us-east5,us-east5-c,0.91184,0.14451
 n2d-highmem-16,16.0,128.0,,,,us-south1,us-south1-a,1.07597,0.18102
+n2d-highmem-16,16.0,128.0,,,,us-south1,us-south1-ai1b,1.07597,0.18102
 n2d-highmem-16,16.0,128.0,,,,us-south1,us-south1-b,1.07597,0.18102
 n2d-highmem-16,16.0,128.0,,,,us-south1,us-south1-c,1.07597,0.18102
 n2d-highmem-16,16.0,128.0,,,,us-west1,us-west1-a,0.91184,0.18915
@@ -14631,6 +14655,7 @@ n2d-highmem-2,2.0,16.0,,,,us-east5,us-east5-a,0.11398,0.01806
 n2d-highmem-2,2.0,16.0,,,,us-east5,us-east5-b,0.11398,0.01806
 n2d-highmem-2,2.0,16.0,,,,us-east5,us-east5-c,0.11398,0.01806
 n2d-highmem-2,2.0,16.0,,,,us-south1,us-south1-a,0.1345,0.02263
+n2d-highmem-2,2.0,16.0,,,,us-south1,us-south1-ai1b,0.1345,0.02263
 n2d-highmem-2,2.0,16.0,,,,us-south1,us-south1-b,0.1345,0.02263
 n2d-highmem-2,2.0,16.0,,,,us-south1,us-south1-c,0.1345,0.02263
 n2d-highmem-2,2.0,16.0,,,,us-west1,us-west1-a,0.11398,0.02364
@@ -14752,6 +14777,7 @@ n2d-highmem-32,32.0,256.0,,,,us-east5,us-east5-a,1.82368,0.28902
 n2d-highmem-32,32.0,256.0,,,,us-east5,us-east5-b,1.82368,0.28902
 n2d-highmem-32,32.0,256.0,,,,us-east5,us-east5-c,1.82368,0.28902
 n2d-highmem-32,32.0,256.0,,,,us-south1,us-south1-a,2.15194,0.36205
+n2d-highmem-32,32.0,256.0,,,,us-south1,us-south1-ai1b,2.15194,0.36205
 n2d-highmem-32,32.0,256.0,,,,us-south1,us-south1-b,2.15194,0.36205
 n2d-highmem-32,32.0,256.0,,,,us-south1,us-south1-c,2.15194,0.36205
 n2d-highmem-32,32.0,256.0,,,,us-west1,us-west1-a,1.82368,0.3783
@@ -14873,6 +14899,7 @@ n2d-highmem-4,4.0,32.0,,,,us-east5,us-east5-a,0.22796,0.03613
 n2d-highmem-4,4.0,32.0,,,,us-east5,us-east5-b,0.22796,0.03613
 n2d-highmem-4,4.0,32.0,,,,us-east5,us-east5-c,0.22796,0.03613
 n2d-highmem-4,4.0,32.0,,,,us-south1,us-south1-a,0.26899,0.04526
+n2d-highmem-4,4.0,32.0,,,,us-south1,us-south1-ai1b,0.26899,0.04526
 n2d-highmem-4,4.0,32.0,,,,us-south1,us-south1-b,0.26899,0.04526
 n2d-highmem-4,4.0,32.0,,,,us-south1,us-south1-c,0.26899,0.04526
 n2d-highmem-4,4.0,32.0,,,,us-west1,us-west1-a,0.22796,0.04729
@@ -14994,6 +15021,7 @@ n2d-highmem-48,48.0,384.0,,,,us-east5,us-east5-a,2.73552,0.43354
 n2d-highmem-48,48.0,384.0,,,,us-east5,us-east5-b,2.73552,0.43354
 n2d-highmem-48,48.0,384.0,,,,us-east5,us-east5-c,2.73552,0.43354
 n2d-highmem-48,48.0,384.0,,,,us-south1,us-south1-a,3.22791,0.54307
+n2d-highmem-48,48.0,384.0,,,,us-south1,us-south1-ai1b,3.22791,0.54307
 n2d-highmem-48,48.0,384.0,,,,us-south1,us-south1-b,3.22791,0.54307
 n2d-highmem-48,48.0,384.0,,,,us-south1,us-south1-c,3.22791,0.54307
 n2d-highmem-48,48.0,384.0,,,,us-west1,us-west1-a,2.73552,0.56746
@@ -15115,6 +15143,7 @@ n2d-highmem-64,64.0,512.0,,,,us-east5,us-east5-a,3.64736,0.57805
 n2d-highmem-64,64.0,512.0,,,,us-east5,us-east5-b,3.64736,0.57805
 n2d-highmem-64,64.0,512.0,,,,us-east5,us-east5-c,3.64736,0.57805
 n2d-highmem-64,64.0,512.0,,,,us-south1,us-south1-a,4.30388,0.7241
+n2d-highmem-64,64.0,512.0,,,,us-south1,us-south1-ai1b,4.30388,0.7241
 n2d-highmem-64,64.0,512.0,,,,us-south1,us-south1-b,4.30388,0.7241
 n2d-highmem-64,64.0,512.0,,,,us-south1,us-south1-c,4.30388,0.7241
 n2d-highmem-64,64.0,512.0,,,,us-west1,us-west1-a,3.64736,0.75661
@@ -15236,6 +15265,7 @@ n2d-highmem-8,8.0,64.0,,,,us-east5,us-east5-a,0.45592,0.07226
 n2d-highmem-8,8.0,64.0,,,,us-east5,us-east5-b,0.45592,0.07226
 n2d-highmem-8,8.0,64.0,,,,us-east5,us-east5-c,0.45592,0.07226
 n2d-highmem-8,8.0,64.0,,,,us-south1,us-south1-a,0.53799,0.09051
+n2d-highmem-8,8.0,64.0,,,,us-south1,us-south1-ai1b,0.53799,0.09051
 n2d-highmem-8,8.0,64.0,,,,us-south1,us-south1-b,0.53799,0.09051
 n2d-highmem-8,8.0,64.0,,,,us-south1,us-south1-c,0.53799,0.09051
 n2d-highmem-8,8.0,64.0,,,,us-west1,us-west1-a,0.45592,0.09458
@@ -15357,6 +15387,7 @@ n2d-highmem-80,80.0,640.0,,,,us-east5,us-east5-a,4.5592,0.72256
 n2d-highmem-80,80.0,640.0,,,,us-east5,us-east5-b,4.5592,0.72256
 n2d-highmem-80,80.0,640.0,,,,us-east5,us-east5-c,4.5592,0.72256
 n2d-highmem-80,80.0,640.0,,,,us-south1,us-south1-a,5.37986,0.90512
+n2d-highmem-80,80.0,640.0,,,,us-south1,us-south1-ai1b,5.37986,0.90512
 n2d-highmem-80,80.0,640.0,,,,us-south1,us-south1-b,5.37986,0.90512
 n2d-highmem-80,80.0,640.0,,,,us-south1,us-south1-c,5.37986,0.90512
 n2d-highmem-80,80.0,640.0,,,,us-west1,us-west1-a,4.5592,0.94576
@@ -15478,6 +15509,7 @@ n2d-highmem-96,96.0,768.0,,,,us-east5,us-east5-a,5.47104,0.86707
 n2d-highmem-96,96.0,768.0,,,,us-east5,us-east5-b,5.47104,0.86707
 n2d-highmem-96,96.0,768.0,,,,us-east5,us-east5-c,5.47104,0.86707
 n2d-highmem-96,96.0,768.0,,,,us-south1,us-south1-a,6.45583,1.08614
+n2d-highmem-96,96.0,768.0,,,,us-south1,us-south1-ai1b,6.45583,1.08614
 n2d-highmem-96,96.0,768.0,,,,us-south1,us-south1-b,6.45583,1.08614
 n2d-highmem-96,96.0,768.0,,,,us-south1,us-south1-c,6.45583,1.08614
 n2d-highmem-96,96.0,768.0,,,,us-west1,us-west1-a,5.47104,1.13491
@@ -15599,6 +15631,7 @@ n2d-standard-128,128.0,512.0,,,,us-east5,us-east5-a,5.40749,0.85709
 n2d-standard-128,128.0,512.0,,,,us-east5,us-east5-b,5.40749,0.85709
 n2d-standard-128,128.0,512.0,,,,us-east5,us-east5-c,5.40749,0.85709
 n2d-standard-128,128.0,512.0,,,,us-south1,us-south1-a,6.38084,1.0729
+n2d-standard-128,128.0,512.0,,,,us-south1,us-south1-ai1b,6.38084,1.0729
 n2d-standard-128,128.0,512.0,,,,us-south1,us-south1-b,6.38084,1.0729
 n2d-standard-128,128.0,512.0,,,,us-south1,us-south1-c,6.38084,1.0729
 n2d-standard-128,128.0,512.0,,,,us-west1,us-west1-a,5.40749,1.12205
@@ -15720,6 +15753,7 @@ n2d-standard-16,16.0,64.0,,,,us-east5,us-east5-a,0.67594,0.10714
 n2d-standard-16,16.0,64.0,,,,us-east5,us-east5-b,0.67594,0.10714
 n2d-standard-16,16.0,64.0,,,,us-east5,us-east5-c,0.67594,0.10714
 n2d-standard-16,16.0,64.0,,,,us-south1,us-south1-a,0.7976,0.13411
+n2d-standard-16,16.0,64.0,,,,us-south1,us-south1-ai1b,0.7976,0.13411
 n2d-standard-16,16.0,64.0,,,,us-south1,us-south1-b,0.7976,0.13411
 n2d-standard-16,16.0,64.0,,,,us-south1,us-south1-c,0.7976,0.13411
 n2d-standard-16,16.0,64.0,,,,us-west1,us-west1-a,0.67594,0.14026
@@ -15841,6 +15875,7 @@ n2d-standard-2,2.0,8.0,,,,us-east5,us-east5-a,0.08449,0.01339
 n2d-standard-2,2.0,8.0,,,,us-east5,us-east5-b,0.08449,0.01339
 n2d-standard-2,2.0,8.0,,,,us-east5,us-east5-c,0.08449,0.01339
 n2d-standard-2,2.0,8.0,,,,us-south1,us-south1-a,0.0997,0.01676
+n2d-standard-2,2.0,8.0,,,,us-south1,us-south1-ai1b,0.0997,0.01676
 n2d-standard-2,2.0,8.0,,,,us-south1,us-south1-b,0.0997,0.01676
 n2d-standard-2,2.0,8.0,,,,us-south1,us-south1-c,0.0997,0.01676
 n2d-standard-2,2.0,8.0,,,,us-west1,us-west1-a,0.08449,0.01753
@@ -15962,6 +15997,7 @@ n2d-standard-224,224.0,896.0,,,,us-east5,us-east5-a,9.4631,1.4999
 n2d-standard-224,224.0,896.0,,,,us-east5,us-east5-b,9.4631,1.4999
 n2d-standard-224,224.0,896.0,,,,us-east5,us-east5-c,9.4631,1.4999
 n2d-standard-224,224.0,896.0,,,,us-south1,us-south1-a,11.16646,1.87757
+n2d-standard-224,224.0,896.0,,,,us-south1,us-south1-ai1b,11.16646,1.87757
 n2d-standard-224,224.0,896.0,,,,us-south1,us-south1-b,11.16646,1.87757
 n2d-standard-224,224.0,896.0,,,,us-south1,us-south1-c,11.16646,1.87757
 n2d-standard-224,224.0,896.0,,,,us-west1,us-west1-a,9.4631,1.96358
@@ -16083,6 +16119,7 @@ n2d-standard-32,32.0,128.0,,,,us-east5,us-east5-a,1.35187,0.21427
 n2d-standard-32,32.0,128.0,,,,us-east5,us-east5-b,1.35187,0.21427
 n2d-standard-32,32.0,128.0,,,,us-east5,us-east5-c,1.35187,0.21427
 n2d-standard-32,32.0,128.0,,,,us-south1,us-south1-a,1.59521,0.26822
+n2d-standard-32,32.0,128.0,,,,us-south1,us-south1-ai1b,1.59521,0.26822
 n2d-standard-32,32.0,128.0,,,,us-south1,us-south1-b,1.59521,0.26822
 n2d-standard-32,32.0,128.0,,,,us-south1,us-south1-c,1.59521,0.26822
 n2d-standard-32,32.0,128.0,,,,us-west1,us-west1-a,1.35187,0.28051
@@ -16204,6 +16241,7 @@ n2d-standard-4,4.0,16.0,,,,us-east5,us-east5-a,0.16898,0.02678
 n2d-standard-4,4.0,16.0,,,,us-east5,us-east5-b,0.16898,0.02678
 n2d-standard-4,4.0,16.0,,,,us-east5,us-east5-c,0.16898,0.02678
 n2d-standard-4,4.0,16.0,,,,us-south1,us-south1-a,0.1994,0.03353
+n2d-standard-4,4.0,16.0,,,,us-south1,us-south1-ai1b,0.1994,0.03353
 n2d-standard-4,4.0,16.0,,,,us-south1,us-south1-b,0.1994,0.03353
 n2d-standard-4,4.0,16.0,,,,us-south1,us-south1-c,0.1994,0.03353
 n2d-standard-4,4.0,16.0,,,,us-west1,us-west1-a,0.16898,0.03506
@@ -16325,6 +16363,7 @@ n2d-standard-48,48.0,192.0,,,,us-east5,us-east5-a,2.02781,0.32141
 n2d-standard-48,48.0,192.0,,,,us-east5,us-east5-b,2.02781,0.32141
 n2d-standard-48,48.0,192.0,,,,us-east5,us-east5-c,2.02781,0.32141
 n2d-standard-48,48.0,192.0,,,,us-south1,us-south1-a,2.39281,0.40234
+n2d-standard-48,48.0,192.0,,,,us-south1,us-south1-ai1b,2.39281,0.40234
 n2d-standard-48,48.0,192.0,,,,us-south1,us-south1-b,2.39281,0.40234
 n2d-standard-48,48.0,192.0,,,,us-south1,us-south1-c,2.39281,0.40234
 n2d-standard-48,48.0,192.0,,,,us-west1,us-west1-a,2.02781,0.42077
@@ -16446,6 +16485,7 @@ n2d-standard-64,64.0,256.0,,,,us-east5,us-east5-a,2.70374,0.42854
 n2d-standard-64,64.0,256.0,,,,us-east5,us-east5-b,2.70374,0.42854
 n2d-standard-64,64.0,256.0,,,,us-east5,us-east5-c,2.70374,0.42854
 n2d-standard-64,64.0,256.0,,,,us-south1,us-south1-a,3.19042,0.53645
+n2d-standard-64,64.0,256.0,,,,us-south1,us-south1-ai1b,3.19042,0.53645
 n2d-standard-64,64.0,256.0,,,,us-south1,us-south1-b,3.19042,0.53645
 n2d-standard-64,64.0,256.0,,,,us-south1,us-south1-c,3.19042,0.53645
 n2d-standard-64,64.0,256.0,,,,us-west1,us-west1-a,2.70374,0.56102
@@ -16567,6 +16607,7 @@ n2d-standard-8,8.0,32.0,,,,us-east5,us-east5-a,0.33797,0.05357
 n2d-standard-8,8.0,32.0,,,,us-east5,us-east5-b,0.33797,0.05357
 n2d-standard-8,8.0,32.0,,,,us-east5,us-east5-c,0.33797,0.05357
 n2d-standard-8,8.0,32.0,,,,us-south1,us-south1-a,0.3988,0.06706
+n2d-standard-8,8.0,32.0,,,,us-south1,us-south1-ai1b,0.3988,0.06706
 n2d-standard-8,8.0,32.0,,,,us-south1,us-south1-b,0.3988,0.06706
 n2d-standard-8,8.0,32.0,,,,us-south1,us-south1-c,0.3988,0.06706
 n2d-standard-8,8.0,32.0,,,,us-west1,us-west1-a,0.33797,0.07013
@@ -16688,6 +16729,7 @@ n2d-standard-80,80.0,320.0,,,,us-east5,us-east5-a,3.37968,0.53568
 n2d-standard-80,80.0,320.0,,,,us-east5,us-east5-b,3.37968,0.53568
 n2d-standard-80,80.0,320.0,,,,us-east5,us-east5-c,3.37968,0.53568
 n2d-standard-80,80.0,320.0,,,,us-south1,us-south1-a,3.98802,0.67056
+n2d-standard-80,80.0,320.0,,,,us-south1,us-south1-ai1b,3.98802,0.67056
 n2d-standard-80,80.0,320.0,,,,us-south1,us-south1-b,3.98802,0.67056
 n2d-standard-80,80.0,320.0,,,,us-south1,us-south1-c,3.98802,0.67056
 n2d-standard-80,80.0,320.0,,,,us-west1,us-west1-a,3.37968,0.70128
@@ -16809,6 +16851,7 @@ n2d-standard-96,96.0,384.0,,,,us-east5,us-east5-a,4.05562,0.64282
 n2d-standard-96,96.0,384.0,,,,us-east5,us-east5-b,4.05562,0.64282
 n2d-standard-96,96.0,384.0,,,,us-east5,us-east5-c,4.05562,0.64282
 n2d-standard-96,96.0,384.0,,,,us-south1,us-south1-a,4.78563,0.80467
+n2d-standard-96,96.0,384.0,,,,us-south1,us-south1-ai1b,4.78563,0.80467
 n2d-standard-96,96.0,384.0,,,,us-south1,us-south1-b,4.78563,0.80467
 n2d-standard-96,96.0,384.0,,,,us-south1,us-south1-c,4.78563,0.80467
 n2d-standard-96,96.0,384.0,,,,us-west1,us-west1-a,4.05562,0.84154
@@ -19599,6 +19642,7 @@ t2d-standard-1,1.0,4.0,,,,us-east5,us-east5-a,0.04225,0.00459
 t2d-standard-1,1.0,4.0,,,,us-east5,us-east5-b,0.04225,0.00459
 t2d-standard-1,1.0,4.0,,,,us-east5,us-east5-c,0.04225,0.00459
 t2d-standard-1,1.0,4.0,,,,us-south1,us-south1-a,0.04985,0.00448
+t2d-standard-1,1.0,4.0,,,,us-south1,us-south1-ai1b,0.04985,0.00448
 t2d-standard-1,1.0,4.0,,,,us-south1,us-south1-b,0.04985,0.00448
 t2d-standard-1,1.0,4.0,,,,us-south1,us-south1-c,0.04985,0.00448
 t2d-standard-1,1.0,4.0,,,,us-west1,us-west1-a,0.04225,0.00695
@@ -19717,6 +19761,7 @@ t2d-standard-16,16.0,64.0,,,,us-east5,us-east5-a,0.67594,0.0735
 t2d-standard-16,16.0,64.0,,,,us-east5,us-east5-b,0.67594,0.0735
 t2d-standard-16,16.0,64.0,,,,us-east5,us-east5-c,0.67594,0.0735
 t2d-standard-16,16.0,64.0,,,,us-south1,us-south1-a,0.7976,0.07174
+t2d-standard-16,16.0,64.0,,,,us-south1,us-south1-ai1b,0.7976,0.07174
 t2d-standard-16,16.0,64.0,,,,us-south1,us-south1-b,0.7976,0.07174
 t2d-standard-16,16.0,64.0,,,,us-south1,us-south1-c,0.7976,0.07174
 t2d-standard-16,16.0,64.0,,,,us-west1,us-west1-a,0.67594,0.11117
@@ -19835,6 +19880,7 @@ t2d-standard-2,2.0,8.0,,,,us-east5,us-east5-a,0.08449,0.00919
 t2d-standard-2,2.0,8.0,,,,us-east5,us-east5-b,0.08449,0.00919
 t2d-standard-2,2.0,8.0,,,,us-east5,us-east5-c,0.08449,0.00919
 t2d-standard-2,2.0,8.0,,,,us-south1,us-south1-a,0.0997,0.00897
+t2d-standard-2,2.0,8.0,,,,us-south1,us-south1-ai1b,0.0997,0.00897
 t2d-standard-2,2.0,8.0,,,,us-south1,us-south1-b,0.0997,0.00897
 t2d-standard-2,2.0,8.0,,,,us-south1,us-south1-c,0.0997,0.00897
 t2d-standard-2,2.0,8.0,,,,us-west1,us-west1-a,0.08449,0.0139
@@ -19953,6 +19999,7 @@ t2d-standard-32,32.0,128.0,,,,us-east5,us-east5-a,1.35187,0.14701
 t2d-standard-32,32.0,128.0,,,,us-east5,us-east5-b,1.35187,0.14701
 t2d-standard-32,32.0,128.0,,,,us-east5,us-east5-c,1.35187,0.14701
 t2d-standard-32,32.0,128.0,,,,us-south1,us-south1-a,1.59521,0.14349
+t2d-standard-32,32.0,128.0,,,,us-south1,us-south1-ai1b,1.59521,0.14349
 t2d-standard-32,32.0,128.0,,,,us-south1,us-south1-b,1.59521,0.14349
 t2d-standard-32,32.0,128.0,,,,us-south1,us-south1-c,1.59521,0.14349
 t2d-standard-32,32.0,128.0,,,,us-west1,us-west1-a,1.35187,0.22234
@@ -20071,6 +20118,7 @@ t2d-standard-4,4.0,16.0,,,,us-east5,us-east5-a,0.16898,0.01838
 t2d-standard-4,4.0,16.0,,,,us-east5,us-east5-b,0.16898,0.01838
 t2d-standard-4,4.0,16.0,,,,us-east5,us-east5-c,0.16898,0.01838
 t2d-standard-4,4.0,16.0,,,,us-south1,us-south1-a,0.1994,0.01794
+t2d-standard-4,4.0,16.0,,,,us-south1,us-south1-ai1b,0.1994,0.01794
 t2d-standard-4,4.0,16.0,,,,us-south1,us-south1-b,0.1994,0.01794
 t2d-standard-4,4.0,16.0,,,,us-south1,us-south1-c,0.1994,0.01794
 t2d-standard-4,4.0,16.0,,,,us-west1,us-west1-a,0.16898,0.02779
@@ -20189,6 +20237,7 @@ t2d-standard-48,48.0,192.0,,,,us-east5,us-east5-a,2.02781,0.22051
 t2d-standard-48,48.0,192.0,,,,us-east5,us-east5-b,2.02781,0.22051
 t2d-standard-48,48.0,192.0,,,,us-east5,us-east5-c,2.02781,0.22051
 t2d-standard-48,48.0,192.0,,,,us-south1,us-south1-a,2.39281,0.21523
+t2d-standard-48,48.0,192.0,,,,us-south1,us-south1-ai1b,2.39281,0.21523
 t2d-standard-48,48.0,192.0,,,,us-south1,us-south1-b,2.39281,0.21523
 t2d-standard-48,48.0,192.0,,,,us-south1,us-south1-c,2.39281,0.21523
 t2d-standard-48,48.0,192.0,,,,us-west1,us-west1-a,2.02781,0.3335
@@ -20307,6 +20356,7 @@ t2d-standard-60,60.0,240.0,,,,us-east5,us-east5-a,2.53476,0.27564
 t2d-standard-60,60.0,240.0,,,,us-east5,us-east5-b,2.53476,0.27564
 t2d-standard-60,60.0,240.0,,,,us-east5,us-east5-c,2.53476,0.27564
 t2d-standard-60,60.0,240.0,,,,us-south1,us-south1-a,2.99102,0.26904
+t2d-standard-60,60.0,240.0,,,,us-south1,us-south1-ai1b,2.99102,0.26904
 t2d-standard-60,60.0,240.0,,,,us-south1,us-south1-b,2.99102,0.26904
 t2d-standard-60,60.0,240.0,,,,us-south1,us-south1-c,2.99102,0.26904
 t2d-standard-60,60.0,240.0,,,,us-west1,us-west1-a,2.53476,0.41688
@@ -20425,6 +20475,7 @@ t2d-standard-8,8.0,32.0,,,,us-east5,us-east5-a,0.33797,0.03675
 t2d-standard-8,8.0,32.0,,,,us-east5,us-east5-b,0.33797,0.03675
 t2d-standard-8,8.0,32.0,,,,us-east5,us-east5-c,0.33797,0.03675
 t2d-standard-8,8.0,32.0,,,,us-south1,us-south1-a,0.3988,0.03587
+t2d-standard-8,8.0,32.0,,,,us-south1,us-south1-ai1b,0.3988,0.03587
 t2d-standard-8,8.0,32.0,,,,us-south1,us-south1-b,0.3988,0.03587
 t2d-standard-8,8.0,32.0,,,,us-south1,us-south1-c,0.3988,0.03587
 t2d-standard-8,8.0,32.0,,,,us-west1,us-west1-a,0.33797,0.05558
