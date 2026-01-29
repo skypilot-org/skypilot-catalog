@@ -29,12 +29,16 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `MemoryGiB` | float | The amount of memory in GiB. |
 | `AcceleratorName` | string | The name of accelerators (GPU/TPU). |
 | `AcceleratorCount` | float | The number of accelerators (GPU/TPU). |
-| `GPUInfo` | string | The human readable inforomation of the GPU (used for, e.g., parsing device memory). |
+| `GPUInfo` | string | The human readable information of the GPU (used for, e.g., parsing device memory). |
 | `Region` | string | The region of the resource. |
 | `AvailabilityZone` | string | The availability zone of the resource (can be empty if not supported in the cloud). |
 | `Price` | float | The price of the resource. |
 | `SpotPrice` | float | The spot price of the resource. |
 | `Arch` | string | The processor architecture of instance type. |
+| `LocalDiskType` | string | Type of local disk (SSD, HDD). Will be null if local disk is not supported. |
+| `NVMeSupported` | bool | Whether NVMe is supported for local disk. |
+| `LocalDiskSize` | float | Size of local disk in GBs. |
+| `LocalDiskCount` | float | Number of local disk on the instance type. |
 
 ### images.csv
 Same as [v7](#imagescsv-1) version.
@@ -56,7 +60,7 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `MemoryGiB` | float | The amount of memory in GiB. |
 | `AcceleratorName` | string | The name of accelerators (GPU/TPU). |
 | `AcceleratorCount` | float | The number of accelerators (GPU/TPU). |
-| `GPUInfo` | string | The human readable inforomation of the GPU (used for, e.g., parsing device memory). |
+| `GPUInfo` | string | The human readable information of the GPU (used for, e.g., parsing device memory). |
 | `Region` | string | The region of the resource. |
 | `AvailabilityZone` | string | The availability zone of the resource (can be empty if not supported in the cloud). |
 | `Price` | float | The price of the resource. |
