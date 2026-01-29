@@ -31,7 +31,6 @@ L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
-NVIDIA-H200-NVL,['RunPod']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
@@ -39,10 +38,9 @@ RTX2000-Ada,['RunPod']
 RTX3060,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4000Ada,['Shadeform']
 RTX4060,['Vast']
 RTX4070,['Vast']
-RTX4090,"['RunPod', 'Shadeform', 'Vast']"
+RTX4090,"['RunPod', 'Vast']"
 RTX5070,['Vast']
 RTX5090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5880-Ada,['Vast']
