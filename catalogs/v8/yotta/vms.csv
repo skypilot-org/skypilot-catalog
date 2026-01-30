@@ -1,9 +1,9 @@
 InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,GpuInfo,Region,SpotPrice,Price
-1x14v119g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,1.0,14.0,119.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 32607}",us-east-2,,0.65
-2x28v238g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,2.0,28.0,238.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 65214}",us-east-2,,1.3
-4x56v476g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,4.0,56.0,476.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 130428}",us-east-2,,2.6
-8x112v952g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,8.0,112.0,952.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 260856}",us-east-2,,5.2
-1x30v115g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,1.0,30.0,115.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 32607}",us-central-2,,0.65
-2x60v230g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,2.0,60.0,230.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 65214}",us-central-2,,1.3
-4x120v460g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,4.0,120.0,460.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 130428}",us-central-2,,2.6
-8x240v920g_NVIDIA_GeForce_RTX_5090_32G_SECURE,RTX5090,8.0,240.0,920.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 260856}",us-central-2,,5.2
+1x_14c_119g_RTX5090,RTX5090,1.0,14.0,119.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 32607}",us-east-2,,0.65
+2x_28c_238g_RTX5090,RTX5090,2.0,28.0,238.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 65214}",us-east-2,,1.3
+4x_56c_476g_RTX5090,RTX5090,4.0,56.0,476.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 130428}",us-east-2,,2.6
+8x_112c_952g_RTX5090,RTX5090,8.0,112.0,952.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 260856}",us-east-2,,5.2
+1x_30c_115g_RTX5090,RTX5090,1.0,30.0,115.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 32607}",us-central-2,,0.65
+2x_60c_230g_RTX5090,RTX5090,2.0,60.0,230.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 65214}",us-central-2,,1.3
+4x_120c_460g_RTX5090,RTX5090,4.0,120.0,460.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 130428}",us-central-2,,2.6
+8x_240c_920g_RTX5090,RTX5090,8.0,240.0,920.0,"{'Gpus': [{'Name': 'RTX5090', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 32607}}], 'TotalGpuMemoryInMiB': 260856}",us-central-2,,5.2
