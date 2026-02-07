@@ -39,7 +39,6 @@ RTX2000-Ada,['RunPod']
 RTX3060,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4000Ada,['Shadeform']
 RTX4060,['Vast']
 RTX4070,['Vast']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
@@ -53,6 +52,7 @@ RTXA4000,['RunPod']
 RTXA4500,['RunPod']
 RTXA5000,"['RunPod', 'Vast']"
 RTXA6000,"['RunPod', 'Seeweb', 'Vast']"
+RTXPRO4500,['RunPod']
 RTXPRO6000,"['AWS', 'RunPod', 'Shadeform']"
 RTXPRO6000-WK,['RunPod']
 RTXPRO6000WS,['Vast']
