@@ -5698,6 +5698,7 @@ c4-highmem-192,192.0,1488.0,,,,us-east5,us-east5-b,12.51254,5.18362
 c4-highmem-192,192.0,1488.0,,,,us-west1,us-west1-a,12.51254,5.41555
 c4-highmem-192,192.0,1488.0,,,,us-west1,us-west1-b,12.51254,5.41555
 c4-highmem-192,192.0,1488.0,,,,us-west1,us-west1-c,12.51254,5.41555
+c4-highmem-192,192.0,1488.0,,,,us-west2,us-west2-a,15.04133,6.04512
 c4-highmem-192,192.0,1488.0,,,,us-west3,us-west3-a,15.04133,6.20165
 c4-highmem-192,192.0,1488.0,,,,us-west3,us-west3-b,15.04133,6.20165
 c4-highmem-192,192.0,1488.0,,,,us-west4,us-west4-a,14.09288,6.82013
