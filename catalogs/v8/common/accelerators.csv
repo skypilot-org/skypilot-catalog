@@ -20,7 +20,7 @@ H100-MEGA,['GCP']
 H100-NVL,['RunPod']
 H100-NVLINK,['Fluidstack']
 H100-SXM,"['Cudo', 'RunPod']"
-H200,"['AWS', 'GCP', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
+H200,"['AWS', 'GCP', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'nebius', 'Yotta']"
 H200-SXM,['RunPod']
 Inferentia,['AWS']
 Inferentia2,['AWS']
@@ -53,7 +53,7 @@ RTXA4500,['RunPod']
 RTXA5000,"['RunPod', 'Vast']"
 RTXA6000,"['RunPod', 'Seeweb', 'Vast']"
 RTXPRO4500,['RunPod']
-RTXPRO6000,"['AWS', 'RunPod', 'Shadeform']"
+RTXPRO6000,"['AWS', 'RunPod', 'Shadeform', 'Yotta']"
 RTXPRO6000-WK,['RunPod']
 RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
