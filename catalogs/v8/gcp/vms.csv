@@ -5370,6 +5370,7 @@ c4-highmem-144,144.0,1116.0,,,,us-south1,us-south1-b,11.0736,4.3479
 c4-highmem-144,144.0,1116.0,,,,us-west1,us-west1-a,9.38441,4.06166
 c4-highmem-144,144.0,1116.0,,,,us-west1,us-west1-b,9.38441,4.06166
 c4-highmem-144,144.0,1116.0,,,,us-west1,us-west1-c,9.38441,4.06166
+c4-highmem-144,144.0,1116.0,,,,us-west2,us-west2-b,11.281,4.53384
 c4-highmem-144,144.0,1116.0,,,,us-west2,us-west2-c,11.281,4.53384
 c4-highmem-144,144.0,1116.0,,,,us-west3,us-west3-a,11.281,4.65124
 c4-highmem-144,144.0,1116.0,,,,us-west3,us-west3-b,11.281,4.65124
@@ -6103,6 +6104,7 @@ c4-highmem-288,288.0,2232.0,,,,us-south1,us-south1-b,22.1472,8.6958
 c4-highmem-288,288.0,2232.0,,,,us-west1,us-west1-a,18.76882,8.12333
 c4-highmem-288,288.0,2232.0,,,,us-west1,us-west1-b,18.76882,8.12333
 c4-highmem-288,288.0,2232.0,,,,us-west1,us-west1-c,18.76882,8.12333
+c4-highmem-288,288.0,2232.0,,,,us-west2,us-west2-b,22.562,9.06768
 c4-highmem-288,288.0,2232.0,,,,us-west2,us-west2-c,22.562,9.06768
 c4-highmem-288,288.0,2232.0,,,,us-west3,us-west3-a,22.562,9.30247
 c4-highmem-288,288.0,2232.0,,,,us-west3,us-west3-b,22.562,9.30247
@@ -7882,6 +7884,7 @@ c4-standard-288,288.0,1080.0,,,,us-south1,us-south1-b,16.79404,6.5934
 c4-standard-288,288.0,1080.0,,,,us-west1,us-west1-a,14.23224,6.16032
 c4-standard-288,288.0,1080.0,,,,us-west1,us-west1-b,14.23224,6.16032
 c4-standard-288,288.0,1080.0,,,,us-west1,us-west1-c,14.23224,6.16032
+c4-standard-288,288.0,1080.0,,,,us-west2,us-west2-b,17.10858,7.24752
 c4-standard-288,288.0,1080.0,,,,us-west2,us-west2-c,17.10858,7.24752
 c4-standard-288,288.0,1080.0,,,,us-west3,us-west3-a,17.10858,7.05492
 c4-standard-288,288.0,1080.0,,,,us-west3,us-west3-b,17.10858,7.05492
