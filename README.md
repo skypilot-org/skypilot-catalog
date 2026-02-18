@@ -43,6 +43,20 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 ### images.csv
 Same as [v7](#imagescsv-1) version.
 
+### pricing.csv
+Applicable to **Kubernetes and Slurm** only. This file configures per-resource pricing for a cluster. If the file does not exist, SkyPilot will raise an error at runtime when attempting to fetch pricing data.
+
+The default wildcard row (empty `Region`, `Zone`, and `AcceleratorName`) matches all resources and sets all costs to $0.00. Users can override this locally at `~/.sky/catalogs/v8/<cloud>/pricing.csv` by adding more specific rows. Lookup priority (highest to lowest): exact region+zone → exact region+any zone → any region+exact zone → any region+any zone (wildcard).
+
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+| `Region` | string | Region identifier (empty = wildcard, matches all regions) |
+| `Zone` | string | Zone/partition identifier (empty = wildcard, matches all zones) |
+| `PricePerVCPU` | float | Hourly price per vCPU |
+| `PricePerMemoryGB` | float | Hourly price per GiB of memory |
+| `AcceleratorName` | string | Accelerator name to match (empty = wildcard, matches all) |
+| `PricePerAccelerator` | float | Hourly price per accelerator unit |
+
 ## Schema V7
 
 The catalogs for each cloud in [v7](./catalogs/v7) include the following files:
