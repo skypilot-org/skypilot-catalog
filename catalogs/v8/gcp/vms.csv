@@ -744,6 +744,7 @@ c2d-highcpu-112,112.0,224.0,,,,asia-southeast1,asia-southeast1-a,5.17877,1.45286
 c2d-highcpu-112,112.0,224.0,,,,asia-southeast1,asia-southeast1-b,5.17877,1.45286
 c2d-highcpu-112,112.0,224.0,,,,asia-southeast1,asia-southeast1-c,5.17877,1.45286
 c2d-highcpu-112,112.0,224.0,,,,australia-southeast1,australia-southeast1-a,5.95862,1.3356
+c2d-highcpu-112,112.0,224.0,,,,europe-central2,europe-central2-b,5.08166,0.85075
 c2d-highcpu-112,112.0,224.0,,,,europe-southwest1,europe-southwest1-b,4.95349,0.68477
 c2d-highcpu-112,112.0,224.0,,,,europe-west1,europe-west1-b,4.62213,0.51542
 c2d-highcpu-112,112.0,224.0,,,,europe-west1,europe-west1-c,4.62213,0.51542
@@ -801,6 +802,7 @@ c2d-highcpu-16,16.0,32.0,,,,asia-southeast1,asia-southeast1-a,0.73982,0.20755
 c2d-highcpu-16,16.0,32.0,,,,asia-southeast1,asia-southeast1-b,0.73982,0.20755
 c2d-highcpu-16,16.0,32.0,,,,asia-southeast1,asia-southeast1-c,0.73982,0.20755
 c2d-highcpu-16,16.0,32.0,,,,australia-southeast1,australia-southeast1-a,0.85123,0.1908
+c2d-highcpu-16,16.0,32.0,,,,europe-central2,europe-central2-b,0.72595,0.12154
 c2d-highcpu-16,16.0,32.0,,,,europe-southwest1,europe-southwest1-b,0.70764,0.09782
 c2d-highcpu-16,16.0,32.0,,,,europe-west1,europe-west1-b,0.6603,0.07363
 c2d-highcpu-16,16.0,32.0,,,,europe-west1,europe-west1-c,0.6603,0.07363
@@ -858,6 +860,7 @@ c2d-highcpu-2,2.0,4.0,,,,asia-southeast1,asia-southeast1-a,0.09248,0.02594
 c2d-highcpu-2,2.0,4.0,,,,asia-southeast1,asia-southeast1-b,0.09248,0.02594
 c2d-highcpu-2,2.0,4.0,,,,asia-southeast1,asia-southeast1-c,0.09248,0.02594
 c2d-highcpu-2,2.0,4.0,,,,australia-southeast1,australia-southeast1-a,0.1064,0.02385
+c2d-highcpu-2,2.0,4.0,,,,europe-central2,europe-central2-b,0.09074,0.01519
 c2d-highcpu-2,2.0,4.0,,,,europe-southwest1,europe-southwest1-b,0.08846,0.01223
 c2d-highcpu-2,2.0,4.0,,,,europe-west1,europe-west1-b,0.08254,0.0092
 c2d-highcpu-2,2.0,4.0,,,,europe-west1,europe-west1-c,0.08254,0.0092
@@ -915,6 +918,7 @@ c2d-highcpu-32,32.0,64.0,,,,asia-southeast1,asia-southeast1-a,1.47965,0.4151
 c2d-highcpu-32,32.0,64.0,,,,asia-southeast1,asia-southeast1-b,1.47965,0.4151
 c2d-highcpu-32,32.0,64.0,,,,asia-southeast1,asia-southeast1-c,1.47965,0.4151
 c2d-highcpu-32,32.0,64.0,,,,australia-southeast1,australia-southeast1-a,1.70246,0.3816
+c2d-highcpu-32,32.0,64.0,,,,europe-central2,europe-central2-b,1.4519,0.24307
 c2d-highcpu-32,32.0,64.0,,,,europe-southwest1,europe-southwest1-b,1.41528,0.19565
 c2d-highcpu-32,32.0,64.0,,,,europe-west1,europe-west1-b,1.32061,0.14726
 c2d-highcpu-32,32.0,64.0,,,,europe-west1,europe-west1-c,1.32061,0.14726
@@ -972,6 +976,7 @@ c2d-highcpu-4,4.0,8.0,,,,asia-southeast1,asia-southeast1-a,0.18496,0.05189
 c2d-highcpu-4,4.0,8.0,,,,asia-southeast1,asia-southeast1-b,0.18496,0.05189
 c2d-highcpu-4,4.0,8.0,,,,asia-southeast1,asia-southeast1-c,0.18496,0.05189
 c2d-highcpu-4,4.0,8.0,,,,australia-southeast1,australia-southeast1-a,0.21281,0.0477
+c2d-highcpu-4,4.0,8.0,,,,europe-central2,europe-central2-b,0.18149,0.03038
 c2d-highcpu-4,4.0,8.0,,,,europe-southwest1,europe-southwest1-b,0.17691,0.02446
 c2d-highcpu-4,4.0,8.0,,,,europe-west1,europe-west1-b,0.16508,0.01841
 c2d-highcpu-4,4.0,8.0,,,,europe-west1,europe-west1-c,0.16508,0.01841
@@ -1029,6 +1034,7 @@ c2d-highcpu-56,56.0,112.0,,,,asia-southeast1,asia-southeast1-a,2.58938,0.72643
 c2d-highcpu-56,56.0,112.0,,,,asia-southeast1,asia-southeast1-b,2.58938,0.72643
 c2d-highcpu-56,56.0,112.0,,,,asia-southeast1,asia-southeast1-c,2.58938,0.72643
 c2d-highcpu-56,56.0,112.0,,,,australia-southeast1,australia-southeast1-a,2.97931,0.6678
+c2d-highcpu-56,56.0,112.0,,,,europe-central2,europe-central2-b,2.54083,0.42538
 c2d-highcpu-56,56.0,112.0,,,,europe-southwest1,europe-southwest1-b,2.47674,0.34238
 c2d-highcpu-56,56.0,112.0,,,,europe-west1,europe-west1-b,2.31106,0.25771
 c2d-highcpu-56,56.0,112.0,,,,europe-west1,europe-west1-c,2.31106,0.25771
@@ -1086,6 +1092,7 @@ c2d-highcpu-8,8.0,16.0,,,,asia-southeast1,asia-southeast1-a,0.36991,0.10378
 c2d-highcpu-8,8.0,16.0,,,,asia-southeast1,asia-southeast1-b,0.36991,0.10378
 c2d-highcpu-8,8.0,16.0,,,,asia-southeast1,asia-southeast1-c,0.36991,0.10378
 c2d-highcpu-8,8.0,16.0,,,,australia-southeast1,australia-southeast1-a,0.42562,0.0954
+c2d-highcpu-8,8.0,16.0,,,,europe-central2,europe-central2-b,0.36298,0.06077
 c2d-highcpu-8,8.0,16.0,,,,europe-southwest1,europe-southwest1-b,0.35382,0.04891
 c2d-highcpu-8,8.0,16.0,,,,europe-west1,europe-west1-b,0.33015,0.03682
 c2d-highcpu-8,8.0,16.0,,,,europe-west1,europe-west1-c,0.33015,0.03682
@@ -1143,6 +1150,7 @@ c2d-highmem-112,112.0,896.0,,,,asia-southeast1,asia-southeast1-a,8.46082,2.37754
 c2d-highmem-112,112.0,896.0,,,,asia-southeast1,asia-southeast1-b,8.46082,2.37754
 c2d-highmem-112,112.0,896.0,,,,asia-southeast1,asia-southeast1-c,8.46082,2.37754
 c2d-highmem-112,112.0,896.0,,,,australia-southeast1,australia-southeast1-a,9.73459,1.93032
+c2d-highmem-112,112.0,896.0,,,,europe-central2,europe-central2-b,8.30726,1.39037
 c2d-highmem-112,112.0,896.0,,,,europe-southwest1,europe-southwest1-b,8.09282,1.24051
 c2d-highmem-112,112.0,896.0,,,,europe-west1,europe-west1-b,7.55138,0.84202
 c2d-highmem-112,112.0,896.0,,,,europe-west1,europe-west1-c,7.55138,0.84202
@@ -1200,6 +1208,7 @@ c2d-highmem-16,16.0,128.0,,,,asia-southeast1,asia-southeast1-a,1.20869,0.33965
 c2d-highmem-16,16.0,128.0,,,,asia-southeast1,asia-southeast1-b,1.20869,0.33965
 c2d-highmem-16,16.0,128.0,,,,asia-southeast1,asia-southeast1-c,1.20869,0.33965
 c2d-highmem-16,16.0,128.0,,,,australia-southeast1,australia-southeast1-a,1.39066,0.27576
+c2d-highmem-16,16.0,128.0,,,,europe-central2,europe-central2-b,1.18675,0.19862
 c2d-highmem-16,16.0,128.0,,,,europe-southwest1,europe-southwest1-b,1.15612,0.17722
 c2d-highmem-16,16.0,128.0,,,,europe-west1,europe-west1-b,1.07877,0.12029
 c2d-highmem-16,16.0,128.0,,,,europe-west1,europe-west1-c,1.07877,0.12029
@@ -1257,6 +1266,7 @@ c2d-highmem-2,2.0,16.0,,,,asia-southeast1,asia-southeast1-a,0.15109,0.04246
 c2d-highmem-2,2.0,16.0,,,,asia-southeast1,asia-southeast1-b,0.15109,0.04246
 c2d-highmem-2,2.0,16.0,,,,asia-southeast1,asia-southeast1-c,0.15109,0.04246
 c2d-highmem-2,2.0,16.0,,,,australia-southeast1,australia-southeast1-a,0.17383,0.03447
+c2d-highmem-2,2.0,16.0,,,,europe-central2,europe-central2-b,0.14834,0.02483
 c2d-highmem-2,2.0,16.0,,,,europe-southwest1,europe-southwest1-b,0.14451,0.02215
 c2d-highmem-2,2.0,16.0,,,,europe-west1,europe-west1-b,0.13485,0.01504
 c2d-highmem-2,2.0,16.0,,,,europe-west1,europe-west1-c,0.13485,0.01504
@@ -1314,6 +1324,7 @@ c2d-highmem-32,32.0,256.0,,,,asia-southeast1,asia-southeast1-a,2.41738,0.6793
 c2d-highmem-32,32.0,256.0,,,,asia-southeast1,asia-southeast1-b,2.41738,0.6793
 c2d-highmem-32,32.0,256.0,,,,asia-southeast1,asia-southeast1-c,2.41738,0.6793
 c2d-highmem-32,32.0,256.0,,,,australia-southeast1,australia-southeast1-a,2.78131,0.55152
+c2d-highmem-32,32.0,256.0,,,,europe-central2,europe-central2-b,2.3735,0.39725
 c2d-highmem-32,32.0,256.0,,,,europe-southwest1,europe-southwest1-b,2.31223,0.35443
 c2d-highmem-32,32.0,256.0,,,,europe-west1,europe-west1-b,2.15754,0.24058
 c2d-highmem-32,32.0,256.0,,,,europe-west1,europe-west1-c,2.15754,0.24058
@@ -1371,6 +1382,7 @@ c2d-highmem-4,4.0,32.0,,,,asia-southeast1,asia-southeast1-a,0.30217,0.08491
 c2d-highmem-4,4.0,32.0,,,,asia-southeast1,asia-southeast1-b,0.30217,0.08491
 c2d-highmem-4,4.0,32.0,,,,asia-southeast1,asia-southeast1-c,0.30217,0.08491
 c2d-highmem-4,4.0,32.0,,,,australia-southeast1,australia-southeast1-a,0.34766,0.06894
+c2d-highmem-4,4.0,32.0,,,,europe-central2,europe-central2-b,0.29669,0.04966
 c2d-highmem-4,4.0,32.0,,,,europe-southwest1,europe-southwest1-b,0.28903,0.0443
 c2d-highmem-4,4.0,32.0,,,,europe-west1,europe-west1-b,0.26969,0.03007
 c2d-highmem-4,4.0,32.0,,,,europe-west1,europe-west1-c,0.26969,0.03007
@@ -1428,6 +1440,7 @@ c2d-highmem-56,56.0,448.0,,,,asia-southeast1,asia-southeast1-a,4.23041,1.18877
 c2d-highmem-56,56.0,448.0,,,,asia-southeast1,asia-southeast1-b,4.23041,1.18877
 c2d-highmem-56,56.0,448.0,,,,asia-southeast1,asia-southeast1-c,4.23041,1.18877
 c2d-highmem-56,56.0,448.0,,,,australia-southeast1,australia-southeast1-a,4.8673,0.96516
+c2d-highmem-56,56.0,448.0,,,,europe-central2,europe-central2-b,4.15363,0.69518
 c2d-highmem-56,56.0,448.0,,,,europe-southwest1,europe-southwest1-b,4.04641,0.62026
 c2d-highmem-56,56.0,448.0,,,,europe-west1,europe-west1-b,3.77569,0.42101
 c2d-highmem-56,56.0,448.0,,,,europe-west1,europe-west1-c,3.77569,0.42101
@@ -1485,6 +1498,7 @@ c2d-highmem-8,8.0,64.0,,,,asia-southeast1,asia-southeast1-a,0.60434,0.16982
 c2d-highmem-8,8.0,64.0,,,,asia-southeast1,asia-southeast1-b,0.60434,0.16982
 c2d-highmem-8,8.0,64.0,,,,asia-southeast1,asia-southeast1-c,0.60434,0.16982
 c2d-highmem-8,8.0,64.0,,,,australia-southeast1,australia-southeast1-a,0.69533,0.13788
+c2d-highmem-8,8.0,64.0,,,,europe-central2,europe-central2-b,0.59338,0.09931
 c2d-highmem-8,8.0,64.0,,,,europe-southwest1,europe-southwest1-b,0.57806,0.08861
 c2d-highmem-8,8.0,64.0,,,,europe-west1,europe-west1-b,0.53938,0.06014
 c2d-highmem-8,8.0,64.0,,,,europe-west1,europe-west1-c,0.53938,0.06014
@@ -1542,6 +1556,7 @@ c2d-standard-112,112.0,448.0,,,,asia-southeast1,asia-southeast1-a,6.27278,1.7610
 c2d-standard-112,112.0,448.0,,,,asia-southeast1,asia-southeast1-b,6.27278,1.76109
 c2d-standard-112,112.0,448.0,,,,asia-southeast1,asia-southeast1-c,6.27278,1.76109
 c2d-standard-112,112.0,448.0,,,,australia-southeast1,australia-southeast1-a,7.21728,1.53384
+c2d-standard-112,112.0,448.0,,,,europe-central2,europe-central2-b,6.15686,1.03062
 c2d-standard-112,112.0,448.0,,,,europe-southwest1,europe-southwest1-b,5.99993,0.87002
 c2d-standard-112,112.0,448.0,,,,europe-west1,europe-west1-b,5.59854,0.62429
 c2d-standard-112,112.0,448.0,,,,europe-west1,europe-west1-c,5.59854,0.62429
@@ -1599,6 +1614,7 @@ c2d-standard-16,16.0,64.0,,,,asia-southeast1,asia-southeast1-a,0.89611,0.25158
 c2d-standard-16,16.0,64.0,,,,asia-southeast1,asia-southeast1-b,0.89611,0.25158
 c2d-standard-16,16.0,64.0,,,,asia-southeast1,asia-southeast1-c,0.89611,0.25158
 c2d-standard-16,16.0,64.0,,,,australia-southeast1,australia-southeast1-a,1.03104,0.21912
+c2d-standard-16,16.0,64.0,,,,europe-central2,europe-central2-b,0.87955,0.14723
 c2d-standard-16,16.0,64.0,,,,europe-southwest1,europe-southwest1-b,0.85713,0.12429
 c2d-standard-16,16.0,64.0,,,,europe-west1,europe-west1-b,0.79979,0.08918
 c2d-standard-16,16.0,64.0,,,,europe-west1,europe-west1-c,0.79979,0.08918
@@ -1656,6 +1672,7 @@ c2d-standard-2,2.0,8.0,,,,asia-southeast1,asia-southeast1-a,0.11201,0.03145
 c2d-standard-2,2.0,8.0,,,,asia-southeast1,asia-southeast1-b,0.11201,0.03145
 c2d-standard-2,2.0,8.0,,,,asia-southeast1,asia-southeast1-c,0.11201,0.03145
 c2d-standard-2,2.0,8.0,,,,australia-southeast1,australia-southeast1-a,0.12888,0.02739
+c2d-standard-2,2.0,8.0,,,,europe-central2,europe-central2-b,0.10994,0.0184
 c2d-standard-2,2.0,8.0,,,,europe-southwest1,europe-southwest1-b,0.10714,0.01554
 c2d-standard-2,2.0,8.0,,,,europe-west1,europe-west1-b,0.09997,0.01115
 c2d-standard-2,2.0,8.0,,,,europe-west1,europe-west1-c,0.09997,0.01115
@@ -1713,6 +1730,7 @@ c2d-standard-32,32.0,128.0,,,,asia-southeast1,asia-southeast1-a,1.79222,0.50317
 c2d-standard-32,32.0,128.0,,,,asia-southeast1,asia-southeast1-b,1.79222,0.50317
 c2d-standard-32,32.0,128.0,,,,asia-southeast1,asia-southeast1-c,1.79222,0.50317
 c2d-standard-32,32.0,128.0,,,,australia-southeast1,australia-southeast1-a,2.06208,0.43824
+c2d-standard-32,32.0,128.0,,,,europe-central2,europe-central2-b,1.7591,0.29446
 c2d-standard-32,32.0,128.0,,,,europe-southwest1,europe-southwest1-b,1.71427,0.24858
 c2d-standard-32,32.0,128.0,,,,europe-west1,europe-west1-b,1.59958,0.17837
 c2d-standard-32,32.0,128.0,,,,europe-west1,europe-west1-c,1.59958,0.17837
@@ -1770,6 +1788,7 @@ c2d-standard-4,4.0,16.0,,,,asia-southeast1,asia-southeast1-a,0.22403,0.0629
 c2d-standard-4,4.0,16.0,,,,asia-southeast1,asia-southeast1-b,0.22403,0.0629
 c2d-standard-4,4.0,16.0,,,,asia-southeast1,asia-southeast1-c,0.22403,0.0629
 c2d-standard-4,4.0,16.0,,,,australia-southeast1,australia-southeast1-a,0.25776,0.05478
+c2d-standard-4,4.0,16.0,,,,europe-central2,europe-central2-b,0.21989,0.03681
 c2d-standard-4,4.0,16.0,,,,europe-southwest1,europe-southwest1-b,0.21428,0.03107
 c2d-standard-4,4.0,16.0,,,,europe-west1,europe-west1-b,0.19995,0.0223
 c2d-standard-4,4.0,16.0,,,,europe-west1,europe-west1-c,0.19995,0.0223
@@ -1827,6 +1846,7 @@ c2d-standard-56,56.0,224.0,,,,asia-southeast1,asia-southeast1-a,3.13639,0.88054
 c2d-standard-56,56.0,224.0,,,,asia-southeast1,asia-southeast1-b,3.13639,0.88054
 c2d-standard-56,56.0,224.0,,,,asia-southeast1,asia-southeast1-c,3.13639,0.88054
 c2d-standard-56,56.0,224.0,,,,australia-southeast1,australia-southeast1-a,3.60864,0.76692
+c2d-standard-56,56.0,224.0,,,,europe-central2,europe-central2-b,3.07843,0.51531
 c2d-standard-56,56.0,224.0,,,,europe-southwest1,europe-southwest1-b,2.99997,0.43501
 c2d-standard-56,56.0,224.0,,,,europe-west1,europe-west1-b,2.79927,0.31214
 c2d-standard-56,56.0,224.0,,,,europe-west1,europe-west1-c,2.79927,0.31214
@@ -1884,6 +1904,7 @@ c2d-standard-8,8.0,32.0,,,,asia-southeast1,asia-southeast1-a,0.44806,0.12579
 c2d-standard-8,8.0,32.0,,,,asia-southeast1,asia-southeast1-b,0.44806,0.12579
 c2d-standard-8,8.0,32.0,,,,asia-southeast1,asia-southeast1-c,0.44806,0.12579
 c2d-standard-8,8.0,32.0,,,,australia-southeast1,australia-southeast1-a,0.51552,0.10956
+c2d-standard-8,8.0,32.0,,,,europe-central2,europe-central2-b,0.43978,0.07362
 c2d-standard-8,8.0,32.0,,,,europe-southwest1,europe-southwest1-b,0.42857,0.06214
 c2d-standard-8,8.0,32.0,,,,europe-west1,europe-west1-b,0.3999,0.04459
 c2d-standard-8,8.0,32.0,,,,europe-west1,europe-west1-c,0.3999,0.04459
