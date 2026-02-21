@@ -42,7 +42,7 @@ RTX4060,['Vast']
 RTX4070,['Vast']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5070,['Vast']
-RTX5090,"['RunPod', 'Vast', 'Yotta']"
+RTX5090,"['RunPod', 'Shadeform', 'Vast', 'Yotta']"
 RTX5880-Ada,['Vast']
 RTX6000,"['Lambda', 'Seeweb']"
 RTX6000-Ada,"['RunPod', 'Vast']"
