@@ -69,13 +69,13 @@ jobs:
               commit_hash=$(git rev-parse origin/master)
             fi
             git checkout $commit_hash
-            uv pip install ".[verda]"
+            uv pip install "."
             cd -
 
             mkdir -p catalogs/catalogs/$version/verda
 
             echo "Running fetch_verda for version $version"
-            python -m sky.catalog.data_fetchers.fetch_verda catalogs/catalogs/$version/verda/vms.csv
+            SKYPILOT_CATALOG_SCHEMA_VERSION=$version python -m sky.catalog.data_fetchers.fetch_verda catalogs/catalogs/$version/verda/vms.csv
 
             if [ ! -f "catalogs/catalogs/$version/verda/vms.csv" ]; then
               echo "Error: verda/vms.csv was not created for version $version"
