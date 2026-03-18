@@ -1,9 +1,9 @@
 InstanceType,UpstreamCloudId,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,Price,SpotPrice
+8H200.141S.176V,8H200.141S.176V,176.0,1450.0,H200,8.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 1155072}",FIN-02,27.12,11.42
 1V100.6V,1V100.6V,6.0,23.0,V100,1.0,"{""Gpus"": [{""Name"": ""V100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 16384}}], ""TotalGpuMemoryInMiB"": 16384}",FIN-01,,0.0483
 2RTXPRO6000.60V,2RTXPRO6000.60V,60.0,180.0,RTX-PRO-6000,2.0,"{""Gpus"": [{""Name"": ""RTX-PRO-6000"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 98304}}], ""TotalGpuMemoryInMiB"": 196608}",FIN-03,,1.437
-1L40S.20V,1L40S.20V,20.0,60.0,L40S,1.0,"{""Gpus"": [{""Name"": ""L40S"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-02,0.9143,0.32
-1RTX6000ADA.10V,1RTX6000ADA.10V,10.0,60.0,RTX-6000-Ada,1.0,"{""Gpus"": [{""Name"": ""RTX-6000-Ada"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-03,0.8262,
-2RTX6000ADA.20V,2RTX6000ADA.20V,20.0,120.0,RTX-6000-Ada,2.0,"{""Gpus"": [{""Name"": ""RTX-6000-Ada"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 98304}",FIN-03,1.652,
+4RTXPRO6000.120V,4RTXPRO6000.120V,120.0,360.0,RTX-PRO-6000,4.0,"{""Gpus"": [{""Name"": ""RTX-PRO-6000"", ""Count"": 4, ""MemoryInfo"": {""SizeInMiB"": 98304}}], ""TotalGpuMemoryInMiB"": 393216}",FIN-03,6.76,
+2RTX6000ADA.20V,2RTX6000ADA.20V,20.0,120.0,RTX-6000-Ada,2.0,"{""Gpus"": [{""Name"": ""RTX-6000-Ada"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 98304}",FIN-03,1.652,0.5784
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-01,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-02,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-03,0.0279,0.0098
