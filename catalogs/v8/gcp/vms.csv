@@ -4575,6 +4575,7 @@ c4-highcpu-16,16.0,32.0,,,,asia-southeast1,asia-southeast1-c,0.83943,0.33576
 c4-highcpu-16,16.0,32.0,,,,asia-southeast2,asia-southeast2-a,0.91496,0.23782
 c4-highcpu-16,16.0,32.0,,,,asia-southeast2,asia-southeast2-b,0.91496,0.23782
 c4-highcpu-16,16.0,32.0,,,,asia-southeast2,asia-southeast2-c,0.91496,0.23782
+c4-highcpu-16,16.0,32.0,,,,asia-southeast3,asia-southeast3-a,0.7144,0.21741
 c4-highcpu-16,16.0,32.0,,,,asia-southeast3,asia-southeast3-b,0.7144,0.21741
 c4-highcpu-16,16.0,32.0,,,,asia-southeast3,asia-southeast3-c,0.7144,0.21741
 c4-highcpu-16,16.0,32.0,,,,australia-southeast1,australia-southeast1-c,0.85052,0.3271
@@ -4676,6 +4677,7 @@ c4-highcpu-192,192.0,384.0,,,,asia-southeast1,asia-southeast1-c,10.07315,4.02917
 c4-highcpu-192,192.0,384.0,,,,asia-southeast2,asia-southeast2-a,10.97947,2.85389
 c4-highcpu-192,192.0,384.0,,,,asia-southeast2,asia-southeast2-b,10.97947,2.85389
 c4-highcpu-192,192.0,384.0,,,,asia-southeast2,asia-southeast2-c,10.97947,2.85389
+c4-highcpu-192,192.0,384.0,,,,asia-southeast3,asia-southeast3-a,8.5728,2.6089
 c4-highcpu-192,192.0,384.0,,,,asia-southeast3,asia-southeast3-b,8.5728,2.6089
 c4-highcpu-192,192.0,384.0,,,,asia-southeast3,asia-southeast3-c,8.5728,2.6089
 c4-highcpu-192,192.0,384.0,,,,australia-southeast1,australia-southeast1-c,10.20624,3.92525
@@ -4777,6 +4779,7 @@ c4-highcpu-2,2.0,4.0,,,,asia-southeast1,asia-southeast1-c,0.10493,0.04197
 c4-highcpu-2,2.0,4.0,,,,asia-southeast2,asia-southeast2-a,0.11437,0.02973
 c4-highcpu-2,2.0,4.0,,,,asia-southeast2,asia-southeast2-b,0.11437,0.02973
 c4-highcpu-2,2.0,4.0,,,,asia-southeast2,asia-southeast2-c,0.11437,0.02973
+c4-highcpu-2,2.0,4.0,,,,asia-southeast3,asia-southeast3-a,0.0893,0.02718
 c4-highcpu-2,2.0,4.0,,,,asia-southeast3,asia-southeast3-b,0.0893,0.02718
 c4-highcpu-2,2.0,4.0,,,,asia-southeast3,asia-southeast3-c,0.0893,0.02718
 c4-highcpu-2,2.0,4.0,,,,australia-southeast1,australia-southeast1-c,0.10632,0.04089
@@ -4878,6 +4881,7 @@ c4-highcpu-24,24.0,48.0,,,,asia-southeast1,asia-southeast1-c,1.25914,0.50365
 c4-highcpu-24,24.0,48.0,,,,asia-southeast2,asia-southeast2-a,1.37243,0.35674
 c4-highcpu-24,24.0,48.0,,,,asia-southeast2,asia-southeast2-b,1.37243,0.35674
 c4-highcpu-24,24.0,48.0,,,,asia-southeast2,asia-southeast2-c,1.37243,0.35674
+c4-highcpu-24,24.0,48.0,,,,asia-southeast3,asia-southeast3-a,1.0716,0.32611
 c4-highcpu-24,24.0,48.0,,,,asia-southeast3,asia-southeast3-b,1.0716,0.32611
 c4-highcpu-24,24.0,48.0,,,,asia-southeast3,asia-southeast3-c,1.0716,0.32611
 c4-highcpu-24,24.0,48.0,,,,australia-southeast1,australia-southeast1-c,1.27578,0.49066
@@ -5265,6 +5269,7 @@ c4-highcpu-48,48.0,96.0,,,,asia-southeast1,asia-southeast1-c,2.51829,1.00729
 c4-highcpu-48,48.0,96.0,,,,asia-southeast2,asia-southeast2-a,2.74487,0.71347
 c4-highcpu-48,48.0,96.0,,,,asia-southeast2,asia-southeast2-b,2.74487,0.71347
 c4-highcpu-48,48.0,96.0,,,,asia-southeast2,asia-southeast2-c,2.74487,0.71347
+c4-highcpu-48,48.0,96.0,,,,asia-southeast3,asia-southeast3-a,2.1432,0.65222
 c4-highcpu-48,48.0,96.0,,,,asia-southeast3,asia-southeast3-b,2.1432,0.65222
 c4-highcpu-48,48.0,96.0,,,,asia-southeast3,asia-southeast3-c,2.1432,0.65222
 c4-highcpu-48,48.0,96.0,,,,australia-southeast1,australia-southeast1-c,2.55156,0.98131
@@ -5366,6 +5371,7 @@ c4-highcpu-8,8.0,16.0,,,,asia-southeast1,asia-southeast1-c,0.41971,0.16788
 c4-highcpu-8,8.0,16.0,,,,asia-southeast2,asia-southeast2-a,0.45748,0.11891
 c4-highcpu-8,8.0,16.0,,,,asia-southeast2,asia-southeast2-b,0.45748,0.11891
 c4-highcpu-8,8.0,16.0,,,,asia-southeast2,asia-southeast2-c,0.45748,0.11891
+c4-highcpu-8,8.0,16.0,,,,asia-southeast3,asia-southeast3-a,0.3572,0.1087
 c4-highcpu-8,8.0,16.0,,,,asia-southeast3,asia-southeast3-b,0.3572,0.1087
 c4-highcpu-8,8.0,16.0,,,,asia-southeast3,asia-southeast3-c,0.3572,0.1087
 c4-highcpu-8,8.0,16.0,,,,australia-southeast1,australia-southeast1-c,0.42526,0.16355
@@ -5467,6 +5473,7 @@ c4-highcpu-96,96.0,192.0,,,,asia-southeast1,asia-southeast1-c,5.03658,2.01458
 c4-highcpu-96,96.0,192.0,,,,asia-southeast2,asia-southeast2-a,5.48973,1.42694
 c4-highcpu-96,96.0,192.0,,,,asia-southeast2,asia-southeast2-b,5.48973,1.42694
 c4-highcpu-96,96.0,192.0,,,,asia-southeast2,asia-southeast2-c,5.48973,1.42694
+c4-highcpu-96,96.0,192.0,,,,asia-southeast3,asia-southeast3-a,4.2864,1.30445
 c4-highcpu-96,96.0,192.0,,,,asia-southeast3,asia-southeast3-b,4.2864,1.30445
 c4-highcpu-96,96.0,192.0,,,,asia-southeast3,asia-southeast3-c,4.2864,1.30445
 c4-highcpu-96,96.0,192.0,,,,australia-southeast1,australia-southeast1-c,5.10312,1.96262
