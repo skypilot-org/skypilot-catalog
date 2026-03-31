@@ -1,15 +1,18 @@
 InstanceType,UpstreamCloudId,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,Price,SpotPrice
-1B300.30V,1B300.30V,30.0,275.0,B300,1.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 268288}}], ""TotalGpuMemoryInMiB"": 268288}",FIN-03,6.99,3.002
-1H200.141S.44V,1H200.141S.44V,44.0,182.0,H200,1.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 144384}",FIN-02,3.39,1.428
-4H200.141S.176V,4H200.141S.176V,176.0,740.0,H200,4.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 4, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 577536}",FIN-03,13.56,5.711
-1H100.80S.30V,1H100.80S.30V,30.0,120.0,H100,1.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-01,2.29,0.8015
-1H100.80S.32V,1H100.80S.32V,32.0,185.0,H100,1.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-02,2.29,
+1H200.141S.44V,1H200.141S.44V,44.0,182.0,H200,1.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 144384}",FIN-03,3.39,1.428
+2H200.141S.88V,2H200.141S.88V,88.0,370.0,H200,2.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 288768}",FIN-03,6.78,
+4H200.141S.176V,4H200.141S.176V,176.0,740.0,H200,4.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 4, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 577536}",FIN-03,13.56,
+1H100.80S.32V,1H100.80S.32V,32.0,185.0,H100,1.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-02,2.29,0.8015
+1H100.80S.32V,1H100.80S.32V,32.0,185.0,H100,1.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-03,2.29,0.8015
+2H100.80S.80V,2H100.80S.80V,80.0,370.0,H100,2.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 163840}",FIN-02,4.58,1.603
 1A100.22V,1A100.22V,22.0,120.0,A100-80GB,1.0,"{""Gpus"": [{""Name"": ""A100-80GB"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-01,1.29,0.4515
 1A100.22V,1A100.22V,22.0,120.0,A100-80GB,1.0,"{""Gpus"": [{""Name"": ""A100-80GB"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-03,1.29,0.4515
 1V100.6V,1V100.6V,6.0,23.0,V100,1.0,"{""Gpus"": [{""Name"": ""V100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 16384}}], ""TotalGpuMemoryInMiB"": 16384}",FIN-01,0.1381,0.0483
 1RTXPRO6000.30V,1RTXPRO6000.30V,30.0,90.0,RTX-PRO-6000,1.0,"{""Gpus"": [{""Name"": ""RTX-PRO-6000"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 98304}}], ""TotalGpuMemoryInMiB"": 98304}",FIN-03,1.69,
-1RTX6000ADA.10V,1RTX6000ADA.10V,10.0,60.0,RTX-6000-Ada,1.0,"{""Gpus"": [{""Name"": ""RTX-6000-Ada"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-01,0.8262,0.2892
-1A6000.10V,1A6000.10V,10.0,60.0,RTX-A6000,1.0,"{""Gpus"": [{""Name"": ""RTX-A6000"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-02,0.49,0.1715
+2RTXPRO6000.60V,2RTXPRO6000.60V,60.0,180.0,RTX-PRO-6000,2.0,"{""Gpus"": [{""Name"": ""RTX-PRO-6000"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 98304}}], ""TotalGpuMemoryInMiB"": 196608}",FIN-03,3.38,1.437
+1RTX6000ADA.10V,1RTX6000ADA.10V,10.0,60.0,RTX-6000-Ada,1.0,"{""Gpus"": [{""Name"": ""RTX-6000-Ada"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-01,0.8262,
+1A6000.10V,1A6000.10V,10.0,60.0,RTX-A6000,1.0,"{""Gpus"": [{""Name"": ""RTX-A6000"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-01,0.49,
+1A6000.10V,1A6000.10V,10.0,60.0,RTX-A6000,1.0,"{""Gpus"": [{""Name"": ""RTX-A6000"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-02,0.49,
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-01,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-02,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-03,0.0279,0.0098
