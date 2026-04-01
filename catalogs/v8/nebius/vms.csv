@@ -75,3 +75,5 @@ gpu-b200-sxm_1gpu-20vcpu-224gb,B200,1,20,224,5.50,us-central1,"{'Gpus': [{'Name'
 gpu-b200-sxm_8gpu-160vcpu-1792gb,B200,8,160,1792,44.00,us-central1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",23.20
 gpu-h200-sxm_1gpu-16vcpu-200gb,H200,1,16,200,3.50,us-central1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",1.45
 gpu-h200-sxm_8gpu-128vcpu-1600gb,H200,8,128,1600,28.00,us-central1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",11.60
+gpu-rtx6000_1gpu-24vcpu-218gb,RTX6000,1,24,218,1.80,us-central1,"{'Gpus': [{'Name': 'RTX6000', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",0.95
+gpu-rtx6000_8gpu-192vcpu-1744gb,RTX6000,8,192,1744,14.40,us-central1,"{'Gpus': [{'Name': 'RTX6000', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",7.60
