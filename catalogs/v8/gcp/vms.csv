@@ -2120,6 +2120,7 @@ c3-highcpu-176,176.0,352.0,,,,us-west2,us-west2-c,8.99721,1.12358
 c3-highcpu-176,176.0,352.0,,,,us-west3,us-west3-a,8.99721,4.04518
 c3-highcpu-176,176.0,352.0,,,,us-west3,us-west3-b,8.99721,4.04518
 c3-highcpu-176,176.0,352.0,,,,us-west3,us-west3-c,8.99721,4.04518
+c3-highcpu-176,176.0,352.0,,,,us-west4,us-west4-a,8.42988,1.64243
 c3-highcpu-192-metal,192.0,512.0,,,,asia-southeast1,asia-southeast1-a,10.69502,5.06522
 c3-highcpu-192-metal,192.0,512.0,,,,asia-southeast1,asia-southeast1-c,10.69502,5.06522
 c3-highcpu-192-metal,192.0,512.0,,,,europe-west1,europe-west1-b,9.5455,2.97421
@@ -2180,6 +2181,7 @@ c3-highcpu-22,22.0,44.0,,,,us-west2,us-west2-c,1.12465,0.14045
 c3-highcpu-22,22.0,44.0,,,,us-west3,us-west3-a,1.12465,0.50565
 c3-highcpu-22,22.0,44.0,,,,us-west3,us-west3-b,1.12465,0.50565
 c3-highcpu-22,22.0,44.0,,,,us-west3,us-west3-c,1.12465,0.50565
+c3-highcpu-22,22.0,44.0,,,,us-west4,us-west4-a,1.05373,0.2053
 c3-highcpu-4,4.0,8.0,,,,asia-east1,asia-east1-a,0.19696,0.03128
 c3-highcpu-4,4.0,8.0,,,,asia-east1,asia-east1-b,0.19696,0.03128
 c3-highcpu-4,4.0,8.0,,,,asia-east2,asia-east2-a,0.23796,0.05326
@@ -2225,6 +2227,7 @@ c3-highcpu-4,4.0,8.0,,,,us-west2,us-west2-c,0.20448,0.02554
 c3-highcpu-4,4.0,8.0,,,,us-west3,us-west3-a,0.20448,0.09194
 c3-highcpu-4,4.0,8.0,,,,us-west3,us-west3-b,0.20448,0.09194
 c3-highcpu-4,4.0,8.0,,,,us-west3,us-west3-c,0.20448,0.09194
+c3-highcpu-4,4.0,8.0,,,,us-west4,us-west4-a,0.19159,0.03733
 c3-highcpu-44,44.0,88.0,,,,asia-east1,asia-east1-a,2.1666,0.34408
 c3-highcpu-44,44.0,88.0,,,,asia-east1,asia-east1-b,2.1666,0.34408
 c3-highcpu-44,44.0,88.0,,,,asia-east2,asia-east2-a,2.61754,0.58586
@@ -2270,6 +2273,7 @@ c3-highcpu-44,44.0,88.0,,,,us-west2,us-west2-c,2.2493,0.2809
 c3-highcpu-44,44.0,88.0,,,,us-west3,us-west3-a,2.2493,1.0113
 c3-highcpu-44,44.0,88.0,,,,us-west3,us-west3-b,2.2493,1.0113
 c3-highcpu-44,44.0,88.0,,,,us-west3,us-west3-c,2.2493,1.0113
+c3-highcpu-44,44.0,88.0,,,,us-west4,us-west4-a,2.10747,0.41061
 c3-highcpu-8,8.0,16.0,,,,asia-east1,asia-east1-a,0.39393,0.06256
 c3-highcpu-8,8.0,16.0,,,,asia-east1,asia-east1-b,0.39393,0.06256
 c3-highcpu-8,8.0,16.0,,,,asia-east2,asia-east2-a,0.47592,0.10652
@@ -2315,6 +2319,7 @@ c3-highcpu-8,8.0,16.0,,,,us-west2,us-west2-c,0.40896,0.05107
 c3-highcpu-8,8.0,16.0,,,,us-west3,us-west3-a,0.40896,0.18387
 c3-highcpu-8,8.0,16.0,,,,us-west3,us-west3-b,0.40896,0.18387
 c3-highcpu-8,8.0,16.0,,,,us-west3,us-west3-c,0.40896,0.18387
+c3-highcpu-8,8.0,16.0,,,,us-west4,us-west4-a,0.38318,0.07466
 c3-highcpu-88,88.0,176.0,,,,asia-east1,asia-east1-a,4.33319,0.68816
 c3-highcpu-88,88.0,176.0,,,,asia-east1,asia-east1-b,4.33319,0.68816
 c3-highcpu-88,88.0,176.0,,,,asia-east2,asia-east2-a,5.23509,1.17172
@@ -2360,6 +2365,7 @@ c3-highcpu-88,88.0,176.0,,,,us-west2,us-west2-c,4.4986,0.56179
 c3-highcpu-88,88.0,176.0,,,,us-west3,us-west3-a,4.4986,2.02259
 c3-highcpu-88,88.0,176.0,,,,us-west3,us-west3-b,4.4986,2.02259
 c3-highcpu-88,88.0,176.0,,,,us-west3,us-west3-c,4.4986,2.02259
+c3-highcpu-88,88.0,176.0,,,,us-west4,us-west4-a,4.21494,0.82122
 c3-highmem-176,176.0,1408.0,,,,asia-northeast1,asia-northeast1-b,14.95207,1.5217
 c3-highmem-176,176.0,1408.0,,,,asia-northeast1,asia-northeast1-c,14.95207,1.5217
 c3-highmem-176,176.0,1408.0,,,,asia-south1,asia-south1-b,12.10883,1.63046
