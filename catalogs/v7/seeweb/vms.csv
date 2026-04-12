@@ -49,7 +49,7 @@ ECS2GPU10,H200,2,64,512.0,5.2,it-fr2,"{'Gpus': [{'Name': 'H200', 'Manufacturer':
 ECS4GPU10,H200,4,128,1024.0,10.4,,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 4.0, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 577536}",
 ECS8GPU10,H200,8,255,2048.0,20.8,,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 8.0, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 1155072}",
 ECS1GPU12,RTX PRO 6000 96GB,1,16,120.0,1.25,it-fr2,"{'Gpus': [{'Name': 'RTX PRO 6000 96GB', 'Manufacturer': 'NVIDIA', 'Count': 1.0, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",
-ECS2GPU12,RTX PRO 6000 96GB,2,32,240.0,2.5,,"{'Gpus': [{'Name': 'RTX PRO 6000 96GB', 'Manufacturer': 'NVIDIA', 'Count': 2.0, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",
+ECS2GPU12,RTX PRO 6000 96GB,2,32,240.0,2.5,it-fr2,"{'Gpus': [{'Name': 'RTX PRO 6000 96GB', 'Manufacturer': 'NVIDIA', 'Count': 2.0, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",
 ECS3GPU12,RTX PRO 6000 96GB,4,64,480.0,5.0,,"{'Gpus': [{'Name': 'RTX PRO 6000 96GB', 'Manufacturer': 'NVIDIA', 'Count': 4.0, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",
 ECS4GPU12,RTX PRO 6000 96GB,8,128,960.0,10.0,,"{'Gpus': [{'Name': 'RTX PRO 6000 96GB', 'Manufacturer': 'NVIDIA', 'Count': 8.0, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",
 ECS1GPU2,RTXA6000,1,8,32.0,0.74,it-fr2,"{'Gpus': [{'Name': 'RTXA6000', 'Manufacturer': 'NVIDIA', 'Count': 1.0, 'MemoryInfo': {'SizeInMiB': 48384}}], 'TotalGpuMemoryInMiB': 48384}",
