@@ -12,7 +12,7 @@ A5000,['Shadeform']
 A6000,"['PrimeIntellect', 'Shadeform']"
 B200,"['AWS', 'GCP', 'Lambda', 'Mithril', 'PrimeIntellect', 'RunPod', 'Verda', 'nebius']"
 B300,"['AWS', 'Shadeform', 'Verda']"
-GH200,"['Lambda', 'Shadeform']"
+GH200,['Lambda']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 H100-MEGA,['GCP']
@@ -30,11 +30,11 @@ L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
-NVIDIA-H200-NVL,['RunPod']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
 RTX PRO 6000 96GB,['Seeweb']
+RTX-6000-Ada,['Verda']
 RTX-PRO-6000,['Verda']
 RTX2000-Ada,['RunPod']
 RTX3060,['Vast']
@@ -44,7 +44,7 @@ RTX4060,['Vast']
 RTX4070,['Vast']
 RTX4090,"['RunPod', 'Vast']"
 RTX5070,['Vast']
-RTX5090,"['RunPod', 'Shadeform', 'Vast', 'Yotta']"
+RTX5090,"['RunPod', 'Vast', 'Yotta']"
 RTX5880-Ada,['Vast']
 RTX6000,"['Seeweb', 'nebius']"
 RTX6000-Ada,"['RunPod', 'Vast']"
