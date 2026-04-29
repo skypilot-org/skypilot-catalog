@@ -10,7 +10,7 @@ A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 B200,"['AWS', 'GCP', 'Lambda', 'Mithril', 'PrimeIntellect', 'RunPod', 'Verda', 'nebius']"
-B300,"['AWS', 'Verda']"
+B300,"['AWS', 'Shadeform', 'Verda']"
 GH200,['Lambda']
 Gaudi HL-205,['AWS']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
@@ -25,11 +25,10 @@ Inferentia2,['AWS']
 K80,['Azure']
 L4,"['AWS', 'GCP', 'RunPod', 'Seeweb', 'Shadeform']"
 L40,"['PrimeIntellect', 'RunPod', 'Shadeform']"
-L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'nebius']"
+L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
-NVIDIA-H200-NVL,['RunPod']
 P100,"['GCP', 'OCI']"
 P4,['GCP']
 P4000,['Paperspace']
