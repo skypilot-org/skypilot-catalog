@@ -1,7 +1,10 @@
 name: "update-cudo-catalog"
 on:
-  schedule:
-    - cron:  '30 */7 * * *'    # Every 7 hours (as per _PULL_FREQUENCY_HOURS in cudo_catalog.py)
+  # Scheduled price fetch is disabled — Cudo API has been returning incomplete
+  # data and wiping out the catalog. Re-enable only after the upstream issue is
+  # resolved.
+  # schedule:
+  #   - cron:  '30 */7 * * *'    # Every 7 hours (as per _PULL_FREQUENCY_HOURS in cudo_catalog.py)
   workflow_dispatch:
 
 jobs:
