@@ -55,10 +55,12 @@ jobs:
             cd catalogs/catalogs/$version
             # v7 is pinned to an old commit whose fetcher can't handle newer
             # Lambda API instance types (cpu_4x_generalx). Skip it on failure
-            # so v8 updates still go through.
+            # so v8 updates still go through. We must restore the CSV from git
+            # because the fetcher truncates it before crashing.
             if [ "$version" == "v7" ]; then
               python -m sky.catalog.data_fetchers.fetch_lambda_cloud --api-key ${LAMBDA_API_KEY} || {
                 echo "Warning: Failed to update Lambda catalog for v7 (pinned commit too old), skipping."
+                git checkout -- lambda/vms.csv 2>/dev/null || true
                 cd -
                 continue
               }
