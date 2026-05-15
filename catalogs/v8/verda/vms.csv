@@ -1,6 +1,5 @@
 InstanceType,UpstreamCloudId,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,Price,SpotPrice
-1A100.22V,1A100.22V,22.0,120.0,A100-80GB,1.0,"{""Gpus"": [{""Name"": ""A100-80GB"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-01,,0.4515
-1V100.6V,1V100.6V,6.0,23.0,V100,1.0,"{""Gpus"": [{""Name"": ""V100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 16384}}], ""TotalGpuMemoryInMiB"": 16384}",FIN-01,0.1381,0.0483
+1L40S.20V,1L40S.20V,20.0,60.0,L40S,1.0,"{""Gpus"": [{""Name"": ""L40S"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-02,0.9143,0.32
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-01,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-02,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-03,0.0279,0.0098
@@ -11,5 +10,3 @@ CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-01,0.1116,0.0392
 CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-02,0.1116,0.0392
 CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-03,0.1116,0.0392
 CPU.32V.128G,CPU.32V.128G,32.0,128.0,,,,FIN-03,0.2232,0.0784
-CPU.64V.256G,CPU.64V.256G,64.0,256.0,,,,FIN-03,0.4464,0.1568
-CPU.180V.720G,CPU.180V.720G,180.0,720.0,,,,FIN-03,1.256,0.441
