@@ -8179,6 +8179,7 @@ c4-standard-16,16.0,60.0,,,,northamerica-south1,northamerica-south1-b,0.86184,0.
 c4-standard-16,16.0,60.0,,,,northamerica-south1,northamerica-south1-c,0.86184,0.32746
 c4-standard-16,16.0,60.0,,,,southamerica-east1,southamerica-east1-a,1.25552,0.40552
 c4-standard-16,16.0,60.0,,,,southamerica-east1,southamerica-east1-b,1.25552,0.40552
+c4-standard-16,16.0,60.0,,,,southamerica-east1,southamerica-east1-c,1.25552,0.40552
 c4-standard-16,16.0,60.0,,,,southamerica-west1,southamerica-west1-a,1.13067,0.47486
 c4-standard-16,16.0,60.0,,,,southamerica-west1,southamerica-west1-b,1.13067,0.47486
 c4-standard-16,16.0,60.0,,,,southamerica-west1,southamerica-west1-c,1.13067,0.47486
@@ -8367,6 +8368,7 @@ c4-standard-192,192.0,720.0,,,,northamerica-south1,northamerica-south1-b,10.3420
 c4-standard-192,192.0,720.0,,,,northamerica-south1,northamerica-south1-c,10.34209,3.92952
 c4-standard-192,192.0,720.0,,,,southamerica-east1,southamerica-east1-a,15.06625,4.86624
 c4-standard-192,192.0,720.0,,,,southamerica-east1,southamerica-east1-b,15.06625,4.86624
+c4-standard-192,192.0,720.0,,,,southamerica-east1,southamerica-east1-c,15.06625,4.86624
 c4-standard-192,192.0,720.0,,,,southamerica-west1,southamerica-west1-a,13.56807,5.69832
 c4-standard-192,192.0,720.0,,,,southamerica-west1,southamerica-west1-b,13.56807,5.69832
 c4-standard-192,192.0,720.0,,,,southamerica-west1,southamerica-west1-c,13.56807,5.69832
@@ -8555,6 +8557,7 @@ c4-standard-2,2.0,7.0,,,,northamerica-south1,northamerica-south1-b,0.10558,0.040
 c4-standard-2,2.0,7.0,,,,northamerica-south1,northamerica-south1-c,0.10558,0.04012
 c4-standard-2,2.0,7.0,,,,southamerica-east1,southamerica-east1-a,0.15381,0.04968
 c4-standard-2,2.0,7.0,,,,southamerica-east1,southamerica-east1-b,0.15381,0.04968
+c4-standard-2,2.0,7.0,,,,southamerica-east1,southamerica-east1-c,0.15381,0.04968
 c4-standard-2,2.0,7.0,,,,southamerica-west1,southamerica-west1-a,0.13852,0.05818
 c4-standard-2,2.0,7.0,,,,southamerica-west1,southamerica-west1-b,0.13852,0.05818
 c4-standard-2,2.0,7.0,,,,southamerica-west1,southamerica-west1-c,0.13852,0.05818
@@ -8665,6 +8668,7 @@ c4-standard-24,24.0,90.0,,,,northamerica-south1,northamerica-south1-b,1.29276,0.
 c4-standard-24,24.0,90.0,,,,northamerica-south1,northamerica-south1-c,1.29276,0.49119
 c4-standard-24,24.0,90.0,,,,southamerica-east1,southamerica-east1-a,1.88328,0.60828
 c4-standard-24,24.0,90.0,,,,southamerica-east1,southamerica-east1-b,1.88328,0.60828
+c4-standard-24,24.0,90.0,,,,southamerica-east1,southamerica-east1-c,1.88328,0.60828
 c4-standard-24,24.0,90.0,,,,southamerica-west1,southamerica-west1-a,1.69601,0.71229
 c4-standard-24,24.0,90.0,,,,southamerica-west1,southamerica-west1-b,1.69601,0.71229
 c4-standard-24,24.0,90.0,,,,southamerica-west1,southamerica-west1-c,1.69601,0.71229
@@ -9073,6 +9077,7 @@ c4-standard-32,32.0,120.0,,,,northamerica-south1,northamerica-south1-b,1.72368,0
 c4-standard-32,32.0,120.0,,,,northamerica-south1,northamerica-south1-c,1.72368,0.65492
 c4-standard-32,32.0,120.0,,,,southamerica-east1,southamerica-east1-a,2.51104,0.81104
 c4-standard-32,32.0,120.0,,,,southamerica-east1,southamerica-east1-b,2.51104,0.81104
+c4-standard-32,32.0,120.0,,,,southamerica-east1,southamerica-east1-c,2.51104,0.81104
 c4-standard-32,32.0,120.0,,,,southamerica-west1,southamerica-west1-a,2.26134,0.94972
 c4-standard-32,32.0,120.0,,,,southamerica-west1,southamerica-west1-b,2.26134,0.94972
 c4-standard-32,32.0,120.0,,,,southamerica-west1,southamerica-west1-c,2.26134,0.94972
@@ -9261,6 +9266,7 @@ c4-standard-4,4.0,15.0,,,,northamerica-south1,northamerica-south1-b,0.21546,0.08
 c4-standard-4,4.0,15.0,,,,northamerica-south1,northamerica-south1-c,0.21546,0.08186
 c4-standard-4,4.0,15.0,,,,southamerica-east1,southamerica-east1-a,0.31388,0.10138
 c4-standard-4,4.0,15.0,,,,southamerica-east1,southamerica-east1-b,0.31388,0.10138
+c4-standard-4,4.0,15.0,,,,southamerica-east1,southamerica-east1-c,0.31388,0.10138
 c4-standard-4,4.0,15.0,,,,southamerica-west1,southamerica-west1-a,0.28267,0.11871
 c4-standard-4,4.0,15.0,,,,southamerica-west1,southamerica-west1-b,0.28267,0.11871
 c4-standard-4,4.0,15.0,,,,southamerica-west1,southamerica-west1-c,0.28267,0.11871
@@ -9449,6 +9455,7 @@ c4-standard-48,48.0,180.0,,,,northamerica-south1,northamerica-south1-b,2.58552,0
 c4-standard-48,48.0,180.0,,,,northamerica-south1,northamerica-south1-c,2.58552,0.98238
 c4-standard-48,48.0,180.0,,,,southamerica-east1,southamerica-east1-a,3.76656,1.21656
 c4-standard-48,48.0,180.0,,,,southamerica-east1,southamerica-east1-b,3.76656,1.21656
+c4-standard-48,48.0,180.0,,,,southamerica-east1,southamerica-east1-c,3.76656,1.21656
 c4-standard-48,48.0,180.0,,,,southamerica-west1,southamerica-west1-a,3.39202,1.42458
 c4-standard-48,48.0,180.0,,,,southamerica-west1,southamerica-west1-b,3.39202,1.42458
 c4-standard-48,48.0,180.0,,,,southamerica-west1,southamerica-west1-c,3.39202,1.42458
@@ -9637,6 +9644,7 @@ c4-standard-8,8.0,30.0,,,,northamerica-south1,northamerica-south1-b,0.43092,0.16
 c4-standard-8,8.0,30.0,,,,northamerica-south1,northamerica-south1-c,0.43092,0.16373
 c4-standard-8,8.0,30.0,,,,southamerica-east1,southamerica-east1-a,0.62776,0.20276
 c4-standard-8,8.0,30.0,,,,southamerica-east1,southamerica-east1-b,0.62776,0.20276
+c4-standard-8,8.0,30.0,,,,southamerica-east1,southamerica-east1-c,0.62776,0.20276
 c4-standard-8,8.0,30.0,,,,southamerica-west1,southamerica-west1-a,0.56534,0.23743
 c4-standard-8,8.0,30.0,,,,southamerica-west1,southamerica-west1-b,0.56534,0.23743
 c4-standard-8,8.0,30.0,,,,southamerica-west1,southamerica-west1-c,0.56534,0.23743
@@ -9825,6 +9833,7 @@ c4-standard-96,96.0,360.0,,,,northamerica-south1,northamerica-south1-b,5.17105,1
 c4-standard-96,96.0,360.0,,,,northamerica-south1,northamerica-south1-c,5.17105,1.96476
 c4-standard-96,96.0,360.0,,,,southamerica-east1,southamerica-east1-a,7.53313,2.43312
 c4-standard-96,96.0,360.0,,,,southamerica-east1,southamerica-east1-b,7.53313,2.43312
+c4-standard-96,96.0,360.0,,,,southamerica-east1,southamerica-east1-c,7.53313,2.43312
 c4-standard-96,96.0,360.0,,,,southamerica-west1,southamerica-west1-a,6.78403,2.84916
 c4-standard-96,96.0,360.0,,,,southamerica-west1,southamerica-west1-b,6.78403,2.84916
 c4-standard-96,96.0,360.0,,,,southamerica-west1,southamerica-west1-c,6.78403,2.84916
