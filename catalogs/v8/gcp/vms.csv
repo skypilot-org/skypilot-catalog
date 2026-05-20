@@ -4240,6 +4240,7 @@ c3d-standard-16,16.0,64.0,,,,europe-west4,europe-west4-c,0.7627,0.38125
 c3d-standard-16,16.0,64.0,,,,me-central2,me-central2-a,1.16221,0.39274
 c3d-standard-16,16.0,64.0,,,,me-central2,me-central2-c,1.16221,0.39274
 c3d-standard-16,16.0,64.0,,,,me-west1,me-west1-b,0.79902,0.13715
+c3d-standard-16,16.0,64.0,,,,northamerica-south1,northamerica-south1-a,0.79176,0.16944
 c3d-standard-16,16.0,64.0,,,,northamerica-south1,northamerica-south1-c,0.79176,0.16944
 c3d-standard-16,16.0,64.0,,,,us-central1,us-central1-a,0.72638,0.12678
 c3d-standard-16,16.0,64.0,,,,us-central1,us-central1-b,0.72638,0.12678
@@ -4307,6 +4308,7 @@ c3d-standard-180,180.0,720.0,,,,europe-west4,europe-west4-c,8.58041,4.28904
 c3d-standard-180,180.0,720.0,,,,me-central2,me-central2-a,13.07491,4.41828
 c3d-standard-180,180.0,720.0,,,,me-central2,me-central2-c,13.07491,4.41828
 c3d-standard-180,180.0,720.0,,,,me-west1,me-west1-b,8.989,1.54296
+c3d-standard-180,180.0,720.0,,,,northamerica-south1,northamerica-south1-a,8.90728,1.9062
 c3d-standard-180,180.0,720.0,,,,northamerica-south1,northamerica-south1-c,8.90728,1.9062
 c3d-standard-180,180.0,720.0,,,,us-central1,us-central1-a,8.17182,1.42632
 c3d-standard-180,180.0,720.0,,,,us-central1,us-central1-b,8.17182,1.42632
@@ -4374,6 +4376,7 @@ c3d-standard-30,30.0,120.0,,,,europe-west4,europe-west4-c,1.43007,0.71484
 c3d-standard-30,30.0,120.0,,,,me-central2,me-central2-a,2.17915,0.73638
 c3d-standard-30,30.0,120.0,,,,me-central2,me-central2-c,2.17915,0.73638
 c3d-standard-30,30.0,120.0,,,,me-west1,me-west1-b,1.49817,0.25716
+c3d-standard-30,30.0,120.0,,,,northamerica-south1,northamerica-south1-a,1.48455,0.3177
 c3d-standard-30,30.0,120.0,,,,northamerica-south1,northamerica-south1-c,1.48455,0.3177
 c3d-standard-30,30.0,120.0,,,,us-central1,us-central1-a,1.36197,0.23772
 c3d-standard-30,30.0,120.0,,,,us-central1,us-central1-b,1.36197,0.23772
@@ -4441,6 +4444,7 @@ c3d-standard-360,360.0,1440.0,,,,europe-west4,europe-west4-c,17.16082,8.57808
 c3d-standard-360,360.0,1440.0,,,,me-central2,me-central2-a,26.14982,8.83656
 c3d-standard-360,360.0,1440.0,,,,me-central2,me-central2-c,26.14982,8.83656
 c3d-standard-360,360.0,1440.0,,,,me-west1,me-west1-b,17.978,3.08592
+c3d-standard-360,360.0,1440.0,,,,northamerica-south1,northamerica-south1-a,17.81457,3.8124
 c3d-standard-360,360.0,1440.0,,,,northamerica-south1,northamerica-south1-c,17.81457,3.8124
 c3d-standard-360,360.0,1440.0,,,,us-central1,us-central1-a,16.34364,2.85264
 c3d-standard-360,360.0,1440.0,,,,us-central1,us-central1-b,16.34364,2.85264
@@ -4508,6 +4512,7 @@ c3d-standard-4,4.0,16.0,,,,europe-west4,europe-west4-c,0.19068,0.09531
 c3d-standard-4,4.0,16.0,,,,me-central2,me-central2-a,0.29055,0.09818
 c3d-standard-4,4.0,16.0,,,,me-central2,me-central2-c,0.29055,0.09818
 c3d-standard-4,4.0,16.0,,,,me-west1,me-west1-b,0.19976,0.03429
+c3d-standard-4,4.0,16.0,,,,northamerica-south1,northamerica-south1-a,0.19794,0.04236
 c3d-standard-4,4.0,16.0,,,,northamerica-south1,northamerica-south1-c,0.19794,0.04236
 c3d-standard-4,4.0,16.0,,,,us-central1,us-central1-a,0.1816,0.0317
 c3d-standard-4,4.0,16.0,,,,us-central1,us-central1-b,0.1816,0.0317
@@ -4549,6 +4554,7 @@ c3d-standard-60,60.0,240.0,,,,europe-west4,europe-west4-c,2.86014,1.42968
 c3d-standard-60,60.0,240.0,,,,me-central2,me-central2-a,4.3583,1.47276
 c3d-standard-60,60.0,240.0,,,,me-central2,me-central2-c,4.3583,1.47276
 c3d-standard-60,60.0,240.0,,,,me-west1,me-west1-b,2.99633,0.51432
+c3d-standard-60,60.0,240.0,,,,northamerica-south1,northamerica-south1-a,2.96909,0.6354
 c3d-standard-60,60.0,240.0,,,,northamerica-south1,northamerica-south1-c,2.96909,0.6354
 c3d-standard-60,60.0,240.0,,,,us-central1,us-central1-a,2.72394,0.47544
 c3d-standard-60,60.0,240.0,,,,us-central1,us-central1-b,2.72394,0.47544
@@ -4616,6 +4622,7 @@ c3d-standard-8,8.0,32.0,,,,europe-west4,europe-west4-c,0.38135,0.19062
 c3d-standard-8,8.0,32.0,,,,me-central2,me-central2-a,0.58111,0.19637
 c3d-standard-8,8.0,32.0,,,,me-central2,me-central2-c,0.58111,0.19637
 c3d-standard-8,8.0,32.0,,,,me-west1,me-west1-b,0.39951,0.06858
+c3d-standard-8,8.0,32.0,,,,northamerica-south1,northamerica-south1-a,0.39588,0.08472
 c3d-standard-8,8.0,32.0,,,,northamerica-south1,northamerica-south1-c,0.39588,0.08472
 c3d-standard-8,8.0,32.0,,,,us-central1,us-central1-a,0.36319,0.06339
 c3d-standard-8,8.0,32.0,,,,us-central1,us-central1-b,0.36319,0.06339
@@ -4683,6 +4690,7 @@ c3d-standard-90,90.0,360.0,,,,europe-west4,europe-west4-c,4.29021,2.14452
 c3d-standard-90,90.0,360.0,,,,me-central2,me-central2-a,6.53746,2.20914
 c3d-standard-90,90.0,360.0,,,,me-central2,me-central2-c,6.53746,2.20914
 c3d-standard-90,90.0,360.0,,,,me-west1,me-west1-b,4.4945,0.77148
+c3d-standard-90,90.0,360.0,,,,northamerica-south1,northamerica-south1-a,4.45364,0.9531
 c3d-standard-90,90.0,360.0,,,,northamerica-south1,northamerica-south1-c,4.45364,0.9531
 c3d-standard-90,90.0,360.0,,,,us-central1,us-central1-a,4.08591,0.71316
 c3d-standard-90,90.0,360.0,,,,us-central1,us-central1-b,4.08591,0.71316
