@@ -1,19 +1,22 @@
 InstanceType,UpstreamCloudId,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,Price,SpotPrice
 8B300.240V,8B300.240V,240.0,2200.0,B300,8.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 2150400}",FIN-02,55.92,
-8B300.240V,8B300.240V,240.0,2200.0,B300,8.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 2150400}",FIN-03,55.92,19.57
-8B200.240V,8B200.240V,240.0,1472.0,B200,8.0,"{""Gpus"": [{""Name"": ""B200"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 184320}}], ""TotalGpuMemoryInMiB"": 1474560}",FIN-03,39.12,13.69
-1V100.6V,1V100.6V,6.0,23.0,V100,1.0,"{""Gpus"": [{""Name"": ""V100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 16384}}], ""TotalGpuMemoryInMiB"": 16384}",FIN-01,0.1381,0.0483
-1RTXPRO6000.30V,1RTXPRO6000.30V,30.0,90.0,RTX-PRO-6000,1.0,"{""Gpus"": [{""Name"": ""RTX-PRO-6000"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 98304}}], ""TotalGpuMemoryInMiB"": 98304}",FIN-03,1.69,0.5915
-1L40S.20V,1L40S.20V,20.0,60.0,L40S,1.0,"{""Gpus"": [{""Name"": ""L40S"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-02,0.9143,0.32
+8B300.240V,8B300.240V,240.0,2200.0,B300,8.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 2150400}",FIN-03,55.92,
+8B200.240V,8B200.240V,240.0,1472.0,B200,8.0,"{""Gpus"": [{""Name"": ""B200"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 184320}}], ""TotalGpuMemoryInMiB"": 1474560}",FIN-03,39.12,
+1H100.80S.32V,1H100.80S.32V,32.0,185.0,H100,1.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-02,2.29,
+2H100.80S.80V,2H100.80S.80V,80.0,370.0,H100,2.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 163840}",FIN-02,4.58,
+8H100.80S.176V,8H100.80S.176V,176.0,1480.0,H100,8.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 655360}",FIN-02,18.32,
+1A100.22V,1A100.22V,22.0,120.0,A100-80GB,1.0,"{""Gpus"": [{""Name"": ""A100-80GB"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-03,1.29,
+2A100.44V,2A100.44V,44.0,240.0,A100-80GB,2.0,"{""Gpus"": [{""Name"": ""A100-80GB"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 163840}",FIN-01,2.58,
+1L40S.20V,1L40S.20V,20.0,60.0,L40S,1.0,"{""Gpus"": [{""Name"": ""L40S"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-02,0.9143,
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-01,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-02,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-03,0.0279,0.0098
 CPU.8V.32G,CPU.8V.32G,8.0,32.0,,,,FIN-01,0.0558,0.0196
 CPU.8V.32G,CPU.8V.32G,8.0,32.0,,,,FIN-02,0.0558,0.0196
 CPU.8V.32G,CPU.8V.32G,8.0,32.0,,,,FIN-03,0.0558,0.0196
-CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-01,0.1116,0.0392
 CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-02,0.1116,0.0392
 CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-03,0.1116,0.0392
 CPU.32V.128G,CPU.32V.128G,32.0,128.0,,,,FIN-03,0.2232,0.0784
-CPU.180V.720G,CPU.180V.720G,180.0,720.0,,,,FIN-03,1.256,0.441
+CPU.180V.720G,CPU.180V.720G,180.0,720.0,,,,FIN-02,1.256,0.441
+CPU.180V.720G,CPU.180V.720G,180.0,720.0,,,,FIN-03,1.256,
 1RTXPRO6000.30V.CC,1RTXPRO6000.30V.CC,30.0,90.0,RTX-PRO-6000-CC,1.0,"{""Gpus"": [{""Name"": ""RTX-PRO-6000-CC"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 98304}}], ""TotalGpuMemoryInMiB"": 98304}",FIN-03,,0.6507
