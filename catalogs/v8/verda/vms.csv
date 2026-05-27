@@ -1,20 +1,24 @@
 InstanceType,UpstreamCloudId,vCPUs,MemoryGiB,AcceleratorName,AcceleratorCount,GpuInfo,Region,Price,SpotPrice
-1B300.30V,1B300.30V,30.0,275.0,B300,1.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 268288}}], ""TotalGpuMemoryInMiB"": 268288}",FIN-03,7.5,
-2B300.60V,2B300.60V,60.0,550.0,B300,2.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 537600}",FIN-03,15.0,
+1B300.30V,1B300.30V,30.0,275.0,B300,1.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 268288}}], ""TotalGpuMemoryInMiB"": 268288}",FIN-03,7.5,2.625
 4B300.120V,4B300.120V,120.0,1100.0,B300,4.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 4, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 1075200}",FIN-03,30.0,
-8B300.240V,8B300.240V,240.0,2200.0,B300,8.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 2150400}",FIN-02,60.0,21.0
+8B300.240V,8B300.240V,240.0,2200.0,B300,8.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 2150400}",FIN-02,60.0,
 8B300.240V,8B300.240V,240.0,2200.0,B300,8.0,"{""Gpus"": [{""Name"": ""B300"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 268800}}], ""TotalGpuMemoryInMiB"": 2150400}",FIN-03,60.0,21.0
+1B200.30V,1B200.30V,30.0,170.0,B200,1.0,"{""Gpus"": [{""Name"": ""B200"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 184320}}], ""TotalGpuMemoryInMiB"": 184320}",FIN-03,6.11,2.139
+2B200.60V,2B200.60V,60.0,340.0,B200,2.0,"{""Gpus"": [{""Name"": ""B200"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 184320}}], ""TotalGpuMemoryInMiB"": 368640}",FIN-03,,4.277
 8B200.240V,8B200.240V,240.0,1360.0,B200,8.0,"{""Gpus"": [{""Name"": ""B200"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 184320}}], ""TotalGpuMemoryInMiB"": 1474560}",FIN-03,,17.11
-1H200.141S.44V,1H200.141S.44V,44.0,182.0,H200,1.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 144384}",FIN-03,4.0,1.4
-2H200.141S.88V,2H200.141S.88V,88.0,370.0,H200,2.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 288768}",FIN-03,8.0,2.8
+1H200.141S.44V,1H200.141S.44V,44.0,182.0,H200,1.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 144384}",FIN-03,4.0,
+2H200.141S.88V,2H200.141S.88V,88.0,370.0,H200,2.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 288768}",FIN-03,8.0,
 8H200.141S.176V,8H200.141S.176V,176.0,1450.0,H200,8.0,"{""Gpus"": [{""Name"": ""H200"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 144384}}], ""TotalGpuMemoryInMiB"": 1155072}",FIN-03,32.0,
-8RTXPRO6000.240V,8RTXPRO6000.240V,240.0,720.0,RTX-PRO-6000,8.0,"{""Gpus"": [{""Name"": ""RTX-PRO-6000"", ""Count"": 8, ""MemoryInfo"": {""SizeInMiB"": 98304}}], ""TotalGpuMemoryInMiB"": 786432}",FIN-03,15.12,5.292
-1A6000.10V,1A6000.10V,10.0,60.0,RTX-A6000,1.0,"{""Gpus"": [{""Name"": ""RTX-A6000"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 49152}}], ""TotalGpuMemoryInMiB"": 49152}",FIN-01,0.61,0.2135
+1H100.80S.32V,1H100.80S.32V,32.0,185.0,H100,1.0,"{""Gpus"": [{""Name"": ""H100"", ""Count"": 1, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 81920}",FIN-02,3.25,
+2A100.44V,2A100.44V,44.0,240.0,A100-80GB,2.0,"{""Gpus"": [{""Name"": ""A100-80GB"", ""Count"": 2, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 163840}",FIN-01,3.58,1.253
+4A100.88V,4A100.88V,88.0,480.0,A100-80GB,4.0,"{""Gpus"": [{""Name"": ""A100-80GB"", ""Count"": 4, ""MemoryInfo"": {""SizeInMiB"": 81920}}], ""TotalGpuMemoryInMiB"": 327680}",FIN-01,7.16,
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-01,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-02,0.0279,0.0098
 CPU.4V.16G,CPU.4V.16G,4.0,16.0,,,,FIN-03,0.0279,0.0098
+CPU.8V.32G,CPU.8V.32G,8.0,32.0,,,,FIN-01,0.0558,0.0196
 CPU.8V.32G,CPU.8V.32G,8.0,32.0,,,,FIN-02,0.0558,0.0196
 CPU.8V.32G,CPU.8V.32G,8.0,32.0,,,,FIN-03,0.0558,0.0196
+CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-01,0.1116,0.0392
 CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-02,0.1116,0.0392
 CPU.16V.64G,CPU.16V.64G,16.0,64.0,,,,FIN-03,0.1116,0.0392
 CPU.32V.128G,CPU.32V.128G,32.0,128.0,,,,FIN-03,0.2232,0.0784
