@@ -29076,7 +29076,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.07722
 ,,,A100-80GB,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east5,us-east5-a,35.39358,11.1632
 ,,,A100-80GB,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east5,us-east5-b,35.39358,11.1632
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},asia-northeast1,asia-northeast1-b,64.44,41.0848
-,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},asia-southeast1,asia-southeast1-b,64.44,37.3496
+,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},asia-southeast1,asia-southeast1-b,154.656,37.3496
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},europe-north1,europe-north1-b,64.44,37.6608
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},europe-west4,europe-west4-b,90.216,34.0736
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-central1,us-central1-b,90.216,34.2368
