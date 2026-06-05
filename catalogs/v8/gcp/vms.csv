@@ -14297,6 +14297,7 @@ g4-standard-384,384.0,1440.0,,,,europe-west4,europe-west4-a,29.95766,6.29616
 g4-standard-384,384.0,1440.0,,,,europe-west4,europe-west4-b,29.95766,6.29616
 g4-standard-384,384.0,1440.0,,,,europe-west8,europe-west8-b,32.68109,6.86592
 g4-standard-384,384.0,1440.0,,,,europe-west8,europe-west8-c,32.68109,6.86592
+g4-standard-384,384.0,1440.0,,,,me-central2,me-central2-a,32.67456,12.4248
 g4-standard-384,384.0,1440.0,,,,us-central1,us-central1-b,27.23424,5.72208
 g4-standard-384,384.0,1440.0,,,,us-central1,us-central1-f,27.23424,5.72208
 g4-standard-384,384.0,1440.0,,,,us-east1,us-east1-b,27.23424,5.17584
