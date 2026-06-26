@@ -39,6 +39,18 @@ cpu-d3_160vcpu-640gb,,0,160,640,3.968,me-west1,,
 cpu-d3_192vcpu-768gb,,0,192,768,4.7616,me-west1,,
 cpu-d3_224vcpu-896gb,,0,224,896,5.5552,me-west1,,
 cpu-d3_256vcpu-1024gb,,0,256,1024,6.3488,me-west1,,
+cpu-d3_4vcpu-16gb,,0,4,16,0.0992,uk-south1,,
+cpu-d3_8vcpu-32gb,,0,8,32,0.1984,uk-south1,,
+cpu-d3_16vcpu-64gb,,0,16,64,0.3968,uk-south1,,
+cpu-d3_32vcpu-128gb,,0,32,128,0.7936,uk-south1,,
+cpu-d3_48vcpu-192gb,,0,48,192,1.1904,uk-south1,,
+cpu-d3_64vcpu-256gb,,0,64,256,1.5872,uk-south1,,
+cpu-d3_96vcpu-384gb,,0,96,384,2.3808,uk-south1,,
+cpu-d3_128vcpu-512gb,,0,128,512,3.1744,uk-south1,,
+cpu-d3_160vcpu-640gb,,0,160,640,3.968,uk-south1,,
+cpu-d3_192vcpu-768gb,,0,192,768,4.7616,uk-south1,,
+cpu-d3_224vcpu-896gb,,0,224,896,5.5552,uk-south1,,
+cpu-d3_256vcpu-1024gb,,0,256,1024,6.3488,uk-south1,,
 cpu-d3_4vcpu-16gb,,0,4,16,0.0992,us-central1,,
 cpu-d3_8vcpu-32gb,,0,8,32,0.1984,us-central1,,
 cpu-d3_16vcpu-64gb,,0,16,64,0.3968,us-central1,,
@@ -71,6 +83,8 @@ gpu-h200-sxm_1gpu-16vcpu-200gb,H200,1,16,200,4.50,eu-west1,"{'Gpus': [{'Name': '
 gpu-h200-sxm_8gpu-128vcpu-1600gb,H200,8,128,1600,36.00,eu-west1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",19.60
 gpu-b200-sxm-a_1gpu-20vcpu-224gb,B200,1,20,224,7.15,me-west1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",3.95
 gpu-b200-sxm-a_8gpu-160vcpu-1792gb,B200,8,160,1792,57.20,me-west1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",31.60
+gpu-b300-sxm_1gpu-24vcpu-346gb,B300,1,24,346,7.85,uk-south1,"{'Gpus': [{'Name': 'B300', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",4.30
+gpu-b300-sxm_8gpu-192vcpu-2768gb,B300,8,192,2768,62.80,uk-south1,"{'Gpus': [{'Name': 'B300', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",34.40
 gpu-b200-sxm_1gpu-20vcpu-224gb,B200,1,20,224,7.15,us-central1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",3.95
 gpu-b200-sxm_8gpu-160vcpu-1792gb,B200,8,160,1792,57.20,us-central1,"{'Gpus': [{'Name': 'B200', 'Manufacturer': 'NVIDIA', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",31.60
 gpu-h200-sxm_1gpu-16vcpu-200gb,H200,1,16,200,4.50,us-central1,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'NVIDIA', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 0}}], 'TotalGpuMemoryInMiB': 0}",2.45
