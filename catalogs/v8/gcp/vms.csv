@@ -4932,6 +4932,7 @@ c4-highcpu-16,16.0,32.0,,,,europe-southwest1,europe-southwest1-c,0.80289,0.22781
 c4-highcpu-16,16.0,32.0,,,,europe-west1,europe-west1-b,0.74921,0.35546
 c4-highcpu-16,16.0,32.0,,,,europe-west1,europe-west1-c,0.74921,0.35546
 c4-highcpu-16,16.0,32.0,,,,europe-west1,europe-west1-d,0.74921,0.35546
+c4-highcpu-16,16.0,32.0,,,,europe-west12,europe-west12-c,0.87774,0.18576
 c4-highcpu-16,16.0,32.0,,,,europe-west2,europe-west2-a,0.77567,0.31597
 c4-highcpu-16,16.0,32.0,,,,europe-west2,europe-west2-b,0.77567,0.31597
 c4-highcpu-16,16.0,32.0,,,,europe-west2,europe-west2-c,0.77567,0.31597
@@ -5042,6 +5043,7 @@ c4-highcpu-192,192.0,384.0,,,,europe-southwest1,europe-southwest1-c,9.63469,2.73
 c4-highcpu-192,192.0,384.0,,,,europe-west1,europe-west1-b,8.99047,4.26547
 c4-highcpu-192,192.0,384.0,,,,europe-west1,europe-west1-c,8.99047,4.26547
 c4-highcpu-192,192.0,384.0,,,,europe-west1,europe-west1-d,8.99047,4.26547
+c4-highcpu-192,192.0,384.0,,,,europe-west12,europe-west12-c,10.53284,2.22912
 c4-highcpu-192,192.0,384.0,,,,europe-west2,europe-west2-a,9.30809,3.79162
 c4-highcpu-192,192.0,384.0,,,,europe-west2,europe-west2-b,9.30809,3.79162
 c4-highcpu-192,192.0,384.0,,,,europe-west2,europe-west2-c,9.30809,3.79162
@@ -5152,6 +5154,7 @@ c4-highcpu-2,2.0,4.0,,,,europe-southwest1,europe-southwest1-c,0.10036,0.02848
 c4-highcpu-2,2.0,4.0,,,,europe-west1,europe-west1-b,0.09365,0.04443
 c4-highcpu-2,2.0,4.0,,,,europe-west1,europe-west1-c,0.09365,0.04443
 c4-highcpu-2,2.0,4.0,,,,europe-west1,europe-west1-d,0.09365,0.04443
+c4-highcpu-2,2.0,4.0,,,,europe-west12,europe-west12-c,0.10972,0.02322
 c4-highcpu-2,2.0,4.0,,,,europe-west2,europe-west2-a,0.09696,0.0395
 c4-highcpu-2,2.0,4.0,,,,europe-west2,europe-west2-b,0.09696,0.0395
 c4-highcpu-2,2.0,4.0,,,,europe-west2,europe-west2-c,0.09696,0.0395
@@ -5262,6 +5265,7 @@ c4-highcpu-24,24.0,48.0,,,,europe-southwest1,europe-southwest1-c,1.20434,0.34171
 c4-highcpu-24,24.0,48.0,,,,europe-west1,europe-west1-b,1.12381,0.53318
 c4-highcpu-24,24.0,48.0,,,,europe-west1,europe-west1-c,1.12381,0.53318
 c4-highcpu-24,24.0,48.0,,,,europe-west1,europe-west1-d,1.12381,0.53318
+c4-highcpu-24,24.0,48.0,,,,europe-west12,europe-west12-c,1.3166,0.27864
 c4-highcpu-24,24.0,48.0,,,,europe-west2,europe-west2-a,1.16351,0.47395
 c4-highcpu-24,24.0,48.0,,,,europe-west2,europe-west2-b,1.16351,0.47395
 c4-highcpu-24,24.0,48.0,,,,europe-west2,europe-west2-c,1.16351,0.47395
@@ -5471,6 +5475,7 @@ c4-highcpu-32,32.0,64.0,,,,europe-southwest1,europe-southwest1-c,1.60578,0.45562
 c4-highcpu-32,32.0,64.0,,,,europe-west1,europe-west1-b,1.49841,0.71091
 c4-highcpu-32,32.0,64.0,,,,europe-west1,europe-west1-c,1.49841,0.71091
 c4-highcpu-32,32.0,64.0,,,,europe-west1,europe-west1-d,1.49841,0.71091
+c4-highcpu-32,32.0,64.0,,,,europe-west12,europe-west12-c,1.75547,0.37152
 c4-highcpu-32,32.0,64.0,,,,europe-west2,europe-west2-a,1.55135,0.63194
 c4-highcpu-32,32.0,64.0,,,,europe-west2,europe-west2-b,1.55135,0.63194
 c4-highcpu-32,32.0,64.0,,,,europe-west2,europe-west2-c,1.55135,0.63194
@@ -5581,6 +5586,7 @@ c4-highcpu-4,4.0,8.0,,,,europe-southwest1,europe-southwest1-c,0.20072,0.05695
 c4-highcpu-4,4.0,8.0,,,,europe-west1,europe-west1-b,0.1873,0.08886
 c4-highcpu-4,4.0,8.0,,,,europe-west1,europe-west1-c,0.1873,0.08886
 c4-highcpu-4,4.0,8.0,,,,europe-west1,europe-west1-d,0.1873,0.08886
+c4-highcpu-4,4.0,8.0,,,,europe-west12,europe-west12-c,0.21943,0.04644
 c4-highcpu-4,4.0,8.0,,,,europe-west2,europe-west2-a,0.19392,0.07899
 c4-highcpu-4,4.0,8.0,,,,europe-west2,europe-west2-b,0.19392,0.07899
 c4-highcpu-4,4.0,8.0,,,,europe-west2,europe-west2-c,0.19392,0.07899
@@ -5691,6 +5697,7 @@ c4-highcpu-48,48.0,96.0,,,,europe-southwest1,europe-southwest1-c,2.40867,0.68342
 c4-highcpu-48,48.0,96.0,,,,europe-west1,europe-west1-b,2.24762,1.06637
 c4-highcpu-48,48.0,96.0,,,,europe-west1,europe-west1-c,2.24762,1.06637
 c4-highcpu-48,48.0,96.0,,,,europe-west1,europe-west1-d,2.24762,1.06637
+c4-highcpu-48,48.0,96.0,,,,europe-west12,europe-west12-c,2.63321,0.55728
 c4-highcpu-48,48.0,96.0,,,,europe-west2,europe-west2-a,2.32702,0.9479
 c4-highcpu-48,48.0,96.0,,,,europe-west2,europe-west2-b,2.32702,0.9479
 c4-highcpu-48,48.0,96.0,,,,europe-west2,europe-west2-c,2.32702,0.9479
@@ -5801,6 +5808,7 @@ c4-highcpu-8,8.0,16.0,,,,europe-southwest1,europe-southwest1-c,0.40145,0.1139
 c4-highcpu-8,8.0,16.0,,,,europe-west1,europe-west1-b,0.3746,0.17773
 c4-highcpu-8,8.0,16.0,,,,europe-west1,europe-west1-c,0.3746,0.17773
 c4-highcpu-8,8.0,16.0,,,,europe-west1,europe-west1-d,0.3746,0.17773
+c4-highcpu-8,8.0,16.0,,,,europe-west12,europe-west12-c,0.43887,0.09288
 c4-highcpu-8,8.0,16.0,,,,europe-west2,europe-west2-a,0.38784,0.15798
 c4-highcpu-8,8.0,16.0,,,,europe-west2,europe-west2-b,0.38784,0.15798
 c4-highcpu-8,8.0,16.0,,,,europe-west2,europe-west2-c,0.38784,0.15798
@@ -5911,6 +5919,7 @@ c4-highcpu-96,96.0,192.0,,,,europe-southwest1,europe-southwest1-c,4.81735,1.3668
 c4-highcpu-96,96.0,192.0,,,,europe-west1,europe-west1-b,4.49524,2.13274
 c4-highcpu-96,96.0,192.0,,,,europe-west1,europe-west1-c,4.49524,2.13274
 c4-highcpu-96,96.0,192.0,,,,europe-west1,europe-west1-d,4.49524,2.13274
+c4-highcpu-96,96.0,192.0,,,,europe-west12,europe-west12-c,5.26642,1.11456
 c4-highcpu-96,96.0,192.0,,,,europe-west2,europe-west2-a,4.65405,1.89581
 c4-highcpu-96,96.0,192.0,,,,europe-west2,europe-west2-b,4.65405,1.89581
 c4-highcpu-96,96.0,192.0,,,,europe-west2,europe-west2-c,4.65405,1.89581
@@ -6199,6 +6208,7 @@ c4-highmem-16,16.0,124.0,,,,europe-west1,europe-west1-b,1.14813,0.54479
 c4-highmem-16,16.0,124.0,,,,europe-west1,europe-west1-c,1.14813,0.54479
 c4-highmem-16,16.0,124.0,,,,europe-west1,europe-west1-d,1.14813,0.54479
 c4-highmem-16,16.0,124.0,,,,europe-west10,europe-west10-c,1.23034,0.64227
+c4-highmem-16,16.0,124.0,,,,europe-west12,europe-west12-c,1.3451,0.28466
 c4-highmem-16,16.0,124.0,,,,europe-west2,europe-west2-a,1.18869,0.48424
 c4-highmem-16,16.0,124.0,,,,europe-west2,europe-west2-b,1.18869,0.48424
 c4-highmem-16,16.0,124.0,,,,europe-west2,europe-west2-c,1.18869,0.48424
@@ -6390,6 +6400,7 @@ c4-highmem-192,192.0,1488.0,,,,europe-west1,europe-west1-b,13.77756,6.5375
 c4-highmem-192,192.0,1488.0,,,,europe-west1,europe-west1-c,13.77756,6.5375
 c4-highmem-192,192.0,1488.0,,,,europe-west1,europe-west1-d,13.77756,6.5375
 c4-highmem-192,192.0,1488.0,,,,europe-west10,europe-west10-c,14.76412,7.70727
+c4-highmem-192,192.0,1488.0,,,,europe-west12,europe-west12-c,16.14118,3.41592
 c4-highmem-192,192.0,1488.0,,,,europe-west2,europe-west2-a,14.2643,5.81083
 c4-highmem-192,192.0,1488.0,,,,europe-west2,europe-west2-b,14.2643,5.81083
 c4-highmem-192,192.0,1488.0,,,,europe-west2,europe-west2-c,14.2643,5.81083
@@ -6581,6 +6592,7 @@ c4-highmem-2,2.0,15.0,,,,europe-west1,europe-west1-b,0.14135,0.06707
 c4-highmem-2,2.0,15.0,,,,europe-west1,europe-west1-c,0.14135,0.06707
 c4-highmem-2,2.0,15.0,,,,europe-west1,europe-west1-d,0.14135,0.06707
 c4-highmem-2,2.0,15.0,,,,europe-west10,europe-west10-c,0.15147,0.07907
+c4-highmem-2,2.0,15.0,,,,europe-west12,europe-west12-c,0.1656,0.03504
 c4-highmem-2,2.0,15.0,,,,europe-west2,europe-west2-a,0.14634,0.05962
 c4-highmem-2,2.0,15.0,,,,europe-west2,europe-west2-b,0.14634,0.05962
 c4-highmem-2,2.0,15.0,,,,europe-west2,europe-west2-c,0.14634,0.05962
@@ -6694,6 +6706,7 @@ c4-highmem-24,24.0,186.0,,,,europe-west1,europe-west1-b,1.7222,0.81719
 c4-highmem-24,24.0,186.0,,,,europe-west1,europe-west1-c,1.7222,0.81719
 c4-highmem-24,24.0,186.0,,,,europe-west1,europe-west1-d,1.7222,0.81719
 c4-highmem-24,24.0,186.0,,,,europe-west10,europe-west10-c,1.84552,0.96341
+c4-highmem-24,24.0,186.0,,,,europe-west12,europe-west12-c,2.01765,0.42699
 c4-highmem-24,24.0,186.0,,,,europe-west2,europe-west2-a,1.78304,0.72635
 c4-highmem-24,24.0,186.0,,,,europe-west2,europe-west2-b,1.78304,0.72635
 c4-highmem-24,24.0,186.0,,,,europe-west2,europe-west2-c,1.78304,0.72635
@@ -7117,6 +7130,7 @@ c4-highmem-32,32.0,248.0,,,,europe-west1,europe-west1-b,2.29626,1.08958
 c4-highmem-32,32.0,248.0,,,,europe-west1,europe-west1-c,2.29626,1.08958
 c4-highmem-32,32.0,248.0,,,,europe-west1,europe-west1-d,2.29626,1.08958
 c4-highmem-32,32.0,248.0,,,,europe-west10,europe-west10-c,2.46069,1.28454
+c4-highmem-32,32.0,248.0,,,,europe-west12,europe-west12-c,2.6902,0.56932
 c4-highmem-32,32.0,248.0,,,,europe-west2,europe-west2-a,2.37738,0.96847
 c4-highmem-32,32.0,248.0,,,,europe-west2,europe-west2-b,2.37738,0.96847
 c4-highmem-32,32.0,248.0,,,,europe-west2,europe-west2-c,2.37738,0.96847
@@ -7308,6 +7322,7 @@ c4-highmem-4,4.0,31.0,,,,europe-west1,europe-west1-b,0.28703,0.1362
 c4-highmem-4,4.0,31.0,,,,europe-west1,europe-west1-c,0.28703,0.1362
 c4-highmem-4,4.0,31.0,,,,europe-west1,europe-west1-d,0.28703,0.1362
 c4-highmem-4,4.0,31.0,,,,europe-west10,europe-west10-c,0.30759,0.16057
+c4-highmem-4,4.0,31.0,,,,europe-west12,europe-west12-c,0.33627,0.07117
 c4-highmem-4,4.0,31.0,,,,europe-west2,europe-west2-a,0.29717,0.12106
 c4-highmem-4,4.0,31.0,,,,europe-west2,europe-west2-b,0.29717,0.12106
 c4-highmem-4,4.0,31.0,,,,europe-west2,europe-west2-c,0.29717,0.12106
@@ -7499,6 +7514,7 @@ c4-highmem-48,48.0,372.0,,,,europe-west1,europe-west1-b,3.44439,1.63438
 c4-highmem-48,48.0,372.0,,,,europe-west1,europe-west1-c,3.44439,1.63438
 c4-highmem-48,48.0,372.0,,,,europe-west1,europe-west1-d,3.44439,1.63438
 c4-highmem-48,48.0,372.0,,,,europe-west10,europe-west10-c,3.69103,1.92682
+c4-highmem-48,48.0,372.0,,,,europe-west12,europe-west12-c,4.0353,0.85398
 c4-highmem-48,48.0,372.0,,,,europe-west2,europe-west2-a,3.56608,1.45271
 c4-highmem-48,48.0,372.0,,,,europe-west2,europe-west2-b,3.56608,1.45271
 c4-highmem-48,48.0,372.0,,,,europe-west2,europe-west2-c,3.56608,1.45271
@@ -7690,6 +7706,7 @@ c4-highmem-8,8.0,62.0,,,,europe-west1,europe-west1-b,0.57407,0.2724
 c4-highmem-8,8.0,62.0,,,,europe-west1,europe-west1-c,0.57407,0.2724
 c4-highmem-8,8.0,62.0,,,,europe-west1,europe-west1-d,0.57407,0.2724
 c4-highmem-8,8.0,62.0,,,,europe-west10,europe-west10-c,0.61517,0.32114
+c4-highmem-8,8.0,62.0,,,,europe-west12,europe-west12-c,0.67255,0.14233
 c4-highmem-8,8.0,62.0,,,,europe-west2,europe-west2-a,0.59435,0.24212
 c4-highmem-8,8.0,62.0,,,,europe-west2,europe-west2-b,0.59435,0.24212
 c4-highmem-8,8.0,62.0,,,,europe-west2,europe-west2-c,0.59435,0.24212
@@ -7881,6 +7898,7 @@ c4-highmem-96,96.0,744.0,,,,europe-west1,europe-west1-b,6.88878,3.26875
 c4-highmem-96,96.0,744.0,,,,europe-west1,europe-west1-c,6.88878,3.26875
 c4-highmem-96,96.0,744.0,,,,europe-west1,europe-west1-d,6.88878,3.26875
 c4-highmem-96,96.0,744.0,,,,europe-west10,europe-west10-c,7.38206,3.85363
+c4-highmem-96,96.0,744.0,,,,europe-west12,europe-west12-c,8.07059,1.70796
 c4-highmem-96,96.0,744.0,,,,europe-west2,europe-west2-a,7.13215,2.90542
 c4-highmem-96,96.0,744.0,,,,europe-west2,europe-west2-b,7.13215,2.90542
 c4-highmem-96,96.0,744.0,,,,europe-west2,europe-west2-c,7.13215,2.90542
@@ -8248,6 +8266,7 @@ c4-standard-16,16.0,60.0,,,,europe-southwest1,europe-southwest1-c,0.933,0.26474
 c4-standard-16,16.0,60.0,,,,europe-west1,europe-west1-b,0.87062,0.41308
 c4-standard-16,16.0,60.0,,,,europe-west1,europe-west1-c,0.87062,0.41308
 c4-standard-16,16.0,60.0,,,,europe-west1,europe-west1-d,0.87062,0.41308
+c4-standard-16,16.0,60.0,,,,europe-west12,europe-west12-c,1.01998,0.21586
 c4-standard-16,16.0,60.0,,,,europe-west2,europe-west2-a,0.90138,0.36718
 c4-standard-16,16.0,60.0,,,,europe-west2,europe-west2-b,0.90138,0.36718
 c4-standard-16,16.0,60.0,,,,europe-west2,europe-west2-c,0.90138,0.36718
@@ -8438,6 +8457,7 @@ c4-standard-192,192.0,720.0,,,,europe-southwest1,europe-southwest1-c,11.19603,3.
 c4-standard-192,192.0,720.0,,,,europe-west1,europe-west1-b,10.44741,4.95696
 c4-standard-192,192.0,720.0,,,,europe-west1,europe-west1-c,10.44741,4.95696
 c4-standard-192,192.0,720.0,,,,europe-west1,europe-west1-d,10.44741,4.95696
+c4-standard-192,192.0,720.0,,,,europe-west12,europe-west12-c,12.23973,2.59032
 c4-standard-192,192.0,720.0,,,,europe-west2,europe-west2-a,10.8165,4.40616
 c4-standard-192,192.0,720.0,,,,europe-west2,europe-west2-b,10.8165,4.40616
 c4-standard-192,192.0,720.0,,,,europe-west2,europe-west2-c,10.8165,4.40616
@@ -8628,6 +8648,7 @@ c4-standard-2,2.0,7.0,,,,europe-southwest1,europe-southwest1-c,0.1143,0.03243
 c4-standard-2,2.0,7.0,,,,europe-west1,europe-west1-b,0.10666,0.05061
 c4-standard-2,2.0,7.0,,,,europe-west1,europe-west1-c,0.10666,0.05061
 c4-standard-2,2.0,7.0,,,,europe-west1,europe-west1-d,0.10666,0.05061
+c4-standard-2,2.0,7.0,,,,europe-west12,europe-west12-c,0.12496,0.02644
 c4-standard-2,2.0,7.0,,,,europe-west2,europe-west2-a,0.11043,0.04498
 c4-standard-2,2.0,7.0,,,,europe-west2,europe-west2-b,0.11043,0.04498
 c4-standard-2,2.0,7.0,,,,europe-west2,europe-west2-c,0.11043,0.04498
@@ -8740,6 +8761,7 @@ c4-standard-24,24.0,90.0,,,,europe-southwest1,europe-southwest1-c,1.3995,0.39711
 c4-standard-24,24.0,90.0,,,,europe-west1,europe-west1-b,1.30593,0.61962
 c4-standard-24,24.0,90.0,,,,europe-west1,europe-west1-c,1.30593,0.61962
 c4-standard-24,24.0,90.0,,,,europe-west1,europe-west1-d,1.30593,0.61962
+c4-standard-24,24.0,90.0,,,,europe-west12,europe-west12-c,1.52997,0.32379
 c4-standard-24,24.0,90.0,,,,europe-west2,europe-west2-a,1.35206,0.55077
 c4-standard-24,24.0,90.0,,,,europe-west2,europe-west2-b,1.35206,0.55077
 c4-standard-24,24.0,90.0,,,,europe-west2,europe-west2-c,1.35206,0.55077
@@ -9151,6 +9173,7 @@ c4-standard-32,32.0,120.0,,,,europe-southwest1,europe-southwest1-c,1.866,0.52948
 c4-standard-32,32.0,120.0,,,,europe-west1,europe-west1-b,1.74124,0.82616
 c4-standard-32,32.0,120.0,,,,europe-west1,europe-west1-c,1.74124,0.82616
 c4-standard-32,32.0,120.0,,,,europe-west1,europe-west1-d,1.74124,0.82616
+c4-standard-32,32.0,120.0,,,,europe-west12,europe-west12-c,2.03995,0.43172
 c4-standard-32,32.0,120.0,,,,europe-west2,europe-west2-a,1.80275,0.73436
 c4-standard-32,32.0,120.0,,,,europe-west2,europe-west2-b,1.80275,0.73436
 c4-standard-32,32.0,120.0,,,,europe-west2,europe-west2-c,1.80275,0.73436
@@ -9341,6 +9364,7 @@ c4-standard-4,4.0,15.0,,,,europe-southwest1,europe-southwest1-c,0.23325,0.06618
 c4-standard-4,4.0,15.0,,,,europe-west1,europe-west1-b,0.21765,0.10327
 c4-standard-4,4.0,15.0,,,,europe-west1,europe-west1-c,0.21765,0.10327
 c4-standard-4,4.0,15.0,,,,europe-west1,europe-west1-d,0.21765,0.10327
+c4-standard-4,4.0,15.0,,,,europe-west12,europe-west12-c,0.25499,0.05396
 c4-standard-4,4.0,15.0,,,,europe-west2,europe-west2-a,0.22534,0.0918
 c4-standard-4,4.0,15.0,,,,europe-west2,europe-west2-b,0.22534,0.0918
 c4-standard-4,4.0,15.0,,,,europe-west2,europe-west2-c,0.22534,0.0918
@@ -9531,6 +9555,7 @@ c4-standard-48,48.0,180.0,,,,europe-southwest1,europe-southwest1-c,2.79901,0.794
 c4-standard-48,48.0,180.0,,,,europe-west1,europe-west1-b,2.61185,1.23924
 c4-standard-48,48.0,180.0,,,,europe-west1,europe-west1-c,2.61185,1.23924
 c4-standard-48,48.0,180.0,,,,europe-west1,europe-west1-d,2.61185,1.23924
+c4-standard-48,48.0,180.0,,,,europe-west12,europe-west12-c,3.05993,0.64758
 c4-standard-48,48.0,180.0,,,,europe-west2,europe-west2-a,2.70413,1.10154
 c4-standard-48,48.0,180.0,,,,europe-west2,europe-west2-b,2.70413,1.10154
 c4-standard-48,48.0,180.0,,,,europe-west2,europe-west2-c,2.70413,1.10154
@@ -9721,6 +9746,7 @@ c4-standard-8,8.0,30.0,,,,europe-southwest1,europe-southwest1-c,0.4665,0.13237
 c4-standard-8,8.0,30.0,,,,europe-west1,europe-west1-b,0.43531,0.20654
 c4-standard-8,8.0,30.0,,,,europe-west1,europe-west1-c,0.43531,0.20654
 c4-standard-8,8.0,30.0,,,,europe-west1,europe-west1-d,0.43531,0.20654
+c4-standard-8,8.0,30.0,,,,europe-west12,europe-west12-c,0.50999,0.10793
 c4-standard-8,8.0,30.0,,,,europe-west2,europe-west2-a,0.45069,0.18359
 c4-standard-8,8.0,30.0,,,,europe-west2,europe-west2-b,0.45069,0.18359
 c4-standard-8,8.0,30.0,,,,europe-west2,europe-west2-c,0.45069,0.18359
@@ -9911,6 +9937,7 @@ c4-standard-96,96.0,360.0,,,,europe-southwest1,europe-southwest1-c,5.59801,1.588
 c4-standard-96,96.0,360.0,,,,europe-west1,europe-west1-b,5.22371,2.47848
 c4-standard-96,96.0,360.0,,,,europe-west1,europe-west1-c,5.22371,2.47848
 c4-standard-96,96.0,360.0,,,,europe-west1,europe-west1-d,5.22371,2.47848
+c4-standard-96,96.0,360.0,,,,europe-west12,europe-west12-c,6.11986,1.29516
 c4-standard-96,96.0,360.0,,,,europe-west2,europe-west2-a,5.40825,2.20308
 c4-standard-96,96.0,360.0,,,,europe-west2,europe-west2-b,5.40825,2.20308
 c4-standard-96,96.0,360.0,,,,europe-west2,europe-west2-c,5.40825,2.20308
