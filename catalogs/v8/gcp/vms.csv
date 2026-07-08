@@ -30877,6 +30877,7 @@ z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west1,europe-west1-b,1.8871,0.66
 z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west1,europe-west1-c,1.8871,0.66755
 z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west1,europe-west1-d,1.8871,0.66755
 z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west10,europe-west10-a,1.8871,0.3099
+z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west10,europe-west10-b,1.8871,0.3099
 z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west10,europe-west10-c,1.8871,0.3099
 z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west2,europe-west2-a,1.64221,0.50366
 z3-highmem-14-standardlssd,14.0,112.0,,,,europe-west2,europe-west2-b,1.64221,0.50366
@@ -30921,6 +30922,7 @@ z3-highmem-16-highlssd,16.0,128.0,,,,europe-west1,europe-west1-b,2.15669,0.76291
 z3-highmem-16-highlssd,16.0,128.0,,,,europe-west1,europe-west1-c,2.15669,0.76291
 z3-highmem-16-highlssd,16.0,128.0,,,,europe-west1,europe-west1-d,2.15669,0.76291
 z3-highmem-16-highlssd,16.0,128.0,,,,europe-west10,europe-west10-a,2.15669,0.35418
+z3-highmem-16-highlssd,16.0,128.0,,,,europe-west10,europe-west10-b,2.15669,0.35418
 z3-highmem-16-highlssd,16.0,128.0,,,,europe-west10,europe-west10-c,2.15669,0.35418
 z3-highmem-16-highlssd,16.0,128.0,,,,europe-west2,europe-west2-a,1.87681,0.57562
 z3-highmem-16-highlssd,16.0,128.0,,,,europe-west2,europe-west2-b,1.87681,0.57562
@@ -30965,6 +30967,7 @@ z3-highmem-176,176.0,1408.0,,,,europe-west1,europe-west1-b,23.72359,8.39203
 z3-highmem-176,176.0,1408.0,,,,europe-west1,europe-west1-c,23.72359,8.39203
 z3-highmem-176,176.0,1408.0,,,,europe-west1,europe-west1-d,23.72359,8.39203
 z3-highmem-176,176.0,1408.0,,,,europe-west10,europe-west10-a,23.72358,3.89594
+z3-highmem-176,176.0,1408.0,,,,europe-west10,europe-west10-b,23.72358,3.89594
 z3-highmem-176,176.0,1408.0,,,,europe-west10,europe-west10-c,23.72358,3.89594
 z3-highmem-176,176.0,1408.0,,,,europe-west2,europe-west2-a,20.64495,6.33178
 z3-highmem-176,176.0,1408.0,,,,europe-west2,europe-west2-b,20.64495,6.33178
@@ -31010,6 +31013,7 @@ z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west1,europe-west1-b,23.72359
 z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west1,europe-west1-c,23.72359,8.39203
 z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west1,europe-west1-d,23.72359,8.39203
 z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west10,europe-west10-a,23.72358,3.89594
+z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west10,europe-west10-b,23.72358,3.89594
 z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west10,europe-west10-c,23.72358,3.89594
 z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west2,europe-west2-a,20.64495,6.33178
 z3-highmem-176-standardlssd,176.0,1408.0,,,,europe-west2,europe-west2-b,20.64495,6.33178
@@ -31093,6 +31097,7 @@ z3-highmem-22-highlssd,22.0,176.0,,,,europe-west1,europe-west1-b,2.96545,1.049
 z3-highmem-22-highlssd,22.0,176.0,,,,europe-west1,europe-west1-c,2.96545,1.049
 z3-highmem-22-highlssd,22.0,176.0,,,,europe-west1,europe-west1-d,2.96545,1.049
 z3-highmem-22-highlssd,22.0,176.0,,,,europe-west10,europe-west10-a,2.96545,0.48699
+z3-highmem-22-highlssd,22.0,176.0,,,,europe-west10,europe-west10-b,2.96545,0.48699
 z3-highmem-22-highlssd,22.0,176.0,,,,europe-west10,europe-west10-c,2.96545,0.48699
 z3-highmem-22-highlssd,22.0,176.0,,,,europe-west2,europe-west2-a,2.58062,0.79147
 z3-highmem-22-highlssd,22.0,176.0,,,,europe-west2,europe-west2-b,2.58062,0.79147
@@ -31137,6 +31142,7 @@ z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west1,europe-west1-b,2.96545,1.0
 z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west1,europe-west1-c,2.96545,1.049
 z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west1,europe-west1-d,2.96545,1.049
 z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west10,europe-west10-a,2.96545,0.48699
+z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west10,europe-west10-b,2.96545,0.48699
 z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west10,europe-west10-c,2.96545,0.48699
 z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west2,europe-west2-a,2.58062,0.79147
 z3-highmem-22-standardlssd,22.0,176.0,,,,europe-west2,europe-west2-b,2.58062,0.79147
@@ -31181,6 +31187,7 @@ z3-highmem-32-highlssd,32.0,256.0,,,,europe-west1,europe-west1-b,4.31338,1.52582
 z3-highmem-32-highlssd,32.0,256.0,,,,europe-west1,europe-west1-c,4.31338,1.52582
 z3-highmem-32-highlssd,32.0,256.0,,,,europe-west1,europe-west1-d,4.31338,1.52582
 z3-highmem-32-highlssd,32.0,256.0,,,,europe-west10,europe-west10-a,4.31338,0.70835
+z3-highmem-32-highlssd,32.0,256.0,,,,europe-west10,europe-west10-b,4.31338,0.70835
 z3-highmem-32-highlssd,32.0,256.0,,,,europe-west10,europe-west10-c,4.31338,0.70835
 z3-highmem-32-highlssd,32.0,256.0,,,,europe-west2,europe-west2-a,3.75363,1.15123
 z3-highmem-32-highlssd,32.0,256.0,,,,europe-west2,europe-west2-b,3.75363,1.15123
@@ -31225,6 +31232,7 @@ z3-highmem-44-highlssd,44.0,352.0,,,,europe-west1,europe-west1-b,5.9309,2.09801
 z3-highmem-44-highlssd,44.0,352.0,,,,europe-west1,europe-west1-c,5.9309,2.09801
 z3-highmem-44-highlssd,44.0,352.0,,,,europe-west1,europe-west1-d,5.9309,2.09801
 z3-highmem-44-highlssd,44.0,352.0,,,,europe-west10,europe-west10-a,5.9309,0.97398
+z3-highmem-44-highlssd,44.0,352.0,,,,europe-west10,europe-west10-b,5.9309,0.97398
 z3-highmem-44-highlssd,44.0,352.0,,,,europe-west10,europe-west10-c,5.9309,0.97398
 z3-highmem-44-highlssd,44.0,352.0,,,,europe-west2,europe-west2-a,5.16124,1.58294
 z3-highmem-44-highlssd,44.0,352.0,,,,europe-west2,europe-west2-b,5.16124,1.58294
@@ -31269,6 +31277,7 @@ z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west1,europe-west1-b,5.9309,2.09
 z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west1,europe-west1-c,5.9309,2.09801
 z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west1,europe-west1-d,5.9309,2.09801
 z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west10,europe-west10-a,5.9309,0.97398
+z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west10,europe-west10-b,5.9309,0.97398
 z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west10,europe-west10-c,5.9309,0.97398
 z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west2,europe-west2-a,5.16124,1.58294
 z3-highmem-44-standardlssd,44.0,352.0,,,,europe-west2,europe-west2-b,5.16124,1.58294
@@ -31313,6 +31322,7 @@ z3-highmem-8-highlssd,8.0,64.0,,,,europe-west1,europe-west1-b,1.07834,0.38146
 z3-highmem-8-highlssd,8.0,64.0,,,,europe-west1,europe-west1-c,1.07834,0.38146
 z3-highmem-8-highlssd,8.0,64.0,,,,europe-west1,europe-west1-d,1.07834,0.38146
 z3-highmem-8-highlssd,8.0,64.0,,,,europe-west10,europe-west10-a,1.07834,0.17709
+z3-highmem-8-highlssd,8.0,64.0,,,,europe-west10,europe-west10-b,1.07834,0.17709
 z3-highmem-8-highlssd,8.0,64.0,,,,europe-west10,europe-west10-c,1.07834,0.17709
 z3-highmem-8-highlssd,8.0,64.0,,,,europe-west2,europe-west2-a,0.93841,0.28781
 z3-highmem-8-highlssd,8.0,64.0,,,,europe-west2,europe-west2-b,0.93841,0.28781
@@ -31357,6 +31367,7 @@ z3-highmem-88,88.0,704.0,,,,europe-west1,europe-west1-b,11.86179,4.19602
 z3-highmem-88,88.0,704.0,,,,europe-west1,europe-west1-c,11.86179,4.19602
 z3-highmem-88,88.0,704.0,,,,europe-west1,europe-west1-d,11.86179,4.19602
 z3-highmem-88,88.0,704.0,,,,europe-west10,europe-west10-a,11.86179,1.94797
+z3-highmem-88,88.0,704.0,,,,europe-west10,europe-west10-b,11.86179,1.94797
 z3-highmem-88,88.0,704.0,,,,europe-west10,europe-west10-c,11.86179,1.94797
 z3-highmem-88,88.0,704.0,,,,europe-west2,europe-west2-a,10.32248,3.16589
 z3-highmem-88,88.0,704.0,,,,europe-west2,europe-west2-b,10.32248,3.16589
@@ -31402,6 +31413,7 @@ z3-highmem-88-highlssd,88.0,704.0,,,,europe-west1,europe-west1-b,11.86179,4.1960
 z3-highmem-88-highlssd,88.0,704.0,,,,europe-west1,europe-west1-c,11.86179,4.19602
 z3-highmem-88-highlssd,88.0,704.0,,,,europe-west1,europe-west1-d,11.86179,4.19602
 z3-highmem-88-highlssd,88.0,704.0,,,,europe-west10,europe-west10-a,11.86179,1.94797
+z3-highmem-88-highlssd,88.0,704.0,,,,europe-west10,europe-west10-b,11.86179,1.94797
 z3-highmem-88-highlssd,88.0,704.0,,,,europe-west10,europe-west10-c,11.86179,1.94797
 z3-highmem-88-highlssd,88.0,704.0,,,,europe-west2,europe-west2-a,10.32248,3.16589
 z3-highmem-88-highlssd,88.0,704.0,,,,europe-west2,europe-west2-b,10.32248,3.16589
@@ -31447,6 +31459,7 @@ z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west1,europe-west1-b,11.86179,4.
 z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west1,europe-west1-c,11.86179,4.19602
 z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west1,europe-west1-d,11.86179,4.19602
 z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west10,europe-west10-a,11.86179,1.94797
+z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west10,europe-west10-b,11.86179,1.94797
 z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west10,europe-west10-c,11.86179,1.94797
 z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west2,europe-west2-a,10.32248,3.16589
 z3-highmem-88-standardlssd,88.0,704.0,,,,europe-west2,europe-west2-b,10.32248,3.16589
