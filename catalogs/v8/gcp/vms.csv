@@ -14340,7 +14340,7 @@ g4-standard-192,192.0,720.0,,,,europe-north1,europe-north1-a,14.97883,5.9916
 g4-standard-192,192.0,720.0,,,,europe-north1,europe-north1-b,14.97883,5.9916
 g4-standard-192,192.0,720.0,,,,europe-north1,europe-north1-c,14.97883,5.9916
 g4-standard-192,192.0,720.0,,,,europe-west1,europe-west1-c,14.97883,5.9916
-g4-standard-192,192.0,720.0,,,,europe-west10,europe-west10-b,20.97036,8.39328
+g4-standard-192,192.0,720.0,,,,europe-west10,europe-west10-b,16.33728,6.53856
 g4-standard-192,192.0,720.0,,,,europe-west2,europe-west2-b,16.34054,6.53712
 g4-standard-192,192.0,720.0,,,,europe-west2,europe-west2-c,16.34054,6.53712
 g4-standard-192,192.0,720.0,,,,europe-west4,europe-west4-a,14.97883,5.9916
@@ -14389,7 +14389,7 @@ g4-standard-384,384.0,1440.0,,,,europe-north1,europe-north1-a,29.95766,11.9832
 g4-standard-384,384.0,1440.0,,,,europe-north1,europe-north1-b,29.95766,11.9832
 g4-standard-384,384.0,1440.0,,,,europe-north1,europe-north1-c,29.95766,11.9832
 g4-standard-384,384.0,1440.0,,,,europe-west1,europe-west1-c,29.95766,11.9832
-g4-standard-384,384.0,1440.0,,,,europe-west10,europe-west10-b,41.94073,16.78656
+g4-standard-384,384.0,1440.0,,,,europe-west10,europe-west10-b,32.67456,13.07712
 g4-standard-384,384.0,1440.0,,,,europe-west2,europe-west2-b,32.68109,13.07424
 g4-standard-384,384.0,1440.0,,,,europe-west2,europe-west2-c,32.68109,13.07424
 g4-standard-384,384.0,1440.0,,,,europe-west4,europe-west4-a,29.95766,11.9832
@@ -14429,7 +14429,7 @@ g4-standard-48,48.0,180.0,,,,europe-north1,europe-north1-a,3.74471,1.4979
 g4-standard-48,48.0,180.0,,,,europe-north1,europe-north1-b,3.74471,1.4979
 g4-standard-48,48.0,180.0,,,,europe-north1,europe-north1-c,3.74471,1.4979
 g4-standard-48,48.0,180.0,,,,europe-west1,europe-west1-c,3.74471,1.4979
-g4-standard-48,48.0,180.0,,,,europe-west10,europe-west10-b,5.24259,2.09832
+g4-standard-48,48.0,180.0,,,,europe-west10,europe-west10-b,4.08432,1.63464
 g4-standard-48,48.0,180.0,,,,europe-west2,europe-west2-b,4.08514,1.63428
 g4-standard-48,48.0,180.0,,,,europe-west2,europe-west2-c,4.08514,1.63428
 g4-standard-48,48.0,180.0,,,,europe-west4,europe-west4-a,3.74471,1.4979
@@ -14478,7 +14478,7 @@ g4-standard-96,96.0,360.0,,,,europe-north1,europe-north1-a,7.48942,2.9958
 g4-standard-96,96.0,360.0,,,,europe-north1,europe-north1-b,7.48942,2.9958
 g4-standard-96,96.0,360.0,,,,europe-north1,europe-north1-c,7.48942,2.9958
 g4-standard-96,96.0,360.0,,,,europe-west1,europe-west1-c,7.48942,2.9958
-g4-standard-96,96.0,360.0,,,,europe-west10,europe-west10-b,10.48518,4.19664
+g4-standard-96,96.0,360.0,,,,europe-west10,europe-west10-b,8.16864,3.26928
 g4-standard-96,96.0,360.0,,,,europe-west2,europe-west2-b,8.17027,3.26856
 g4-standard-96,96.0,360.0,,,,europe-west2,europe-west2-c,8.17027,3.26856
 g4-standard-96,96.0,360.0,,,,europe-west4,europe-west4-a,7.48942,2.9958
