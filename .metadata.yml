@@ -2,7 +2,10 @@
 # for all versions listed here. We keep older versions for backward
 # compatibility.
 version_commit:
-  # This commit should be fixed, as any newer commit will be fetching v6
-  # catalogs
   v8: latest
-  v7: 6a9fed7b515c4c7dc0942da1c35c15f430a14e8e
+  # This commit must stay pinned to a v7-schema SkyPilot commit; any newer
+  # (v8-schema) commit would write v8-format catalogs into the v7 dir.
+  # Pinned to a v7-schema commit that also skips the currently-unreachable
+  # me-south-1 region (companion to skypilot#10095), so the scheduled fetch
+  # does not fail on the me-south-1 EC2 endpoint. Re-pin if v7 needs updates.
+  v7: ad1d5c452973643f5583542c603c2a16b94d3062
