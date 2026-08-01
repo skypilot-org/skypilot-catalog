@@ -12,7 +12,7 @@ A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 B200,"['AWS', 'GCP', 'Lambda', 'Mithril', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Verda', 'nebius']"
 B300,"['AWS', 'RunPod', 'Verda', 'nebius']"
 GAUDI2,['Shadeform']
-GH200,"['Lambda', 'Shadeform']"
+GH200,['Lambda']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 H100-MEGA,['GCP']
 H100-NVL,['RunPod']
@@ -25,7 +25,7 @@ Inferentia2,['AWS']
 K80,['Azure']
 L4,"['AWS', 'GCP', 'RunPod', 'Seeweb', 'Shadeform']"
 L40,"['PrimeIntellect', 'RunPod', 'Shadeform']"
-L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
+L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
