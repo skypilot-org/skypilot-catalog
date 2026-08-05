@@ -19,7 +19,6 @@ H100-NVL,['RunPod']
 H100-NVLINK,['Fluidstack']
 H100-SXM,"['Cudo', 'RunPod']"
 H200,"['AWS', 'GCP', 'Mithril', 'OCI', 'PrimeIntellect', 'Shadeform', 'Vast', 'Verda', 'Yotta', 'nebius']"
-H200-NVL,['RunPod']
 H200-SXM,['RunPod']
 Inferentia,['AWS']
 Inferentia2,['AWS']
@@ -41,7 +40,6 @@ RTX2000-Ada,['RunPod']
 RTX3060,['Vast']
 RTX3090,"['RunPod', 'Vast']"
 RTX4000-Ada,['RunPod']
-RTX4000Ada,['Shadeform']
 RTX4060,['Vast']
 RTX4070,['Vast']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
@@ -67,7 +65,7 @@ T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
 Trainium,['AWS']
 Trainium2,['AWS']
-V100,"['Azure', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'Shadeform', 'Vast']"
+V100,"['Azure', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'Shadeform', 'Vast', 'Verda']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'Shadeform', 'scp']"
 tpu-v2,['GCP']
 tpu-v3,['GCP']
