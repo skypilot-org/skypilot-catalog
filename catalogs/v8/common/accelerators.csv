@@ -10,15 +10,15 @@ A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 B200,"['AWS', 'GCP', 'Lambda', 'PrimeIntellect', 'RunPod', 'nebius']"
-B300,"['AWS', 'Verda', 'nebius']"
+B300,"['AWS', 'Shadeform', 'Verda', 'nebius']"
 GAUDI2,['Shadeform']
-GH200,"['Lambda', 'Shadeform']"
+GH200,['Lambda']
 H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 H100-MEGA,['GCP']
 H100-NVL,['RunPod']
 H100-NVLINK,['Fluidstack']
 H100-SXM,"['Cudo', 'RunPod']"
-H200,"['AWS', 'GCP', 'Mithril', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'Yotta', 'nebius']"
+H200,"['AWS', 'GCP', 'Mithril', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'Yotta', 'nebius']"
 H200-SXM,['RunPod']
 Inferentia,['AWS']
 Inferentia2,['AWS']
@@ -57,7 +57,6 @@ RTXA6000,"['RunPod', 'Seeweb', 'Vast']"
 RTXPRO4000,['RunPod']
 RTXPRO4500,['RunPod']
 RTXPRO4500-SE,['RunPod']
-RTXPRO5000,['RunPod']
 RTXPRO6000,"['AWS', 'GCP', 'RunPod', 'Shadeform', 'Yotta']"
 RTXPRO6000-WK,['RunPod']
 RTXPRO6000WS,['Vast']
