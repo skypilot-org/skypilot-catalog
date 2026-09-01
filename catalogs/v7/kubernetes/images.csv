@@ -5,3 +5,5 @@ skypilot:custom-cpu-ubuntu-2204,,ubuntu,22.04,us-docker.pkg.dev/sky-dev-465/skyp
 skypilot:custom-gpu-ubuntu-2204,,ubuntu,22.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:202605150216,20260515
 skypilot:custom-cpu-ubuntu-2204-v1,,ubuntu,22.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:202607240748,20260724
 skypilot:custom-gpu-ubuntu-2204-v1,,ubuntu,22.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:202607240748,20260724
+skypilot:custom-cpu-ubuntu-2204-v2,,ubuntu,22.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot:202609010350-ray2.56.1,20260901
+skypilot:custom-gpu-ubuntu-2204-v2,,ubuntu,22.04,us-docker.pkg.dev/sky-dev-465/skypilotk8s/skypilot-gpu:202609010350-ray2.56.1,20260901
