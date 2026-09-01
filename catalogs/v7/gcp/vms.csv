@@ -175,6 +175,7 @@ a3-highgpu-1g,26.0,234.0,,,,europe-west1,europe-west1-b,1.30206,0.64306
 a3-highgpu-1g,26.0,234.0,,,,europe-west1,europe-west1-c,1.30206,0.64306
 a3-highgpu-1g,26.0,234.0,,,,europe-west2,europe-west2-b,1.34806,0.12147
 a3-highgpu-1g,26.0,234.0,,,,europe-west2,europe-west2-c,1.34806,0.12147
+a3-highgpu-1g,26.0,234.0,,,,europe-west3,europe-west3-a,1.39536,0.76305
 a3-highgpu-1g,26.0,234.0,,,,europe-west3,europe-west3-c,1.39536,0.76305
 a3-highgpu-1g,26.0,234.0,,,,europe-west4,europe-west4-b,1.24163,0.61529
 a3-highgpu-1g,26.0,234.0,,,,europe-west4,europe-west4-c,1.24163,0.61529
@@ -205,6 +206,7 @@ a3-highgpu-2g,52.0,468.0,,,,europe-west1,europe-west1-b,2.60412,1.28612
 a3-highgpu-2g,52.0,468.0,,,,europe-west1,europe-west1-c,2.60412,1.28612
 a3-highgpu-2g,52.0,468.0,,,,europe-west2,europe-west2-b,2.69612,0.24294
 a3-highgpu-2g,52.0,468.0,,,,europe-west2,europe-west2-c,2.69612,0.24294
+a3-highgpu-2g,52.0,468.0,,,,europe-west3,europe-west3-a,2.79072,1.5261
 a3-highgpu-2g,52.0,468.0,,,,europe-west3,europe-west3-c,2.79072,1.5261
 a3-highgpu-2g,52.0,468.0,,,,europe-west4,europe-west4-b,2.48327,1.23058
 a3-highgpu-2g,52.0,468.0,,,,europe-west4,europe-west4-c,2.48327,1.23058
@@ -235,6 +237,7 @@ a3-highgpu-4g,104.0,936.0,,,,europe-west1,europe-west1-b,5.20824,2.57223
 a3-highgpu-4g,104.0,936.0,,,,europe-west1,europe-west1-c,5.20824,2.57223
 a3-highgpu-4g,104.0,936.0,,,,europe-west2,europe-west2-b,5.39223,0.48589
 a3-highgpu-4g,104.0,936.0,,,,europe-west2,europe-west2-c,5.39223,0.48589
+a3-highgpu-4g,104.0,936.0,,,,europe-west3,europe-west3-a,5.58144,3.05219
 a3-highgpu-4g,104.0,936.0,,,,europe-west3,europe-west3-c,5.58144,3.05219
 a3-highgpu-4g,104.0,936.0,,,,europe-west4,europe-west4-b,4.96653,2.46116
 a3-highgpu-4g,104.0,936.0,,,,europe-west4,europe-west4-c,4.96653,2.46116
@@ -265,6 +268,7 @@ a3-highgpu-8g,208.0,1872.0,,,,europe-west1,europe-west1-b,10.41647,5.14446
 a3-highgpu-8g,208.0,1872.0,,,,europe-west1,europe-west1-c,10.41647,5.14446
 a3-highgpu-8g,208.0,1872.0,,,,europe-west2,europe-west2-b,10.78447,0.97178
 a3-highgpu-8g,208.0,1872.0,,,,europe-west2,europe-west2-c,10.78447,0.97178
+a3-highgpu-8g,208.0,1872.0,,,,europe-west3,europe-west3-a,11.16287,6.10438
 a3-highgpu-8g,208.0,1872.0,,,,europe-west3,europe-west3-c,11.16287,6.10438
 a3-highgpu-8g,208.0,1872.0,,,,europe-west4,europe-west4-b,9.93306,4.92232
 a3-highgpu-8g,208.0,1872.0,,,,europe-west4,europe-west4-c,9.93306,4.92232
