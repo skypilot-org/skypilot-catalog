@@ -1,6 +1,6 @@
 AcceleratorName,Clouds
 A10,"['Azure', 'Lambda', 'OCI', 'Shadeform']"
-A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'OCI', 'PrimeIntellect', 'Shadeform', 'Vast']"
+A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'OCI', 'PrimeIntellect', 'Shadeform', 'Vast', 'Verda']"
 A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Verda', 'scp']"
 A100-80GB-SXM,['RunPod']
 A10G,['AWS']
@@ -10,6 +10,7 @@ A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 B200,"['AWS', 'GCP', 'Lambda', 'PrimeIntellect', 'RunPod', 'nebius']"
+B200-CC,['Verda']
 B300,"['AWS', 'RunPod', 'nebius']"
 GAUDI2,['Shadeform']
 GH200,"['Lambda', 'Shadeform']"
@@ -35,6 +36,8 @@ P4000,['Paperspace']
 PRO-6000-MIG-24GB,['RunPod']
 RTX PRO 4500,['AWS']
 RTX PRO 6000 96GB,['Seeweb']
+RTX-6000-Ada,['Verda']
+RTX-A6000,['Verda']
 RTX-PRO-6000,['Verda']
 RTX-PRO-6000-CC,['Verda']
 RTX2000-Ada,['RunPod']
