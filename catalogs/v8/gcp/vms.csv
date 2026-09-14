@@ -11096,6 +11096,7 @@ c4d-highmem-384-lssd,384.0,3024.0,,,,us-west4,us-west4-c,26.04996,5.66438
 c4d-highmem-384-metal,384.0,3072.0,,,,asia-southeast1,asia-southeast1-b,28.74096,10.31654
 c4d-highmem-384-metal,384.0,3072.0,,,,europe-west4,europe-west4-a,24.4614,10.63526
 c4d-highmem-384-metal,384.0,3072.0,,,,europe-west4,europe-west4-b,24.4614,10.63526
+c4d-highmem-384-metal,384.0,3072.0,,,,us-central1,us-central1-b,23.29656,9.43411
 c4d-highmem-384-metal,384.0,3072.0,,,,us-east4,us-east4-b,23.29656,11.83027
 c4d-highmem-4,4.0,31.0,,,,africa-south1,africa-south1-a,0.26336,0.12462
 c4d-highmem-4,4.0,31.0,,,,africa-south1,africa-south1-c,0.26336,0.12462
