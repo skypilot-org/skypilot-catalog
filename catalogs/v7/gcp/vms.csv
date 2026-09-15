@@ -21170,6 +21170,7 @@ t2d-standard-8,8.0,32.0,,,,us-west4,us-west4-c,0.38064,0.21066
 ,,,A100-80GB,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east5,us-east5-a,35.39358,9.9256
 ,,,A100-80GB,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 81920}}]},us-east5,us-east5-b,35.39358,9.9256
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},asia-northeast1,asia-northeast1-b,64.44,49.8256
+,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},asia-south2,asia-south2-c,64.44,14.9128
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},asia-southeast1,asia-southeast1-b,154.656,39.2168
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},europe-north1,europe-north1-b,64.44,43.4984
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},europe-north1,europe-north1-c,64.44,43.4984
