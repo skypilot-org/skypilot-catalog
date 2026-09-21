@@ -2615,6 +2615,7 @@ c3-highmem-192-metal,192.0,1536.0,,,,asia-east1,asia-east1-a,14.70714,3.68525
 c3-highmem-192-metal,192.0,1536.0,,,,asia-east1,asia-east1-c,14.70714,3.68525
 c3-highmem-192-metal,192.0,1536.0,,,,asia-south1,asia-south1-b,13.20963,2.17728
 c3-highmem-192-metal,192.0,1536.0,,,,asia-southeast1,asia-southeast1-a,15.66992,8.45146
+c3-highmem-192-metal,192.0,1536.0,,,,asia-southeast1,asia-southeast1-c,15.66992,8.45146
 c3-highmem-192-metal,192.0,1536.0,,,,europe-north2,europe-north2-a,13.33665,4.10377
 c3-highmem-192-metal,192.0,1536.0,,,,europe-north2,europe-north2-b,13.33665,4.10377
 c3-highmem-192-metal,192.0,1536.0,,,,europe-west1,europe-west1-b,13.98569,5.28422
@@ -15029,6 +15030,7 @@ g4-standard-12,12.0,45.0,,,,us-west1,us-west1-c,0.85107,0.35037
 g4-standard-12,12.0,45.0,,,,us-west3,us-west3-a,0.93618,0.38919
 g4-standard-12,12.0,45.0,,,,us-west4,us-west4-a,0.93618,0.44979
 g4-standard-12,12.0,45.0,,,,us-west4,us-west4-b,0.93618,0.44979
+g4-standard-12,12.0,45.0,,,,us-west4,us-west4-c,0.93618,0.44979
 g4-standard-192,192.0,720.0,,,,asia-east1,asia-east1-a,17.70226,8.18544
 g4-standard-192,192.0,720.0,,,,asia-northeast1,asia-northeast1-b,17.70226,6.73368
 g4-standard-192,192.0,720.0,,,,asia-south1,asia-south1-c,17.70096,6.726
@@ -15113,6 +15115,7 @@ g4-standard-24,24.0,90.0,,,,us-west1,us-west1-c,1.70214,0.70074
 g4-standard-24,24.0,90.0,,,,us-west3,us-west3-a,1.87235,0.77838
 g4-standard-24,24.0,90.0,,,,us-west4,us-west4-a,1.87235,0.89958
 g4-standard-24,24.0,90.0,,,,us-west4,us-west4-b,1.87235,0.89958
+g4-standard-24,24.0,90.0,,,,us-west4,us-west4-c,1.87235,0.89958
 g4-standard-384,384.0,1440.0,,,,asia-east1,asia-east1-a,35.40451,16.37088
 g4-standard-384,384.0,1440.0,,,,asia-northeast1,asia-northeast1-b,35.40451,13.46736
 g4-standard-384,384.0,1440.0,,,,asia-south1,asia-south1-c,35.40192,13.452
@@ -15240,6 +15243,7 @@ g4-standard-6,6.0,22.0,,,,us-west1,us-west1-c,0.4226,0.17398
 g4-standard-6,6.0,22.0,,,,us-west3,us-west3-a,0.46486,0.19325
 g4-standard-6,6.0,22.0,,,,us-west4,us-west4-a,0.46486,0.22334
 g4-standard-6,6.0,22.0,,,,us-west4,us-west4-b,0.46486,0.22334
+g4-standard-6,6.0,22.0,,,,us-west4,us-west4-c,0.46486,0.22334
 g4-standard-96,96.0,360.0,,,,asia-east1,asia-east1-a,8.85113,4.09272
 g4-standard-96,96.0,360.0,,,,asia-northeast1,asia-northeast1-b,8.85113,3.36684
 g4-standard-96,96.0,360.0,,,,asia-south1,asia-south1-c,8.85048,3.363
