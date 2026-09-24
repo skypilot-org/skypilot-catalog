@@ -1,0 +1,30 @@
+InstanceType,AcceleratorName,AcceleratorCount,vCPUs,MemoryGiB,GpuInfo,Region,SpotPrice,Price
+1x_L4_28V_124G,L4,1,28.0,124,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 24576}",IN2,,0.44
+2x_L4_56V_248G,L4,2,56.0,248,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'Nvidia', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 49152}",IN2,,0.88
+4x_L4_112V_496G,L4,4,112.0,496,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'Nvidia', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 98304}",IN2,,1.76
+8x_L4_224V_992G,L4,8,224.0,992,"{'Gpus': [{'Name': 'L4', 'Manufacturer': 'Nvidia', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 24576}}], 'TotalGpuMemoryInMiB': 196608}",IN2,,3.52
+1x_A100-80GB_28V_112G,A100-80GB,1,28.0,112,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",IN2,,1.49
+2x_A100-80GB_56V_224G,A100-80GB,2,56.0,224,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'Nvidia', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 163840}",IN2,,2.98
+4x_A100-80GB_112V_448G,A100-80GB,4,112.0,448,"{'Gpus': [{'Name': 'A100-80GB', 'Manufacturer': 'Nvidia', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 327680}",IN2,,5.96
+1x_RTXPRO6000_28V_160G,RTXPRO6000,1,28.0,160,"{'Gpus': [{'Name': 'RTXPRO6000', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 98304}",IN1,,1.89
+2x_RTXPRO6000_56V_320G,RTXPRO6000,2,56.0,320,"{'Gpus': [{'Name': 'RTXPRO6000', 'Manufacturer': 'Nvidia', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 196608}",IN1,,3.78
+4x_RTXPRO6000_112V_640G,RTXPRO6000,4,112.0,640,"{'Gpus': [{'Name': 'RTXPRO6000', 'Manufacturer': 'Nvidia', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 393216}",IN1,,7.56
+8x_RTXPRO6000_224V_1280G,RTXPRO6000,8,224.0,1280,"{'Gpus': [{'Name': 'RTXPRO6000', 'Manufacturer': 'Nvidia', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 98304}}], 'TotalGpuMemoryInMiB': 786432}",IN1,,15.12
+1x_H100_24V_200G,H100,1,24.0,200,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 81920}",IN2,,2.69
+2x_H100_48V_400G,H100,2,48.0,400,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'Nvidia', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 163840}",IN2,,5.38
+4x_H100_96V_800G,H100,4,96.0,800,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'Nvidia', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 327680}",IN2,,10.76
+8x_H100_192V_1600G,H100,8,192.0,1600,"{'Gpus': [{'Name': 'H100', 'Manufacturer': 'Nvidia', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 81920}}], 'TotalGpuMemoryInMiB': 655360}",IN2,,21.52
+1x_H200_28V_300G,H200,1,28.0,300,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'Nvidia', 'Count': 1, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 144384}",IN2,,3.99
+2x_H200_56V_600G,H200,2,56.0,600,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'Nvidia', 'Count': 2, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 288768}",IN2,,7.98
+4x_H200_112V_1200G,H200,4,112.0,1200,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'Nvidia', 'Count': 4, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 577536}",IN2,,15.96
+8x_H200_224V_2400G,H200,8,224.0,2400,"{'Gpus': [{'Name': 'H200', 'Manufacturer': 'Nvidia', 'Count': 8, 'MemoryInfo': {'SizeInMiB': 144384}}], 'TotalGpuMemoryInMiB': 1155072}",IN2,,31.92
+CPU_2V_8G,,,2.0,8,,IN1,,0.0496
+CPU_2V_8G,,,2.0,8,,IN2,,0.0496
+CPU_4V_16G,,,4.0,16,,IN1,,0.0992
+CPU_4V_16G,,,4.0,16,,IN2,,0.0992
+CPU_8V_32G,,,8.0,32,,IN1,,0.1984
+CPU_8V_32G,,,8.0,32,,IN2,,0.1984
+CPU_16V_64G,,,16.0,64,,IN1,,0.3968
+CPU_16V_64G,,,16.0,64,,IN2,,0.3968
+CPU_32V_128G,,,32.0,128,,IN1,,0.7936
+CPU_32V_128G,,,32.0,128,,IN2,,0.7936
