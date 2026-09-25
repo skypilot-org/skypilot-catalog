@@ -7225,6 +7225,7 @@ c4-highmem-288-lssd-metal,288.0,2232.0,,,,us-west1,us-west1-b,18.76882,11.23394
 c4-highmem-288-lssd-metal,288.0,2232.0,,,,us-west1,us-west1-c,18.76882,11.23394
 c4-highmem-288-lssd-metal,288.0,2232.0,,,,us-west4,us-west4-b,21.13932,7.18762
 c4-highmem-288-metal,288.0,2232.0,,,,asia-northeast1,asia-northeast1-a,24.10291,13.7363
+c4-highmem-288-metal,288.0,2232.0,,,,asia-south2,asia-south2-a,19.52018,8.11534
 c4-highmem-288-metal,288.0,2232.0,,,,asia-southeast1,asia-southeast1-a,23.15509,11.1726
 c4-highmem-288-metal,288.0,2232.0,,,,asia-southeast1,asia-southeast1-b,23.15509,11.1726
 c4-highmem-288-metal,288.0,2232.0,,,,asia-southeast1,asia-southeast1-c,23.15509,11.1726
