@@ -2573,6 +2573,7 @@ c3-highmem-176,176.0,1408.0,,,,me-central2,me-central2-c,18.62897,3.1937
 c3-highmem-176,176.0,1408.0,,,,northamerica-northeast1,northamerica-northeast1-a,12.82022,3.88784
 c3-highmem-176,176.0,1408.0,,,,northamerica-northeast1,northamerica-northeast1-b,12.82022,3.88784
 c3-highmem-176,176.0,1408.0,,,,northamerica-northeast2,northamerica-northeast2-a,12.82022,1.39498
+c3-highmem-176,176.0,1408.0,,,,southamerica-east1,southamerica-east1-a,18.48809,1.93917
 c3-highmem-176,176.0,1408.0,,,,us-central1,us-central1-a,11.6431,4.60346
 c3-highmem-176,176.0,1408.0,,,,us-central1,us-central1-b,11.6431,4.60346
 c3-highmem-176,176.0,1408.0,,,,us-central1,us-central1-c,11.6431,4.60346
@@ -2649,6 +2650,7 @@ c3-highmem-22,22.0,176.0,,,,me-central2,me-central2-c,2.32862,0.39921
 c3-highmem-22,22.0,176.0,,,,northamerica-northeast1,northamerica-northeast1-a,1.60253,0.48598
 c3-highmem-22,22.0,176.0,,,,northamerica-northeast1,northamerica-northeast1-b,1.60253,0.48598
 c3-highmem-22,22.0,176.0,,,,northamerica-northeast2,northamerica-northeast2-a,1.60253,0.17437
+c3-highmem-22,22.0,176.0,,,,southamerica-east1,southamerica-east1-a,2.31101,0.2424
 c3-highmem-22,22.0,176.0,,,,us-central1,us-central1-a,1.45539,0.57543
 c3-highmem-22,22.0,176.0,,,,us-central1,us-central1-b,1.45539,0.57543
 c3-highmem-22,22.0,176.0,,,,us-central1,us-central1-c,1.45539,0.57543
@@ -2699,6 +2701,7 @@ c3-highmem-4,4.0,32.0,,,,me-central2,me-central2-c,0.42339,0.07258
 c3-highmem-4,4.0,32.0,,,,northamerica-northeast1,northamerica-northeast1-a,0.29137,0.08836
 c3-highmem-4,4.0,32.0,,,,northamerica-northeast1,northamerica-northeast1-b,0.29137,0.08836
 c3-highmem-4,4.0,32.0,,,,northamerica-northeast2,northamerica-northeast2-a,0.29137,0.0317
+c3-highmem-4,4.0,32.0,,,,southamerica-east1,southamerica-east1-a,0.42018,0.04407
 c3-highmem-4,4.0,32.0,,,,us-central1,us-central1-a,0.26462,0.10462
 c3-highmem-4,4.0,32.0,,,,us-central1,us-central1-b,0.26462,0.10462
 c3-highmem-4,4.0,32.0,,,,us-central1,us-central1-c,0.26462,0.10462
@@ -2749,6 +2752,7 @@ c3-highmem-44,44.0,352.0,,,,me-central2,me-central2-c,4.65724,0.79842
 c3-highmem-44,44.0,352.0,,,,northamerica-northeast1,northamerica-northeast1-a,3.20506,0.97196
 c3-highmem-44,44.0,352.0,,,,northamerica-northeast1,northamerica-northeast1-b,3.20506,0.97196
 c3-highmem-44,44.0,352.0,,,,northamerica-northeast2,northamerica-northeast2-a,3.20506,0.34874
+c3-highmem-44,44.0,352.0,,,,southamerica-east1,southamerica-east1-a,4.62202,0.48479
 c3-highmem-44,44.0,352.0,,,,us-central1,us-central1-a,2.91078,1.15086
 c3-highmem-44,44.0,352.0,,,,us-central1,us-central1-b,2.91078,1.15086
 c3-highmem-44,44.0,352.0,,,,us-central1,us-central1-c,2.91078,1.15086
@@ -2799,6 +2803,7 @@ c3-highmem-8,8.0,64.0,,,,me-central2,me-central2-c,0.84677,0.14517
 c3-highmem-8,8.0,64.0,,,,northamerica-northeast1,northamerica-northeast1-a,0.58274,0.17672
 c3-highmem-8,8.0,64.0,,,,northamerica-northeast1,northamerica-northeast1-b,0.58274,0.17672
 c3-highmem-8,8.0,64.0,,,,northamerica-northeast2,northamerica-northeast2-a,0.58274,0.06341
+c3-highmem-8,8.0,64.0,,,,southamerica-east1,southamerica-east1-a,0.84037,0.08814
 c3-highmem-8,8.0,64.0,,,,us-central1,us-central1-a,0.52923,0.20925
 c3-highmem-8,8.0,64.0,,,,us-central1,us-central1-b,0.52923,0.20925
 c3-highmem-8,8.0,64.0,,,,us-central1,us-central1-c,0.52923,0.20925
@@ -2849,6 +2854,7 @@ c3-highmem-88,88.0,704.0,,,,me-central2,me-central2-c,9.31448,1.59685
 c3-highmem-88,88.0,704.0,,,,northamerica-northeast1,northamerica-northeast1-a,6.41011,1.94392
 c3-highmem-88,88.0,704.0,,,,northamerica-northeast1,northamerica-northeast1-b,6.41011,1.94392
 c3-highmem-88,88.0,704.0,,,,northamerica-northeast2,northamerica-northeast2-a,6.41011,0.69749
+c3-highmem-88,88.0,704.0,,,,southamerica-east1,southamerica-east1-a,9.24404,0.96958
 c3-highmem-88,88.0,704.0,,,,us-central1,us-central1-a,5.82155,2.30173
 c3-highmem-88,88.0,704.0,,,,us-central1,us-central1-b,5.82155,2.30173
 c3-highmem-88,88.0,704.0,,,,us-central1,us-central1-c,5.82155,2.30173
