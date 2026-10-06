@@ -65,10 +65,7 @@ jobs:
 
             cd sky
             if [ "$commit_hash" == "latest" ]; then
-              # BLOCKER FOR PRODUCTION: resolves `latest` to the fork's
-              # integration branch. Revert to master together with the
-              # `repository:`/`ref:` override above, once JarvisLabs merges.
-              commit_hash=$(git rev-parse origin/feat/jarvislab-integration)
+              commit_hash=$(git rev-parse origin/master)
             fi
             git checkout $commit_hash
             uv pip install ".[jarvislabs]"
