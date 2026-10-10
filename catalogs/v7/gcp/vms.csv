@@ -17346,6 +17346,7 @@ n4-highcpu-16,16.0,32.0,,,,europe-west9,europe-west9-c,0.71029,0.23091
 n4-highcpu-16,16.0,32.0,,,,me-central1,me-central1-b,0.74397,0.34221
 n4-highcpu-16,16.0,32.0,,,,me-central1,me-central1-c,0.74397,0.34221
 n4-highcpu-16,16.0,32.0,,,,me-central2,me-central2-a,0.97971,0.17859
+n4-highcpu-16,16.0,32.0,,,,me-central2,me-central2-b,0.97971,0.17859
 n4-highcpu-16,16.0,32.0,,,,me-central2,me-central2-c,0.97971,0.17859
 n4-highcpu-16,16.0,32.0,,,,me-west1,me-west1-a,0.67355,0.2167
 n4-highcpu-16,16.0,32.0,,,,me-west1,me-west1-b,0.67355,0.2167
@@ -17463,6 +17464,7 @@ n4-highcpu-2,2.0,4.0,,,,europe-west9,europe-west9-c,0.08879,0.02886
 n4-highcpu-2,2.0,4.0,,,,me-central1,me-central1-b,0.093,0.04278
 n4-highcpu-2,2.0,4.0,,,,me-central1,me-central1-c,0.093,0.04278
 n4-highcpu-2,2.0,4.0,,,,me-central2,me-central2-a,0.12246,0.02232
+n4-highcpu-2,2.0,4.0,,,,me-central2,me-central2-b,0.12246,0.02232
 n4-highcpu-2,2.0,4.0,,,,me-central2,me-central2-c,0.12246,0.02232
 n4-highcpu-2,2.0,4.0,,,,me-west1,me-west1-a,0.08419,0.02709
 n4-highcpu-2,2.0,4.0,,,,me-west1,me-west1-b,0.08419,0.02709
@@ -17580,6 +17582,7 @@ n4-highcpu-32,32.0,64.0,,,,europe-west9,europe-west9-c,1.42058,0.46182
 n4-highcpu-32,32.0,64.0,,,,me-central1,me-central1-b,1.48794,0.68442
 n4-highcpu-32,32.0,64.0,,,,me-central1,me-central1-c,1.48794,0.68442
 n4-highcpu-32,32.0,64.0,,,,me-central2,me-central2-a,1.95942,0.35718
+n4-highcpu-32,32.0,64.0,,,,me-central2,me-central2-b,1.95942,0.35718
 n4-highcpu-32,32.0,64.0,,,,me-central2,me-central2-c,1.95942,0.35718
 n4-highcpu-32,32.0,64.0,,,,me-west1,me-west1-a,1.3471,0.43341
 n4-highcpu-32,32.0,64.0,,,,me-west1,me-west1-b,1.3471,0.43341
@@ -17697,6 +17700,7 @@ n4-highcpu-4,4.0,8.0,,,,europe-west9,europe-west9-c,0.17757,0.05773
 n4-highcpu-4,4.0,8.0,,,,me-central1,me-central1-b,0.18599,0.08555
 n4-highcpu-4,4.0,8.0,,,,me-central1,me-central1-c,0.18599,0.08555
 n4-highcpu-4,4.0,8.0,,,,me-central2,me-central2-a,0.24493,0.04465
+n4-highcpu-4,4.0,8.0,,,,me-central2,me-central2-b,0.24493,0.04465
 n4-highcpu-4,4.0,8.0,,,,me-central2,me-central2-c,0.24493,0.04465
 n4-highcpu-4,4.0,8.0,,,,me-west1,me-west1-a,0.16839,0.05418
 n4-highcpu-4,4.0,8.0,,,,me-west1,me-west1-b,0.16839,0.05418
@@ -17814,6 +17818,7 @@ n4-highcpu-48,48.0,96.0,,,,europe-west9,europe-west9-c,2.13087,0.69274
 n4-highcpu-48,48.0,96.0,,,,me-central1,me-central1-b,2.23191,1.02662
 n4-highcpu-48,48.0,96.0,,,,me-central1,me-central1-c,2.23191,1.02662
 n4-highcpu-48,48.0,96.0,,,,me-central2,me-central2-a,2.93914,0.53578
+n4-highcpu-48,48.0,96.0,,,,me-central2,me-central2-b,2.93914,0.53578
 n4-highcpu-48,48.0,96.0,,,,me-central2,me-central2-c,2.93914,0.53578
 n4-highcpu-48,48.0,96.0,,,,me-west1,me-west1-a,2.02066,0.65011
 n4-highcpu-48,48.0,96.0,,,,me-west1,me-west1-b,2.02066,0.65011
@@ -17931,6 +17936,7 @@ n4-highcpu-64,64.0,128.0,,,,europe-west9,europe-west9-c,2.84116,0.92365
 n4-highcpu-64,64.0,128.0,,,,me-central1,me-central1-b,2.97588,1.36883
 n4-highcpu-64,64.0,128.0,,,,me-central1,me-central1-c,2.97588,1.36883
 n4-highcpu-64,64.0,128.0,,,,me-central2,me-central2-a,3.91885,0.71437
+n4-highcpu-64,64.0,128.0,,,,me-central2,me-central2-b,3.91885,0.71437
 n4-highcpu-64,64.0,128.0,,,,me-central2,me-central2-c,3.91885,0.71437
 n4-highcpu-64,64.0,128.0,,,,me-west1,me-west1-a,2.69421,0.86682
 n4-highcpu-64,64.0,128.0,,,,me-west1,me-west1-b,2.69421,0.86682
@@ -18048,6 +18054,7 @@ n4-highcpu-8,8.0,16.0,,,,europe-west9,europe-west9-c,0.35515,0.11546
 n4-highcpu-8,8.0,16.0,,,,me-central1,me-central1-b,0.37198,0.1711
 n4-highcpu-8,8.0,16.0,,,,me-central1,me-central1-c,0.37198,0.1711
 n4-highcpu-8,8.0,16.0,,,,me-central2,me-central2-a,0.48986,0.0893
+n4-highcpu-8,8.0,16.0,,,,me-central2,me-central2-b,0.48986,0.0893
 n4-highcpu-8,8.0,16.0,,,,me-central2,me-central2-c,0.48986,0.0893
 n4-highcpu-8,8.0,16.0,,,,me-west1,me-west1-a,0.33678,0.10835
 n4-highcpu-8,8.0,16.0,,,,me-west1,me-west1-b,0.33678,0.10835
@@ -18165,6 +18172,7 @@ n4-highcpu-80,80.0,160.0,,,,europe-west9,europe-west9-c,3.55146,1.15456
 n4-highcpu-80,80.0,160.0,,,,me-central1,me-central1-b,3.71984,1.71104
 n4-highcpu-80,80.0,160.0,,,,me-central1,me-central1-c,3.71984,1.71104
 n4-highcpu-80,80.0,160.0,,,,me-central2,me-central2-a,4.89856,0.89296
+n4-highcpu-80,80.0,160.0,,,,me-central2,me-central2-b,4.89856,0.89296
 n4-highcpu-80,80.0,160.0,,,,me-central2,me-central2-c,4.89856,0.89296
 n4-highcpu-80,80.0,160.0,,,,me-west1,me-west1-a,3.36776,1.08352
 n4-highcpu-80,80.0,160.0,,,,me-west1,me-west1-b,3.36776,1.08352
@@ -18282,6 +18290,7 @@ n4-highmem-16,16.0,128.0,,,,europe-west9,europe-west9-c,1.10451,0.35917
 n4-highmem-16,16.0,128.0,,,,me-central1,me-central1-b,1.15687,0.53219
 n4-highmem-16,16.0,128.0,,,,me-central1,me-central1-c,1.15687,0.53219
 n4-highmem-16,16.0,128.0,,,,me-central2,me-central2-a,1.52346,0.27757
+n4-highmem-16,16.0,128.0,,,,me-central2,me-central2-b,1.52346,0.27757
 n4-highmem-16,16.0,128.0,,,,me-central2,me-central2-c,1.52346,0.27757
 n4-highmem-16,16.0,128.0,,,,me-west1,me-west1-a,1.04738,0.3369
 n4-highmem-16,16.0,128.0,,,,me-west1,me-west1-b,1.04738,0.3369
@@ -18399,6 +18408,7 @@ n4-highmem-2,2.0,16.0,,,,europe-west9,europe-west9-c,0.13806,0.0449
 n4-highmem-2,2.0,16.0,,,,me-central1,me-central1-b,0.14461,0.06652
 n4-highmem-2,2.0,16.0,,,,me-central1,me-central1-c,0.14461,0.06652
 n4-highmem-2,2.0,16.0,,,,me-central2,me-central2-a,0.19043,0.0347
+n4-highmem-2,2.0,16.0,,,,me-central2,me-central2-b,0.19043,0.0347
 n4-highmem-2,2.0,16.0,,,,me-central2,me-central2-c,0.19043,0.0347
 n4-highmem-2,2.0,16.0,,,,me-west1,me-west1-a,0.13092,0.04211
 n4-highmem-2,2.0,16.0,,,,me-west1,me-west1-b,0.13092,0.04211
@@ -18516,6 +18526,7 @@ n4-highmem-32,32.0,256.0,,,,europe-west9,europe-west9-c,2.20901,0.71834
 n4-highmem-32,32.0,256.0,,,,me-central1,me-central1-b,2.31375,1.06438
 n4-highmem-32,32.0,256.0,,,,me-central1,me-central1-c,2.31375,1.06438
 n4-highmem-32,32.0,256.0,,,,me-central2,me-central2-a,3.04691,0.55514
+n4-highmem-32,32.0,256.0,,,,me-central2,me-central2-b,3.04691,0.55514
 n4-highmem-32,32.0,256.0,,,,me-central2,me-central2-c,3.04691,0.55514
 n4-highmem-32,32.0,256.0,,,,me-west1,me-west1-a,2.09475,0.67379
 n4-highmem-32,32.0,256.0,,,,me-west1,me-west1-b,2.09475,0.67379
@@ -18633,6 +18644,7 @@ n4-highmem-4,4.0,32.0,,,,europe-west9,europe-west9-c,0.27613,0.08979
 n4-highmem-4,4.0,32.0,,,,me-central1,me-central1-b,0.28922,0.13305
 n4-highmem-4,4.0,32.0,,,,me-central1,me-central1-c,0.28922,0.13305
 n4-highmem-4,4.0,32.0,,,,me-central2,me-central2-a,0.38086,0.06939
+n4-highmem-4,4.0,32.0,,,,me-central2,me-central2-b,0.38086,0.06939
 n4-highmem-4,4.0,32.0,,,,me-central2,me-central2-c,0.38086,0.06939
 n4-highmem-4,4.0,32.0,,,,me-west1,me-west1-a,0.26184,0.08422
 n4-highmem-4,4.0,32.0,,,,me-west1,me-west1-b,0.26184,0.08422
@@ -18750,6 +18762,7 @@ n4-highmem-48,48.0,384.0,,,,europe-west9,europe-west9-c,3.31352,1.0775
 n4-highmem-48,48.0,384.0,,,,me-central1,me-central1-b,3.47062,1.59658
 n4-highmem-48,48.0,384.0,,,,me-central1,me-central1-c,3.47062,1.59658
 n4-highmem-48,48.0,384.0,,,,me-central2,me-central2-a,4.57037,0.8327
+n4-highmem-48,48.0,384.0,,,,me-central2,me-central2-b,4.57037,0.8327
 n4-highmem-48,48.0,384.0,,,,me-central2,me-central2-c,4.57037,0.8327
 n4-highmem-48,48.0,384.0,,,,me-west1,me-west1-a,3.14213,1.01069
 n4-highmem-48,48.0,384.0,,,,me-west1,me-west1-b,3.14213,1.01069
@@ -18867,6 +18880,7 @@ n4-highmem-64,64.0,512.0,,,,europe-west9,europe-west9-c,4.41802,1.43667
 n4-highmem-64,64.0,512.0,,,,me-central1,me-central1-b,4.6275,2.12877
 n4-highmem-64,64.0,512.0,,,,me-central1,me-central1-c,4.6275,2.12877
 n4-highmem-64,64.0,512.0,,,,me-central2,me-central2-a,6.09382,1.11027
+n4-highmem-64,64.0,512.0,,,,me-central2,me-central2-b,6.09382,1.11027
 n4-highmem-64,64.0,512.0,,,,me-central2,me-central2-c,6.09382,1.11027
 n4-highmem-64,64.0,512.0,,,,me-west1,me-west1-a,4.1895,1.34758
 n4-highmem-64,64.0,512.0,,,,me-west1,me-west1-b,4.1895,1.34758
@@ -18984,6 +18998,7 @@ n4-highmem-8,8.0,64.0,,,,europe-west9,europe-west9-c,0.55225,0.17958
 n4-highmem-8,8.0,64.0,,,,me-central1,me-central1-b,0.57844,0.2661
 n4-highmem-8,8.0,64.0,,,,me-central1,me-central1-c,0.57844,0.2661
 n4-highmem-8,8.0,64.0,,,,me-central2,me-central2-a,0.76173,0.13878
+n4-highmem-8,8.0,64.0,,,,me-central2,me-central2-b,0.76173,0.13878
 n4-highmem-8,8.0,64.0,,,,me-central2,me-central2-c,0.76173,0.13878
 n4-highmem-8,8.0,64.0,,,,me-west1,me-west1-a,0.52369,0.16845
 n4-highmem-8,8.0,64.0,,,,me-west1,me-west1-b,0.52369,0.16845
@@ -19101,6 +19116,7 @@ n4-highmem-80,80.0,640.0,,,,europe-west9,europe-west9-c,5.52253,1.79584
 n4-highmem-80,80.0,640.0,,,,me-central1,me-central1-b,5.78437,2.66096
 n4-highmem-80,80.0,640.0,,,,me-central1,me-central1-c,5.78437,2.66096
 n4-highmem-80,80.0,640.0,,,,me-central2,me-central2-a,7.61728,1.38784
+n4-highmem-80,80.0,640.0,,,,me-central2,me-central2-b,7.61728,1.38784
 n4-highmem-80,80.0,640.0,,,,me-central2,me-central2-c,7.61728,1.38784
 n4-highmem-80,80.0,640.0,,,,me-west1,me-west1-a,5.23688,1.68448
 n4-highmem-80,80.0,640.0,,,,me-west1,me-west1-b,5.23688,1.68448
@@ -19218,6 +19234,7 @@ n4-standard-16,16.0,64.0,,,,europe-west9,europe-west9-c,0.8417,0.27366
 n4-standard-16,16.0,64.0,,,,me-central1,me-central1-b,0.8816,0.40554
 n4-standard-16,16.0,64.0,,,,me-central1,me-central1-c,0.8816,0.40554
 n4-standard-16,16.0,64.0,,,,me-central2,me-central2-a,1.16096,0.21158
+n4-standard-16,16.0,64.0,,,,me-central2,me-central2-b,1.16096,0.21158
 n4-standard-16,16.0,64.0,,,,me-central2,me-central2-c,1.16096,0.21158
 n4-standard-16,16.0,64.0,,,,me-west1,me-west1-a,0.79816,0.25677
 n4-standard-16,16.0,64.0,,,,me-west1,me-west1-b,0.79816,0.25677
@@ -19335,6 +19352,7 @@ n4-standard-2,2.0,8.0,,,,europe-west9,europe-west9-c,0.10521,0.03421
 n4-standard-2,2.0,8.0,,,,me-central1,me-central1-b,0.1102,0.05069
 n4-standard-2,2.0,8.0,,,,me-central1,me-central1-c,0.1102,0.05069
 n4-standard-2,2.0,8.0,,,,me-central2,me-central2-a,0.14512,0.02645
+n4-standard-2,2.0,8.0,,,,me-central2,me-central2-b,0.14512,0.02645
 n4-standard-2,2.0,8.0,,,,me-central2,me-central2-c,0.14512,0.02645
 n4-standard-2,2.0,8.0,,,,me-west1,me-west1-a,0.09977,0.0321
 n4-standard-2,2.0,8.0,,,,me-west1,me-west1-b,0.09977,0.0321
@@ -19452,6 +19470,7 @@ n4-standard-32,32.0,128.0,,,,europe-west9,europe-west9-c,1.68339,0.54733
 n4-standard-32,32.0,128.0,,,,me-central1,me-central1-b,1.76321,0.81107
 n4-standard-32,32.0,128.0,,,,me-central1,me-central1-c,1.76321,0.81107
 n4-standard-32,32.0,128.0,,,,me-central2,me-central2-a,2.32192,0.42317
+n4-standard-32,32.0,128.0,,,,me-central2,me-central2-b,2.32192,0.42317
 n4-standard-32,32.0,128.0,,,,me-central2,me-central2-c,2.32192,0.42317
 n4-standard-32,32.0,128.0,,,,me-west1,me-west1-a,1.59632,0.51354
 n4-standard-32,32.0,128.0,,,,me-west1,me-west1-b,1.59632,0.51354
@@ -19569,6 +19588,7 @@ n4-standard-4,4.0,16.0,,,,europe-west9,europe-west9-c,0.21042,0.06842
 n4-standard-4,4.0,16.0,,,,me-central1,me-central1-b,0.2204,0.10138
 n4-standard-4,4.0,16.0,,,,me-central1,me-central1-c,0.2204,0.10138
 n4-standard-4,4.0,16.0,,,,me-central2,me-central2-a,0.29024,0.0529
+n4-standard-4,4.0,16.0,,,,me-central2,me-central2-b,0.29024,0.0529
 n4-standard-4,4.0,16.0,,,,me-central2,me-central2-c,0.29024,0.0529
 n4-standard-4,4.0,16.0,,,,me-west1,me-west1-a,0.19954,0.06419
 n4-standard-4,4.0,16.0,,,,me-west1,me-west1-b,0.19954,0.06419
@@ -19686,6 +19706,7 @@ n4-standard-48,48.0,192.0,,,,europe-west9,europe-west9-c,2.52509,0.82099
 n4-standard-48,48.0,192.0,,,,me-central1,me-central1-b,2.64481,1.21661
 n4-standard-48,48.0,192.0,,,,me-central1,me-central1-c,2.64481,1.21661
 n4-standard-48,48.0,192.0,,,,me-central2,me-central2-a,3.48288,0.63475
+n4-standard-48,48.0,192.0,,,,me-central2,me-central2-b,3.48288,0.63475
 n4-standard-48,48.0,192.0,,,,me-central2,me-central2-c,3.48288,0.63475
 n4-standard-48,48.0,192.0,,,,me-west1,me-west1-a,2.39448,0.7703
 n4-standard-48,48.0,192.0,,,,me-west1,me-west1-b,2.39448,0.7703
@@ -19803,6 +19824,7 @@ n4-standard-64,64.0,256.0,,,,europe-west9,europe-west9-c,3.36678,1.09466
 n4-standard-64,64.0,256.0,,,,me-central1,me-central1-b,3.52642,1.62214
 n4-standard-64,64.0,256.0,,,,me-central1,me-central1-c,3.52642,1.62214
 n4-standard-64,64.0,256.0,,,,me-central2,me-central2-a,4.64384,0.84634
+n4-standard-64,64.0,256.0,,,,me-central2,me-central2-b,4.64384,0.84634
 n4-standard-64,64.0,256.0,,,,me-central2,me-central2-c,4.64384,0.84634
 n4-standard-64,64.0,256.0,,,,me-west1,me-west1-a,3.19264,1.02707
 n4-standard-64,64.0,256.0,,,,me-west1,me-west1-b,3.19264,1.02707
@@ -19920,6 +19942,7 @@ n4-standard-8,8.0,32.0,,,,europe-west9,europe-west9-c,0.42085,0.13683
 n4-standard-8,8.0,32.0,,,,me-central1,me-central1-b,0.4408,0.20277
 n4-standard-8,8.0,32.0,,,,me-central1,me-central1-c,0.4408,0.20277
 n4-standard-8,8.0,32.0,,,,me-central2,me-central2-a,0.58048,0.10579
+n4-standard-8,8.0,32.0,,,,me-central2,me-central2-b,0.58048,0.10579
 n4-standard-8,8.0,32.0,,,,me-central2,me-central2-c,0.58048,0.10579
 n4-standard-8,8.0,32.0,,,,me-west1,me-west1-a,0.39908,0.12838
 n4-standard-8,8.0,32.0,,,,me-west1,me-west1-b,0.39908,0.12838
@@ -20037,6 +20060,7 @@ n4-standard-80,80.0,320.0,,,,europe-west9,europe-west9-c,4.20848,1.36832
 n4-standard-80,80.0,320.0,,,,me-central1,me-central1-b,4.40802,2.02768
 n4-standard-80,80.0,320.0,,,,me-central1,me-central1-c,4.40802,2.02768
 n4-standard-80,80.0,320.0,,,,me-central2,me-central2-a,5.8048,1.05792
+n4-standard-80,80.0,320.0,,,,me-central2,me-central2-b,5.8048,1.05792
 n4-standard-80,80.0,320.0,,,,me-central2,me-central2-c,5.8048,1.05792
 n4-standard-80,80.0,320.0,,,,me-west1,me-west1-a,3.9908,1.28384
 n4-standard-80,80.0,320.0,,,,me-west1,me-west1-b,3.9908,1.28384
