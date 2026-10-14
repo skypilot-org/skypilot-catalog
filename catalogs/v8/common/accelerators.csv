@@ -10,21 +10,22 @@ A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 B200,"['AWS', 'GCP', 'Lambda', 'PrimeIntellect', 'RunPod', 'nebius']"
 B200-CC,['Verda']
-B300,"['AWS', 'nebius']"
+B300,"['AWS', 'RunPod', 'nebius']"
+B300-CC,['Verda']
 GH200,['Lambda']
-H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Vast', 'nebius']"
+H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 H100-MEGA,['GCP']
 H100-NVL,['RunPod']
 H100-NVLINK,['Fluidstack']
 H100-SXM,"['Cudo', 'RunPod']"
-H200,"['AWS', 'GCP', 'Mithril', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'Yotta', 'nebius']"
+H200,"['AWS', 'GCP', 'Mithril', 'OCI', 'PrimeIntellect', 'Seeweb', 'Vast', 'Verda', 'Yotta', 'nebius']"
 H200-SXM,['RunPod']
 Inferentia,['AWS']
 Inferentia2,['AWS']
 K80,['Azure']
-L4,"['AWS', 'GCP', 'RunPod', 'Seeweb']"
+L4,"['AWS', 'GCP', 'RunPod', 'Seeweb', 'Shadeform']"
 L40,"['PrimeIntellect', 'RunPod', 'Shadeform']"
-L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'nebius']"
+L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
@@ -36,7 +37,7 @@ PRO-6000-MIG-24GB,['RunPod']
 PRO-6000-MIG-48GB,['RunPod']
 RTX PRO 4500,['AWS']
 RTX PRO 6000 96GB,['Seeweb']
-RTX-A6000,['Verda']
+RTX-6000-Ada,['Verda']
 RTX-PRO-6000,['Verda']
 RTX-PRO-6000-CC,['Verda']
 RTX2000-Ada,['RunPod']
@@ -56,9 +57,7 @@ RTXA4000,['RunPod']
 RTXA4500,['RunPod']
 RTXA5000,"['RunPod', 'Vast']"
 RTXA6000,"['RunPod', 'Seeweb', 'Vast']"
-RTXPRO4000,['RunPod']
 RTXPRO4500,['RunPod']
-RTXPRO4500-SE,['RunPod']
 RTXPRO5000,['RunPod']
 RTXPRO6000,"['AWS', 'GCP', 'RunPod', 'Shadeform', 'Yotta']"
 RTXPRO6000-WK,['RunPod']
@@ -68,7 +67,7 @@ T4,"['AWS', 'Azure', 'GCP']"
 T4g,['AWS']
 Trainium,['AWS']
 Trainium2,['AWS']
-V100,"['Azure', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'Shadeform', 'Vast']"
+V100,"['Azure', 'GCP', 'IBM', 'Lambda', 'OCI', 'Paperspace', 'PrimeIntellect', 'Shadeform', 'Vast', 'Verda']"
 V100-32GB,"['AWS', 'Azure', 'Paperspace', 'Shadeform', 'scp']"
 tpu-v2,['GCP']
 tpu-v3,['GCP']
