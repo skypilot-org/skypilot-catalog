@@ -15150,6 +15150,7 @@ g4-standard-12,12.0,45.0,,,,asia-southeast1,asia-southeast1-a,1.02128,0.42374
 g4-standard-12,12.0,45.0,,,,asia-southeast1,asia-southeast1-b,1.02128,0.42374
 g4-standard-12,12.0,45.0,,,,asia-southeast2,asia-southeast2-b,1.10631,0.45087
 g4-standard-12,12.0,45.0,,,,asia-southeast2,asia-southeast2-c,1.10631,0.45087
+g4-standard-12,12.0,45.0,,,,australia-southeast2,australia-southeast2-c,1.10639,0.42086
 g4-standard-12,12.0,45.0,,,,europe-north1,europe-north1-a,0.93618,0.38828
 g4-standard-12,12.0,45.0,,,,europe-north1,europe-north1-b,0.93618,0.38828
 g4-standard-12,12.0,45.0,,,,europe-north1,europe-north1-c,0.93618,0.38828
@@ -15193,6 +15194,7 @@ g4-standard-192,192.0,720.0,,,,asia-southeast1,asia-southeast1-b,16.34054,6.7797
 g4-standard-192,192.0,720.0,,,,asia-southeast1,asia-southeast1-c,16.34054,6.77976
 g4-standard-192,192.0,720.0,,,,asia-southeast2,asia-southeast2-b,17.70096,7.21392
 g4-standard-192,192.0,720.0,,,,asia-southeast2,asia-southeast2-c,17.70096,7.21392
+g4-standard-192,192.0,720.0,,,,australia-southeast2,australia-southeast2-c,17.70226,6.73368
 g4-standard-192,192.0,720.0,,,,europe-north1,europe-north1-a,14.97883,6.2124
 g4-standard-192,192.0,720.0,,,,europe-north1,europe-north1-b,14.97883,6.2124
 g4-standard-192,192.0,720.0,,,,europe-north1,europe-north1-c,14.97883,6.2124
@@ -15235,6 +15237,7 @@ g4-standard-24,24.0,90.0,,,,asia-southeast1,asia-southeast1-a,2.04257,0.84747
 g4-standard-24,24.0,90.0,,,,asia-southeast1,asia-southeast1-b,2.04257,0.84747
 g4-standard-24,24.0,90.0,,,,asia-southeast2,asia-southeast2-b,2.21262,0.90174
 g4-standard-24,24.0,90.0,,,,asia-southeast2,asia-southeast2-c,2.21262,0.90174
+g4-standard-24,24.0,90.0,,,,australia-southeast2,australia-southeast2-c,2.21278,0.84171
 g4-standard-24,24.0,90.0,,,,europe-north1,europe-north1-a,1.87235,0.77655
 g4-standard-24,24.0,90.0,,,,europe-north1,europe-north1-b,1.87235,0.77655
 g4-standard-24,24.0,90.0,,,,europe-north1,europe-north1-c,1.87235,0.77655
@@ -15278,6 +15281,7 @@ g4-standard-384,384.0,1440.0,,,,asia-southeast1,asia-southeast1-b,32.68109,13.55
 g4-standard-384,384.0,1440.0,,,,asia-southeast1,asia-southeast1-c,32.68109,13.55952
 g4-standard-384,384.0,1440.0,,,,asia-southeast2,asia-southeast2-b,35.40192,14.42784
 g4-standard-384,384.0,1440.0,,,,asia-southeast2,asia-southeast2-c,35.40192,14.42784
+g4-standard-384,384.0,1440.0,,,,australia-southeast2,australia-southeast2-c,35.40451,13.46736
 g4-standard-384,384.0,1440.0,,,,europe-north1,europe-north1-a,29.95766,12.4248
 g4-standard-384,384.0,1440.0,,,,europe-north1,europe-north1-b,29.95766,12.4248
 g4-standard-384,384.0,1440.0,,,,europe-north1,europe-north1-c,29.95766,12.4248
@@ -15321,6 +15325,7 @@ g4-standard-48,48.0,180.0,,,,asia-southeast1,asia-southeast1-b,4.08514,1.69494
 g4-standard-48,48.0,180.0,,,,asia-southeast1,asia-southeast1-c,4.08514,1.69494
 g4-standard-48,48.0,180.0,,,,asia-southeast2,asia-southeast2-b,4.42524,1.80348
 g4-standard-48,48.0,180.0,,,,asia-southeast2,asia-southeast2-c,4.42524,1.80348
+g4-standard-48,48.0,180.0,,,,australia-southeast2,australia-southeast2-c,4.42556,1.68342
 g4-standard-48,48.0,180.0,,,,europe-north1,europe-north1-a,3.74471,1.5531
 g4-standard-48,48.0,180.0,,,,europe-north1,europe-north1-b,3.74471,1.5531
 g4-standard-48,48.0,180.0,,,,europe-north1,europe-north1-c,3.74471,1.5531
@@ -15363,6 +15368,7 @@ g4-standard-6,6.0,22.0,,,,asia-southeast1,asia-southeast1-a,0.50712,0.21041
 g4-standard-6,6.0,22.0,,,,asia-southeast1,asia-southeast1-b,0.50712,0.21041
 g4-standard-6,6.0,22.0,,,,asia-southeast2,asia-southeast2-b,0.54934,0.22388
 g4-standard-6,6.0,22.0,,,,asia-southeast2,asia-southeast2-c,0.54934,0.22388
+g4-standard-6,6.0,22.0,,,,australia-southeast2,australia-southeast2-c,0.54938,0.20897
 g4-standard-6,6.0,22.0,,,,europe-north1,europe-north1-a,0.46486,0.1928
 g4-standard-6,6.0,22.0,,,,europe-north1,europe-north1-b,0.46486,0.1928
 g4-standard-6,6.0,22.0,,,,europe-north1,europe-north1-c,0.46486,0.1928
@@ -15406,6 +15412,7 @@ g4-standard-96,96.0,360.0,,,,asia-southeast1,asia-southeast1-b,8.17027,3.38988
 g4-standard-96,96.0,360.0,,,,asia-southeast1,asia-southeast1-c,8.17027,3.38988
 g4-standard-96,96.0,360.0,,,,asia-southeast2,asia-southeast2-b,8.85048,3.60696
 g4-standard-96,96.0,360.0,,,,asia-southeast2,asia-southeast2-c,8.85048,3.60696
+g4-standard-96,96.0,360.0,,,,australia-southeast2,australia-southeast2-c,8.85113,3.36684
 g4-standard-96,96.0,360.0,,,,europe-north1,europe-north1-a,7.48942,3.1062
 g4-standard-96,96.0,360.0,,,,europe-north1,europe-north1-b,7.48942,3.1062
 g4-standard-96,96.0,360.0,,,,europe-north1,europe-north1-c,7.48942,3.1062
@@ -33334,6 +33341,7 @@ z3-highmem-88-standardlssd,88.0,704.0,,,,us-west1,us-west1-b,9.0548,4.89403
 ,,,RTXPRO6000,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast1,asia-southeast1-c,1.31478,0.6002
 ,,,RTXPRO6000,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-b,1.42435,0.7095
 ,,,RTXPRO6000,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-c,1.42435,0.7095
+,,,RTXPRO6000,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},australia-southeast2,australia-southeast2-c,1.42434,0.5413
 ,,,RTXPRO6000,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-a,1.20521,0.5012
 ,,,RTXPRO6000,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-b,1.20521,0.5012
 ,,,RTXPRO6000,1,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-c,1.20521,0.5012
@@ -33378,6 +33386,7 @@ z3-highmem-88-standardlssd,88.0,704.0,,,,us-west1,us-west1-b,9.0548,4.89403
 ,,,RTXPRO6000,2,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast1,asia-southeast1-c,2.62956,1.2004
 ,,,RTXPRO6000,2,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-b,2.8487,1.419
 ,,,RTXPRO6000,2,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-c,2.8487,1.419
+,,,RTXPRO6000,2,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},australia-southeast2,australia-southeast2-c,2.84869,1.0826
 ,,,RTXPRO6000,2,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-a,2.41043,1.0024
 ,,,RTXPRO6000,2,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-b,2.41043,1.0024
 ,,,RTXPRO6000,2,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-c,2.41043,1.0024
@@ -33422,6 +33431,7 @@ z3-highmem-88-standardlssd,88.0,704.0,,,,us-west1,us-west1-b,9.0548,4.89403
 ,,,RTXPRO6000,4,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast1,asia-southeast1-c,5.25912,2.4008
 ,,,RTXPRO6000,4,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-b,5.6974,2.838
 ,,,RTXPRO6000,4,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-c,5.6974,2.838
+,,,RTXPRO6000,4,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},australia-southeast2,australia-southeast2-c,5.69738,2.1652
 ,,,RTXPRO6000,4,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-a,4.82086,2.0048
 ,,,RTXPRO6000,4,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-b,4.82086,2.0048
 ,,,RTXPRO6000,4,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-c,4.82086,2.0048
@@ -33466,6 +33476,7 @@ z3-highmem-88-standardlssd,88.0,704.0,,,,us-west1,us-west1-b,9.0548,4.89403
 ,,,RTXPRO6000,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast1,asia-southeast1-c,10.51824,4.8016
 ,,,RTXPRO6000,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-b,11.3948,5.676
 ,,,RTXPRO6000,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},asia-southeast2,asia-southeast2-c,11.3948,5.676
+,,,RTXPRO6000,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},australia-southeast2,australia-southeast2-c,11.39476,4.3304
 ,,,RTXPRO6000,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-a,9.64172,4.0096
 ,,,RTXPRO6000,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-b,9.64172,4.0096
 ,,,RTXPRO6000,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 98304}}]},europe-north1,europe-north1-c,9.64172,4.0096
