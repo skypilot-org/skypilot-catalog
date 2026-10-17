@@ -8,12 +8,12 @@ A40,"['RunPod', 'Shadeform']"
 A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
-B200,"['AWS', 'GCP', 'Lambda', 'PrimeIntellect', 'RunPod', 'nebius']"
+B200,"['AWS', 'GCP', 'Lambda', 'PrimeIntellect', 'RunPod', 'Verda', 'nebius']"
 B200-CC,['Verda']
-B300,"['AWS', 'RunPod', 'nebius']"
+B300,"['AWS', 'RunPod', 'Verda', 'nebius']"
 B300-CC,['Verda']
 GH200,['Lambda']
-H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Vast', 'Verda', 'nebius']"
+H100,"['AWS', 'Azure', 'DO', 'GCP', 'Hyperbolic', 'Lambda', 'Mithril', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Vast', 'nebius']"
 H100-MEGA,['GCP']
 H100-NVL,['RunPod']
 H100-NVLINK,['Fluidstack']
@@ -38,7 +38,7 @@ PRO-6000-MIG-48GB,['RunPod']
 RTX PRO 4500,['AWS']
 RTX PRO 6000 96GB,['Seeweb']
 RTX-6000-Ada,['Verda']
-RTX-A6000,['Verda']
+RTX-PRO-6000,['Verda']
 RTX-PRO-6000-CC,['Verda']
 RTX2000-Ada,['RunPod']
 RTX3060,['Vast']
@@ -60,7 +60,7 @@ RTXA6000,"['RunPod', 'Seeweb', 'Vast']"
 RTXPRO4000,['RunPod']
 RTXPRO4500,['RunPod']
 RTXPRO4500-SE,['RunPod']
-RTXPRO6000,"['AWS', 'GCP', 'RunPod', 'Yotta']"
+RTXPRO6000,"['AWS', 'GCP', 'RunPod', 'Shadeform', 'Yotta']"
 RTXPRO6000-WK,['RunPod']
 RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
