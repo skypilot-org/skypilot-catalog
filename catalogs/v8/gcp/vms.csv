@@ -337,6 +337,7 @@ a4-highgpu-8g,224.0,3968.0,,,,us-central1,us-central1-b,0.0,0.0
 a4-highgpu-8g,224.0,3968.0,,,,us-east1,us-east1-b,0.0,0.0
 a4-highgpu-8g,224.0,3968.0,,,,us-east1,us-east1-d,0.0,0.0
 a4-highgpu-8g,224.0,3968.0,,,,us-east4,us-east4-b,0.0,0.0
+a4-highgpu-8g,224.0,3968.0,,,,us-east4,us-east4-c,0.0,0.0
 a4-highgpu-8g,224.0,3968.0,,,,us-south1,us-south1-b,0.0,0.0
 a4-highgpu-8g,224.0,3968.0,,,,us-west2,us-west2-c,0.0,0.0
 a4-highgpu-8g,224.0,3968.0,,,,us-west3,us-west3-b,0.0,0.0
@@ -32947,6 +32948,7 @@ z3-highmem-88-standardlssd,88.0,704.0,,,,us-west1,us-west1-b,9.0548,4.89403
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-east1,us-east1-b,90.216,39.6336
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-east1,us-east1-d,90.216,39.6336
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-east4,us-east4-b,90.216,32.6064
+,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-east4,us-east4-c,90.216,32.6064
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-south1,us-south1-b,90.216,39.6336
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-west2,us-west2-c,90.216,32.208
 ,,,B200,8,{'Gpus': [{'MemoryInfo': {'SizeInMiB': 184320}}]},us-west3,us-west3-b,90.216,41.3232
