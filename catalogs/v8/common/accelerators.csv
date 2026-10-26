@@ -8,8 +8,8 @@ A40,"['RunPod', 'Shadeform']"
 A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
-B200,"['AWS', 'GCP', 'Lambda', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Verda', 'nebius']"
-B300,"['AWS', 'Shadeform', 'Verda', 'nebius']"
+B200,"['AWS', 'GCP', 'Lambda', 'PrimeIntellect', 'RunPod', 'Verda', 'nebius']"
+B300,"['AWS', 'Shadeform', 'nebius']"
 B300-CC,['Verda']
 GAUDI2,['Shadeform']
 GH200,['Lambda']
@@ -61,7 +61,7 @@ RTXA6000,"['RunPod', 'Seeweb', 'Vast']"
 RTXPRO4500,['RunPod']
 RTXPRO4500-SE,['RunPod']
 RTXPRO5000,['RunPod']
-RTXPRO6000,"['AWS', 'GCP', 'RunPod', 'Shadeform', 'Yotta']"
+RTXPRO6000,"['AWS', 'GCP', 'RunPod', 'Yotta']"
 RTXPRO6000-WK,['RunPod']
 RTXPRO6000WS,['Vast']
 Radeon MI25,['Azure']
