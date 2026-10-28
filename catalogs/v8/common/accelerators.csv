@@ -24,7 +24,7 @@ Inferentia2,['AWS']
 K80,['Azure']
 L4,"['AWS', 'GCP', 'RunPod']"
 L40,"['PrimeIntellect', 'RunPod', 'Shadeform']"
-L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'nebius']"
+L40S,"['AWS', 'Cudo', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,['RunPod']
@@ -36,7 +36,7 @@ PRO-6000-MIG-24GB,['RunPod']
 PRO-6000-MIG-48GB,['RunPod']
 RTX PRO 4500,['AWS']
 RTX PRO 6000 96GB,['Seeweb']
-RTX-A6000,['Verda']
+RTX-6000-Ada,['Verda']
 RTX-PRO-6000,['Verda']
 RTX-PRO-6000-CC,['Verda']
 RTX2000-Ada,['RunPod']
