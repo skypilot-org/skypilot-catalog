@@ -32309,7 +32309,6 @@ z3-highmem-176,176.0,1408.0,,,,us-south1,us-south1-b,21.36934,3.50768
 z3-highmem-176,176.0,1408.0,,,,us-south1,us-south1-c,21.36934,3.50768
 z3-highmem-176,176.0,1408.0,,,,us-west1,us-west1-a,18.10961,10.22912
 z3-highmem-176,176.0,1408.0,,,,us-west1,us-west1-b,18.10961,10.22912
-z3-highmem-176,176.0,1408.0,,,,us-west1,us-west1-c,18.10961,10.22912
 z3-highmem-176-standardlssd,176.0,1408.0,,,,asia-northeast1,asia-northeast1-a,23.25636,5.7985
 z3-highmem-176-standardlssd,176.0,1408.0,,,,asia-northeast1,asia-northeast1-b,23.25636,5.7985
 z3-highmem-176-standardlssd,176.0,1408.0,,,,asia-northeast1,asia-northeast1-c,23.25636,5.7985
@@ -32360,7 +32359,6 @@ z3-highmem-176-standardlssd,176.0,1408.0,,,,us-south1,us-south1-b,21.36934,3.507
 z3-highmem-176-standardlssd,176.0,1408.0,,,,us-south1,us-south1-c,21.36934,3.50768
 z3-highmem-176-standardlssd,176.0,1408.0,,,,us-west1,us-west1-a,18.10961,10.22912
 z3-highmem-176-standardlssd,176.0,1408.0,,,,us-west1,us-west1-b,18.10961,10.22912
-z3-highmem-176-standardlssd,176.0,1408.0,,,,us-west1,us-west1-c,18.10961,10.22912
 z3-highmem-192-highlssd-metal,192.0,1536.0,,,,asia-east1,asia-east1-a,22.8754,2.12698
 z3-highmem-192-highlssd-metal,192.0,1536.0,,,,asia-east1,asia-east1-b,22.8754,2.12698
 z3-highmem-192-highlssd-metal,192.0,1536.0,,,,asia-east1,asia-east1-c,22.8754,2.12698
@@ -32761,7 +32759,6 @@ z3-highmem-88,88.0,704.0,,,,us-south1,us-south1-b,10.68467,1.75384
 z3-highmem-88,88.0,704.0,,,,us-south1,us-south1-c,10.68467,1.75384
 z3-highmem-88,88.0,704.0,,,,us-west1,us-west1-a,9.0548,5.11456
 z3-highmem-88,88.0,704.0,,,,us-west1,us-west1-b,9.0548,5.11456
-z3-highmem-88,88.0,704.0,,,,us-west1,us-west1-c,9.0548,5.11456
 z3-highmem-88-highlssd,88.0,704.0,,,,asia-northeast1,asia-northeast1-a,11.62818,2.89925
 z3-highmem-88-highlssd,88.0,704.0,,,,asia-northeast1,asia-northeast1-b,11.62818,2.89925
 z3-highmem-88-highlssd,88.0,704.0,,,,asia-northeast1,asia-northeast1-c,11.62818,2.89925
@@ -32812,7 +32809,6 @@ z3-highmem-88-highlssd,88.0,704.0,,,,us-south1,us-south1-b,10.68467,1.75384
 z3-highmem-88-highlssd,88.0,704.0,,,,us-south1,us-south1-c,10.68467,1.75384
 z3-highmem-88-highlssd,88.0,704.0,,,,us-west1,us-west1-a,9.0548,5.11456
 z3-highmem-88-highlssd,88.0,704.0,,,,us-west1,us-west1-b,9.0548,5.11456
-z3-highmem-88-highlssd,88.0,704.0,,,,us-west1,us-west1-c,9.0548,5.11456
 z3-highmem-88-standardlssd,88.0,704.0,,,,asia-northeast1,asia-northeast1-a,11.62818,2.89925
 z3-highmem-88-standardlssd,88.0,704.0,,,,asia-northeast1,asia-northeast1-b,11.62818,2.89925
 z3-highmem-88-standardlssd,88.0,704.0,,,,asia-northeast1,asia-northeast1-c,11.62818,2.89925
