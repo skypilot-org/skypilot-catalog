@@ -1,0 +1,62 @@
+name: "update-modal-catalog"
+on:
+  schedule:
+    - cron: '35 5 * * *'    # Daily. Modal prices change rarely.
+    # _PULL_FREQUENCY_HOURS in `modal_catalog.py` need to be updated
+    # accordingly, if this is changed.
+  workflow_dispatch:
+
+jobs:
+  update_modal_catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone SkyPilot repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          repository: skypilot-org/skypilot
+          path: sky
+      - name: Clone Catalog repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          path: catalogs
+          token: ${{ secrets.GH_ACTION_PAT }}
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          uv venv --seed ~/catalogs-venv
+          source ~/catalogs-venv/bin/activate
+          cd sky
+          uv pip install .
+          cd -
+      - name: Run fetch_modal
+        run: |
+          source ~/catalogs-venv/bin/activate
+          # The fetcher lands with Modal support in skypilot-org/skypilot#11251.
+          if [ ! -f sky/sky/catalog/data_fetchers/fetch_modal.py ]; then
+            echo "fetch_modal is not in SkyPilot master yet; skipping."
+            exit 0
+          fi
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
+          mkdir -p catalogs/catalogs/$version
+          cd catalogs/catalogs/$version
+          python -m sky.catalog.data_fetchers.fetch_modal
+          cd -
+
+      - name: Commit catalog
+        run: |
+          source ~/catalogs-venv/bin/activate
+          version=$(python -c 'import sky; print(sky.skylet.constants.CATALOG_SCHEMA_VERSION)')
+          cd catalogs
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m"[Bot] Update Modal catalog $version (scheduled at $(date))" || { echo "No changes to commit" && exit 0; }
+          git fetch origin
+          git rebase origin/master
+          git push
