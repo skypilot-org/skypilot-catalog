@@ -27,6 +27,7 @@ jobs:
         with:
           fetch-depth: 0
           path: catalogs
+          ref: master
           token: ${{ secrets.GH_ACTION_PAT }}
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v4
@@ -59,10 +60,28 @@ jobs:
             cd catalogs/catalogs/$version
             python -m sky.catalog.data_fetchers.fetch_oci
             cd -
+            # The shape data comes from the unversioned Cost Estimator JSON:
+            # if a field or part number changes, fetch_oci skips the affected
+            # shapes and still writes a smaller catalog. Refuse to commit one
+            # that drops an instance type the current catalog has, so that a
+            # person looks first instead of the type silently disappearing.
+            vms_path=catalogs/$version/oci/vms.csv
+            if git -C catalogs cat-file -e "HEAD:$vms_path" 2>/dev/null; then
+              missing=$(comm -23 \
+                <(git -C catalogs show "HEAD:$vms_path" | tail -n +2 | cut -d, -f1 | sort -u) \
+                <(tail -n +2 "catalogs/$vms_path" | cut -d, -f1 | sort -u))
+              if [ -n "$missing" ]; then
+                echo "Error: instance types in the current $version OCI catalog are missing from the fetched one:"
+                echo "$missing"
+                echo "Not committing. Check fetch_oci's warnings above; if Oracle retired these shapes, remove them from the catalog by hand."
+                exit 1
+              fi
+            fi
           done
 
       - name: Commit catalog
         run: |
+          set -e
           versions=$(cat catalogs/.metadata.yml | yq -r '.version_commit | keys[]' | awk '$0 != "v7"' | tr '\n' ', ')
           cd catalogs
           git config --global user.name 'github-actions[bot]'
