@@ -1,6 +1,6 @@
 AcceleratorName,Clouds
 A10,"['Azure', 'Lambda', 'Modal', 'OCI', 'Shadeform']"
-A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'Modal', 'OCI', 'PrimeIntellect', 'Shadeform', 'Vast', 'Verda']"
+A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'Modal', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'Verda']"
 A100-40GB,['Modal']
 A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'Modal', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Verda', 'scp']"
 A100-80GB-SXM,['RunPod']
@@ -9,7 +9,7 @@ A40,"['RunPod', 'Shadeform']"
 A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
-B200,"['AWS', 'GCP', 'Lambda', 'Modal', 'OCI', 'PrimeIntellect', 'RunPod', 'nebius']"
+B200,"['AWS', 'GCP', 'Lambda', 'Modal', 'OCI', 'PrimeIntellect', 'RunPod', 'Verda', 'nebius']"
 B200-CC,['Verda']
 B300,"['AWS', 'Modal', 'OCI', 'nebius']"
 GAUDI2,['Shadeform']
@@ -26,9 +26,9 @@ H200-SXM,['RunPod']
 Inferentia,['AWS']
 Inferentia2,['AWS']
 K80,['Azure']
-L4,"['AWS', 'GCP', 'Modal', 'RunPod', 'Shadeform']"
+L4,"['AWS', 'GCP', 'Modal', 'RunPod', 'Seeweb', 'Shadeform']"
 L40,"['PrimeIntellect', 'RunPod', 'Shadeform']"
-L40S,"['AWS', 'Cudo', 'Modal', 'OCI', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Vast', 'Verda', 'nebius']"
+L40S,"['AWS', 'Cudo', 'Modal', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
 MI300X,"['OCI', 'RunPod']"
@@ -38,6 +38,8 @@ P4,['GCP']
 P4000,['Paperspace']
 PRO-6000-MIG-24GB,['RunPod']
 RTX PRO 4500,['AWS']
+RTX-6000-Ada,['Verda']
+RTX-A6000,['Verda']
 RTX-PRO-6000,"['Modal', 'Verda']"
 RTX-PRO-6000-CC,['Verda']
 RTX2000-Ada,['RunPod']
@@ -56,7 +58,7 @@ RTX6000Ada,"['PrimeIntellect', 'Shadeform']"
 RTXA4000,['RunPod']
 RTXA4500,['RunPod']
 RTXA5000,"['RunPod', 'Vast']"
-RTXA6000,"['RunPod', 'Seeweb', 'Vast']"
+RTXA6000,"['RunPod', 'Vast']"
 RTXPRO4500,['RunPod']
 RTXPRO6000,"['AWS', 'GCP', 'OCI', 'RunPod', 'Shadeform', 'Yotta']"
 RTXPRO6000-WK,['RunPod']
