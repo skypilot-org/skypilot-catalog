@@ -1,6 +1,6 @@
 AcceleratorName,Clouds
 A10,"['Azure', 'Lambda', 'Modal', 'OCI', 'Shadeform']"
-A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'Modal', 'OCI', 'PrimeIntellect', 'Shadeform', 'Vast']"
+A100,"['AWS', 'Azure', 'Cudo', 'GCP', 'Lambda', 'Modal', 'OCI', 'PrimeIntellect', 'Seeweb', 'Shadeform', 'Vast', 'Verda']"
 A100-40GB,['Modal']
 A100-80GB,"['AWS', 'Azure', 'GCP', 'Lambda', 'Modal', 'OCI', 'Paperspace', 'PrimeIntellect', 'RunPod', 'Shadeform', 'Verda', 'scp']"
 A100-80GB-SXM,['RunPod']
@@ -10,7 +10,7 @@ A4000,"['Paperspace', 'PrimeIntellect', 'Shadeform']"
 A5000,['Shadeform']
 A6000,"['Lambda', 'PrimeIntellect', 'Shadeform']"
 B200,"['AWS', 'GCP', 'Lambda', 'Modal', 'OCI', 'PrimeIntellect', 'RunPod', 'nebius']"
-B300,"['AWS', 'Modal', 'OCI', 'nebius']"
+B300,"['AWS', 'Modal', 'OCI', 'Shadeform', 'Verda', 'nebius']"
 GAUDI2,['Shadeform']
 GB200,['OCI']
 GB300,['OCI']
@@ -26,7 +26,7 @@ Inferentia,['AWS']
 Inferentia2,['AWS']
 K80,['Azure']
 L4,"['AWS', 'GCP', 'Modal', 'RunPod', 'Seeweb', 'Shadeform']"
-L40,"['PrimeIntellect', 'RunPod']"
+L40,"['PrimeIntellect', 'RunPod', 'Shadeform']"
 L40S,"['AWS', 'Cudo', 'Modal', 'OCI', 'PrimeIntellect', 'RunPod', 'Seeweb', 'Shadeform', 'Vast', 'Verda', 'nebius']"
 M4000,['Paperspace']
 M60,['Azure']
@@ -37,8 +37,9 @@ P4,['GCP']
 P4000,['Paperspace']
 PRO-6000-MIG-24GB,['RunPod']
 RTX PRO 4500,['AWS']
-RTX-A6000,['Verda']
+RTX-6000-Ada,['Verda']
 RTX-PRO-6000,"['Modal', 'Verda']"
+RTX-PRO-6000-CC,['Verda']
 RTX2000-Ada,['RunPod']
 RTX3060,['Vast']
 RTX3090,"['RunPod', 'Vast']"
@@ -47,7 +48,7 @@ RTX4060,['Vast']
 RTX4070,['Vast']
 RTX4090,"['RunPod', 'Shadeform', 'Vast']"
 RTX5070,['Vast']
-RTX5090,"['RunPod', 'Vast', 'Yotta']"
+RTX5090,"['RunPod', 'Shadeform', 'Vast', 'Yotta']"
 RTX5880-Ada,['Vast']
 RTX6000,"['Lambda', 'Shadeform', 'nebius']"
 RTX6000-Ada,"['RunPod', 'Vast']"
