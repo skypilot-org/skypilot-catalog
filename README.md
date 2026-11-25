@@ -74,7 +74,7 @@ To supply your own custom pricing or custom regions/zones, you can update vms.cs
 | `OS` | string | The OS of the image, e.g. ubuntu. |
 | `OSVersion` | string | The OS version of the image, e.g. 2004. |
 | `ImageId` | string | The ID of the image that is used to launch the instance in the cloud. |
-| `CreationDate` | string | The creation date of the image (mainly for tracking purpose). |
+| `CreationDate` | string | The creation date of the image (mainly for tracking purposes). |
 
 
 #### Update Images
